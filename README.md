@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# شاء فولدنا بكلمة الحق (Born by the Word)
 
-## Getting Started
+هذا هو المستودع الرقمي الدائم لموقع **"شاء فولدنا بكلمة الحق"**، وهو موقع لاهوتي يقدم دراسات، تأملات، وترجمات مسيحية. 
 
-First, run the development server:
+تم تصميم هذا الموقع ليكون مستقلاً تماماً ومبنياً على تقنيات الويب الحديثة (Next.js) مع نظام إدارة محتوى يعتمد على ملفات النصوص المفتوحة (Markdown)، مما يضمن بقاء المقالات والكتب الرقمية وحفظها للأجيال القادمة بعيداً عن سياسات منصات التدوين المؤقتة.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 كيفية النشر في الموقع
+
+لإضافة مقال جديد أو ترجمة جديدة، اتبع الخطوات البسيطة التالية:
+
+1. اذهب إلى مجلد المقالات: `content/posts/`
+2. اضغط على **Add file** ثم **Create new file**.
+3. قم بتسمية الملف باللغة الإنجليزية بحيث يعبر عن المقال وينتهي بـ `.md` (مثال: `the-glory-of-christ.md`).
+4. انسخ كود المقال الذي تم تجهيزه بصيغة Markdown والصقه في الملف.
+5. تأكد من أن الملف يبدأ بالبيانات الوصفية (Frontmatter) بهذا الشكل:
+
+```markdown
+---
+title: "عنوان المقال هنا"
+date: "YYYY-MM-DD"
+slug: "the-glory-of-christ"
+labels: ["تصنيف1", "تصنيف2"]
+---
+
+هنا يبدأ نص المقال...
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+6. اضغط على الزر الأخضر **Commit changes**.
+7. سيقوم GitHub تلقائياً ببناء الموقع ونشر المقال الجديد خلال ثوانٍ!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📚 الأقسام الرئيسية
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `content/posts/`: يحتوي على جميع المقالات والتأملات بصيغة Markdown.
+- `content/pages/`: يحتوي على الكتب الكاملة والترجمات الكبيرة بصيغة Markdown.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*تم إنشاء هذا المستودع وتطويره بهدف الحفاظ على الإرث اللاهوتي الرقمي.*

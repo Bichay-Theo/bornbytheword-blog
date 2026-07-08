@@ -15,6 +15,8 @@ export const metadata: Metadata = {
   description: "منصة لاهوتية تعتني بنشر كلمة الحق من خلال دراسات كتابية، وتأملات روحية، وترجمات لكتب لاهوتية",
 };
 
+import HashScroll from "@/components/HashScroll";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -23,6 +25,7 @@ export default function RootLayout({
   return (
     <html lang="ar" dir="rtl" className={cairo.variable}>
       <body>
+        <HashScroll />
         <Navbar />
         <div className="layout-container">
           <aside className="layout-sidebar">

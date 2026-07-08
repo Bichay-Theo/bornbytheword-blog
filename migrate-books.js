@@ -1,6 +1,5 @@
 const fs = require('fs');
 const path = require('path');
-const { JSDOM } = require('jsdom');
 const TurndownService = require('turndown');
 
 const turndownService = new TurndownService({
@@ -16,25 +15,23 @@ async function migrateBook(htmlPath, slug, title) {
   console.log('Migrating', fullPath);
   const html = fs.readFileSync(fullPath, 'utf8');
   
-  const dom = new JSDOM(html);
-  const document = dom.window.document;
-  
-  let contentNode = document.getElementById('content') || document.querySelector('.content') || document.querySelector('main') || document.body;
-  
-  // Remove sidebar and toggle button if inside body
-  const sidebar = document.getElementById('sidebar');
-  if (sidebar && contentNode.contains(sidebar)) {
-    sidebar.remove();
-  }
-  const toggleBtn = document.getElementById('menu-toggle');
-  if (toggleBtn && contentNode.contains(toggleBtn)) {
-    toggleBtn.remove();
+  const match = html.match(/const sections = (\{[\s\S]*?\});/);
+  if (!match) {
+    console.error('No sections found in', htmlPath);
+    return;
   }
   
-  const scripts = contentNode.querySelectorAll('script');
-  scripts.forEach(s => s.remove());
+  const sectionsStr = match[1];
+  const getSections = new Function('return ' + sectionsStr + ';');
+  const sections = getSections();
   
-  const markdown = turndownService.turndown(contentNode.innerHTML);
+  // Concatenate all sections HTML
+  let allHtml = '';
+  for (const key of Object.keys(sections)) {
+    allHtml += `\n<div id="${key}">\n${sections[key]}\n</div>\n`;
+  }
+  
+  const markdown = turndownService.turndown(allHtml);
   
   const frontmatter = `---
 title: "${title}"

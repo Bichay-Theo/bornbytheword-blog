@@ -5,7 +5,6 @@ date: "2026-07-08T22:09:51.801Z"
 ---
 
 <div id="title-page"><div class="title-page"><h1 class="book-title">رؤية يسوع المسيح والتمتع به</h1>
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="#">عودة إلى الفهرس ⬆️</a></p>
 <div class="chapter-divider"><span>✥</span></div><div class="author-name">بقلم</div><div class="author-name" style="font-weight: bold;">القس جون بايبر<br><span style="font-size: 0.8em; font-weight: normal;">Pastor John Piper</span></div>
 <p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="#">عودة إلى الفهرس ⬆️</a></p>
 <div class="chapter-divider"><span>✥</span></div></div></div>

@@ -25,3 +25,5 @@ labels: ["دراسات"]
 ختاماً، يجب أن نستيقن أن الكتاب المقدس ليس "خزنة" تحتوي على الحياة في ورقها، بل هو "مؤشر" حي يشير إلى من هو الحياة ذاتها. إن البحث في "درج الكتاب" دون السجود لمن قيل عنه إنه جاء ليفعل مشيئة الله هو سقوط في فخ العلم الجاف الذي يقتل الروح. إن الحق يقتضي منا أن نقرأ الوثيقة لندخل في علاقة حية مع صاحب العهد، مؤمنين أن سلطة النص مستمدة كلياً من شهادته للمسيح، الذي بدمه الكريم ختم العهد الأبدي وأخرجنا من ظلمة الحرف إلى نور الحياة.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi2gt_RmFWUWZB1nGkAnfZ3S25fzpuHYwREzQjLFGXTgBEAydeOmo3Xd6A0uQja1M71bVvgYIbiCOe9sgJRM9nVPqKq72Eg0NukuBLUloDjLLJGH_Xtd1OzJwXNEpAkfjj8nDNRRDL8vfHdvsGUHLgPvQmwTJYvC-8-Lw2Wd7analb3U-lJXyKf0ZW9js/s320/unnamed%20\(49\).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi2gt_RmFWUWZB1nGkAnfZ3S25fzpuHYwREzQjLFGXTgBEAydeOmo3Xd6A0uQja1M71bVvgYIbiCOe9sgJRM9nVPqKq72Eg0NukuBLUloDjLLJGH_Xtd1OzJwXNEpAkfjj8nDNRRDL8vfHdvsGUHLgPvQmwTJYvC-8-Lw2Wd7analb3U-lJXyKf0ZW9js/s1024/unnamed%20\(49\).jpg)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

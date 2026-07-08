@@ -27,3 +27,5 @@ labels: ["دراسات"]
 فبموت المسيح، انشق حجاب الفصل وصار لنا حق الدخول إلى حضرة الله ذاته. إن أمانة الله لوعوده هي ضماننا الراسخ، والعيش في هذه النعمة يولد فينا ثمر المحبة والأعمال الحسنة، لا كفرض قانوني ثقيل، بل كفيض طبيعي لحياة الروح التي كتبت مشيئة الله في أقدس أعماق كياننا، محولة إيانا من مجرد ممارسين للطقوس إلى أبناء للميثاق الأبدي.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_Q-TTVvFYYVsJnmAs_HTeX8rhq2YQm8KofX6aryVEaElccgM18SH2RtW0x4QiYWGCarW_r2zNiMhFSTKkaBUrlboYJD0ySbGFhPCL1hkiGUMnqmbM1qtZjzRBdSJ9VC4zwCwXoNKTFnpgd3oYirxfXF2fL7QOl_b9Fx6Z4s8bFMoncln4gvr0p7lOK00/s320/unnamed%20\(48\).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_Q-TTVvFYYVsJnmAs_HTeX8rhq2YQm8KofX6aryVEaElccgM18SH2RtW0x4QiYWGCarW_r2zNiMhFSTKkaBUrlboYJD0ySbGFhPCL1hkiGUMnqmbM1qtZjzRBdSJ9VC4zwCwXoNKTFnpgd3oYirxfXF2fL7QOl_b9Fx6Z4s8bFMoncln4gvr0p7lOK00/s1024/unnamed%20\(48\).jpg)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

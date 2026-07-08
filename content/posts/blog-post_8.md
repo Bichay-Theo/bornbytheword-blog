@@ -115,3 +115,5 @@ labels: ["ترجمات"]
 \[١٠\] جوناثان إدواردز، "الله متمجد في اعتماد الإنسان"، في: أعمال جوناثان إدواردز، المجلد ١٧، تحرير مارك فالفيك (نيو هيفن، كونيتيكت: مطبعة جامعة ييل، ١٩٩٩)، ٢٠٠.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz1ReSAhckL-9lbPQ46zJaweF6WXtJ-Heixq_dihEJedhhpIYuiAHKt5eN5up8LOxIPCToT4qb1ZjesmvSXSSnN3RbOMfR4ky_hqcteI3-_j1-l46ls5VROFn1nB8zyThpLvOIHPRghKkV_AOr1PUechK40TyEokVKl_Nwu6ZsBjb34I504OnvKEKNJHQ/s600/10.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz1ReSAhckL-9lbPQ46zJaweF6WXtJ-Heixq_dihEJedhhpIYuiAHKt5eN5up8LOxIPCToT4qb1ZjesmvSXSSnN3RbOMfR4ky_hqcteI3-_j1-l46ls5VROFn1nB8zyThpLvOIHPRghKkV_AOr1PUechK40TyEokVKl_Nwu6ZsBjb34I504OnvKEKNJHQ/s2752/10.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

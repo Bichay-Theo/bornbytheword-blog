@@ -29,3 +29,5 @@ labels: ["دراسات"]
 \[٤\] يجب الحذر من تحويل اللاهوت إلى جفاف روحي. الكلمة "فعالة" ليس عندما تُحفظ كمعلومات، بل عندما يُسمح لها بتشريح النوايا والأفكار تحت سلطان المسيح.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX2pCNF1OgKN5qJBeH50rkzrq5RYqgJjc_YTJc9Lx1cGEoHGvZlXwO58QJMnmAdMTPzGUzINRawMEYURfyehDgipW5cRPIzRI6gsDCmyGmns2ZbVdbOzLMwRsOibDF54CRyIDa9c1PZz4GHHhEut8FAaComQtlc_MvnEXfWj468z-z_ABOcpTUcMJzKk0/s320/unnamed%20\(52\).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX2pCNF1OgKN5qJBeH50rkzrq5RYqgJjc_YTJc9Lx1cGEoHGvZlXwO58QJMnmAdMTPzGUzINRawMEYURfyehDgipW5cRPIzRI6gsDCmyGmns2ZbVdbOzLMwRsOibDF54CRyIDa9c1PZz4GHHhEut8FAaComQtlc_MvnEXfWj468z-z_ABOcpTUcMJzKk0/s1024/unnamed%20\(52\).jpg)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

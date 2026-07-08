@@ -103,3 +103,5 @@ labels: []
 \[٢\] رابط الفيديو المرجعي: https://youtu.be/Qw3CjmoB3oY
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNJ4YlE8RlI2QMmEEc_wl6lUHM3Hsfg8YNaB8zy0JP2ZBEcLMCSSi4clDW_6tQ7zNrOQKKd9mSSnnLYvkq_FWBjjJ9xi55qdXEQ82O6ocQW4Vp2OldLHitXX7PpvlS3ESPc8IvSVpcWrAJvqGT2d8oykz_6BlI4Jq-7deDagFVvO066bcJdOHLmIrymYg/s600/Gemini_Generated_Image_p7k14jp7k14jp7k1.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNJ4YlE8RlI2QMmEEc_wl6lUHM3Hsfg8YNaB8zy0JP2ZBEcLMCSSi4clDW_6tQ7zNrOQKKd9mSSnnLYvkq_FWBjjJ9xi55qdXEQ82O6ocQW4Vp2OldLHitXX7PpvlS3ESPc8IvSVpcWrAJvqGT2d8oykz_6BlI4Jq-7deDagFVvO066bcJdOHLmIrymYg/s2754/Gemini_Generated_Image_p7k14jp7k14jp7k1.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

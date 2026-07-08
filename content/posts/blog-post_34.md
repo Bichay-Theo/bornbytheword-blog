@@ -33,3 +33,5 @@ labels: ["ترجمات"]
 ويبقى التساؤل الجوهري الذي يفرض نفسه: ما هو إذًا هذا الخبر؟ ما هي الرسالة التي يجب أن يُنادى بها وتُفسّر؟ هذا ما سنتوجه إليه في الفصول القادمة، مع الأخذ في الاعتبار زاوية هذا البحث؛ فسؤالنا ليس مجرد: ما هو الإنجيل؟ بل ما هو الخير الأسمى في الإنجيل الذي يجعل كل جوانب الأخبار السارة صالحة؟ ما هو هدف الإنجيل الذي إذا فقدناه، سُلب كل صلاح منه؟ ماذا نعني عندما نقول "الله هو الإنجيل"؟
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSGhsSwtTfTXpF3u1PO5PYizFf5H34oDDj5QrUwRplW6KqwIcpSefnlJBWi7SyPKKtTSCGuHJsy_gMzJ6j6vXJgfJF6jk3zMVU4b67HvBpmoVbCDLPe5eT8XRIWcZvp6IFveGdrZCTF4y7WuYdi9Wd8_WBbO9qaNtWSLtJLwGJOFSPSHIf2EU7HZ45BzM/s600/01.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSGhsSwtTfTXpF3u1PO5PYizFf5H34oDDj5QrUwRplW6KqwIcpSefnlJBWi7SyPKKtTSCGuHJsy_gMzJ6j6vXJgfJF6jk3zMVU4b67HvBpmoVbCDLPe5eT8XRIWcZvp6IFveGdrZCTF4y7WuYdi9Wd8_WBbO9qaNtWSLtJLwGJOFSPSHIf2EU7HZ45BzM/s2752/01.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

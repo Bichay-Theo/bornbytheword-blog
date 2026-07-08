@@ -126,3 +126,5 @@ labels: ["ترجمات"]
 [\[٩\]](#ref9) انظر جون بايبر، "خمسة أسباب تجعلني أعتقد أن \[رومية ١١ : ٢٦\] تعني تجديدا مستقبليا لإسرائيل".
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6TCFCpo-qHKeQ18hM8h4XdKSiPfvrxgLhyouxCTIIA8KzTLhgfptYF6GQVch9tgCaLN9sxpi-lnx5miIv51Vps8P8IO7a_pcQJN2aDN7EQhxbTYGfrLAuYu6Rg-vqAnoDKFAmCGHgb6QZCac9lV6BtVSvue93rpIqcDHHi60BA-qbz3tCzpwwCIjeYoQ/s600/%D9%85%D8%AA%D9%89_%D9%8A%D8%B9%D9%88%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D8%B1_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6TCFCpo-qHKeQ18hM8h4XdKSiPfvrxgLhyouxCTIIA8KzTLhgfptYF6GQVch9tgCaLN9sxpi-lnx5miIv51Vps8P8IO7a_pcQJN2aDN7EQhxbTYGfrLAuYu6Rg-vqAnoDKFAmCGHgb6QZCac9lV6BtVSvue93rpIqcDHHi60BA-qbz3tCzpwwCIjeYoQ/s2752/%D9%85%D8%AA%D9%89_%D9%8A%D8%B9%D9%88%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D8%B1_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

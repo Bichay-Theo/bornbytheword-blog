@@ -115,3 +115,5 @@ labels: ["ترجمات"]
 \[١٤\] "الهاء" في "مثله" تعود لاهوتياً على الله الآب المستعلن في ابنه المسيح.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrCVKMbZ28wWZzmjwcmsUDcFIGCXfcSjG4ad7Ig1k6ulr9Q2WQSnF1uRFDDNhhzN9rNFJb4_CbymrCIfpMiDCx7LOopArZFhnqdvp4h8FuT_MkVCRMerKahiG6ucu8aCLvUO-N54flkcw9MV7MIjx8rgzYFOPybFARkSc3M2PsmOw48jw0wO-dCcdKNcY/s600/06.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrCVKMbZ28wWZzmjwcmsUDcFIGCXfcSjG4ad7Ig1k6ulr9Q2WQSnF1uRFDDNhhzN9rNFJb4_CbymrCIfpMiDCx7LOopArZFhnqdvp4h8FuT_MkVCRMerKahiG6ucu8aCLvUO-N54flkcw9MV7MIjx8rgzYFOPybFARkSc3M2PsmOw48jw0wO-dCcdKNcY/s2752/06.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

@@ -174,3 +174,5 @@ labels: ["ترجمات"]
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMlJ2H1s_lbVtQ1aqBcWARXds5ypsFMnDGwWsxH_2egrXmet8kcPnZX3ebG2UTFCsM-FxizvVD1QkTZRkBPaifozMzZLhF0lQCG_hwo51iaNEP9wcZuwQzAbCOi99Bw88nftm_DBuY0KVE_lPxqL-GhGSDWEkHTeUl_VJ3kockLPijs1dAvjCI9QLQElw/s600/03.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMlJ2H1s_lbVtQ1aqBcWARXds5ypsFMnDGwWsxH_2egrXmet8kcPnZX3ebG2UTFCsM-FxizvVD1QkTZRkBPaifozMzZLhF0lQCG_hwo51iaNEP9wcZuwQzAbCOi99Bw88nftm_DBuY0KVE_lPxqL-GhGSDWEkHTeUl_VJ3kockLPijs1dAvjCI9QLQElw/s2752/03.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

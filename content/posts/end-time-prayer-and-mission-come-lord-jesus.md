@@ -68,3 +68,5 @@ labels: ["ترجمات"]
 [\[٣\]](#ch22-ref-3) لاد، إنجيل الملكوت، مواقع ٢٠٣٤-٤٩، كيندل.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3JkOCd1bOUqGNIsClH5XfWTQIHLN1vn9z3CHZPFdP83_wLBNrwv9NlJQ9G8PxeZNQUY56CkGRtx0ThV4ntUH6jQYr5s-JptSJJYZImufHTjs5AXWyUfZKOoYP_lPPavfmSiH7Ygy-JzvSt5IdtkfVtgpFUX6muzwyCjwUIPomUWAkoGWqepsFWKgmzaI/s600/%D8%B5%D9%84%D8%A7%D8%A9_%D9%88%D9%82%D8%AA_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A5%D8%B1%D8%B3%D8%A7%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3JkOCd1bOUqGNIsClH5XfWTQIHLN1vn9z3CHZPFdP83_wLBNrwv9NlJQ9G8PxeZNQUY56CkGRtx0ThV4ntUH6jQYr5s-JptSJJYZImufHTjs5AXWyUfZKOoYP_lPPavfmSiH7Ygy-JzvSt5IdtkfVtgpFUX6muzwyCjwUIPomUWAkoGWqepsFWKgmzaI/s2752/%D8%B5%D9%84%D8%A7%D8%A9_%D9%88%D9%82%D8%AA_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A5%D8%B1%D8%B3%D8%A7%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

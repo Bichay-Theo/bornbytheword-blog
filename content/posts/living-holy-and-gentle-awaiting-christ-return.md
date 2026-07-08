@@ -58,3 +58,5 @@ labels: ["ترجمات"]
 [\[٢\]](#ch20-ref-2) للتعرف على معنى القرب، انظر الفصل ١٤.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKHdBR2jz9OU-G1y8E-l09z-3YH4-LFA25OJ_7hNvmVN4xNL3yl2P2t4v_a754zANFADcf0amW1XH2QG2QjLNWG0YZEXQ8j3IwjpOIlbGxJXemTHsi_YEm2LvRp1MeSv8jsVcmrKNlD2okuQHJRFJ3Ta7QRay3qFuB8YJ3IsOZbIJAWOnxb08Isk1Fock/s600/%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKHdBR2jz9OU-G1y8E-l09z-3YH4-LFA25OJ_7hNvmVN4xNL3yl2P2t4v_a754zANFADcf0amW1XH2QG2QjLNWG0YZEXQ8j3IwjpOIlbGxJXemTHsi_YEm2LvRp1MeSv8jsVcmrKNlD2okuQHJRFJ3Ta7QRay3qFuB8YJ3IsOZbIJAWOnxb08Isk1Fock/s2752/%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

@@ -57,3 +57,5 @@ labels: ["دراسات"]
 هكذا تبدأ رحلتنا في فهم الثالوث: ليس من أجل حلِّ لغز عقلي، بل من أجل مَعرفة شخصية لله الذي يحبنا منذ الأزل. الله ليس فكرة مجردة، بل أب وابن وروح يعيشون في شركة كاملة، ويدعوننا لنشارك في هذه الشركة.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRWTRgZqZPLngL1c5OJGEqw_bwIZYefO_43NTv6xTVmQjZafO9BMjYsM13fRqMBqv78lr_W_uxlGzm1TSxAn1AbqOGD1zI74q0PFcDaH5gGWTY4lLRLmPnFF21So_xveBg-A-qe3a2PXQWmzL_OyecS4zlOjog4SzoGbYaBeDezCoOumPz-JzpZvS91A4/s600/unnamed%20%2848%29.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRWTRgZqZPLngL1c5OJGEqw_bwIZYefO_43NTv6xTVmQjZafO9BMjYsM13fRqMBqv78lr_W_uxlGzm1TSxAn1AbqOGD1zI74q0PFcDaH5gGWTY4lLRLmPnFF21So_xveBg-A-qe3a2PXQWmzL_OyecS4zlOjog4SzoGbYaBeDezCoOumPz-JzpZvS91A4/s2752/unnamed%20%2848%29.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

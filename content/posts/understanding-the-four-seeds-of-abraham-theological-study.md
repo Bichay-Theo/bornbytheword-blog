@@ -145,3 +145,5 @@ labels: []
 مبني على الأطروحة المركزية لكتاب: Abraham's Four Seeds, John G. Reisinger.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN0Y7IJPLaKJh3-492egnlGNPYGmZHsizJp5YfOqt_rWAI58BLXK0Gi7-PuqFGdCB5wZJ_wVIluPEiUXBKUV-Yl2FWuOcc3877N4TYZu_zScq0hz8hQ_LCz9jW4RIOifTgJuMzCQaRyzBaoj-2JFqXy-Ginno0iHzfRo55CWDWoIIMDcVAyGNC_l4KvjY/s600/unnamed%20%2865%29.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN0Y7IJPLaKJh3-492egnlGNPYGmZHsizJp5YfOqt_rWAI58BLXK0Gi7-PuqFGdCB5wZJ_wVIluPEiUXBKUV-Yl2FWuOcc3877N4TYZu_zScq0hz8hQ_LCz9jW4RIOifTgJuMzCQaRyzBaoj-2JFqXy-Ginno0iHzfRo55CWDWoIIMDcVAyGNC_l4KvjY/s2752/unnamed%20%2865%29.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

@@ -24,3 +24,5 @@ labels: ["مفاهيم كتابية"]
 \[١\] مفهوم "الآن وليس بعد" (Already/Not Yet) هو مفهوم محوري في الإسخاتولوجي (علم الأخرويات) وسوف نأتي إلى تفصيله في مقال قادم ضمن هذه السلسلة.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPNqbrFVMv75N_IEA-RRv0CyRLFZYOnJwFVVfjG6vnFBcgB_7ea4-yYVuu8dTVVts241MFoYfrCECYYmgCjuJSfheoh-gZoKHY60wJOYnB_sww-V_rZWCXRFjZmdMjqiTJPWUwTQ4zbYd2RbArvntveF-EWsGi9mSJtHMRt41yVZNEVA81KopWqNxF5cc/s320/unnamed%20\(54\).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPNqbrFVMv75N_IEA-RRv0CyRLFZYOnJwFVVfjG6vnFBcgB_7ea4-yYVuu8dTVVts241MFoYfrCECYYmgCjuJSfheoh-gZoKHY60wJOYnB_sww-V_rZWCXRFjZmdMjqiTJPWUwTQ4zbYd2RbArvntveF-EWsGi9mSJtHMRt41yVZNEVA81KopWqNxF5cc/s1024/unnamed%20\(54\).jpg)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

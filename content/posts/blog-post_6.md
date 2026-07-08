@@ -127,3 +127,5 @@ labels: ["ترجمات"]
 \[١٧\] تعظيم عدل الله في الدينونة ورحمة الله للذين ينجون.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5yoHBID5IgYmqtZYavTYhD8XGEKUZzmvocWq0Q0Xnb5SRveZxYibLjcawizokC92kTq-yKyKjz06E2a2hQf3mnYTNvr-5Yvn5IcSE39KKcFAMh1Vy-OpmEX6cnqzZmaN7PCEaX2R7e_I2K93JPHvG61zDA3BlwVcEcwtYRFiVweoygFXqXtROrXfnMqM/s600/08.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5yoHBID5IgYmqtZYavTYhD8XGEKUZzmvocWq0Q0Xnb5SRveZxYibLjcawizokC92kTq-yKyKjz06E2a2hQf3mnYTNvr-5Yvn5IcSE39KKcFAMh1Vy-OpmEX6cnqzZmaN7PCEaX2R7e_I2K93JPHvG61zDA3BlwVcEcwtYRFiVweoygFXqXtROrXfnMqM/s2752/08.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

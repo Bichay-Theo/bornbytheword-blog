@@ -75,3 +75,5 @@ labels: ["دراسات"]
 \[٢\] الكنائس التي تتبع اللاهوت التدبيري: ينتشر في الكنائس المعمدانية المستقلة، وكنائس الإخوة، والعديد من الحركات الانجيلية الحديثة والخمسينية.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyl4GF5OZ870A6wCkfZvNzKYtFF-SCaP7Rl_R90Ohoyt4iaC44EvYj0cVKRvSttV1iDfEe-n2w_Wz4R1Z5XRWu7FY2Xl2tBiiymXu__aU1Bzu8h2TBtXsrpGGOEjlSzze1QI548ozKmI-F0ZEnSkc6TEYDEw1MG9FWppIHqxdTF3JOiXNw1wKJt6vh1qc/s600/unnamed%20%2860%29.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyl4GF5OZ870A6wCkfZvNzKYtFF-SCaP7Rl_R90Ohoyt4iaC44EvYj0cVKRvSttV1iDfEe-n2w_Wz4R1Z5XRWu7FY2Xl2tBiiymXu__aU1Bzu8h2TBtXsrpGGOEjlSzze1QI548ozKmI-F0ZEnSkc6TEYDEw1MG9FWppIHqxdTF3JOiXNw1wKJt6vh1qc/s2752/unnamed%20%2860%29.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

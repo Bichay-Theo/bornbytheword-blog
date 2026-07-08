@@ -61,3 +61,5 @@ labels: ["مغالطات تفسيرية"]
 إن خطورة هذه الطريقة تكمن في أنها تجعلنا نقرأ "لاهوتنا النظامي" الذي في عقولنا ونسقطه داخل النصوص بدلاً من استخراجه منها. اللغة اليونانية كانت لغة يستخدمها الناس في حياتهم العامة (Koine)، وليست لغة شيفرات سرية. الحفاظ على مبدأ "الكتاب المقدس وحده" يعني أن نخضع لسلطان السياق الذي وضعه الروح القدس، لا لسلطان القواميس التي نؤلفها نحن عبر تضخيم الفروقات اللغوية.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjhYm5eyYb2trFbqOf5s0gLVyUDZ4QRMg-H7vV6BkHY_SSR-w0BSd6FTvl4nGXJvx_KgPJnajQWQ1q0-UptjLQsj4id87hlRrLVp6_UzjK3CRyao4CSF3YOoO_cPE36nV2CwN5jk1vorWeRZCVv6uKBbzstyVsdKbnHquaaZCSOaxjrKAUAILRVSsdKZo/s320/601449082_122093407971181837_8805182961504802178_n.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjhYm5eyYb2trFbqOf5s0gLVyUDZ4QRMg-H7vV6BkHY_SSR-w0BSd6FTvl4nGXJvx_KgPJnajQWQ1q0-UptjLQsj4id87hlRrLVp6_UzjK3CRyao4CSF3YOoO_cPE36nV2CwN5jk1vorWeRZCVv6uKBbzstyVsdKbnHquaaZCSOaxjrKAUAILRVSsdKZo/s960/601449082_122093407971181837_8805182961504802178_n.jpg)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

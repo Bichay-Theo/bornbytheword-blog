@@ -23,3 +23,5 @@ labels: ["دراسات"]
 \[٤\] يكمن الفشل الروحي في "استخدام" الله؛ فالخاطئ يريد "خلاصاً" يريحه، والله يعطي "خلاصاً" يقدسه ويُمجده؛ والتصادم ينحل فقط عند التوبة عن القراءة النفعية.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG6G5Zmj-UbNWUz9-59Ey1_Lf2uBmCiNh2UqszvDXx9Iqnej3ClX0ugCpxuUvv692yi8Ph4F9aoEOeJjnilrrK9QyAZkCym5y6AvTEQ4uVcZWXaq21epD8nYpM2ckYpC-GsR81aLY6vscXE_oA_tHIYgUtommz5nkopVrv1S55VQ3fhsBWYF3FXeCIcwQ/s320/unnamed%20\(53\).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG6G5Zmj-UbNWUz9-59Ey1_Lf2uBmCiNh2UqszvDXx9Iqnej3ClX0ugCpxuUvv692yi8Ph4F9aoEOeJjnilrrK9QyAZkCym5y6AvTEQ4uVcZWXaq21epD8nYpM2ckYpC-GsR81aLY6vscXE_oA_tHIYgUtommz5nkopVrv1S55VQ3fhsBWYF3FXeCIcwQ/s1024/unnamed%20\(53\).jpg)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

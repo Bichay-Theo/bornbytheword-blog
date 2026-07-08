@@ -142,3 +142,5 @@ labels: ["ترجمات"]
 [\[٤\]](#ch12-ref-4). انظر الفصل الثامن، الهامش ١.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzDtpyptfaHSD1rWYBlDvPyKO_MTMJD9NbRMwOJYRvLAP-_9RCWsSUDjxZMw63PycVMR0kQ-W-pLmKHLtf-e6rITtYEySwdWiGkBTkBJRacvHO7Dj4qQt98mRwG5xO0-WFvzeveBaOWgGvhuK5UuP1-9DXzak4SUVHWll32dyr-bEzF0lj2Gx0Rjt_u0/s600/%D8%A7%D9%84%D9%81%D8%B1%D8%AD_%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A_%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9_%D9%85%D8%B9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzDtpyptfaHSD1rWYBlDvPyKO_MTMJD9NbRMwOJYRvLAP-_9RCWsSUDjxZMw63PycVMR0kQ-W-pLmKHLtf-e6rITtYEySwdWiGkBTkBJRacvHO7Dj4qQt98mRwG5xO0-WFvzeveBaOWgGvhuK5UuP1-9DXzak4SUVHWll32dyr-bEzF0lj2Gx0Rjt_u0/s2752/%D8%A7%D9%84%D9%81%D8%B1%D8%AD_%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A_%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9_%D9%85%D8%B9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

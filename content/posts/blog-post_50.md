@@ -31,3 +31,5 @@ labels: ["مغالطات تفسيرية"]
 إن احترام قدسية النص يقتضي ألا نفصل الثمرة عن جذرها؛ فالحرية المسيحية هي ثمرة شجرة التلمذة، والتلمذة هي الاستجابة الحية لنداء الثبات. إن ادعاء الحرية دون الخضوع لكلام المسيح هو وقوع في عبودية خفية لوهم المعرفة. فلنتمسك إذاً بالحق في كليته، معترفين بأن حريتنا ليست فيما نعرفه "عن" المسيح من معلومات، بل في معرفتنا "لشخص" المسيح نفسه، وفي تمام تبعيتنا لذاك الذي حررنا بروحه القدوس؛ روح الحق والحياة والحرية الحقيقية.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLcq1zEU8eWyR6OAaiCqrNB7Sahx8gKtMsIXlFAAjxQOq3O26YqW1jetpndghrlI2r-xEqk8O2C-1Jed40vxLPq-xcQqqH8cGKZB3cZUURuvH17wWV-8_-bBf2nSXlxfLjFvmbo5Ox3BVaO2HKck699XQDmEshKMBVIkQlzOef_V9C7c3BgiwBW4iCxn0/s320/unnamed%20\(44\).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLcq1zEU8eWyR6OAaiCqrNB7Sahx8gKtMsIXlFAAjxQOq3O26YqW1jetpndghrlI2r-xEqk8O2C-1Jed40vxLPq-xcQqqH8cGKZB3cZUURuvH17wWV-8_-bBf2nSXlxfLjFvmbo5Ox3BVaO2HKck699XQDmEshKMBVIkQlzOef_V9C7c3BgiwBW4iCxn0/s1024/unnamed%20\(44\).jpg)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

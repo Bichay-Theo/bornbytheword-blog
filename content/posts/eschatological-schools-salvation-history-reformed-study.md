@@ -113,3 +113,5 @@ labels: []
 \[٢\] آر. سي. سبرول، وهو من كبار اللاهوتيين المصلحين الذين يؤمنون بلاهوت العهد، يرى في "هكذا سيخلص جميع إسرائيل" أنها تشير لتوبة جماعيَّة للعرق اليهودي في المستقبل.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfXj4rCmkWZWETemHLq4LoXQfc9Jty8FI15sHS9DU2BJMo-qLpu9r55q1HJIaAxj-G7NJtVPYQlPYWQrOvvNta9NozqFHXlsbV4BnCA6GiiP4FA0dH4kF-3uT31y_3PvoiJPpefz7VqDJKP5HeqkiO0EGNOa1T7eclSXBaZdz-G1KTdawSZCYwwo_hZrM/s600/unnamed%20%2864%29.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfXj4rCmkWZWETemHLq4LoXQfc9Jty8FI15sHS9DU2BJMo-qLpu9r55q1HJIaAxj-G7NJtVPYQlPYWQrOvvNta9NozqFHXlsbV4BnCA6GiiP4FA0dH4kF-3uT31y_3PvoiJPpefz7VqDJKP5HeqkiO0EGNOa1T7eclSXBaZdz-G1KTdawSZCYwwo_hZrM/s2752/unnamed%20%2864%29.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

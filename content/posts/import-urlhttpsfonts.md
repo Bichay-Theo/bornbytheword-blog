@@ -396,3 +396,5 @@ labels: ["ترجمات"]
 إذا كنت ترغب في المزيد من الموارد للسعادة الحقيقية، أو إذا أردت معرفة المزيد عن عملنا في "Desiring God"، ندعوك لزيارة موقعنا على:
 
 [www.desiringGod.org](https://www.desiringGod.org)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

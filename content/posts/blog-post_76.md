@@ -123,3 +123,5 @@ labels: ["ترجمات"]
 \[١٠\] جُون بَايبَر، "المجاهدة لأجل كلينا" (٢٠٠٦).
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1hi4s8uK_yUF9097v6OR74NJgCyfQAbJmJdJCKA7mBOV8s207u1gqk3WhqLHbwH8HpKapweXhOAkjol-WJk6zxx1VVSFHDByQ4nIC3YnnrMoX5kpuge7My1vwN2LqMwoSrQu4Ma2BpeFZ1_lXKUea5hv5xpEI_-o-ktK-k1rvyNyU3nwKdgogj21H89M/s600/11.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1hi4s8uK_yUF9097v6OR74NJgCyfQAbJmJdJCKA7mBOV8s207u1gqk3WhqLHbwH8HpKapweXhOAkjol-WJk6zxx1VVSFHDByQ4nIC3YnnrMoX5kpuge7My1vwN2LqMwoSrQu4Ma2BpeFZ1_lXKUea5hv5xpEI_-o-ktK-k1rvyNyU3nwKdgogj21H89M/s2752/11.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

@@ -92,3 +92,5 @@ labels: ["ترجمات"]
 [\[٢\]](#ch21-ref-2) ستورمز، ملكوت آت، ٢٧٨؛ التأكيد مضاف.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_0IKSzYGnvHHWjmdhdaeCGQjPsFh-6rIMIXWK1jpQ5kLXvactKCn9gUUdw9iw2SxuzaAH3oSUKkIYf683hA3WGDmCdF0bqBpG6nEZDDtwS_M2e6mA9X4OoFyAPWtdEYEIzuREUlNfjYgOzKP6QLE3kDMUHRS29RlT_VhWE4UjpQaHr6OCx25KS6OBwUQ/s600/%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D9%85%D9%84_%D9%88%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D8%A9.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_0IKSzYGnvHHWjmdhdaeCGQjPsFh-6rIMIXWK1jpQ5kLXvactKCn9gUUdw9iw2SxuzaAH3oSUKkIYf683hA3WGDmCdF0bqBpG6nEZDDtwS_M2e6mA9X4OoFyAPWtdEYEIzuREUlNfjYgOzKP6QLE3kDMUHRS29RlT_VhWE4UjpQaHr6OCx25KS6OBwUQ/s2752/%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D9%85%D9%84_%D9%88%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D8%A9.png)
+
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>

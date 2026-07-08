@@ -3,6 +3,7 @@ import path from 'path';
 import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
+import gfm from 'remark-gfm';
 
 const postsDirectory = path.join(process.cwd(), 'content/posts');
 const pagesDirectory = path.join(process.cwd(), 'content/pages');
@@ -36,7 +37,7 @@ export async function getPosts(): Promise<BlogPost[]> {
 
     const matterResult = matter(fileContents);
     // Use remark to convert markdown into HTML string
-    const processedContent = await remark().use(html).process(matterResult.content);
+    const processedContent = await remark().use(gfm).use(html).process(matterResult.content);
     const contentHtml = processedContent.toString();
 
     return {
@@ -71,7 +72,7 @@ export async function getPages(): Promise<BlogPage[]> {
     const fileContents = fs.readFileSync(fullPath, 'utf8');
 
     const matterResult = matter(fileContents);
-    const processedContent = await remark().use(html).process(matterResult.content);
+    const processedContent = await remark().use(gfm).use(html).process(matterResult.content);
     const contentHtml = processedContent.toString();
 
     return {

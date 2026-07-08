@@ -39,11 +39,7 @@ export default async function StaticPage({ params }: { params: Promise<{ slug: s
         </nav>
         
         <article className="blog-post-content">
-          <header style={{ marginBottom: '3rem', borderBottom: '2px solid var(--secondary)', paddingBottom: '2rem' }}>
-            <h1 style={{ fontSize: '2.5rem', marginBottom: '1rem', color: 'var(--primary)' }}>
-              {page.title}
-            </h1>
-          </header>
+
           
           <div 
             className="post-html"

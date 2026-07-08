@@ -75,6 +75,9 @@ export default async function BookPage({ params }: { params: { slug: string } })
 
 export async function generateStaticParams() {
   const pages = await getPages();
+  if (pages.length === 0) {
+    return [{ slug: 'placeholder' }];
+  }
   return pages.map((page) => ({
     slug: page.slug,
   }));

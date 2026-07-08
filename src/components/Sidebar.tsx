@@ -13,28 +13,20 @@ export default async function Sidebar() {
     <div className="sidebar">
 
       {/* Books Section */}
-      <div style={{ marginBottom: '2.5rem' }}>
-        <h3 className="sidebar-title">الكتب الكاملة</h3>
-        <ul className="sidebar-list">
-          <li style={{ marginBottom: '1rem' }}>
-            <a href="https://bichay-theo.github.io/God_Is_The_Gospel" target="_blank" rel="noopener noreferrer" className="sidebar-link" style={{ fontWeight: 'bold', fontSize: '1.15rem' }}>
-              📖 الله هو الإنجيل
-            </a>
-          </li>
-          <li style={{ marginBottom: '1rem' }}>
-            <a href="https://bichay-theo.github.io/Seeing_and_Savoring_Jesus" target="_blank" rel="noopener noreferrer" className="sidebar-link" style={{ fontWeight: 'bold', fontSize: '1.15rem' }}>
-              📖 رؤية وتذوق يسوع المسيح
-            </a>
-          </li>
-          {pages.map(page => (
-            <li key={page.id} style={{ marginBottom: '1rem' }}>
-              <Link href={`/p/${page.slug}`} className="sidebar-link" style={{ fontWeight: 'bold', fontSize: '1.15rem' }}>
-                📖 {page.title}
-              </Link>
-            </li>
-          ))}
-        </ul>
-      </div>
+      {pages.length > 0 && (
+        <div style={{ marginBottom: '2.5rem' }}>
+          <h3 className="sidebar-title">الكتب الكاملة</h3>
+          <ul className="sidebar-list">
+            {pages.map(page => (
+              <li key={page.id} style={{ marginBottom: '1rem' }}>
+                <Link href={`/p/${page.slug}`} className="sidebar-link" style={{ fontWeight: 'bold', fontSize: '1.15rem' }}>
+                  📖 {page.title}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
 
       {/* Topics Section */}
       <h3 className="sidebar-title">المواضيع (التصنيفات)</h3>

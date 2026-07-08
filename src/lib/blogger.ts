@@ -37,7 +37,7 @@ export async function getPosts(): Promise<BlogPost[]> {
 
     const matterResult = matter(fileContents);
     // Use remark to convert markdown into HTML string
-    const processedContent = await remark().use(gfm).use(html).process(matterResult.content);
+    const processedContent = await remark().use(gfm).use(html, { sanitize: false }).process(matterResult.content);
     const contentHtml = processedContent.toString();
 
     return {
@@ -72,7 +72,7 @@ export async function getPages(): Promise<BlogPage[]> {
     const fileContents = fs.readFileSync(fullPath, 'utf8');
 
     const matterResult = matter(fileContents);
-    const processedContent = await remark().use(gfm).use(html).process(matterResult.content);
+    const processedContent = await remark().use(gfm).use(html, { sanitize: false }).process(matterResult.content);
     const contentHtml = processedContent.toString();
 
     return {

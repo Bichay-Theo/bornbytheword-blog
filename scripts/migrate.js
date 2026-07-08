@@ -16,7 +16,7 @@ async function fetchBlogger(url) {
 
 async function migrate() {
   console.log('Migrating Posts...');
-  const posts = await fetchBlogger(`${BLOG_URL}/feeds/posts/default?alt=json`);
+  const posts = await fetchBlogger(`${BLOG_URL}/feeds/posts/default?alt=json&max-results=500`);
   const postsDir = path.join(__dirname, '../content/posts');
   fs.mkdirSync(postsDir, { recursive: true });
 
@@ -50,7 +50,7 @@ ${markdownBody}
   }
 
   console.log('Migrating Pages (Books)...');
-  const pages = await fetchBlogger(`${BLOG_URL}/feeds/pages/default?alt=json`);
+  const pages = await fetchBlogger(`${BLOG_URL}/feeds/pages/default?alt=json&max-results=500`);
   const pagesDir = path.join(__dirname, '../content/pages');
   fs.mkdirSync(pagesDir, { recursive: true });
 

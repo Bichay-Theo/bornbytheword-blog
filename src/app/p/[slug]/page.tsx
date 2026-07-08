@@ -19,8 +19,9 @@ function processHtmlAndExtractTOC(html: string) {
   return { processedHtml, toc };
 }
 
-export default async function BookPage({ params }: { params: { slug: string } }) {
-  const page = await getPageBySlug(params.slug);
+export default async function StaticPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const page = await getPageBySlug(slug);
 
   if (!page) {
     notFound();

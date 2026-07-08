@@ -314,3 +314,30 @@ p {
 .github-link:hover {
   color: var(--primary);
 }
+
+
+.chapter-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5rem 0;
+  opacity: 0.8;
+}
+.chapter-divider::before,
+.chapter-divider::after {
+  content: '';
+  flex-grow: 1;
+  max-width: 200px;
+  height: 2px;
+  background-color: var(--secondary);
+}
+.chapter-divider::before {
+  margin-left: 1.5rem;
+}
+.chapter-divider::after {
+  margin-right: 1.5rem;
+}
+.chapter-divider span {
+  font-size: 2rem;
+  color: var(--accent-color);
+}

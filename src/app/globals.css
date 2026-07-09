@@ -44,6 +44,10 @@ body {
   line-height: 1.8;
 }
 
+*[id] {
+  scroll-margin-top: 120px;
+}
+
 * {
   box-sizing: border-box;
   padding: 0;

@@ -39,6 +39,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch1">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الأَوَّلُ</h2>
 
 يساور الكثيرين الفضول بشأن المجيء الثاني للمسيح؛ كيف ستكون هيئته، ومتى سيقع، وما هي العلامات التي ستسبقه. في كتاب «تَعَالَ أَيُّهَا الرَّبُّ يَسُوعُ»، يتناول جون بايبر كافة هذه المسائل، لكنه يشدد على أن أولئك الذين يحبون المجيء الثاني للمسيح سينالون إكليل البر (٢ تيموثاوس ٤: ٦-٨).
@@ -160,6 +161,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch2">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّانِي</h2>
 
 بما أن الهدف من هذا الكتاب هو مساعدتك على محبة المجيء الثاني للمسيح، فكيف يمكن لهذا أن يحدث فعلياً؟ كيف يمكن للأفعال الطبيعية، المتمثلة في كتابة كتاب وقراءته، أن تؤدي إلى الخبرة الفائقة للطبيعة المتمثلة في محبة المسيح ومجيئه؟
@@ -267,6 +269,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch3">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّالِثُ</h2>
 
 ## جَوْهَرُ الْأَمْرِ، الْجُزْءُ ١
@@ -378,6 +381,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch4">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الرَّابِعُ</h2>
 
 اختبار مجد المسيح ببهجة الاندهاش  
@@ -484,6 +488,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch5">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْخَامِسُ</h2>
 
 النعمة التي يُؤتى بها إليكم عند استعلان المسيح
@@ -609,6 +614,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch6">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ السَّادِسُ</h2>
 
 هل سنكون بلا لوم عند مجيء المسيح؟
@@ -780,6 +786,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch7">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ السَّابِعُ</h2>
 
 سَنُكَمَّلُ عَقْلًا وَقَلْبًا وَجَسَدًا
@@ -945,6 +952,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch8">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّامِنُ</h2>
 
 يَسُوعُ سَيُنْقِذُنَا مِنْ غَضَبِ يَسُوعَ
@@ -1088,6 +1096,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch9">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ التَّاسِعُ</h2>
 
 فِي نَارِ لَهِيبٍ، بِالانْتِقَامِ وَالرَّاحَةِ
@@ -1243,6 +1252,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch10">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْعَاشِرُ</h2>
 
 مُجَازَاةُ كُلِّ وَاحِدٍ حَسَبَ عَمَلِهِ
@@ -1394,6 +1404,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch11">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْحَادِي عَشَرَ</h2>
 
 الْفَرَحُ بِرَجَاءِ نَوَالِ مُكَافَآتٍ مُتَبَايِنَةٍ
@@ -1493,6 +1504,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch12">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّانِي عَشَرَ</h2>
 
 فرح الشركة الشخصية مع الخادم ذي السيادة
@@ -1636,6 +1648,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch13">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّالِثَ عَشَرَ</h2>
 
 وقت ظهوره  
@@ -1763,6 +1776,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch14">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الرَّابِعَ عَشَرَ</h2>
 
 ماذا يقصد العهد الجديد بأن يسوع سيأتي سريعا؟
@@ -1878,6 +1892,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch15">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْخَامِسَ عَشَرَ</h2>
 
 هل هناك اختطاف في أية لحظة قبل المجيء الثاني؟
@@ -2015,6 +2030,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch16">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ السَّادِسَ عَشَرَ</h2>
 
 يسوع وبولس رؤية مشتركة لمجيء المسيح
@@ -2262,6 +2278,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch17">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ السَّابِعَ عَشَرَ</h2>
 
 ما الذي يجب أن يحدث قبل ظهور الرب؟
@@ -2425,6 +2442,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch18">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّامِنَ عَشَرَ</h2>
 
 كَيْفَ يَنْبَغِي لَنَا إِذًا أَنْ نَعِيشَ؟  
@@ -2539,6 +2557,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch19">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ التَّاسِعَ عَشَرَ</h2>
 
 صابرون، فرحون، لا نخدع، ولا نرتاع
@@ -2602,6 +2621,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch20">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْعِشْرُونَ</h2>
 
 عدل آت، ووداعة حاضرة
@@ -2661,6 +2681,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch21">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْحَادِي وَالْعِشْرُونَ</h2>
 
 اذهب إلى العمل، اذهب إلى الكنيسة
@@ -2754,6 +2775,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch22">
+<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّانِي وَالْعِشْرُونَ</h2>
 
 صلاة وقت النهاية، لأجل نفسك ولأجل الإرسالية

@@ -33,7 +33,7 @@ export default async function StaticPage({ params }: { params: Promise<{ slug: s
     <div style={{ display: 'flex', gap: '3rem', alignItems: 'flex-start' }}>
       <main style={{ flex: 1, minWidth: 0 }}>
         <nav style={{ marginBottom: '2rem' }}>
-          <Link href="/" style={{ color: 'var(--text-muted)', fontSize: '1.1rem' }}>
+          <Link href="/bornbytheword-blog/" style={{ color: 'var(--text-muted)', fontSize: '1.1rem' }}>
             &rarr; العودة للرئيسية
           </Link>
         </nav>
@@ -47,7 +47,7 @@ export default async function StaticPage({ params }: { params: Promise<{ slug: s
           />
           
           <div style={{ textAlign: 'center', margin: '3rem 0', fontWeight: 'bold' }}>
-            <Link href="/" style={{ color: 'var(--primary)', textDecoration: 'none', fontSize: '1.1rem' }}>
+            <Link href="/bornbytheword-blog/" style={{ color: 'var(--primary)', textDecoration: 'none', fontSize: '1.1rem' }}>
               العودة للرئيسية 🏠
             </Link>
           </div>

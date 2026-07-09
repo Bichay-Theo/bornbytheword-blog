@@ -27,6 +27,12 @@ export interface BlogPage {
 
 // Convert [1] or [١] into [^1] and definitions into [^1]: 
 function convertFootnotesToMarkdown(content: string) {
+  // If the content already has HTML footnotes (like the compiled books), don't touch them!
+  // We can detect this if there is already a footnote definition pattern like `id=".*?-fn-.*?`
+  if (content.match(/<a.*?href=\"#.*?fn.*?<\/a>/)) {
+      return content;
+  }
+  
   // First, convert eastern arabic numerals inside brackets to english numerals and use [^...] syntax
   let processed = content.replace(/\[([١٢٣٤٥٦٧٨٩٠0-9]+)\]/g, (match, num) => {
     let engNum = num.replace(/[١٢٣٤٥٦٧٨٩٠]/g, (d: string) => '١٢٣٤٥٦٧٨٩٠'.indexOf(d) + 1);

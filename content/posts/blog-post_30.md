@@ -114,5 +114,5 @@ labels: ["ترجمات"]
 
 [4] بِيتَر تُون، "رجل دولة الله: حياة وعمل جُون أُويِن" (١٩٧١؛ إعادة طبع، يوجين، أوريغون: ويبف آند ستوك، ٢٠٠٥)، ١٦١.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp5bZ840yxcOabcayqsZGLiEv5FH56IHaUYFFpAy705qtx01dOy84eHXiZ7DWN98EfGPb_gDSrB2tf67hSn_rnZroOK6yejyJg0HTz6gxbDwiyY5gIy9_wFEO6fLN2gHsHEzWRuigMFJL0-WFIwge6sJ8JDJxIxEiSf5S_NgWgV7sQjK6G-u8jWtyd23A/s600/09.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp5bZ840yxcOabcayqsZGLiEv5FH56IHaUYFFpAy705qtx01dOy84eHXiZ7DWN98EfGPb_gDSrB2tf67hSn_rnZroOK6yejyJg0HTz6gxbDwiyY5gIy9_wFEO6fLN2gHsHEzWRuigMFJL0-WFIwge6sJ8JDJxIxEiSf5S_NgWgV7sQjK6G-u8jWtyd23A/s2752/09.png)
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp5bZ840yxcOabcayqsZGLiEv5FH56IHaUYFFpAy705qtx01dOy84eHXiZ7DWN98EfGPb_gDSrB2tf67hSn_rnZroOK6yejyJg0HTz6gxbDwiyY5gIy9_wFEO6fLN2gHsHEzWRuigMFJL0-WFIwge6sJ8JDJxIxEiSf5S_NgWgV7sQjK6G-u8jWtyd23A/s2752/09.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp5bZ840yxcOabcayqsZGLiEv5FH56IHaUYFFpAy705qtx01dOy84eHXiZ7DWN98EfGPb_gDSrB2tf67hSn_rnZroOK6yejyJg0HTz6gxbDwiyY5gIy9_wFEO6fLN2gHsHEzWRuigMFJL0-WFIwge6sJ8JDJxIxEiSf5S_NgWgV7sQjK6G-u8jWtyd23A/s600/09.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 

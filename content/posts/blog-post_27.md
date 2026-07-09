@@ -120,5 +120,5 @@ labels: ["ترجمات"]
 
 [18] Edwards, Religious Affections, 300.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYIFc5QcgsW022_aDn-p4JZkgtSbCR8qY8R4orKxTKcOqDIiyvjp7CuZ6E8CiAYrjs_FQcaa7UJHK-7VUjMp5PhR2H8HLssGq6QOWzsCgw3sj9BiK7MB_8wFXvgJMYw_-8syAV2vtDNqpBDQAy5192vNJ9mh7epcm5D_bP1YefSXbGLpREKXa791vaq4/s600/05.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYIFc5QcgsW022_aDn-p4JZkgtSbCR8qY8R4orKxTKcOqDIiyvjp7CuZ6E8CiAYrjs_FQcaa7UJHK-7VUjMp5PhR2H8HLssGq6QOWzsCgw3sj9BiK7MB_8wFXvgJMYw_-8syAV2vtDNqpBDQAy5192vNJ9mh7epcm5D_bP1YefSXbGLpREKXa791vaq4/s2752/05.png)
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYIFc5QcgsW022_aDn-p4JZkgtSbCR8qY8R4orKxTKcOqDIiyvjp7CuZ6E8CiAYrjs_FQcaa7UJHK-7VUjMp5PhR2H8HLssGq6QOWzsCgw3sj9BiK7MB_8wFXvgJMYw_-8syAV2vtDNqpBDQAy5192vNJ9mh7epcm5D_bP1YefSXbGLpREKXa791vaq4/s2752/05.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYIFc5QcgsW022_aDn-p4JZkgtSbCR8qY8R4orKxTKcOqDIiyvjp7CuZ6E8CiAYrjs_FQcaa7UJHK-7VUjMp5PhR2H8HLssGq6QOWzsCgw3sj9BiK7MB_8wFXvgJMYw_-8syAV2vtDNqpBDQAy5192vNJ9mh7epcm5D_bP1YefSXbGLpREKXa791vaq4/s600/05.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 

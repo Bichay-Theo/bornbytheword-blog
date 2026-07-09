@@ -42,6 +42,19 @@ function convertFootnotesToMarkdown(content: string) {
   // Second, for footnote definitions that appear at the beginning of a line like `[^1] text`, add a colon
   processed = processed.replace(/^\[\^([0-9]+)\](?!:)/gm, '[^$1]:');
   
+  // Third, automatically fix any custom [[1]](#something) style footnotes
+  processed = processed.replace(/\[\[(\d+)\]\]\(#(.*?)\)/g, (match, num, target) => {
+    let sourceId = '';
+    if (target.includes('fn')) {
+        sourceId = target.replace('fn', 'ref');
+    } else if (target.includes('ref')) {
+        sourceId = target.replace('ref', 'fn');
+    } else {
+        sourceId = target + '-source';
+    }
+    return `<sup id="${sourceId}"><a href="#${target}" style="text-decoration: none; color: var(--primary-color);">[${num}]</a></sup>`;
+  });
+  
   return processed;
 }
 
@@ -51,7 +64,7 @@ export async function getPosts(): Promise<BlogPost[]> {
   
   const posts = await Promise.all(fileNames.map(async (fileName) => {
     if (!fileName.endsWith('.md')) return null;
-    const slug = fileName.replace(/\.md$/, '');
+    const slug = fileName.replace(/\.md$/, '').replace(/\s+/g, '-');
     const fullPath = path.join(postsDirectory, fileName);
     const fileContents = fs.readFileSync(fullPath, 'utf8');
 
@@ -91,7 +104,7 @@ export async function getPages(): Promise<BlogPage[]> {
   
   const pages = await Promise.all(fileNames.map(async (fileName) => {
     if (!fileName.endsWith('.md')) return null;
-    const slug = fileName.replace(/\.md$/, '');
+    const slug = fileName.replace(/\.md$/, '').replace(/\s+/g, '-');
     const fullPath = path.join(pagesDirectory, fileName);
     const fileContents = fs.readFileSync(fullPath, 'utf8');
 

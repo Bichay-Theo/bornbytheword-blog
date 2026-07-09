@@ -25,33 +25,42 @@ export interface BlogPage {
   slug: string;
 }
 
-// Convert [1] or [١] into [^1] and definitions into [^1]: 
+// Convert [1] or [١] into custom HTML footnotes to match the books exactly
 function convertFootnotesToMarkdown(content: string) {
   // If the content already has HTML footnotes (like the compiled books), don't touch them!
-  // We can detect this if there is already a footnote definition pattern like `id=".*?-fn-.*?`
   if (content.match(/<a.*?href=\"#.*?fn.*?<\/a>/)) {
       return content;
   }
   
-  // First, convert eastern arabic numerals inside brackets to english numerals and use [^...] syntax
+  // First, convert eastern arabic numerals inside brackets to english numerals
   let processed = content.replace(/\[([١٢٣٤٥٦٧٨٩٠0-9]+)\]/g, (match, num) => {
     let engNum = num.replace(/[١٢٣٤٥٦٧٨٩٠]/g, (d: string) => '١٢٣٤٥٦٧٨٩٠'.indexOf(d) + 1);
-    return `[^${engNum}]`;
+    return `[${engNum}]`;
   });
   
-  // Second, for footnote definitions that appear at the beginning of a line like `[^1] text`, add a colon
-  processed = processed.replace(/^\[\^([0-9]+)\](?!:)/gm, '[^$1]:');
+  // Second, for footnote definitions that appear at the beginning of a line
+  // e.g., `[1] text...` or `[1]: text...`
+  processed = processed.replace(/^\[([0-9]+)\]:?\s*(.*)$/gm, (match, num, text) => {
+    return `<p id="fn-${num}" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref-${num}" style="font-weight: bold; color: var(--primary); text-decoration: none;">[${num}] ↩</a> ${text}
+</p>`;
+  });
   
-  // Third, automatically fix any custom [[1]](#something) style footnotes
+  // Third, for inline references: `[1]` -> `<sup>...</sup>`
+  // Since we already replaced definitions, any remaining `[1]` is a reference.
+  // We use a negative lookbehind (if supported) or just rely on the fact that 
+  // definitions were at the start of a line and now look like `<p id="...">...[1]...`.
+  // To avoid replacing the `[1]` inside the `<p>` we just generated, we can make sure 
+  // we only match `[1]` that is NOT inside an HTML tag or is preceded by a space/word.
+  // Actually, an easier way is to just replace it globally, but temporarily hide the `[1]` in the definition.
+  // Wait, the definition has `<a ...>[1] ↩</a>`. We can just match `\[([0-9]+)\]` and if it's not followed by ` ↩`, it's a reference!
+  processed = processed.replace(/\[([0-9]+)\](?! ↩)/g, (match, num) => {
+    return `<sup id="ref-${num}"><a href="#fn-${num}" style="text-decoration: none; color: var(--primary-color);">[${num}]</a></sup>`;
+  });
+  
+  // Clean up any custom [[1]](#something) style footnotes
   processed = processed.replace(/\[\[(\d+)\]\]\(#(.*?)\)/g, (match, num, target) => {
-    let sourceId = '';
-    if (target.includes('fn')) {
-        sourceId = target.replace('fn', 'ref');
-    } else if (target.includes('ref')) {
-        sourceId = target.replace('ref', 'fn');
-    } else {
-        sourceId = target + '-source';
-    }
+    let sourceId = target.includes('fn') ? target.replace('fn', 'ref') : target.replace('ref', 'fn');
     return `<sup id="${sourceId}"><a href="#${target}" style="text-decoration: none; color: var(--primary-color);">[${num}]</a></sup>`;
   });
   
@@ -77,12 +86,12 @@ export async function getPosts(): Promise<BlogPost[]> {
     const processedContent = await remark().use(gfm).use(html, { sanitize: false }).process(contentWithFootnotes);
     let contentHtml = processedContent.toString();
 
-    // Fix remark-gfm footnotes to match our custom beautiful styling
-    contentHtml = contentHtml.replace(/<h2 id="footnote-label" class="sr-only">Footnotes<\/h2>/, '<div class="footnote-section">\n<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>');
-    // Remove any leftover manual 'هوامش:' paragraphs to avoid duplication
-    contentHtml = contentHtml.replace(/<p><strong>هوامش:<\/strong><\/p>/g, '');
-    contentHtml = contentHtml.replace(/<p><strong>الهوامش:<\/strong><\/p>/g, '');
-    contentHtml = contentHtml.replace(/<p><strong>الهوامش والمراجع:<\/strong><\/p>/g, '');
+    // Replace the manual 'هوامش:' paragraphs with our beautiful section header
+    const footnoteHeader = '<div class="footnote-section">\n<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>\n</div>';
+    contentHtml = contentHtml.replace(/<p><strong>(هوامش|الهوامش|الهوامش والمراجع):<\/strong><\/p>/g, footnoteHeader);
+    
+    // In case remark-gfm somehow still generated footnotes, hide its header
+    contentHtml = contentHtml.replace(/<h2 id="footnote-label" class="sr-only">Footnotes<\/h2>/, '');
 
     return {
       id: slug,
@@ -122,12 +131,12 @@ export async function getPages(): Promise<BlogPage[]> {
     const processedContent = await remark().use(gfm).use(html, { sanitize: false }).process(contentWithFootnotes);
     let contentHtml = processedContent.toString();
 
-    // Fix remark-gfm footnotes to match our custom beautiful styling
-    contentHtml = contentHtml.replace(/<h2 id="footnote-label" class="sr-only">Footnotes<\/h2>/, '<div class="footnote-section">\n<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>');
-    // Remove any leftover manual 'هوامش:' paragraphs to avoid duplication
-    contentHtml = contentHtml.replace(/<p><strong>هوامش:<\/strong><\/p>/g, '');
-    contentHtml = contentHtml.replace(/<p><strong>الهوامش:<\/strong><\/p>/g, '');
-    contentHtml = contentHtml.replace(/<p><strong>الهوامش والمراجع:<\/strong><\/p>/g, '');
+    // Replace the manual 'هوامش:' paragraphs with our beautiful section header
+    const footnoteHeader = '<div class="footnote-section">\n<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>\n</div>';
+    contentHtml = contentHtml.replace(/<p><strong>(هوامش|الهوامش|الهوامش والمراجع):<\/strong><\/p>/g, footnoteHeader);
+    
+    // In case remark-gfm somehow still generated footnotes, hide its header
+    contentHtml = contentHtml.replace(/<h2 id="footnote-label" class="sr-only">Footnotes<\/h2>/, '');
 
     return {
       id: slug,

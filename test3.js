@@ -1,0 +1,1 @@
+const fs = require('fs'); const c = fs.readFileSync('content/pages/god-is-the-gospel.md', 'utf8'); console.log('ch4-fnref-4:', c.match(/id="ch4-fnref-4"/g)); console.log('ch4-fnref-7:', c.match(/id="ch4-fnref-7"/g)); console.log('ch4-fnref-9:', c.match(/id="ch4-fnref-9"/g));

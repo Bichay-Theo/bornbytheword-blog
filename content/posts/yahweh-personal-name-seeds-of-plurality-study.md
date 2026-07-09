@@ -71,4 +71,3 @@ labels: ["دراسات","دراسات، لاهوت نظامي، الثالوث،
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGFiUPaGb1PshzDc7P7f34arS-MzkWxx1e_Q_TKnPrdiLbMSnutekzOqvE2h9_4ZJ08bBU-adkj7ZDpMszBQQQOyhmYra-lmxmGUSobNpir7Mh3Sq8vwiPaJ7TbL1xUCPx9pbmtIh5Wv4KftqUUfSOgNsh4SDpPS7XbI-vHAw0D-BJOOzq_xp8VewyqNw/s600/unnamed%20%2851%29.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGFiUPaGb1PshzDc7P7f34arS-MzkWxx1e_Q_TKnPrdiLbMSnutekzOqvE2h9_4ZJ08bBU-adkj7ZDpMszBQQQOyhmYra-lmxmGUSobNpir7Mh3Sq8vwiPaJ7TbL1xUCPx9pbmtIh5Wv4KftqUUfSOgNsh4SDpPS7XbI-vHAw0D-BJOOzq_xp8VewyqNw/s2752/unnamed%20%2851%29.png)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

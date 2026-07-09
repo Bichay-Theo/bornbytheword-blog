@@ -58,6 +58,12 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
             className="post-html"
             dangerouslySetInnerHTML={{ __html: processedHtml }} 
           />
+          
+          <div style={{ textAlign: 'center', margin: '3rem 0', fontWeight: 'bold' }}>
+            <Link href="/" style={{ color: 'var(--primary)', textDecoration: 'none', fontSize: '1.1rem' }}>
+              العودة للرئيسية 🏠
+            </Link>
+          </div>
         </article>
       </main>
 

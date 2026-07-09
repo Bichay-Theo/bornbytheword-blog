@@ -25,6 +25,20 @@ export interface BlogPage {
   slug: string;
 }
 
+// Convert [1] or [١] into [^1] and definitions into [^1]: 
+function convertFootnotesToMarkdown(content: string) {
+  // First, convert eastern arabic numerals inside brackets to english numerals and use [^...] syntax
+  let processed = content.replace(/\[([١٢٣٤٥٦٧٨٩٠0-9]+)\]/g, (match, num) => {
+    let engNum = num.replace(/[١٢٣٤٥٦٧٨٩٠]/g, (d: string) => '١٢٣٤٥٦٧٨٩٠'.indexOf(d) + 1);
+    return `[^${engNum}]`;
+  });
+  
+  // Second, for footnote definitions that appear at the beginning of a line like `[^1] text`, add a colon
+  processed = processed.replace(/^\[\^([0-9]+)\](?!:)/gm, '[^$1]:');
+  
+  return processed;
+}
+
 export async function getPosts(): Promise<BlogPost[]> {
   if (!fs.existsSync(postsDirectory)) return [];
   const fileNames = fs.readdirSync(postsDirectory);
@@ -36,8 +50,12 @@ export async function getPosts(): Promise<BlogPost[]> {
     const fileContents = fs.readFileSync(fullPath, 'utf8');
 
     const matterResult = matter(fileContents);
+    
+    // Automatically convert user footnotes [1] into remark-gfm footnotes [^1]
+    const contentWithFootnotes = convertFootnotesToMarkdown(matterResult.content);
+
     // Use remark to convert markdown into HTML string
-    const processedContent = await remark().use(gfm).use(html, { sanitize: false }).process(matterResult.content);
+    const processedContent = await remark().use(gfm).use(html, { sanitize: false }).process(contentWithFootnotes);
     const contentHtml = processedContent.toString();
 
     return {
@@ -72,7 +90,10 @@ export async function getPages(): Promise<BlogPage[]> {
     const fileContents = fs.readFileSync(fullPath, 'utf8');
 
     const matterResult = matter(fileContents);
-    const processedContent = await remark().use(gfm).use(html, { sanitize: false }).process(matterResult.content);
+    
+    const contentWithFootnotes = convertFootnotesToMarkdown(matterResult.content);
+
+    const processedContent = await remark().use(gfm).use(html, { sanitize: false }).process(contentWithFootnotes);
     const contentHtml = processedContent.toString();
 
     return {

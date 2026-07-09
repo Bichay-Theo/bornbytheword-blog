@@ -16,7 +16,7 @@ labels: []
 
 ### السِّيَاقُ الْعَامُّ وَالْقَصْدُ
 
-كتب بولس هذا الجزء ليس ليعرف كنيسة فيلبي بلاهوت المسيح؛ فهم كنيسة قائمة على هذا الإيمان بالفعل، بل وظف ما يعرفونه وينشدونه يومياً في "نشيد الإخلاء" <sup><a href="#fn1" id="ref1" class="footnote-link">[1]</a></sup> (الأعداد ٦-١١) ليكون علاجاً لحالة الانقسام والتحزب. القصد الأساسي ليس شرح العقيدة، بل استخدام العقيدة لتصحيح السلوك. فالدعوة هي "تتميم فرح الرسول" بأن يفتكروا فكراً واحداً، مقدمين التواضع على العجب والافتخار بالذات.
+كتب بولس هذا الجزء ليس ليعرف كنيسة فيلبي بلاهوت المسيح؛ فهم كنيسة قائمة على هذا الإيمان بالفعل، بل وظف ما يعرفونه وينشدونه يومياً في "نشيد الإخلاء" [1] (الأعداد ٦-١١) ليكون علاجاً لحالة الانقسام والتحزب. القصد الأساسي ليس شرح العقيدة، بل استخدام العقيدة لتصحيح السلوك. فالدعوة هي "تتميم فرح الرسول" بأن يفتكروا فكراً واحداً، مقدمين التواضع على العجب والافتخار بالذات.
 
 ### تَحْلِيلُ الرَّوَابِطِ وَالْبِنَاءُ الْمَنْطِقِيُّ
 
@@ -64,4 +64,3 @@ labels: []
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrQTkqlKL_MYRGzS5h49bnRv8RmsU8ZfeyCy4iajNEQEpOWJ3f4UCT9VZ50T9LbD8837ZxuGDz9fWO8MS3LSWlicr7maIQ2H-LhsCSWZFCjmmPLA7IS8ME3L5DFubIMpMkZNZ9ES0zfJd4TBPfYu8x9Pbzd2ncY_TtWfIaN89ysyzsFQiX-q6lp7Nr-6I/s600/%D9%87%D9%84%20%D9%8A%D9%85%D9%83%D9%86%20%D8%A3%D9%86%20%D9%8A%D8%B6%D9%8A%D8%B9%20%D8%A7%D9%84%D9%87%D8%AF%D9%81%20%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%20%D9%85%D9%86%20%D8%A7%D9%84%D9%86%D8%B5%20%D8%A8%D8%B3%D8%A8%D8%A8%20%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%B2%20%D8%B9%D9%84%D9%89%20%D8%AD%D9%82%D9%8A%D9%82%D8%A9%20%D9%84%D8%A7%D9%87%D9%88%D8%AA%D9%8A%D8%A9%20%D9%83%D8%A8%D8%B1%D9%89%D8%9F.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrQTkqlKL_MYRGzS5h49bnRv8RmsU8ZfeyCy4iajNEQEpOWJ3f4UCT9VZ50T9LbD8837ZxuGDz9fWO8MS3LSWlicr7maIQ2H-LhsCSWZFCjmmPLA7IS8ME3L5DFubIMpMkZNZ9ES0zfJd4TBPfYu8x9Pbzd2ncY_TtWfIaN89ysyzsFQiX-q6lp7Nr-6I/s2752/%D9%87%D9%84%20%D9%8A%D9%85%D9%83%D9%86%20%D8%A3%D9%86%20%D9%8A%D8%B6%D9%8A%D8%B9%20%D8%A7%D9%84%D9%87%D8%AF%D9%81%20%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%20%D9%85%D9%86%20%D8%A7%D9%84%D9%86%D8%B5%20%D8%A8%D8%B3%D8%A8%D8%A8%20%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%B2%20%D8%B9%D9%84%D9%89%20%D8%AD%D9%82%D9%8A%D9%82%D8%A9%20%D9%84%D8%A7%D9%87%D9%88%D8%AA%D9%8A%D8%A9%20%D9%83%D8%A8%D8%B1%D9%89%D8%9F.png)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

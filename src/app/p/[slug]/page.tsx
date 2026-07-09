@@ -45,6 +45,12 @@ export default async function StaticPage({ params }: { params: Promise<{ slug: s
             className="post-html"
             dangerouslySetInnerHTML={{ __html: processedHtml }} 
           />
+          
+          <div style={{ textAlign: 'center', margin: '3rem 0', fontWeight: 'bold' }}>
+            <Link href="/" style={{ color: 'var(--primary)', textDecoration: 'none', fontSize: '1.1rem' }}>
+              العودة للرئيسية 🏠
+            </Link>
+          </div>
         </article>
       </main>
 

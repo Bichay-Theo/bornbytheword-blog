@@ -122,4 +122,3 @@ labels: ["ترجمات"]
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizqxQOHRH-92wvVLfvzETwSgYnzRt8nICbZaCJlCrUMeZ0spZ_7pcGSp6g0MqGcbLgTAWu0IHPGCvvhW_9HuJEzixpqWj6R7GqdTavWYh6niNObJfOWlCPy8hzUNC_LxCnDttwnHw8WTS_DTuZjtxnK9Vg2LexqDDSHbxZpJgIfqqaB1H0CzfcNdp4NR8/s600/unnamed%20%281%29.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizqxQOHRH-92wvVLfvzETwSgYnzRt8nICbZaCJlCrUMeZ0spZ_7pcGSp6g0MqGcbLgTAWu0IHPGCvvhW_9HuJEzixpqWj6R7GqdTavWYh6niNObJfOWlCPy8hzUNC_LxCnDttwnHw8WTS_DTuZjtxnK9Vg2LexqDDSHbxZpJgIfqqaB1H0CzfcNdp4NR8/s2752/unnamed%20%281%29.png)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

@@ -84,4 +84,3 @@ labels: ["دراسات"]
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1RwIJtsRDbYD-jfO38Z6rV-lnLqzDJHGAeH7RgU3cLNaDaTvGpALneYTFPkrQHV1MB4Y3YixhMOQcZKsTgqA1TrYkGWmgIELWN3JAI1gME6OIIXaBf5SDltOTupoN5EPoHRkfLO6ubIo3ewEBV8YLgDfsHMtrWrt6ZTmyQhqPALERJ8Hqp5ugh4gmH1g/s600/unnamed%20%2847%29.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1RwIJtsRDbYD-jfO38Z6rV-lnLqzDJHGAeH7RgU3cLNaDaTvGpALneYTFPkrQHV1MB4Y3YixhMOQcZKsTgqA1TrYkGWmgIELWN3JAI1gME6OIIXaBf5SDltOTupoN5EPoHRkfLO6ubIo3ewEBV8YLgDfsHMtrWrt6ZTmyQhqPALERJ8Hqp5ugh4gmH1g/s2752/unnamed%20%2847%29.png)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

@@ -63,7 +63,7 @@ labels: ["ترجمات"]
 
 ### مَنْطِقُوا أَحْقَاءَكُمْ وَكُونُوا صَاحِينَ
 
-ليس مستغرباً أن يسبق بطرس وصية «فَأَلْقُوا رَجَاءَكُمْ بِالتَّمَامِ عَلَى النِّعْمَةِ» باسمي فاعل ليُظهر لنا ما سيلزم لإبقاء هذا الرجاء حياً ماثلاً أمام أذهاننا. فبطرس يقول حرفياً: «مَنْطِقُوا أَحْقَاءَ ذِهْنِكُمْ \[ἀναζωσάμενοι τὰς ὀσφύας τῆς διανοίας ὑμῶν\] صَاحِينَ»، فألقوا رجاءكم بالتمام على النعمة [<sup><a href="#fn1" id="ref1" class="footnote-link">[1]</a></sup>](#footnote-1). في اسم الفاعل الأول، يصورهم بطرس مرتدين أثواباً طويلة، ولكي يتمكنوا من الركض دون أن يتعثروا، كان لزاماً عليهم أن ينحنوا ويسحبوا الجزء الخلفي من الثوب من بين أرجلهم ويثبتوه في حزامهم من الأمام لتشكيل ما يشبه السروال حول أحقائهم.
+ليس مستغرباً أن يسبق بطرس وصية «فَأَلْقُوا رَجَاءَكُمْ بِالتَّمَامِ عَلَى النِّعْمَةِ» باسمي فاعل ليُظهر لنا ما سيلزم لإبقاء هذا الرجاء حياً ماثلاً أمام أذهاننا. فبطرس يقول حرفياً: «مَنْطِقُوا أَحْقَاءَ ذِهْنِكُمْ \[ἀναζωσάμενοι τὰς ὀσφύας τῆς διανοίας ὑμῶν\] صَاحِينَ»، فألقوا رجاءكم بالتمام على النعمة [[1]](#footnote-1). في اسم الفاعل الأول، يصورهم بطرس مرتدين أثواباً طويلة، ولكي يتمكنوا من الركض دون أن يتعثروا، كان لزاماً عليهم أن ينحنوا ويسحبوا الجزء الخلفي من الثوب من بين أرجلهم ويثبتوه في حزامهم من الأمام لتشكيل ما يشبه السروال حول أحقائهم.
 
 ويؤكد بطرس أن هذا هو ما يتعين عليكم فعله بأذهانكم. بعبارة أخرى، افعلوا كل ما يتطلبه الأمر لإبقاء الذهن نشطاً ومتجاوباً ويقظاً عند التعاطي مع الحقيقة الروحية—بل وعند التعاطي مع كل حقيقة. إذ سيحتاج الذهن إلى أن يُمَنْطَق للعمل إن كان له أن يقبض على حقيقة النعمة، ويبقيها نصب عينيه، ويذوق مجدها كما ينبغي، ويستشعر ملء الرجاء، وألا يتزعزع حين يستشعر اقتراب مجيء ابن الإنسان.
 
@@ -121,8 +121,7 @@ labels: ["ترجمات"]
 
 **الهوامش:**
 
-[<sup><a href="#fn1" id="ref1" class="footnote-link">[1]</a></sup>](#ref-1) يُقترح هذا التفسير والترجمة في كتاب روبرت هـ. غوندري، تعليق على العهد الجديد: تفسيرات آية بآية مع ترجمة حرفية (Robert H. Gundry, Commentary on the New Testament: Verseby-Verse Explanations with a Literal Translation, Peabody, MA: Hendrickson, 2010)، ص ٩٣٩.
+[[1]](#ref-1) يُقترح هذا التفسير والترجمة في كتاب روبرت هـ. غوندري، تعليق على العهد الجديد: تفسيرات آية بآية مع ترجمة حرفية (Robert H. Gundry, Commentary on the New Testament: Verseby-Verse Explanations with a Literal Translation, Peabody, MA: Hendrickson, 2010)، ص ٩٣٩.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9y0az-iBd5ujtD17MpaeiXGrTDHWDAwWdcWLvsiNKBe58xVUJa_tAnyXkX58LTpWlhZotWFlziKvRrWbQH-WVQ15yZYwIP_7zSxLh_IrCBzwfYYM8Iz7iw7iNDC2RLTXEEQ8GxUV-VI87Cb8HFT4Gr-GtcN6_K2gxx6ShIlSjEi9kG6ZAKZL_mMCBkvA/s600/%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A9_%D8%B9%D9%86%D8%AF_%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%86_%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%20%281%29.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9y0az-iBd5ujtD17MpaeiXGrTDHWDAwWdcWLvsiNKBe58xVUJa_tAnyXkX58LTpWlhZotWFlziKvRrWbQH-WVQ15yZYwIP_7zSxLh_IrCBzwfYYM8Iz7iw7iNDC2RLTXEEQ8GxUV-VI87Cb8HFT4Gr-GtcN6_K2gxx6ShIlSjEi9kG6ZAKZL_mMCBkvA/s2752/%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A9_%D8%B9%D9%86%D8%AF_%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%86_%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%20%281%29.png)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

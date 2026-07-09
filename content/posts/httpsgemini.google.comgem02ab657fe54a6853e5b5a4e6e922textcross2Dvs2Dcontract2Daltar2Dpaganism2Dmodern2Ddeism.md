@@ -8,7 +8,7 @@ labels: []
 
 هذا المقال يغوص في التاريخ ليشرح الصدام الحضاري والروحي الذي حدث في القرن الأول، وكيف أن "العدو" الذي واجهه الرسل قديماً هو ذاته الذي يتسلل اليوم تحت مسميات "عصرية".
 
-## الصليب في مواجهة المذبح التعاقدي: من وثنية روما إلى "الربوبيّة"<sup><a href="#fn1" id="ref1" class="footnote-link">[1]</a></sup> في العصر الحديث
+## الصليب في مواجهة المذبح التعاقدي: من وثنية روما إلى "الربوبيّة"[1] في العصر الحديث
 
 عندما انطلق الإيمان المسيحي في القرن الأول الميلادي، لم يكن يواجه مجرد "نقص في المعلومات" عن الله، بل كان يصطدم بجدار خرساني من منظومات فلسفية وسيكولوجية راسخة، تجعل من الإنجيل "جهالة" لليونانيين و"عثرة" للرومان. واليوم، نجد أنفسنا أمام مفارقة تاريخية مذهلة؛ إذ تعود بعض الكنائس المعاصرة لتبني ذات المفاهيم الوثنية التي حطمها الرسل، لكنها تصبغها بصبغة مسيحية باهتة تُعرف بـ «الربوبية العلاجية الأخلاقية» ولاهوت الازدهار.
 
@@ -100,8 +100,7 @@ labels: []
 
 \[١\] الربوبية (Deism): هي الاعتقاد بوجود رب لهذا الكون، لكنه إله بعيد لا يتفاعل مع البشر أو التاريخ، ويفتقد لصفات «يهوه» إله الكتاب المقدس كالسلطان الشخصي والقداسة والتدخل الفدائي.
 
-<sup><a href="#fn2" id="ref2" class="footnote-link">[2]</a></sup> رابط الفيديو المرجعي: https://youtu.be/Qw3CjmoB3oY
+[2] رابط الفيديو المرجعي: https://youtu.be/Qw3CjmoB3oY
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNJ4YlE8RlI2QMmEEc_wl6lUHM3Hsfg8YNaB8zy0JP2ZBEcLMCSSi4clDW_6tQ7zNrOQKKd9mSSnnLYvkq_FWBjjJ9xi55qdXEQ82O6ocQW4Vp2OldLHitXX7PpvlS3ESPc8IvSVpcWrAJvqGT2d8oykz_6BlI4Jq-7deDagFVvO066bcJdOHLmIrymYg/s600/Gemini_Generated_Image_p7k14jp7k14jp7k1.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNJ4YlE8RlI2QMmEEc_wl6lUHM3Hsfg8YNaB8zy0JP2ZBEcLMCSSi4clDW_6tQ7zNrOQKKd9mSSnnLYvkq_FWBjjJ9xi55qdXEQ82O6ocQW4Vp2OldLHitXX7PpvlS3ESPc8IvSVpcWrAJvqGT2d8oykz_6BlI4Jq-7deDagFVvO066bcJdOHLmIrymYg/s2754/Gemini_Generated_Image_p7k14jp7k14jp7k1.png)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

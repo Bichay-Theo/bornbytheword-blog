@@ -397,4 +397,3 @@ labels: ["ترجمات"]
 
 [www.desiringGod.org](https://www.desiringGod.org)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

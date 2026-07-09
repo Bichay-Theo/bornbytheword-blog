@@ -82,4 +82,3 @@ labels: []
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHj2F5dUdKkZqCWdzR67TouszSFrGOBF3lR-UPL4YzG2A_2kAM5yFqousTOZPNHA_1smU6W7P5XW2b7dl3A_s4mjwkrqxYgS207OzSiL4Y3aeWSrhyZcvHbRhYUymOCBmEQKT-K0j_yqqXkWlgTpYxIpud1UsYhBWERLgQLoZz7YOolImaGtOK_GOPhyphenhyphenk/s600/unnamed.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHj2F5dUdKkZqCWdzR67TouszSFrGOBF3lR-UPL4YzG2A_2kAM5yFqousTOZPNHA_1smU6W7P5XW2b7dl3A_s4mjwkrqxYgS207OzSiL4Y3aeWSrhyZcvHbRhYUymOCBmEQKT-K0j_yqqXkWlgTpYxIpud1UsYhBWERLgQLoZz7YOolImaGtOK_GOPhyphenhyphenk/s2752/unnamed.png)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

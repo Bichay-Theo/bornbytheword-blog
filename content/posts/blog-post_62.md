@@ -58,4 +58,3 @@ labels: ["مغالطات تفسيرية"]
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl0cilktzEMitcb6_vhj8_W55KPNKdReo97TGqYYKHBZXZHBqHKayadrlTd9OJMgRXRYayj5NpZXLHnkRSxV7AmXlMZTQxMw33EDL1a49qFcib4MtpLGpKgNzYPReJ0FtEBFqySBjXFz1CPDnGGNTxXPTNeeEX3Q-kFJyHTNxR8chjAZqsF77WHHqKTME/s320/600341009_903566498900571_250697378092933820_n.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl0cilktzEMitcb6_vhj8_W55KPNKdReo97TGqYYKHBZXZHBqHKayadrlTd9OJMgRXRYayj5NpZXLHnkRSxV7AmXlMZTQxMw33EDL1a49qFcib4MtpLGpKgNzYPReJ0FtEBFqySBjXFz1CPDnGGNTxXPTNeeEX3Q-kFJyHTNxR8chjAZqsF77WHHqKTME/s960/600341009_903566498900571_250697378092933820_n.jpg)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "رسالة العبرانيين؛ الرمزية وأكتمالها"
 date: "2026-04-05T22:50:00.000-07:00"
 updated: "2026-04-05T22:50:18.189-07:00"
 slug: "typology-in-hebrews-christological-fulfillment-study"

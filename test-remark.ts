@@ -1,1 +1,0 @@
-import { remark } from 'remark'; import html from 'remark-html'; import gfm from 'remark-gfm'; remark().use(gfm).use(html, { sanitize: false }).process('Test[^1]\n\n[^1]: footnote').then(v => console.log(v.toString()))

@@ -1,1 +1,0 @@
-fetch('https://bichay-theo.github.io/bornbytheword-blog/p/god-is-the-gospel').then(r=>r.text()).then(t=>{ const idx=t.indexOf('id="ch4-fnref-9"'); console.log(idx); if(idx > -1) console.log(t.substring(idx-50, idx+50)); })

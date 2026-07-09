@@ -27,7 +27,6 @@ export interface BlogPage {
 
 // Convert [1] or [١] into custom HTML footnotes to match the books exactly
 function convertFootnotesToMarkdown(content: string) {
-  // If the content already has HTML footnotes (like the compiled books), don't touch them!
   if (content.match(/<a.*?href=\"#.*?fn.*?<\/a>/)) {
       return content;
   }
@@ -38,30 +37,28 @@ function convertFootnotesToMarkdown(content: string) {
     return `[${engNum}]`;
   });
   
-  // Second, for footnote definitions that appear at the beginning of a line
-  // e.g., `[1] text...` or `[1]: text...`
+  // Handle `[[1]](#ref1) text` at the beginning of a line (definition)
+  processed = processed.replace(/^\[\[(\d+)\]\]\(#(.*?ref.*?)\)\s*(.*)$/gm, (match, num, target, text) => {
+    return `<p id="fn-${num}" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref-${num}" style="font-weight: bold; color: var(--primary); text-decoration: none;">[${num}] ↩</a> ${text}
+</p>`;
+  });
+
+  // Handle `[1] text` or `[1]: text` at the beginning of a line (definition)
   processed = processed.replace(/^\[([0-9]+)\]:?\s*(.*)$/gm, (match, num, text) => {
     return `<p id="fn-${num}" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ref-${num}" style="font-weight: bold; color: var(--primary); text-decoration: none;">[${num}] ↩</a> ${text}
 </p>`;
   });
   
-  // Third, for inline references: `[1]` -> `<sup>...</sup>`
-  // Since we already replaced definitions, any remaining `[1]` is a reference.
-  // We use a negative lookbehind (if supported) or just rely on the fact that 
-  // definitions were at the start of a line and now look like `<p id="...">...[1]...`.
-  // To avoid replacing the `[1]` inside the `<p>` we just generated, we can make sure 
-  // we only match `[1]` that is NOT inside an HTML tag or is preceded by a space/word.
-  // Actually, an easier way is to just replace it globally, but temporarily hide the `[1]` in the definition.
-  // Wait, the definition has `<a ...>[1] ↩</a>`. We can just match `\[([0-9]+)\]` and if it's not followed by ` ↩`, it's a reference!
-  processed = processed.replace(/\[([0-9]+)\](?! ↩)/g, (match, num) => {
+  // Handle inline reference `[[1]](#fn1)`
+  processed = processed.replace(/\[\[(\d+)\]\]\(#(.*?)\)/g, (match, num, target) => {
     return `<sup id="ref-${num}"><a href="#fn-${num}" style="text-decoration: none; color: var(--primary-color);">[${num}]</a></sup>`;
   });
-  
-  // Clean up any custom [[1]](#something) style footnotes
-  processed = processed.replace(/\[\[(\d+)\]\]\(#(.*?)\)/g, (match, num, target) => {
-    let sourceId = target.includes('fn') ? target.replace('fn', 'ref') : target.replace('ref', 'fn');
-    return `<sup id="${sourceId}"><a href="#${target}" style="text-decoration: none; color: var(--primary-color);">[${num}]</a></sup>`;
+
+  // Handle inline reference `[1]`
+  processed = processed.replace(/\[([0-9]+)\](?! ↩)/g, (match, num) => {
+    return `<sup id="ref-${num}"><a href="#fn-${num}" style="text-decoration: none; color: var(--primary-color);">[${num}]</a></sup>`;
   });
   
   return processed;

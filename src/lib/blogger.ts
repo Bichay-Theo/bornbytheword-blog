@@ -37,15 +37,15 @@ function convertFootnotesToMarkdown(content: string) {
     return `[${engNum}]`;
   });
   
-  // Handle `[[1]](#ref1) text` at the beginning of a line (definition)
-  processed = processed.replace(/^\[\[(\d+)\]\]\(#(.*?ref.*?)\)\s*(.*)$/gm, (match, num, target, text) => {
+  // Handle `[[1]](#ref1)` text at the beginning of a line (definition)
+  processed = processed.replace(/^\\?\[\\?\[(\d+)\\?\]\\?\]\(#(.*?ref.*?)\)\s*(.*)$/gm, (match, num, target, text) => {
     return `<p id="fn-${num}" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ref-${num}" style="font-weight: bold; color: var(--primary); text-decoration: none;">[${num}] ↩</a> ${text}
 </p>`;
   });
 
   // Handle `[1] text` or `[1]: text` at the beginning of a line (definition)
-  processed = processed.replace(/^\[([0-9]+)\]:?\s*(.*)$/gm, (match, num, text) => {
+  processed = processed.replace(/^\\?\[([0-9]+)\\?\]:?\s*(.*)$/gm, (match, num, text) => {
     return `<p id="fn-${num}" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ref-${num}" style="font-weight: bold; color: var(--primary); text-decoration: none;">[${num}] ↩</a> ${text}
 </p>`;

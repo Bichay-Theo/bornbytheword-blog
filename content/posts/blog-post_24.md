@@ -6,7 +6,7 @@ slug: "blog-post_24"
 labels: ["ترجمات"]
 ---
 
-## الفصل الثاني: الإنجيل - النطاق الكتابي لمعناه
+## الْفَصْلُ الثَّانِي: الْإِنْجِيلُ - النِّطَاقُ الْكِتَابِيُّ لِمَعْنَاهُ
 
 > "وَلَكِنَّنِي لَسْتُ أَحْتَسِبُ لِشَيْءٍ، وَلَا نَفْسِي ثَمِينَةٌ عِنْدِي، حَتَّى أُتَمِّمَ بِفَرَحٍ سَعْيِي وَالْخِدْمَةَ الَّتِي أَخَذْتُهَا مِنَ الرَّبِّ يَسُوعَ، لِأَشْهَدَ بِبِشَارَةِ نِعْمَةِ اللهِ" \[أعمال الرسل ٢٠: ٢٤\].
 
@@ -51,4 +51,4 @@ labels: ["ترجمات"]
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4l036PyI40Iug6HxRKVoE33OqZTiwLdDXGvEMGPho8PMWdY1Cz0HP3P82FmSu8f83KOBhCoi08YdLZ0XwPcg909V7pupMWcp4AAdFVQYBzelYGfL8y-fQ1KmGCUs-cqir-N4wr-vNMJ5sln7OlgsNWehBgTU4WK78SXHrh172SB2kE_vKwTenx-UJXZY/s600/02.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4l036PyI40Iug6HxRKVoE33OqZTiwLdDXGvEMGPho8PMWdY1Cz0HP3P82FmSu8f83KOBhCoi08YdLZ0XwPcg909V7pupMWcp4AAdFVQYBzelYGfL8y-fQ1KmGCUs-cqir-N4wr-vNMJ5sln7OlgsNWehBgTU4WK78SXHrh172SB2kE_vKwTenx-UJXZY/s2752/02.png)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

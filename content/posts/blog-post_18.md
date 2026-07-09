@@ -6,7 +6,7 @@ slug: "blog-post_18"
 labels: ["دراسات"]
 ---
 
-## يسوع الكرمة الحقيقية: زوال الظلال بحضور الأصل
+## يَسُوعُ الْكَرْمَةُ الْحَقِيقِيَّةُ: زَوَالُ الظِّلَالِ بِحُضُورِ الْأَصْلِ
 
 دراسة في لاهوت الاتحاد الإلهي وإحلال الحقيقة محل الرمز
 
@@ -26,4 +26,4 @@ labels: ["دراسات"]
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdyGo8kfSmNO5JdP1wBRkBQy6V_RDqsHHFOH9rfVdZlp7bLQvJpCuoX3_H1-1gpi15rfl-yBCNECpsMd6IuOQXLGgt__NDh2GHGrIsQ-72zanllFvd0_bzjUyL7dpXc3rWRTjZOriRTWqLHK5QAO7Z4WFbAGoXtbX3PfZjy4Nt9mRtm3940Js8YV6CahA/s320/unnamed%20\(45\).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdyGo8kfSmNO5JdP1wBRkBQy6V_RDqsHHFOH9rfVdZlp7bLQvJpCuoX3_H1-1gpi15rfl-yBCNECpsMd6IuOQXLGgt__NDh2GHGrIsQ-72zanllFvd0_bzjUyL7dpXc3rWRTjZOriRTWqLHK5QAO7Z4WFbAGoXtbX3PfZjy4Nt9mRtm3940Js8YV6CahA/s1024/unnamed%20\(45\).jpg)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

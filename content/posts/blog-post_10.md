@@ -6,7 +6,7 @@ slug: "blog-post_10"
 labels: ["دراسات"]
 ---
 
-## ذبيحة المشيئة والطريق الحي: تأمل في تكميل المقدسين
+## ذَبِيحَةُ الْمَشِيئَةِ وَالطَّرِيقُ الْحَيُّ: تَأَمُّلٌ فِي تَكْمِيلِ الْمُقَدَّسِينَ
 
 تأمل لاهوتي في كفاية عمل المسيح وفتح طريق الأقداس
 
@@ -28,4 +28,4 @@ labels: ["دراسات"]
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_Q-TTVvFYYVsJnmAs_HTeX8rhq2YQm8KofX6aryVEaElccgM18SH2RtW0x4QiYWGCarW_r2zNiMhFSTKkaBUrlboYJD0ySbGFhPCL1hkiGUMnqmbM1qtZjzRBdSJ9VC4zwCwXoNKTFnpgd3oYirxfXF2fL7QOl_b9Fx6Z4s8bFMoncln4gvr0p7lOK00/s320/unnamed%20\(48\).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_Q-TTVvFYYVsJnmAs_HTeX8rhq2YQm8KofX6aryVEaElccgM18SH2RtW0x4QiYWGCarW_r2zNiMhFSTKkaBUrlboYJD0ySbGFhPCL1hkiGUMnqmbM1qtZjzRBdSJ9VC4zwCwXoNKTFnpgd3oYirxfXF2fL7QOl_b9Fx6Z4s8bFMoncln4gvr0p7lOK00/s1024/unnamed%20\(48\).jpg)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

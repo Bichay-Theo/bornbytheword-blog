@@ -6,7 +6,7 @@ slug: "blog-post_1"
 labels: []
 ---
 
-## حربُ الأختامِ: مِلْكِيَّةُ الحَمَلِ في مُواجهةِ مُحاكاةِ الوَحشِ
+## حَرْبُ الْأَخْتَامِ: مِلْكِيَّةُ الْحَمَلِ فِي مُوَاجَهَةِ مُحَاكَاةِ الْوَحْشِ
 
 > «لاَ تَضُرُّوا الأَرْضَ وَلاَ الْبَحْرَ وَلاَ الأَشْجَارَ، حَتَّى نَخْتِمَ عَبِيدَ إِلهِنَا عَلَى جِبَاهِهِمْ» (رؤيا ٧: ٣)
 
@@ -22,4 +22,4 @@ labels: []
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwczhHYAKAm8bnARmmjKPuMBgY0aaBVzbAApTldx0ufwm-cQesiEgtjZRc4Z2-kS4cKwHY1x9-e4YZ3F-LIqkRRWHON7Qw6tQKCcuPYlwE0_56L7_jMbrkPXidLTW0FbYoFK5MJawz1Z6WiM0Zr82Nhyb_irMWHkMl5wo-bRqT_0KMw6q2mbphGSL41P8/s320/unnamed%20\(55\).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwczhHYAKAm8bnARmmjKPuMBgY0aaBVzbAApTldx0ufwm-cQesiEgtjZRc4Z2-kS4cKwHY1x9-e4YZ3F-LIqkRRWHON7Qw6tQKCcuPYlwE0_56L7_jMbrkPXidLTW0FbYoFK5MJawz1Z6WiM0Zr82Nhyb_irMWHkMl5wo-bRqT_0KMw6q2mbphGSL41P8/s1024/unnamed%20\(55\).jpg)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

@@ -62,7 +62,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       </main>
 
       {toc.length > 0 && (
-        <aside style={{ flex: '0 0 300px', position: 'sticky', top: '100px' }} className="toc-sidebar">
+        <aside id="toc" style={{ flex: '0 0 300px', position: 'sticky', top: '100px' }} className="toc-sidebar">
           <div style={{ background: 'var(--card-bg)', padding: '1.5rem', borderRadius: '8px', border: '1px solid var(--secondary)' }}>
             <h3 style={{ marginBottom: '1rem', color: 'var(--primary)', borderBottom: '1px solid var(--secondary)', paddingBottom: '0.5rem' }}>
               محتويات المقال

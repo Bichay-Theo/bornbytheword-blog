@@ -6,7 +6,7 @@ slug: "blog-post_26"
 labels: ["دراسات"]
 ---
 
-## رحلة في قلب الإيمان المسيحي
+## رِحْلَةٌ فِي قَلْبِ الْإِيمَانِ الْمَسِيحِيِّ
 
 هل فكرت يوماً لماذا يوصف الله في المسيحية بأنه "محبة"؟ وكيف يمكن أن يكون محباً قبل أن يخلق الملائكة أو البشر؟ إن الإجابة على هذه الأسئلة تكمن في أعظم أسرار الإيمان: عقيدة الثالوث القدوس.
 
@@ -58,4 +58,4 @@ labels: ["دراسات"]
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRWTRgZqZPLngL1c5OJGEqw_bwIZYefO_43NTv6xTVmQjZafO9BMjYsM13fRqMBqv78lr_W_uxlGzm1TSxAn1AbqOGD1zI74q0PFcDaH5gGWTY4lLRLmPnFF21So_xveBg-A-qe3a2PXQWmzL_OyecS4zlOjog4SzoGbYaBeDezCoOumPz-JzpZvS91A4/s600/unnamed%20%2848%29.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRWTRgZqZPLngL1c5OJGEqw_bwIZYefO_43NTv6xTVmQjZafO9BMjYsM13fRqMBqv78lr_W_uxlGzm1TSxAn1AbqOGD1zI74q0PFcDaH5gGWTY4lLRLmPnFF21So_xveBg-A-qe3a2PXQWmzL_OyecS4zlOjog4SzoGbYaBeDezCoOumPz-JzpZvS91A4/s2752/unnamed%20%2848%29.png)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

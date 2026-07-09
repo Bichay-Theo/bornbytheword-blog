@@ -6,7 +6,7 @@ slug: "blog-post_62"
 labels: ["مغالطات تفسيرية"]
 ---
 
-## «إكليسيا»: هل هي فعلاً "جماعة المدعوين للخروج"؟
+## «إِكْلِيسِيَّا»: هَلْ هِيَ فِعْلاً "جَمَاعَةُ الْمَدْعُوِّينَ لِلْخُرُوجِ"؟
 
 بين الوهم اللغوي والحقيقة الكتابية
 
@@ -38,7 +38,7 @@ labels: ["مغالطات تفسيرية"]
 
 إذا طبقنا "نقل المعنى الكلي" هنا، سنجعل داود يقول: "أبغضتُ كنيسة المسيح، المكونة من الأثمة!". هذه كارثة تفسيرية. الكلمة هنا مجرد "وعاء" لغوي، والسياق وحده هو الذي يحدد ما إذا كان هذا الوعاء يحوي "قديسين" أم "أثمة".
 
-### ٣. الخلاصة: لاهوت صحيح، استدلال خاطئ
+### ٣. الْخُلَاصَةُ: لَاهُوتٌ صَحِيحٌ، اسْتِدْلَالٌ خَاطِئٌ
 
 نحن نؤمن يقيناً أن المؤمنين "مدعوون" وأنهم "ليسوا من هذا العالم". هذا حق كتابي راسخ نستقيه من نصوص صريحة وواضحة، مثل قول المسيح:
 
@@ -58,4 +58,4 @@ labels: ["مغالطات تفسيرية"]
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl0cilktzEMitcb6_vhj8_W55KPNKdReo97TGqYYKHBZXZHBqHKayadrlTd9OJMgRXRYayj5NpZXLHnkRSxV7AmXlMZTQxMw33EDL1a49qFcib4MtpLGpKgNzYPReJ0FtEBFqySBjXFz1CPDnGGNTxXPTNeeEX3Q-kFJyHTNxR8chjAZqsF77WHHqKTME/s320/600341009_903566498900571_250697378092933820_n.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl0cilktzEMitcb6_vhj8_W55KPNKdReo97TGqYYKHBZXZHBqHKayadrlTd9OJMgRXRYayj5NpZXLHnkRSxV7AmXlMZTQxMw33EDL1a49qFcib4MtpLGpKgNzYPReJ0FtEBFqySBjXFz1CPDnGGNTxXPTNeeEX3Q-kFJyHTNxR8chjAZqsF77WHHqKTME/s960/600341009_903566498900571_250697378092933820_n.jpg)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

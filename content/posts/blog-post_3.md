@@ -6,7 +6,7 @@ slug: "blog-post_3"
 labels: ["مغالطات تفسيرية"]
 ---
 
-## مغالطة «الزمن الماضي»: بين الطمأنينة والنمو المستمر
+## مُغَالَطَةُ «الزَّمَنِ الْمَاضِي»: بَيْنَ الطُّمَأْنِينَةِ وَالنُّمُوِّ الْمُسْتَمِرِّ
 
 في كثير من الأحيان، عندما يرغب الواعظ في منح المستمعين جرعة من الطمأنينة، أو إثبات أن بركة معينة (كالشفاء أو التقديس) قد تمت وانتهت ولا تحتاج إلى أي مجهود، قد يلجأ -بحسن نية- إلى ما يعتبره دليلاً حاسماً فيقول: "يا أحبائي، النص اليوناني هنا يستخدم زمن (Aorist). وهذا الزمن يشير لحدث تم مرة واحدة وإلى الأبد (Once and for all)، فلا داعي للقلق أو المحاولة، الأمر قد حُسم!"
 
@@ -46,4 +46,4 @@ labels: ["مغالطات تفسيرية"]
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGvNyJiK3MVXo6PWUhxbKoTdU8d0FWUVIVN3rmIXpivYpxwlbM_xUAvMNobrb_OAPrui10gC6kBHGXcQooic_RIAcTLvX2NICTZkZqeYOs0Ztz-hRJLIpg8sAlQWqyUZMSvhtCzK0iIugMyI3CF02armS0vAA_UfuHIHWyh6n3nWztAXU04yuPGgEaB-Y/s320/unnamed%20\(20\).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGvNyJiK3MVXo6PWUhxbKoTdU8d0FWUVIVN3rmIXpivYpxwlbM_xUAvMNobrb_OAPrui10gC6kBHGXcQooic_RIAcTLvX2NICTZkZqeYOs0Ztz-hRJLIpg8sAlQWqyUZMSvhtCzK0iIugMyI3CF02armS0vAA_UfuHIHWyh6n3nWztAXU04yuPGgEaB-Y/s1024/unnamed%20\(20\).jpg)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

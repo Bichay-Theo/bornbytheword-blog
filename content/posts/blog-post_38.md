@@ -6,7 +6,7 @@ slug: "blog-post_38"
 labels: ["دراسات"]
 ---
 
-## ضلالة الاكتفاء بالوثيقة عن صاحب العهد
+## ضَلَالَةُ الِاكْتِفَاءِ بِالْوَثِيقَةِ عَنْ صَاحِبِ الْعَهْدِ
 
 تشخيص المغالطة الفريسية في الفصل بين شهادة الكتب وحياة المسيح
 
@@ -26,4 +26,4 @@ labels: ["دراسات"]
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi2gt_RmFWUWZB1nGkAnfZ3S25fzpuHYwREzQjLFGXTgBEAydeOmo3Xd6A0uQja1M71bVvgYIbiCOe9sgJRM9nVPqKq72Eg0NukuBLUloDjLLJGH_Xtd1OzJwXNEpAkfjj8nDNRRDL8vfHdvsGUHLgPvQmwTJYvC-8-Lw2Wd7analb3U-lJXyKf0ZW9js/s320/unnamed%20\(49\).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi2gt_RmFWUWZB1nGkAnfZ3S25fzpuHYwREzQjLFGXTgBEAydeOmo3Xd6A0uQja1M71bVvgYIbiCOe9sgJRM9nVPqKq72Eg0NukuBLUloDjLLJGH_Xtd1OzJwXNEpAkfjj8nDNRRDL8vfHdvsGUHLgPvQmwTJYvC-8-Lw2Wd7analb3U-lJXyKf0ZW9js/s1024/unnamed%20\(49\).jpg)
 
-<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/">العودة للرئيسية 🏠</a></p>
+<p style="text-align: center; margin: 3rem 0; font-weight: bold;"><a href="/bornbytheword-blog/">العودة للرئيسية 🏠</a></p>

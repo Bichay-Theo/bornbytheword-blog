@@ -41,6 +41,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch1">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الأَوَّلُ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizqxQOHRH-92wvVLfvzETwSgYnzRt8nICbZaCJlCrUMeZ0spZ_7pcGSp6g0MqGcbLgTAWu0IHPGCvvhW_9HuJEzixpqWj6R7GqdTavWYh6niNObJfOWlCPy8hzUNC_LxCnDttwnHw8WTS_DTuZjtxnK9Vg2LexqDDSHbxZpJgIfqqaB1H0CzfcNdp4NR8/s2752/unnamed%20%281%29.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizqxQOHRH-92wvVLfvzETwSgYnzRt8nICbZaCJlCrUMeZ0spZ_7pcGSp6g0MqGcbLgTAWu0IHPGCvvhW_9HuJEzixpqWj6R7GqdTavWYh6niNObJfOWlCPy8hzUNC_LxCnDttwnHw8WTS_DTuZjtxnK9Vg2LexqDDSHbxZpJgIfqqaB1H0CzfcNdp4NR8/s600/unnamed%20%281%29.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 يساور الكثيرين الفضول بشأن المجيء الثاني للمسيح؛ كيف ستكون هيئته، ومتى سيقع، وما هي العلامات التي ستسبقه. في كتاب «تَعَالَ أَيُّهَا الرَّبُّ يَسُوعُ»، يتناول جون بايبر كافة هذه المسائل، لكنه يشدد على أن أولئك الذين يحبون المجيء الثاني للمسيح سينالون إكليل البر (٢ تيموثاوس ٤: ٦-٨).
 
@@ -154,7 +158,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 ربما بات من الواضح، إذن، لماذا أسعى وراء محبة أعمق وأكثر أصالة وثباتاً لمجيء المسيح، وأود أن آخذك معي. الهدف هو أن نختبر لهفة مأخوذة بالمسيح لحضوره وتمجيده. فقط فعل إلهي في قلوبنا يمكنه تحقيق ذلك. لذا فإن السؤال الذي ننتقل إليه الآن هو: كيف يمكن لفعل طبيعي، مثل كتابة كتاب أو قراءته، أن يكون وسيلة لهذه الغاية الإعجازية؟
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizqxQOHRH-92wvVLfvzETwSgYnzRt8nICbZaCJlCrUMeZ0spZ_7pcGSp6g0MqGcbLgTAWu0IHPGCvvhW_9HuJEzixpqWj6R7GqdTavWYh6niNObJfOWlCPy8hzUNC_LxCnDttwnHw8WTS_DTuZjtxnK9Vg2LexqDDSHbxZpJgIfqqaB1H0CzfcNdp4NR8/s2752/unnamed%20%281%29.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizqxQOHRH-92wvVLfvzETwSgYnzRt8nICbZaCJlCrUMeZ0spZ_7pcGSp6g0MqGcbLgTAWu0IHPGCvvhW_9HuJEzixpqWj6R7GqdTavWYh6niNObJfOWlCPy8hzUNC_LxCnDttwnHw8WTS_DTuZjtxnK9Vg2LexqDDSHbxZpJgIfqqaB1H0CzfcNdp4NR8/s600/unnamed%20%281%29.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 
 </div>
@@ -163,6 +167,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch2">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّانِي</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR_q5k851J7L8ZnFPG-gnvPX5ODwgZVSv0BgrQjy4GlxKQOgS5-7S-ap7_3qONJklVZ6G1WFzXgdi7wrc1HY3n-rBrA6ZrV_60t76_XPPUBs5Vao5dd9kpHbuRDZi3W5GN1SXleRv8MERCnT2I638VJerBAI-asPZrDKeWWKRujPNkI9f5VDNzdxsO4lE/s2752/unnamed%20%2825%29.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR_q5k851J7L8ZnFPG-gnvPX5ODwgZVSv0BgrQjy4GlxKQOgS5-7S-ap7_3qONJklVZ6G1WFzXgdi7wrc1HY3n-rBrA6ZrV_60t76_XPPUBs5Vao5dd9kpHbuRDZi3W5GN1SXleRv8MERCnT2I638VJerBAI-asPZrDKeWWKRujPNkI9f5VDNzdxsO4lE/s600/unnamed%20%2825%29.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 بما أن الهدف من هذا الكتاب هو مساعدتك على محبة المجيء الثاني للمسيح، فكيف يمكن لهذا أن يحدث فعلياً؟ كيف يمكن للأفعال الطبيعية، المتمثلة في كتابة كتاب وقراءته، أن تؤدي إلى الخبرة الفائقة للطبيعة المتمثلة في محبة المسيح ومجيئه؟
 
@@ -262,7 +270,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 عندما أقول إن هذا الكتاب يمكن أن يكون وسيلة لمحبتك لظهور المسيح، إذا نقلتُ الحق الموضوعي من خلال كتابتي، وإذا أعطى الله النور الروحي من خلال قراءتك، فإن الحق الموضوعي الذي أضعه في اعتباري ليس سوى ما يعلمه الكتاب المقدس. أنا لا أدعي أي سلطة خاصة بي. إذا كنتُ أميناً لما يعلمه الكتاب المقدس، فلي رجاء صالح في أن يُسر الله بالقيام بعمله الإعجازي الواهب للنور حتى لا يرى الكثيرون حقائق المسيح في مجيئه فحسب، بل يروها بكونها مجيدة وثمينة؛ أثمن من كل هذا العالم. هذا هو هدفي؛ أن تتذوق الحق الذي تراه، وأن نجد أنفسنا جميعاً ضمن عداد أولئك «الَّذِينَ يُحِبُّونَ ظُهُورَهُ» (٢ تيموثاوس ٤: ٨).
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR_q5k851J7L8ZnFPG-gnvPX5ODwgZVSv0BgrQjy4GlxKQOgS5-7S-ap7_3qONJklVZ6G1WFzXgdi7wrc1HY3n-rBrA6ZrV_60t76_XPPUBs5Vao5dd9kpHbuRDZi3W5GN1SXleRv8MERCnT2I638VJerBAI-asPZrDKeWWKRujPNkI9f5VDNzdxsO4lE/s2752/unnamed%20%2825%29.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR_q5k851J7L8ZnFPG-gnvPX5ODwgZVSv0BgrQjy4GlxKQOgS5-7S-ap7_3qONJklVZ6G1WFzXgdi7wrc1HY3n-rBrA6ZrV_60t76_XPPUBs5Vao5dd9kpHbuRDZi3W5GN1SXleRv8MERCnT2I638VJerBAI-asPZrDKeWWKRujPNkI9f5VDNzdxsO4lE/s600/unnamed%20%2825%29.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -270,6 +278,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch3">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّالِثُ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpomTzJpst66WIMPQsE8h-MAYTPGKGQfDsv371y6fBgzArBrejQZbiS0RWOakmFa12asoHu2kan3vIxJyuA_QOfgKz_F9mmmO6tpDFs8fakQXuGsPeoOBED2NgVyRJQ30tmZ2T-n_96GthLl0NUkg79VgNSldiJathrEFLsuWqI_aupC9U7k57h0dpM40/s2752/%D8%AC%D9%88%D9%87%D8%B1_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D9%85%D8%AC%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpomTzJpst66WIMPQsE8h-MAYTPGKGQfDsv371y6fBgzArBrejQZbiS0RWOakmFa12asoHu2kan3vIxJyuA_QOfgKz_F9mmmO6tpDFs8fakQXuGsPeoOBED2NgVyRJQ30tmZ2T-n_96GthLl0NUkg79VgNSldiJathrEFLsuWqI_aupC9U7k57h0dpM40/s600/%D8%AC%D9%88%D9%87%D8%B1_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D9%85%D8%AC%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 ## جَوْهَرُ الْأَمْرِ، الْجُزْءُ ١
 
@@ -373,7 +385,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 الهوامش: \[١\] "استعلان مجده" هو بوضوح إشارة إلى المجيء الثاني، كما نرى من الطريقة التي يستخدم بها بطرس مصطلح استعلان، على سبيل المثال، في ١ بطرس ١: ٧: «... لِكَيْ تَكُونَ تَزْكِيَةُ إِيمَانِكُمْ، وَهِيَ أَثْمَنُ مِنَ الذَّهَبِ الْفَانِي، مَعَ أَنَّهُ يُخْتَبَرُ بِالنَّارِ، تُوجَدُ لِلْمَدْحِ وَالْكَرَامَةِ وَالْمَجْدِ عِنْدَ اسْتِعْلاَنِ يَسُوعَ الْمَسِيحِ». انظر أيضاً ١ بطرس ١: ١٣: «لِذَلِكَ مَنْطِقُوا أَحْقَاءَ ذِهْنِكُمْ صَاحِينَ، فَأَلْقُوا رَجَاءَكُمْ بِالتَّمَامِ عَلَى النَّعْمَةِ الَّتِي يُؤْتَى بِهَا إِلَيْكُمْ عِنْدَ اسْتِعْلاَنِ يَسُوعَ الْمَسِيحِ». [2] في الفصل ١٣، أحاول توضيح كيف يرتبط العدد ٢٧ بالتجلي وبالمجيء الثاني. [3] في الفصل ١٦، أتعامل مع الرأي الذي يسعى إلى حصر مثل هذه المقاطع في إتمام تاريخي متمثل في دمار أورشليم في عام ٧٠ ميلادية، دون أي إشارة إلى مجيء نهائي وعالمي للمسيح في انقضاء الدهر. وأحاول تبيان لماذا أظن أن هذا المسعى خاطئ.
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpomTzJpst66WIMPQsE8h-MAYTPGKGQfDsv371y6fBgzArBrejQZbiS0RWOakmFa12asoHu2kan3vIxJyuA_QOfgKz_F9mmmO6tpDFs8fakQXuGsPeoOBED2NgVyRJQ30tmZ2T-n_96GthLl0NUkg79VgNSldiJathrEFLsuWqI_aupC9U7k57h0dpM40/s2752/%D8%AC%D9%88%D9%87%D8%B1_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D9%85%D8%AC%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpomTzJpst66WIMPQsE8h-MAYTPGKGQfDsv371y6fBgzArBrejQZbiS0RWOakmFa12asoHu2kan3vIxJyuA_QOfgKz_F9mmmO6tpDFs8fakQXuGsPeoOBED2NgVyRJQ30tmZ2T-n_96GthLl0NUkg79VgNSldiJathrEFLsuWqI_aupC9U7k57h0dpM40/s600/%D8%AC%D9%88%D9%87%D8%B1_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D9%85%D8%AC%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -496,6 +508,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch5">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْخَامِسُ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9y0az-iBd5ujtD17MpaeiXGrTDHWDAwWdcWLvsiNKBe58xVUJa_tAnyXkX58LTpWlhZotWFlziKvRrWbQH-WVQ15yZYwIP_7zSxLh_IrCBzwfYYM8Iz7iw7iNDC2RLTXEEQ8GxUV-VI87Cb8HFT4Gr-GtcN6_K2gxx6ShIlSjEi9kG6ZAKZL_mMCBkvA/s2752/%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A9_%D8%B9%D9%86%D8%AF_%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%86_%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%20%281%29.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9y0az-iBd5ujtD17MpaeiXGrTDHWDAwWdcWLvsiNKBe58xVUJa_tAnyXkX58LTpWlhZotWFlziKvRrWbQH-WVQ15yZYwIP_7zSxLh_IrCBzwfYYM8Iz7iw7iNDC2RLTXEEQ8GxUV-VI87Cb8HFT4Gr-GtcN6_K2gxx6ShIlSjEi9kG6ZAKZL_mMCBkvA/s600/%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A9_%D8%B9%D9%86%D8%AF_%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%86_%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%20%281%29.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 النعمة التي يُؤتى بها إليكم عند استعلان المسيح
 
@@ -615,7 +631,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> يُقترح هذا التفسير والترجمة في كتاب روبرت هـ. غوندري، تعليق على العهد الجديد: تفسيرات آية بآية مع ترجمة حرفية (Robert H. Gundry, Commentary on the New Testament: Verseby-Verse Explanations with a Literal Translation, Peabody, MA: Hendrickson, 2010)، ص ٩٣٩.
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9y0az-iBd5ujtD17MpaeiXGrTDHWDAwWdcWLvsiNKBe58xVUJa_tAnyXkX58LTpWlhZotWFlziKvRrWbQH-WVQ15yZYwIP_7zSxLh_IrCBzwfYYM8Iz7iw7iNDC2RLTXEEQ8GxUV-VI87Cb8HFT4Gr-GtcN6_K2gxx6ShIlSjEi9kG6ZAKZL_mMCBkvA/s2752/%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A9_%D8%B9%D9%86%D8%AF_%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%86_%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%20%281%29.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9y0az-iBd5ujtD17MpaeiXGrTDHWDAwWdcWLvsiNKBe58xVUJa_tAnyXkX58LTpWlhZotWFlziKvRrWbQH-WVQ15yZYwIP_7zSxLh_IrCBzwfYYM8Iz7iw7iNDC2RLTXEEQ8GxUV-VI87Cb8HFT4Gr-GtcN6_K2gxx6ShIlSjEi9kG6ZAKZL_mMCBkvA/s600/%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A9_%D8%B9%D9%86%D8%AF_%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%86_%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%20%281%29.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -623,6 +639,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch6">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ السَّادِسُ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI9Xk1d_vhNwG7TA4GaI8SriaMfan25rP6UngZEgmDRPj8vZDR7l7GC75pBly12G51yMJMlLtQ_73_cNV_eT6e2ZvRTrMjc3MKluh8dsWbpTd0JuWNtcxvWKNTt6WWmuACXNY7CdigmstRYWqC_tpjN9PuudPDGu3l1UOMGo4TNWRdY60VaBQEh45b2Zc/s2752/%D8%A8%D9%84%D8%A7_%D9%84%D9%88%D9%85_%D8%B9%D9%86%D8%AF_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI9Xk1d_vhNwG7TA4GaI8SriaMfan25rP6UngZEgmDRPj8vZDR7l7GC75pBly12G51yMJMlLtQ_73_cNV_eT6e2ZvRTrMjc3MKluh8dsWbpTd0JuWNtcxvWKNTt6WWmuACXNY7CdigmstRYWqC_tpjN9PuudPDGu3l1UOMGo4TNWRdY60VaBQEh45b2Zc/s600/%D8%A8%D9%84%D8%A7_%D9%84%D9%88%D9%85_%D8%B9%D9%86%D8%AF_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 هل سنكون بلا لوم عند مجيء المسيح؟
 
@@ -792,7 +812,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="fn-3" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ref-3" style="font-weight: bold; color: var(--primary); text-decoration: none;">[3] ↩</a> نعم، جاءت الكلمة في اليونانية كظرف (بلا لوم/على نحو منزه عن اللوم)، لا كصفة (بلا لوم). وتترجمها معظم النسخ كصفة—مثل نسخة (ESV) التي اقتبستُ منها—لأن المعنى الظرفي يبدو غريباً بعض الشيء. وبوصفه ظرفاً، فإنه يُعَدل صفة أو فعلاً؛ فالصفة التي يمكن أن يعدلها هي "كاملة" («روحكم ونفسكم وجسدكم كاملة»)، والفعل الذي يمكن أن يُعَدله هو "تُحفظ". وكلا الأمرين يبدو غريباً: "تُحفظ على نحو منزه عن اللوم" أو "كاملة على نحو منزه عن اللوم". والأول يشير إلى أن الله يعمل بلا لوم، بينما الثاني يشير إلى أن كمال الروح والنفس والجسد يجب أن يُنظر إليه في إشارة إلى خلوها من اللوم. ولست متأكداً كيف يعمل الظرف هنا. ومن التفاصيل التي تجعل هذا النص غريباً بعض الشيء هي الإشارة إلى "الجسد" باعتباره "بلا لوم". ولكن كون (ἀμέμπτως) ظرفاً قد يعيننا على عدم التعثر في تلك الغرابة؛ فبولس لا يصف الجسد بصفة "بلا لوم" كما تفعل معظم التراجم. وبناءً عليه، أستنتج أن الفكرة العامة هي أن الله سيعمل بطريقة تجعلنا، بأكمل صورة ممكنة (ὁλόκληρον)، غير مُعرّضين لأي لوم بأي حال من الأحوال.
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI9Xk1d_vhNwG7TA4GaI8SriaMfan25rP6UngZEgmDRPj8vZDR7l7GC75pBly12G51yMJMlLtQ_73_cNV_eT6e2ZvRTrMjc3MKluh8dsWbpTd0JuWNtcxvWKNTt6WWmuACXNY7CdigmstRYWqC_tpjN9PuudPDGu3l1UOMGo4TNWRdY60VaBQEh45b2Zc/s2752/%D8%A8%D9%84%D8%A7_%D9%84%D9%88%D9%85_%D8%B9%D9%86%D8%AF_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI9Xk1d_vhNwG7TA4GaI8SriaMfan25rP6UngZEgmDRPj8vZDR7l7GC75pBly12G51yMJMlLtQ_73_cNV_eT6e2ZvRTrMjc3MKluh8dsWbpTd0JuWNtcxvWKNTt6WWmuACXNY7CdigmstRYWqC_tpjN9PuudPDGu3l1UOMGo4TNWRdY60VaBQEh45b2Zc/s600/%D8%A8%D9%84%D8%A7_%D9%84%D9%88%D9%85_%D8%B9%D9%86%D8%AF_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -800,6 +820,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch7">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ السَّابِعُ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7V8l03QMct4U_r5kDS-xsc4fJjK9lcpa9667ALZXqMipbQ7kAE-tn2WOO0Bv2c9BkAsg-FizkNXRbEVf7z7X_YdMGi1bKcuYyvMph2-u5jSjELhmP0hRs7eOl_Pz1Fe-K9uQfbp3qvvRBYOSELt2XbC_tci_6c1YXqS1ITvhpbHiKMcI67mSn38NCgNw/s2752/%D8%AA%D9%85%D8%AC%D9%8A%D8%AF_%D9%83%D8%A7%D9%85%D9%84__%D8%B9%D9%82%D9%84%D8%A7%D9%8B_%D9%88%D9%82%D9%84%D8%A8%D9%8B%D8%A7_%D9%88%D8%AC%D8%B3%D8%AF%D9%8B%D8%A7.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7V8l03QMct4U_r5kDS-xsc4fJjK9lcpa9667ALZXqMipbQ7kAE-tn2WOO0Bv2c9BkAsg-FizkNXRbEVf7z7X_YdMGi1bKcuYyvMph2-u5jSjELhmP0hRs7eOl_Pz1Fe-K9uQfbp3qvvRBYOSELt2XbC_tci_6c1YXqS1ITvhpbHiKMcI67mSn38NCgNw/s600/%D8%AA%D9%85%D8%AC%D9%8A%D8%AF_%D9%83%D8%A7%D9%85%D9%84__%D8%B9%D9%82%D9%84%D8%A7%D9%8B_%D9%88%D9%82%D9%84%D8%A8%D9%8B%D8%A7_%D9%88%D8%AC%D8%B3%D8%AF%D9%8B%D8%A7.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 سَنُكَمَّلُ عَقْلًا وَقَلْبًا وَجَسَدًا
 
@@ -965,7 +989,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="ch7-fn-4" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ch7-ref-4" style="font-weight: bold; color: var(--primary); text-decoration: none;">[4] ↩</a> سي. إس. لويس (مفكر ولاهوتي مسيحي بريطاني، مؤلف الدفاعيات المسيحية الكلاسيكية)، كتاب "ثقل المجد".
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7V8l03QMct4U_r5kDS-xsc4fJjK9lcpa9667ALZXqMipbQ7kAE-tn2WOO0Bv2c9BkAsg-FizkNXRbEVf7z7X_YdMGi1bKcuYyvMph2-u5jSjELhmP0hRs7eOl_Pz1Fe-K9uQfbp3qvvRBYOSELt2XbC_tci_6c1YXqS1ITvhpbHiKMcI67mSn38NCgNw/s2752/%D8%AA%D9%85%D8%AC%D9%8A%D8%AF_%D9%83%D8%A7%D9%85%D9%84__%D8%B9%D9%82%D9%84%D8%A7%D9%8B_%D9%88%D9%82%D9%84%D8%A8%D9%8B%D8%A7_%D9%88%D8%AC%D8%B3%D8%AF%D9%8B%D8%A7.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7V8l03QMct4U_r5kDS-xsc4fJjK9lcpa9667ALZXqMipbQ7kAE-tn2WOO0Bv2c9BkAsg-FizkNXRbEVf7z7X_YdMGi1bKcuYyvMph2-u5jSjELhmP0hRs7eOl_Pz1Fe-K9uQfbp3qvvRBYOSELt2XbC_tci_6c1YXqS1ITvhpbHiKMcI67mSn38NCgNw/s600/%D8%AA%D9%85%D8%AC%D9%8A%D8%AF_%D9%83%D8%A7%D9%85%D9%84__%D8%B9%D9%82%D9%84%D8%A7%D9%8B_%D9%88%D9%82%D9%84%D8%A8%D9%8B%D8%A7_%D9%88%D8%AC%D8%B3%D8%AF%D9%8B%D8%A7.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -973,6 +997,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch8">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّامِنُ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVTIdVsddJpBOVnr9nvS_-8tSfp0cQSkQ4ovFVhhYtJoL8o55he44Pnc4dxrm9yccIvul5wvEqHrq0yn__FnbZ3XLneWYmGT8d5Kw60aOJH9Z2CRLnSDIxKfXNMkuIXEuU_8fzMU4sHPjEGvQ30vyVjisrPJ5X6IkuTmr5hqzQf0BPhTbIfPgWyS5w0Yw/s2752/%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD__%D8%A7%D9%84%D8%AF%D9%8A%D8%A7%D9%86_%D9%88%D8%A7%D9%84%D9%85%D9%86%D9%82%D8%B0.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVTIdVsddJpBOVnr9nvS_-8tSfp0cQSkQ4ovFVhhYtJoL8o55he44Pnc4dxrm9yccIvul5wvEqHrq0yn__FnbZ3XLneWYmGT8d5Kw60aOJH9Z2CRLnSDIxKfXNMkuIXEuU_8fzMU4sHPjEGvQ30vyVjisrPJ5X6IkuTmr5hqzQf0BPhTbIfPgWyS5w0Yw/s600/%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD__%D8%A7%D9%84%D8%AF%D9%8A%D8%A7%D9%86_%D9%88%D8%A7%D9%84%D9%85%D9%86%D9%82%D8%B0.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 يَسُوعُ سَيُنْقِذُنَا مِنْ غَضَبِ يَسُوعَ
 
@@ -1112,7 +1140,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="ch8-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ch8-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> انظر الفصل الثامن، الهامش ١.
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVTIdVsddJpBOVnr9nvS_-8tSfp0cQSkQ4ovFVhhYtJoL8o55he44Pnc4dxrm9yccIvul5wvEqHrq0yn__FnbZ3XLneWYmGT8d5Kw60aOJH9Z2CRLnSDIxKfXNMkuIXEuU_8fzMU4sHPjEGvQ30vyVjisrPJ5X6IkuTmr5hqzQf0BPhTbIfPgWyS5w0Yw/s2752/%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD__%D8%A7%D9%84%D8%AF%D9%8A%D8%A7%D9%86_%D9%88%D8%A7%D9%84%D9%85%D9%86%D9%82%D8%B0.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVTIdVsddJpBOVnr9nvS_-8tSfp0cQSkQ4ovFVhhYtJoL8o55he44Pnc4dxrm9yccIvul5wvEqHrq0yn__FnbZ3XLneWYmGT8d5Kw60aOJH9Z2CRLnSDIxKfXNMkuIXEuU_8fzMU4sHPjEGvQ30vyVjisrPJ5X6IkuTmr5hqzQf0BPhTbIfPgWyS5w0Yw/s600/%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD__%D8%A7%D9%84%D8%AF%D9%8A%D8%A7%D9%86_%D9%88%D8%A7%D9%84%D9%85%D9%86%D9%82%D8%B0.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -1120,6 +1148,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch9">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ التَّاسِعُ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifFKwNR6QQC3bKFiAKqeufafEjU6RWjVcJi2tlKtkOvAnJlDCaa7h0i0mxhH-WWjvnlTVFTEJ4ePjnfiX-4w0gIW8yVnLbWo8aGtdZwAn8iBExICiqtdaJnkZjqBXptoOCjnng_T8OlHS3fTiyVcoNErE9Zv_UXUsEf8MhLGHu6w7rYO8ZfTRa0Gb4UGw/s2752/%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%A7%D9%84%D9%85%D8%B2%D8%AF%D9%88%D8%AC__%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%85_%D9%88%D8%A7%D9%84%D8%B1%D8%A7%D8%AD%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifFKwNR6QQC3bKFiAKqeufafEjU6RWjVcJi2tlKtkOvAnJlDCaa7h0i0mxhH-WWjvnlTVFTEJ4ePjnfiX-4w0gIW8yVnLbWo8aGtdZwAn8iBExICiqtdaJnkZjqBXptoOCjnng_T8OlHS3fTiyVcoNErE9Zv_UXUsEf8MhLGHu6w7rYO8ZfTRa0Gb4UGw/s400/%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%A7%D9%84%D9%85%D8%B2%D8%AF%D9%88%D8%AC__%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%85_%D9%88%D8%A7%D9%84%D8%B1%D8%A7%D8%AD%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 فِي نَارِ لَهِيبٍ، بِالانْتِقَامِ وَالرَّاحَةِ
 
@@ -1273,7 +1305,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="ch9-fn-3" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ch9-ref-3" style="font-weight: bold; color: var(--primary); text-decoration: none;">[3] ↩</a> أعتقد أنه من الخطأ حصر تركيز (متى ٢٤) على الأحداث التاريخية التي سبقت وشملت دمار أورشليم عام ٧٠ ميلادياً. انظر الفصل السادس عشر. لا تكمن المشكلة في رؤية إشارات إلى هذه الأحداث في القرن الأول، بل تكمن المشكلة في حصر أفكار يسوع في هذه الأحداث فقط. وأنا أتفق مع لاد حين يكتب: "من مجمل تعليم \[يسوع\]، يتضح أمر واحد: لقد تحدث يسوع عن سقوط أورشليم وعن مجيئه الأخروي معاً. وقد اقترح كرانفيلد أن التاريخي والأخروي قد امتزجا في منظور يسوع الخاص، وأن الحدث الأخروي الأخير يُرى من خلال "شفافية" الحدث التاريخي المباشر. وقد طبق المؤلف هذه الأطروحة على أنبياء العهد القديم ووجد أن هذه النظرة المقربة للمستقبل هي أحد العناصر الأساسية في المنظور النبوي. في عاموس، يوم الرب هو حدث تاريخي (عاموس ٥: ١٨-٢٠) وأخروي (عاموس ٧: ٤؛ ٨: ٨، ٩؛ ٩: ٥). ويصف إشعياء يوم افتقاد بابل التاريخي وكأنه يوم الرب الأخروي (إشعياء ١٣). ويصف صفنيا يوم الرب (صفنيا ١: ٧، ١٤) ككارثة تاريخية على يد عدو غير مسمى (صفنيا ١: ١٠-١٢، ١٦-١٧؛ ٢: ٥-١٥)؛ ولكنه يصفه أيضاً بعبارات كارثة عالمية يُمسح فيها كل كائن من على وجه الأرض (صفنيا ١: ٢، ٣) حتى لا يبقى شيء (صفنيا ١: ۱۸). إن هذه الطريقة في النظر إلى المستقبل تعبر عن الرأي القائل \[بكلمات كرانفيلد\] إن "الأخروي يتجلى في أزمات التاريخ. فالدينونات الإلهية في التاريخ هي، إن جاز التعبير، بروفات للدينونة الأخيرة، والتجسدات المتتابعة لضد المسيح هي إرهاصات للتركيز الأسمى الأخير لتمرد إبليس قبل النهاية" \[سي. إي. بي. كرانفيلد، الإنجيل بحسب القديس مرقس: مقدمة وتعليق (كامبريدج، المملكة المتحدة: مطبعة جامعة كامبريدج، ١٩٥٩)، ٤٠٤\]". جورج إلدون لاد ، لاهوت العهد الجديد، طبعة منقحة، تحرير دي. إيه. هاجنر (غراند رابيدز، ميشيغان: إيردمانز، ١٩٩٣)، ١٩٩. للمزيد حول "المنظور النبوي"، انظر الفصل السابع، الهامش ٢.
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifFKwNR6QQC3bKFiAKqeufafEjU6RWjVcJi2tlKtkOvAnJlDCaa7h0i0mxhH-WWjvnlTVFTEJ4ePjnfiX-4w0gIW8yVnLbWo8aGtdZwAn8iBExICiqtdaJnkZjqBXptoOCjnng_T8OlHS3fTiyVcoNErE9Zv_UXUsEf8MhLGHu6w7rYO8ZfTRa0Gb4UGw/s2752/%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%A7%D9%84%D9%85%D8%B2%D8%AF%D9%88%D8%AC__%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%85_%D9%88%D8%A7%D9%84%D8%B1%D8%A7%D8%AD%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifFKwNR6QQC3bKFiAKqeufafEjU6RWjVcJi2tlKtkOvAnJlDCaa7h0i0mxhH-WWjvnlTVFTEJ4ePjnfiX-4w0gIW8yVnLbWo8aGtdZwAn8iBExICiqtdaJnkZjqBXptoOCjnng_T8OlHS3fTiyVcoNErE9Zv_UXUsEf8MhLGHu6w7rYO8ZfTRa0Gb4UGw/s400/%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%A7%D9%84%D9%85%D8%B2%D8%AF%D9%88%D8%AC__%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%85_%D9%88%D8%A7%D9%84%D8%B1%D8%A7%D8%AD%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -1281,6 +1313,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch10">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْعَاشِرُ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qgqo4eaBj1bA2LXCpQyjQVkVl8ZYV-MJMCjf1Oja9HgEiqC3ltiOpRQiCD3GOODn0fcBMeCZ8yAEACnZpBgIbO9PazTE5viMVYBz1MDNFCqOmVhGHa71VxDdrEuStmPurK3Y0nbvfde-0XHAr0yYgJyPtWg_x5RjMchfn6eUaxyJFYlo6MSmDzaJcTM/s2752/%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%88%D9%86%D8%A9_%D9%88%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A3%D8%A9_%D9%88%D9%81%D9%87%D9%85_%D8%AF%D9%88%D8%B1_%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qgqo4eaBj1bA2LXCpQyjQVkVl8ZYV-MJMCjf1Oja9HgEiqC3ltiOpRQiCD3GOODn0fcBMeCZ8yAEACnZpBgIbO9PazTE5viMVYBz1MDNFCqOmVhGHa71VxDdrEuStmPurK3Y0nbvfde-0XHAr0yYgJyPtWg_x5RjMchfn6eUaxyJFYlo6MSmDzaJcTM/s600/%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%88%D9%86%D8%A9_%D9%88%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A3%D8%A9_%D9%88%D9%81%D9%87%D9%85_%D8%AF%D9%88%D8%B1_%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 مُجَازَاةُ كُلِّ وَاحِدٍ حَسَبَ عَمَلِهِ
 
@@ -1428,7 +1464,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="ch10-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ch10-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> "وحدات نقدية، تبلغ قيمة كل منها أجرة ثلاثة أو أربعة أشهر لعامل يدوي يعمل ستة أيام في الأسبوع." روبرت إتش. غوندري، تعليق على العهد الجديد: شروحات آية بآية مع ترجمة حرفية (بيبودي، ماساتشوستس: هندريكسون، ٢٠١٠)، ٣١٧.
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qgqo4eaBj1bA2LXCpQyjQVkVl8ZYV-MJMCjf1Oja9HgEiqC3ltiOpRQiCD3GOODn0fcBMeCZ8yAEACnZpBgIbO9PazTE5viMVYBz1MDNFCqOmVhGHa71VxDdrEuStmPurK3Y0nbvfde-0XHAr0yYgJyPtWg_x5RjMchfn6eUaxyJFYlo6MSmDzaJcTM/s2752/%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%88%D9%86%D8%A9_%D9%88%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A3%D8%A9_%D9%88%D9%81%D9%87%D9%85_%D8%AF%D9%88%D8%B1_%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qgqo4eaBj1bA2LXCpQyjQVkVl8ZYV-MJMCjf1Oja9HgEiqC3ltiOpRQiCD3GOODn0fcBMeCZ8yAEACnZpBgIbO9PazTE5viMVYBz1MDNFCqOmVhGHa71VxDdrEuStmPurK3Y0nbvfde-0XHAr0yYgJyPtWg_x5RjMchfn6eUaxyJFYlo6MSmDzaJcTM/s600/%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%88%D9%86%D8%A9_%D9%88%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A3%D8%A9_%D9%88%D9%81%D9%87%D9%85_%D8%AF%D9%88%D8%B1_%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -1436,6 +1472,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch11">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْحَادِي عَشَرَ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9EKIqRbprr115ozmW912w3FfgXOQ0aT5OSAks49g7N1oIPChMim0RLhLPRWCpKc1UFKO_RHJ5fuLtHznATuoM1o9UZOPzULidTvR7dQregGyWHEZQGWZs0MNq97O_oxbzWRuk61mvaRl8XLs9J9cwGCwFzaZqTUzyrgIM46ITzPptO17l1PjrxtQ5GZs/s2752/%D8%A3%D9%81%D8%B1%D8%A7%D8%AD_%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A2%D8%AA_%D8%B9%D9%86%D8%AF_%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9EKIqRbprr115ozmW912w3FfgXOQ0aT5OSAks49g7N1oIPChMim0RLhLPRWCpKc1UFKO_RHJ5fuLtHznATuoM1o9UZOPzULidTvR7dQregGyWHEZQGWZs0MNq97O_oxbzWRuk61mvaRl8XLs9J9cwGCwFzaZqTUzyrgIM46ITzPptO17l1PjrxtQ5GZs/s600/%D8%A3%D9%81%D8%B1%D8%A7%D8%AD_%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A2%D8%AA_%D8%B9%D9%86%D8%AF_%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 الْفَرَحُ بِرَجَاءِ نَوَالِ مُكَافَآتٍ مُتَبَايِنَةٍ
 
@@ -1531,7 +1571,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="ch11-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ch11-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> جوناثان إدواردز، _أعمال جوناثان إدواردز_، المجلد ٢، ص ٩٠٢.
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9EKIqRbprr115ozmW912w3FfgXOQ0aT5OSAks49g7N1oIPChMim0RLhLPRWCpKc1UFKO_RHJ5fuLtHznATuoM1o9UZOPzULidTvR7dQregGyWHEZQGWZs0MNq97O_oxbzWRuk61mvaRl8XLs9J9cwGCwFzaZqTUzyrgIM46ITzPptO17l1PjrxtQ5GZs/s2752/%D8%A3%D9%81%D8%B1%D8%A7%D8%AD_%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A2%D8%AA_%D8%B9%D9%86%D8%AF_%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9EKIqRbprr115ozmW912w3FfgXOQ0aT5OSAks49g7N1oIPChMim0RLhLPRWCpKc1UFKO_RHJ5fuLtHznATuoM1o9UZOPzULidTvR7dQregGyWHEZQGWZs0MNq97O_oxbzWRuk61mvaRl8XLs9J9cwGCwFzaZqTUzyrgIM46ITzPptO17l1PjrxtQ5GZs/s600/%D8%A3%D9%81%D8%B1%D8%A7%D8%AD_%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A2%D8%AA_%D8%B9%D9%86%D8%AF_%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -1539,6 +1579,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch12">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّانِي عَشَرَ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzDtpyptfaHSD1rWYBlDvPyKO_MTMJD9NbRMwOJYRvLAP-_9RCWsSUDjxZMw63PycVMR0kQ-W-pLmKHLtf-e6rITtYEySwdWiGkBTkBJRacvHO7Dj4qQt98mRwG5xO0-WFvzeveBaOWgGvhuK5UuP1-9DXzak4SUVHWll32dyr-bEzF0lj2Gx0Rjt_u0/s2752/%D8%A7%D9%84%D9%81%D8%B1%D8%AD_%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A_%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9_%D9%85%D8%B9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzDtpyptfaHSD1rWYBlDvPyKO_MTMJD9NbRMwOJYRvLAP-_9RCWsSUDjxZMw63PycVMR0kQ-W-pLmKHLtf-e6rITtYEySwdWiGkBTkBJRacvHO7Dj4qQt98mRwG5xO0-WFvzeveBaOWgGvhuK5UuP1-9DXzak4SUVHWll32dyr-bEzF0lj2Gx0Rjt_u0/s600/%D8%A7%D9%84%D9%81%D8%B1%D8%AD_%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A_%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9_%D9%85%D8%B9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 فرح الشركة الشخصية مع الخادم ذي السيادة
 
@@ -1682,7 +1726,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="ch12-fn-4" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ch12-ref-4" style="font-weight: bold; color: var(--primary); text-decoration: none;">[4] ↩</a> . انظر الفصل الثامن، الهامش ١.
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzDtpyptfaHSD1rWYBlDvPyKO_MTMJD9NbRMwOJYRvLAP-_9RCWsSUDjxZMw63PycVMR0kQ-W-pLmKHLtf-e6rITtYEySwdWiGkBTkBJRacvHO7Dj4qQt98mRwG5xO0-WFvzeveBaOWgGvhuK5UuP1-9DXzak4SUVHWll32dyr-bEzF0lj2Gx0Rjt_u0/s2752/%D8%A7%D9%84%D9%81%D8%B1%D8%AD_%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A_%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9_%D9%85%D8%B9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzDtpyptfaHSD1rWYBlDvPyKO_MTMJD9NbRMwOJYRvLAP-_9RCWsSUDjxZMw63PycVMR0kQ-W-pLmKHLtf-e6rITtYEySwdWiGkBTkBJRacvHO7Dj4qQt98mRwG5xO0-WFvzeveBaOWgGvhuK5UuP1-9DXzak4SUVHWll32dyr-bEzF0lj2Gx0Rjt_u0/s600/%D8%A7%D9%84%D9%81%D8%B1%D8%AD_%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A_%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9_%D9%85%D8%B9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -1690,6 +1734,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch13">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّالِثَ عَشَرَ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6TCFCpo-qHKeQ18hM8h4XdKSiPfvrxgLhyouxCTIIA8KzTLhgfptYF6GQVch9tgCaLN9sxpi-lnx5miIv51Vps8P8IO7a_pcQJN2aDN7EQhxbTYGfrLAuYu6Rg-vqAnoDKFAmCGHgb6QZCac9lV6BtVSvue93rpIqcDHHi60BA-qbz3tCzpwwCIjeYoQ/s2752/%D9%85%D8%AA%D9%89_%D9%8A%D8%B9%D9%88%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D8%B1_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6TCFCpo-qHKeQ18hM8h4XdKSiPfvrxgLhyouxCTIIA8KzTLhgfptYF6GQVch9tgCaLN9sxpi-lnx5miIv51Vps8P8IO7a_pcQJN2aDN7EQhxbTYGfrLAuYu6Rg-vqAnoDKFAmCGHgb6QZCac9lV6BtVSvue93rpIqcDHHi60BA-qbz3tCzpwwCIjeYoQ/s600/%D9%85%D8%AA%D9%89_%D9%8A%D8%B9%D9%88%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D8%B1_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 وقت ظهوره  
 مقدمة للجزء الثاني  
@@ -1827,7 +1875,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="fn9" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ref9" style="font-weight: bold; color: var(--primary); text-decoration: none;">[9] ↩</a> انظر جون بايبر، "خمسة أسباب تجعلني أعتقد أن \[رومية ١١ : ٢٦\] تعني تجديدا مستقبليا لإسرائيل".
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6TCFCpo-qHKeQ18hM8h4XdKSiPfvrxgLhyouxCTIIA8KzTLhgfptYF6GQVch9tgCaLN9sxpi-lnx5miIv51Vps8P8IO7a_pcQJN2aDN7EQhxbTYGfrLAuYu6Rg-vqAnoDKFAmCGHgb6QZCac9lV6BtVSvue93rpIqcDHHi60BA-qbz3tCzpwwCIjeYoQ/s2752/%D9%85%D8%AA%D9%89_%D9%8A%D8%B9%D9%88%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D8%B1_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6TCFCpo-qHKeQ18hM8h4XdKSiPfvrxgLhyouxCTIIA8KzTLhgfptYF6GQVch9tgCaLN9sxpi-lnx5miIv51Vps8P8IO7a_pcQJN2aDN7EQhxbTYGfrLAuYu6Rg-vqAnoDKFAmCGHgb6QZCac9lV6BtVSvue93rpIqcDHHi60BA-qbz3tCzpwwCIjeYoQ/s600/%D9%85%D8%AA%D9%89_%D9%8A%D8%B9%D9%88%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D8%B1_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -1835,6 +1883,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch14">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الرَّابِعَ عَشَرَ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-2RAHvbW5c8Wmn8r44gLvDcbyldH2FyAWXnMALespwCDax6meibhphpoNGR-7siqMoh4dZ7qkEuhdYDnJ9YsbPXdhsP7e4aLVEpvIpHY0mdwAh2zjwrt5jLKWnDdt6McUlQibjbU-Cdz_71Cz5DO8osRT1Xgc4QhmkH1pFDB69QxkJL_K5wwa-PR4F2c/s2752/%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF_%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9_%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%B3%D8%B1%D9%8A%D8%B9%D8%A7%D9%8B.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-2RAHvbW5c8Wmn8r44gLvDcbyldH2FyAWXnMALespwCDax6meibhphpoNGR-7siqMoh4dZ7qkEuhdYDnJ9YsbPXdhsP7e4aLVEpvIpHY0mdwAh2zjwrt5jLKWnDdt6McUlQibjbU-Cdz_71Cz5DO8osRT1Xgc4QhmkH1pFDB69QxkJL_K5wwa-PR4F2c/s600/%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF_%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9_%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%B3%D8%B1%D9%8A%D8%B9%D8%A7%D9%8B.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 ماذا يقصد العهد الجديد بأن يسوع سيأتي سريعا؟
 
@@ -1950,7 +2002,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="ch14-fn-4" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ch14-ref-4" style="font-weight: bold; color: var(--primary); text-decoration: none;">[4] ↩</a> . يشير بن ويذرنجتون إلى أن نظرية النسبية ينبغي، على الأقل، أن تجعلنا متواضعين وتمنعنا من استخدام إدراكنا الهش لمعنى الزمن لإصدار أحكام على النبوات الكتابية: "يشير العديد من العلماء إلى أن 'الزمن، في الواقع، مرن ويمكن تمديده وتقليصه بالحركة'. ليس هذا فحسب، بل 'إن الزمن يمر حقا بشكل أسرع في الفضاء، حيث تكون جاذبية الأرض أضعف'. باختصار، الزمان والمكان والجاذبية أمور مترابطة ومعتمدة على بعضها البعض... والآن، هذا في حد ذاته يجب أن يدفعنا جميعا للتوقف والتأمل. فإدراكنا الخاص لمرور الزمن أو حساب الزمن لا يمثل أساسا صلبا أو موثوقا لإصدار حكم واثق حول صحة المفاهيم الأخروية التي علمها يسوع وبولس... إن ما تعلمناه عن الزمن من نظرية النسبية مقترنا باستكشاف الفضاء يشير إلى أنه بما أن الزمان والمكان والجاذبية أمور مترابطة، ومهما كان ما قد يقال خلاف ذلك، فإن الأبدية أو السماء لابد أن تكون مختلفة تماما عن الأرض فيما يتعلق بمسألة الزمن برمتها. وقد يثبت أيضا أنه من الحق أن الكاتب الكتابي قد قال أكثر مما أدرك عندما أشار إلى أن 'يَوْمًا وَاحِدًا عِنْدَ الرَّبِّ كَأَلْفِ سَنَةٍ، وَأَلْفَ سَنَةٍ كَيَوْمٍ وَاحِدٍ' \[بطرس الثانية ٣ : ٨\]." بن ويذرنجتون الثالث، يسوع وبولس ونهاية العالم: دراسة مقارنة في أخرويات العهد الجديد (داونرز جروف، إلينوي: مطبعة إنترڤارسيتي، ١٩٩٢)، ٢٣٣-٣٤.
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-2RAHvbW5c8Wmn8r44gLvDcbyldH2FyAWXnMALespwCDax6meibhphpoNGR-7siqMoh4dZ7qkEuhdYDnJ9YsbPXdhsP7e4aLVEpvIpHY0mdwAh2zjwrt5jLKWnDdt6McUlQibjbU-Cdz_71Cz5DO8osRT1Xgc4QhmkH1pFDB69QxkJL_K5wwa-PR4F2c/s2752/%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF_%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9_%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%B3%D8%B1%D9%8A%D8%B9%D8%A7%D9%8B.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-2RAHvbW5c8Wmn8r44gLvDcbyldH2FyAWXnMALespwCDax6meibhphpoNGR-7siqMoh4dZ7qkEuhdYDnJ9YsbPXdhsP7e4aLVEpvIpHY0mdwAh2zjwrt5jLKWnDdt6McUlQibjbU-Cdz_71Cz5DO8osRT1Xgc4QhmkH1pFDB69QxkJL_K5wwa-PR4F2c/s600/%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF_%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9_%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%B3%D8%B1%D9%8A%D8%B9%D8%A7%D9%8B.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -1958,6 +2010,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch15">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْخَامِسَ عَشَرَ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipIRSFiao37CxGmBlT1MbelYH5QusR5DKFBZE6v0tb76KZCuqwDUvyZ3bwdTT6ImyrfwzCckY0RPg1sDZ5nwWjOmUjs9bb3KQ8J1OxN5mXanKm3SgMLYy6Zad2_MkATqM8WrXNsVgyq-vBqnG-xM8g282dNXEtGuFcqiRw30Bmb0raWiTbQYtPRPCbfiM/s2752/%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A__%D8%AD%D8%AF%D8%AB_%D8%A3%D9%85_%D8%AD%D8%AF%D8%AB%D8%A7%D9%86%D8%9F.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipIRSFiao37CxGmBlT1MbelYH5QusR5DKFBZE6v0tb76KZCuqwDUvyZ3bwdTT6ImyrfwzCckY0RPg1sDZ5nwWjOmUjs9bb3KQ8J1OxN5mXanKm3SgMLYy6Zad2_MkATqM8WrXNsVgyq-vBqnG-xM8g282dNXEtGuFcqiRw30Bmb0raWiTbQYtPRPCbfiM/s600/%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A__%D8%AD%D8%AF%D8%AB_%D8%A3%D9%85_%D8%AD%D8%AF%D8%AB%D8%A7%D9%86%D8%9F.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 هل هناك اختطاف في أية لحظة قبل المجيء الثاني؟
 
@@ -2093,7 +2149,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="ch15-fn-3" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ch15-ref-3" style="font-weight: bold; color: var(--primary); text-decoration: none;">[3] ↩</a> انظر الفصل الثامن.
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipIRSFiao37CxGmBlT1MbelYH5QusR5DKFBZE6v0tb76KZCuqwDUvyZ3bwdTT6ImyrfwzCckY0RPg1sDZ5nwWjOmUjs9bb3KQ8J1OxN5mXanKm3SgMLYy6Zad2_MkATqM8WrXNsVgyq-vBqnG-xM8g282dNXEtGuFcqiRw30Bmb0raWiTbQYtPRPCbfiM/s2752/%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A__%D8%AD%D8%AF%D8%AB_%D8%A3%D9%85_%D8%AD%D8%AF%D8%AB%D8%A7%D9%86%D8%9F.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipIRSFiao37CxGmBlT1MbelYH5QusR5DKFBZE6v0tb76KZCuqwDUvyZ3bwdTT6ImyrfwzCckY0RPg1sDZ5nwWjOmUjs9bb3KQ8J1OxN5mXanKm3SgMLYy6Zad2_MkATqM8WrXNsVgyq-vBqnG-xM8g282dNXEtGuFcqiRw30Bmb0raWiTbQYtPRPCbfiM/s600/%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A__%D8%AD%D8%AF%D8%AB_%D8%A3%D9%85_%D8%AD%D8%AF%D8%AB%D8%A7%D9%86%D8%9F.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -2101,6 +2157,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch16">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ السَّادِسَ عَشَرَ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWD8s1sDgLT2BJ8R0ftTGcflVdvMpFjbice_dqkU1XinQGuFDIBbgfww2ADVxSjHrFgAZzfeYKTQ8nje2FN7naknI3Gl2S5HDqanBRuTlYU7KHKq65fRfjSnKAuFuqD6ltoHrxaFFd_65GukBbYYvd6cvwTkk0othVPnhUvcHfUV81YnYPphrZnDu-AIA/s2752/%D8%B1%D8%A4%D9%8A%D8%A9_%D9%85%D9%88%D8%AD%D8%AF%D8%A9_%D9%84%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWD8s1sDgLT2BJ8R0ftTGcflVdvMpFjbice_dqkU1XinQGuFDIBbgfww2ADVxSjHrFgAZzfeYKTQ8nje2FN7naknI3Gl2S5HDqanBRuTlYU7KHKq65fRfjSnKAuFuqD6ltoHrxaFFd_65GukBbYYvd6cvwTkk0othVPnhUvcHfUV81YnYPphrZnDu-AIA/s600/%D8%B1%D8%A4%D9%8A%D8%A9_%D9%85%D9%88%D8%AD%D8%AF%D8%A9_%D9%84%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 يسوع وبولس رؤية مشتركة لمجيء المسيح
 
@@ -2350,7 +2410,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="ch16-fn-5" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ch16-ref-5" style="font-weight: bold; color: var(--primary); text-decoration: none;">[5] ↩</a> انظر الهامش ٤ في الفصل ١٣. يجادل بعض مفسري \[متى ٢٤\] بأنه عندما سأل التلاميذ في العدد ٣: «...مَتَى يَكُونُ هذَا؟» كانوا يشيرون فقط إلى دمار الهيكل، وأن يسوع يجيب عن هذا الجزء من سؤالهم في الأعداد ٤-٣٥. وفي ذلك الرأي، تشير لغة تلك الأعداد فقط إلى القرن الأول. وهكذا، على سبيل المثال، عندما يقول يسوع في العدد ١٤: «وَيُكْرَزُ بِبِشَارَةِ الْمَلَكُوتِ هذِهِ فِي كُلِّ الْمَسْكُونَةِ شَهَادَةً لِجَمِيعِ الأُمَمِ. ثُمَّ يَأْتِي الْمُنْتَهَى.» يقول سام ستورمز \[Sam Storms، لاهوتي أمريكي إصلاحي معاصر\]: "بقدر ما يتعلق الأمر بنبوة يسوع في \[متى ٢٤ : ١٤\]، فإن النقطة التي يرمي إليها هي أنه في أعقاب قيامته سيُكرز بالإنجيل خارج حدود اليهودية، بحيث تسمع الأمم الوثنية في العالم المأهول المعروف باسم الإمبراطورية الرومانية شهادة عمله الفدائي. وفقط بعد ذلك، كما يقول يسوع، سيحدث 'منتهى' المدينة والهيكل... إن المأمورية العظمى في \[متى ٢٨\] لا تترك أية ثغرات. يجب علينا ببساطة أن نكدح في نعمة الله لنكرز بإنجيل الله ولنتلمذ جميع الأمم. إن نقطتي... هي ببساطة أن \[متى ٢٤ : ١٤\] لا يهتم بتلك المهمة." سام ستورمز، ملكوت آت: البديل اللاألفي (فيرن، روس-شاير، المملكة المتحدة: مينتور، ٢٠١٣)، ٢٤٢-٤٤.
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWD8s1sDgLT2BJ8R0ftTGcflVdvMpFjbice_dqkU1XinQGuFDIBbgfww2ADVxSjHrFgAZzfeYKTQ8nje2FN7naknI3Gl2S5HDqanBRuTlYU7KHKq65fRfjSnKAuFuqD6ltoHrxaFFd_65GukBbYYvd6cvwTkk0othVPnhUvcHfUV81YnYPphrZnDu-AIA/s2752/%D8%B1%D8%A4%D9%8A%D8%A9_%D9%85%D9%88%D8%AD%D8%AF%D8%A9_%D9%84%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWD8s1sDgLT2BJ8R0ftTGcflVdvMpFjbice_dqkU1XinQGuFDIBbgfww2ADVxSjHrFgAZzfeYKTQ8nje2FN7naknI3Gl2S5HDqanBRuTlYU7KHKq65fRfjSnKAuFuqD6ltoHrxaFFd_65GukBbYYvd6cvwTkk0othVPnhUvcHfUV81YnYPphrZnDu-AIA/s600/%D8%B1%D8%A4%D9%8A%D8%A9_%D9%85%D9%88%D8%AD%D8%AF%D8%A9_%D9%84%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -2358,6 +2418,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch17">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ السَّابِعَ عَشَرَ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2AIK-nYOaIq1fDoATS0HI3K9it0XL1GeWrsUISiTOVaAWlPRUsltmtjZfYIFzGV9ToiL7-LYQ_bXz5q0hTRF9QrGo_QVWmqr__asZgckQTbKA3jDVbvfOPO2E35Vt5Tywd1fkn7VDsem5snT-iapEDLSS9itzWNAD5oqBFhrrxMLGffX8JV8GBpBOJ5Q/s2752/%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA_%D9%85%D8%A7_%D9%82%D8%A8%D9%84_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2AIK-nYOaIq1fDoATS0HI3K9it0XL1GeWrsUISiTOVaAWlPRUsltmtjZfYIFzGV9ToiL7-LYQ_bXz5q0hTRF9QrGo_QVWmqr__asZgckQTbKA3jDVbvfOPO2E35Vt5Tywd1fkn7VDsem5snT-iapEDLSS9itzWNAD5oqBFhrrxMLGffX8JV8GBpBOJ5Q/s600/%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA_%D9%85%D8%A7_%D9%82%D8%A8%D9%84_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 ما الذي يجب أن يحدث قبل ظهور الرب؟
 
@@ -2535,7 +2599,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="ch17-fn-11" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ch17-ref-11" style="font-weight: bold; color: var(--primary); text-decoration: none;">[11] ↩</a> قد يحسب المرء أن الضيقة العظيمة هي الأسبوع السبعون من \[دانيال ٩ : ٢٤-٢٥\]، وبالتالي فإن مدتها هي سبع سنوات. ثم قد يلاحظ المرء من سفر الرؤيا أن الوحش أو ضد المسيح (والذي هو على الأرجح ذاته إنسان الخطية) سيهيمن في جزء كبير من هذا الوقت. وإذا اتبعنا مسار التفكير هذا، فإن سبع سنوات هي الحد الأقصى للمدة التي سيهيمن فيها إنسان الخطية. ولكن حتى لو اتبعنا هذا المسار، فإن الأرقام غالبا ما تكون رمزية في الكتاب المقدس. وأضف إلى ذلك ما يقوله يسوع عن أيام الضيقة تلك: «وَلَوْ لَمْ تُقَصَّرْ تِلْكَ الأَيَّامُ لَمْ يَخْلُصْ جَسَدٌ. وَلكِنْ لأَجْلِ الْمُخْتَارِينَ تُقَصَّرُ تِلْكَ الأَيَّامُ.» \[متى ٢٤ : ٢٢\]. وفي ضوء هذا "التقصير" الإلهي للأيام، وفي ضوء الطابع الرمزي المتكرر للرقم سبعة، لا أعتقد أنه يمكننا القول بيقين مدى سرعة صعود إنسان الخطية، ولا كم من الوقت سيمضي قبل أن يبيده الرب. ولكن بالنظر إلى كل الأمور، لا تبدو مدة خمس إلى سبع سنوات كتقدير متهور لطول الفترة التي قد تستغرقها المرحلة من ظهوره وحتى مجيء المسيح، حين يُباد إنسان الخطية \[تسالونيكي الثانية ٢ : ٨\].
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2AIK-nYOaIq1fDoATS0HI3K9it0XL1GeWrsUISiTOVaAWlPRUsltmtjZfYIFzGV9ToiL7-LYQ_bXz5q0hTRF9QrGo_QVWmqr__asZgckQTbKA3jDVbvfOPO2E35Vt5Tywd1fkn7VDsem5snT-iapEDLSS9itzWNAD5oqBFhrrxMLGffX8JV8GBpBOJ5Q/s2752/%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA_%D9%85%D8%A7_%D9%82%D8%A8%D9%84_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2AIK-nYOaIq1fDoATS0HI3K9it0XL1GeWrsUISiTOVaAWlPRUsltmtjZfYIFzGV9ToiL7-LYQ_bXz5q0hTRF9QrGo_QVWmqr__asZgckQTbKA3jDVbvfOPO2E35Vt5Tywd1fkn7VDsem5snT-iapEDLSS9itzWNAD5oqBFhrrxMLGffX8JV8GBpBOJ5Q/s600/%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA_%D9%85%D8%A7_%D9%82%D8%A8%D9%84_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -2543,6 +2607,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch18">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّامِنَ عَشَرَ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieUB7bQtogyoqkoBUSiwstOZ851JfZb6x7RaHCT-uehfgFU1f1LnrwErcpkAhoQYsYQlMLcbKDgAXg1tF2ryQy0gkx5zw98dbOtfKLkd_UhINl4tUbnrjfOGIAWUHktA1Oes81U3nDT8CIihKG3_0soTIcQLtZLcnC22T7oRZboB5bxzy9PwxK-lQPIEA/s2752/%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A6%D9%8A%D9%86__%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D9%8A%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieUB7bQtogyoqkoBUSiwstOZ851JfZb6x7RaHCT-uehfgFU1f1LnrwErcpkAhoQYsYQlMLcbKDgAXg1tF2ryQy0gkx5zw98dbOtfKLkd_UhINl4tUbnrjfOGIAWUHktA1Oes81U3nDT8CIihKG3_0soTIcQLtZLcnC22T7oRZboB5bxzy9PwxK-lQPIEA/s600/%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A6%D9%8A%D9%86__%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D9%8A%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 كَيْفَ يَنْبَغِي لَنَا إِذًا أَنْ نَعِيشَ؟  
 مُقَدِّمَةٌ لِلْجُزْءِ الثَّالِثِ  
@@ -2649,7 +2717,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 لذا ففي كل نقاشنا حول وصايا يسوع بالسهر والصحو، كنا في الواقع نتحدث عن محبة ظهور الرب. فأن تكون مستيقظا ومنتبها روحيا يعني أن تكون واقعا في محبة مجيء الرب. والبديل هو السقوط في سبات محبة العالم والعمى عن أمجاد المسيح الآتي. وهذه هي الإجابة العظيمة عن كيف ينبغي لنا أن نعيش. ينبغي لنا أن نعيش في محبة ظهور المسيح. إن الحياة في محبة ظهور المسيح هي متعة ترقبية عظيمة. إنها قوة عظيمة للسلوك في الحرية من الخطية. إنها حماية عظيمة من الخداع في الأيام الأخيرة.
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieUB7bQtogyoqkoBUSiwstOZ851JfZb6x7RaHCT-uehfgFU1f1LnrwErcpkAhoQYsYQlMLcbKDgAXg1tF2ryQy0gkx5zw98dbOtfKLkd_UhINl4tUbnrjfOGIAWUHktA1Oes81U3nDT8CIihKG3_0soTIcQLtZLcnC22T7oRZboB5bxzy9PwxK-lQPIEA/s2752/%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A6%D9%8A%D9%86__%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D9%8A%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieUB7bQtogyoqkoBUSiwstOZ851JfZb6x7RaHCT-uehfgFU1f1LnrwErcpkAhoQYsYQlMLcbKDgAXg1tF2ryQy0gkx5zw98dbOtfKLkd_UhINl4tUbnrjfOGIAWUHktA1Oes81U3nDT8CIihKG3_0soTIcQLtZLcnC22T7oRZboB5bxzy9PwxK-lQPIEA/s600/%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A6%D9%8A%D9%86__%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D9%8A%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -2657,6 +2725,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch19">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ التَّاسِعَ عَشَرَ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBnxLZKt_YKUdfQQKBOWQFkDf6o50cDyy0lI-35PWDcyagEZrqC0hlQrig9PxHjS4KngrJ3u1JJ1Sj74XoeA-8l7YtS45y9d8JJ-LsXhhzqN5d5Rt8OeRBud0cC-wSiOVDXivGEqWoX-8ecdbVn9GyOEo9maVNxF_UCT0z2MyCI3CNaFNpiAkfXaMBw68/s2752/%D8%AF%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86_%D9%84%D9%84%D8%AB%D8%A8%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D9%8A%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBnxLZKt_YKUdfQQKBOWQFkDf6o50cDyy0lI-35PWDcyagEZrqC0hlQrig9PxHjS4KngrJ3u1JJ1Sj74XoeA-8l7YtS45y9d8JJ-LsXhhzqN5d5Rt8OeRBud0cC-wSiOVDXivGEqWoX-8ecdbVn9GyOEo9maVNxF_UCT0z2MyCI3CNaFNpiAkfXaMBw68/s600/%D8%AF%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86_%D9%84%D9%84%D8%AB%D8%A8%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D9%8A%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 صابرون، فرحون، لا نخدع، ولا نرتاع
 
@@ -2712,7 +2784,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 ولذلك، فحتى الموت لا يحيل تيقظ وقت النهاية فينا إلى ارتياع. نحن صابرون، وثابتون، وممتلئون بالرجاء. وفوق كل الإغراءات، ورغم كل الخسائر، نحن نحب ظهور الرب.
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBnxLZKt_YKUdfQQKBOWQFkDf6o50cDyy0lI-35PWDcyagEZrqC0hlQrig9PxHjS4KngrJ3u1JJ1Sj74XoeA-8l7YtS45y9d8JJ-LsXhhzqN5d5Rt8OeRBud0cC-wSiOVDXivGEqWoX-8ecdbVn9GyOEo9maVNxF_UCT0z2MyCI3CNaFNpiAkfXaMBw68/s2752/%D8%AF%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86_%D9%84%D9%84%D8%AB%D8%A8%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D9%8A%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBnxLZKt_YKUdfQQKBOWQFkDf6o50cDyy0lI-35PWDcyagEZrqC0hlQrig9PxHjS4KngrJ3u1JJ1Sj74XoeA-8l7YtS45y9d8JJ-LsXhhzqN5d5Rt8OeRBud0cC-wSiOVDXivGEqWoX-8ecdbVn9GyOEo9maVNxF_UCT0z2MyCI3CNaFNpiAkfXaMBw68/s600/%D8%AF%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86_%D9%84%D9%84%D8%AB%D8%A8%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D9%8A%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -2720,6 +2792,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch20">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْعِشْرُونَ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKHdBR2jz9OU-G1y8E-l09z-3YH4-LFA25OJ_7hNvmVN4xNL3yl2P2t4v_a754zANFADcf0amW1XH2QG2QjLNWG0YZEXQ8j3IwjpOIlbGxJXemTHsi_YEm2LvRp1MeSv8jsVcmrKNlD2okuQHJRFJ3Ta7QRay3qFuB8YJ3IsOZbIJAWOnxb08Isk1Fock/s2752/%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKHdBR2jz9OU-G1y8E-l09z-3YH4-LFA25OJ_7hNvmVN4xNL3yl2P2t4v_a754zANFADcf0amW1XH2QG2QjLNWG0YZEXQ8j3IwjpOIlbGxJXemTHsi_YEm2LvRp1MeSv8jsVcmrKNlD2okuQHJRFJ3Ta7QRay3qFuB8YJ3IsOZbIJAWOnxb08Isk1Fock/s600/%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 عدل آت، ووداعة حاضرة
 
@@ -2775,7 +2851,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="ch20-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ch20-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> للتعرف على معنى القرب، انظر الفصل ١٤.
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKHdBR2jz9OU-G1y8E-l09z-3YH4-LFA25OJ_7hNvmVN4xNL3yl2P2t4v_a754zANFADcf0amW1XH2QG2QjLNWG0YZEXQ8j3IwjpOIlbGxJXemTHsi_YEm2LvRp1MeSv8jsVcmrKNlD2okuQHJRFJ3Ta7QRay3qFuB8YJ3IsOZbIJAWOnxb08Isk1Fock/s2752/%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKHdBR2jz9OU-G1y8E-l09z-3YH4-LFA25OJ_7hNvmVN4xNL3yl2P2t4v_a754zANFADcf0amW1XH2QG2QjLNWG0YZEXQ8j3IwjpOIlbGxJXemTHsi_YEm2LvRp1MeSv8jsVcmrKNlD2okuQHJRFJ3Ta7QRay3qFuB8YJ3IsOZbIJAWOnxb08Isk1Fock/s600/%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -2783,6 +2859,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch21">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْحَادِي وَالْعِشْرُونَ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_0IKSzYGnvHHWjmdhdaeCGQjPsFh-6rIMIXWK1jpQ5kLXvactKCn9gUUdw9iw2SxuzaAH3oSUKkIYf683hA3WGDmCdF0bqBpG6nEZDDtwS_M2e6mA9X4OoFyAPWtdEYEIzuREUlNfjYgOzKP6QLE3kDMUHRS29RlT_VhWE4UjpQaHr6OCx25KS6OBwUQ/s2752/%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D9%85%D9%84_%D9%88%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_0IKSzYGnvHHWjmdhdaeCGQjPsFh-6rIMIXWK1jpQ5kLXvactKCn9gUUdw9iw2SxuzaAH3oSUKkIYf683hA3WGDmCdF0bqBpG6nEZDDtwS_M2e6mA9X4OoFyAPWtdEYEIzuREUlNfjYgOzKP6QLE3kDMUHRS29RlT_VhWE4UjpQaHr6OCx25KS6OBwUQ/s600/%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D9%85%D9%84_%D9%88%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 اذهب إلى العمل، اذهب إلى الكنيسة
 
@@ -2872,7 +2952,7 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="ch21-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ch21-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> ستورمز، ملكوت آت، ٢٧٨؛ التأكيد مضاف.
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_0IKSzYGnvHHWjmdhdaeCGQjPsFh-6rIMIXWK1jpQ5kLXvactKCn9gUUdw9iw2SxuzaAH3oSUKkIYf683hA3WGDmCdF0bqBpG6nEZDDtwS_M2e6mA9X4OoFyAPWtdEYEIzuREUlNfjYgOzKP6QLE3kDMUHRS29RlT_VhWE4UjpQaHr6OCx25KS6OBwUQ/s2752/%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D9%85%D9%84_%D9%88%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_0IKSzYGnvHHWjmdhdaeCGQjPsFh-6rIMIXWK1jpQ5kLXvactKCn9gUUdw9iw2SxuzaAH3oSUKkIYf683hA3WGDmCdF0bqBpG6nEZDDtwS_M2e6mA9X4OoFyAPWtdEYEIzuREUlNfjYgOzKP6QLE3kDMUHRS29RlT_VhWE4UjpQaHr6OCx25KS6OBwUQ/s600/%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D9%85%D9%84_%D9%88%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>
 
@@ -2880,6 +2960,10 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <div id="ch22">
 <p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّانِي وَالْعِشْرُونَ</h2>
+<div style="text-align: center; margin: 2rem 0;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3JkOCd1bOUqGNIsClH5XfWTQIHLN1vn9z3CHZPFdP83_wLBNrwv9NlJQ9G8PxeZNQUY56CkGRtx0ThV4ntUH6jQYr5s-JptSJJYZImufHTjs5AXWyUfZKOoYP_lPPavfmSiH7Ygy-JzvSt5IdtkfVtgpFUX6muzwyCjwUIPomUWAkoGWqepsFWKgmzaI/s2752/%D8%B5%D9%84%D8%A7%D8%A9_%D9%88%D9%82%D8%AA_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A5%D8%B1%D8%B3%D8%A7%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3JkOCd1bOUqGNIsClH5XfWTQIHLN1vn9z3CHZPFdP83_wLBNrwv9NlJQ9G8PxeZNQUY56CkGRtx0ThV4ntUH6jQYr5s-JptSJJYZImufHTjs5AXWyUfZKOoYP_lPPavfmSiH7Ygy-JzvSt5IdtkfVtgpFUX6muzwyCjwUIPomUWAkoGWqepsFWKgmzaI/s600/%D8%B5%D9%84%D8%A7%D8%A9_%D9%88%D9%82%D8%AA_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A5%D8%B1%D8%B3%D8%A7%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+</div>
+
 
 صلاة وقت النهاية، لأجل نفسك ولأجل الإرسالية
 
@@ -2947,6 +3031,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 <p id="ch22-fn-3" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
   <a href="#ch22-ref-3" style="font-weight: bold; color: var(--primary); text-decoration: none;">[3] ↩</a> لاد، إنجيل الملكوت، مواقع ٢٠٣٤-٤٩، كيندل.
 </p>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3JkOCd1bOUqGNIsClH5XfWTQIHLN1vn9z3CHZPFdP83_wLBNrwv9NlJQ9G8PxeZNQUY56CkGRtx0ThV4ntUH6jQYr5s-JptSJJYZImufHTjs5AXWyUfZKOoYP_lPPavfmSiH7Ygy-JzvSt5IdtkfVtgpFUX6muzwyCjwUIPomUWAkoGWqepsFWKgmzaI/s2752/%D8%B5%D9%84%D8%A7%D8%A9_%D9%88%D9%82%D8%AA_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A5%D8%B1%D8%B3%D8%A7%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3JkOCd1bOUqGNIsClH5XfWTQIHLN1vn9z3CHZPFdP83_wLBNrwv9NlJQ9G8PxeZNQUY56CkGRtx0ThV4ntUH6jQYr5s-JptSJJYZImufHTjs5AXWyUfZKOoYP_lPPavfmSiH7Ygy-JzvSt5IdtkfVtgpFUX6muzwyCjwUIPomUWAkoGWqepsFWKgmzaI/s600/%D8%B5%D9%84%D8%A7%D8%A9_%D9%88%D9%82%D8%AA_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A5%D8%B1%D8%B3%D8%A7%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
+
 
 </div>

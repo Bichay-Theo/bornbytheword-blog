@@ -25,11 +25,14 @@ interface MarkdownLayoutProps {
   tocTitle?: string;
 }
 
+import ImageZoom from './ImageZoom';
+
 export default function MarkdownLayout({ title, date, content, tocTitle = "محتويات المقال" }: MarkdownLayoutProps) {
   const { processedHtml, toc } = processHtmlAndExtractTOC(content);
 
   return (
     <div style={{ display: 'flex', gap: '3rem', alignItems: 'flex-start' }}>
+      <ImageZoom />
       <main style={{ flex: 1, minWidth: 0 }}>
         <nav style={{ marginBottom: '2rem' }}>
           <Link href="/" style={{ color: 'var(--text-muted)', fontSize: '1.1rem' }}>

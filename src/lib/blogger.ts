@@ -32,8 +32,12 @@ function convertFootnotesToMarkdown(content: string) {
   }
   
   // First, convert eastern arabic numerals inside brackets to english numerals
-  let processed = content.replace(/\[([١٢٣٤٥٦٧٨٩٠0-9]+)\]/g, (match, num) => {
+  let processed = content.replace(/\\?\[([١٢٣٤٥٦٧٨٩٠0-9]+)\\?\]/g, (match, num) => {
     let engNum = num.replace(/[١٢٣٤٥٦٧٨٩٠]/g, (d: string) => '١٢٣٤٥٦٧٨٩٠'.indexOf(d) + 1);
+    // If it was originally escaped, preserve the escape sequence so the next regex matches it correctly
+    if (match.startsWith('\\')) {
+        return `\\[${engNum}\\]`;
+    }
     return `[${engNum}]`;
   });
   

@@ -471,15 +471,24 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 وتتجلى الأسئلة الملحة للغاية بالنسبة لنا في: هل يهيننا هذا؟ هل يتعارض مع أي توق باقٍ في قلوبنا لنكون مركز الاهتمام؟ هل يبدو لنا من الأنانية أن يكون قصد المسيح هو أن يُعلى المسيح؟ أم أننا اختبرنا ما مات المسيح لأجله: أي التغيير الجذري الذي يجعلنا نحب مجيء المسيح ليتمجد؟ عندما قال الوحي إن الرب سيهب إكليل البر «لِجَمِيعِ الَّذِينَ يُحِبُّونَ ظُهُورَهُ أَيْضًا» (٢ تيموثاوس ٤: ٨)، فهذه هي المحبة التي كان يقصدها. محبة تتعجب ببهجة لمجيء المسيح الكلي المجد، لكي ينال التعجب المفعم بالفرح من شعبه.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="fn-1"><a href="#ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup> انظر الفصلين ١٨ و١٩ ("الشيطان والشياطين" و"الوجود المستمر للشيطان") في كتاب جون بايبر، العناية الإلهية (Providence، Wheaton, IL: Crossway, 2021)، ص ٢٥٥-٢٨٦.
+<p id="fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> انظر الفصلين ١٨ و١٩ ("الشيطان والشياطين" و"الوجود المستمر للشيطان") في كتاب جون بايبر، العناية الإلهية (Providence، Wheaton, IL: Crossway, 2021)، ص ٢٥٥-٢٨٦.
+</p>
 
-<sup id="fn-2"><a href="#ref-2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup> هنا فقط وفي العدد ١٢ يستخدم بولس الكلمة المركبة ἐνδοξασθῆναι (en-doxasthēnai) بدلاً من الكلمة الأكثر شيوعاً δοξάζω. وفي كلتا الحالتين، يتبع الفعل شبه جملة جر تبدأ بـ en (العدد ١٠، ἐν τοῖς ἁγίοις αὐτοῦ، "في قديسيه"؛ والعدد ١٢، ἐν ὑμῖν، "فيكم"). وبالتالي، يبدو أن القصد هو لفت الانتباه إلى حقيقة أن فعل التمجيد هذا متأصل داخل القديسين. وهو ليس داخلياً حصراً، لكنه متأصل هناك. إنه ليس مجرد فعل تمجيد منفصل عن قلب الإنسان، كأن يقول قائل: "حتى الصخور والجبال والنجوم تمجد الله". إنها تفعل ذلك بالتأكيد، بمجرد عكسها لمجده كصانعها، ولكنه لا يتمجد "فيها" كما يتمجد "في قديسيه".
+<p id="fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> هنا فقط وفي العدد ١٢ يستخدم بولس الكلمة المركبة ἐνδοξασθῆναι (en-doxasthēnai) بدلاً من الكلمة الأكثر شيوعاً δοξάζω. وفي كلتا الحالتين، يتبع الفعل شبه جملة جر تبدأ بـ en (العدد ١٠، ἐν τοῖς ἁγίοις αὐτοῦ، "في قديسيه"؛ والعدد ١٢، ἐν ὑμῖν، "فيكم"). وبالتالي، يبدو أن القصد هو لفت الانتباه إلى حقيقة أن فعل التمجيد هذا متأصل داخل القديسين. وهو ليس داخلياً حصراً، لكنه متأصل هناك. إنه ليس مجرد فعل تمجيد منفصل عن قلب الإنسان، كأن يقول قائل: "حتى الصخور والجبال والنجوم تمجد الله". إنها تفعل ذلك بالتأكيد، بمجرد عكسها لمجده كصانعها، ولكنه لا يتمجد "فيها" كما يتمجد "في قديسيه".
+</p>
 
-<sup id="fn-3"><a href="#ref-3" style="text-decoration: none; color: var(--primary-color);">[3]</a></sup> لمجموعة من النصوص التي توضح ذلك، انظر جون بايبر، "نصوص كتابية لإظهار غيرة الله لمجده الخاص"، ديزايرنج جاد (Desiring God)، ٢٤ نوفمبر ٢٠٠٧، https://www.desiringgod.org/.
+<p id="fn-3" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref-3" style="font-weight: bold; color: var(--primary); text-decoration: none;">[3] ↩</a> لمجموعة من النصوص التي توضح ذلك، انظر جون بايبر، "نصوص كتابية لإظهار غيرة الله لمجده الخاص"، ديزايرنج جاد (Desiring God)، ٢٤ نوفمبر ٢٠٠٧، https://www.desiringgod.org/.
+</p>
 
-<sup id="fn-4"><a href="#ref-4" style="text-decoration: none; color: var(--primary-color);">[4]</a></sup> الدليل والتفسير لهذا الادعاء مطروحان في كتاب بايبر، العناية الإلهية.
+<p id="fn-4" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref-4" style="font-weight: bold; color: var(--primary); text-decoration: none;">[4] ↩</a> الدليل والتفسير لهذا الادعاء مطروحان في كتاب بايبر، العناية الإلهية.
+</p>
 
 </div>
 
@@ -600,10 +609,12 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 لذلك، فإن كلمة بطرس الثمينة لمعاونتنا على محبة ظهور الرب هي أن يسوع آتٍ إلينا بالنعمة لا بالإدانة. فالغفران الذي اشتراه بصورة حاسمة على الصليب سيكون صالحاً لنا في ذلك اليوم كصلاحه في كل يوم آخر من حياتنا. ستنتصر النعمة على خطيتنا في ذلك اليوم. وهذا هو السبب في أننا نحب ظهوره.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="fn-1"><a href="#ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup> يُقترح هذا التفسير والترجمة في كتاب روبرت هـ. غوندري، تعليق على العهد الجديد: تفسيرات آية بآية مع ترجمة حرفية (Robert H. Gundry, Commentary on the New Testament: Verseby-Verse Explanations with a Literal Translation, Peabody, MA: Hendrickson, 2010)، ص ٩٣٩.
-
+<p id="fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> يُقترح هذا التفسير والترجمة في كتاب روبرت هـ. غوندري، تعليق على العهد الجديد: تفسيرات آية بآية مع ترجمة حرفية (Robert H. Gundry, Commentary on the New Testament: Verseby-Verse Explanations with a Literal Translation, Peabody, MA: Hendrickson, 2010)، ص ٩٣٩.
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9y0az-iBd5ujtD17MpaeiXGrTDHWDAwWdcWLvsiNKBe58xVUJa_tAnyXkX58LTpWlhZotWFlziKvRrWbQH-WVQ15yZYwIP_7zSxLh_IrCBzwfYYM8Iz7iw7iNDC2RLTXEEQ8GxUV-VI87Cb8HFT4Gr-GtcN6_K2gxx6ShIlSjEi9kG6ZAKZL_mMCBkvA/s2752/%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A9_%D8%B9%D9%86%D8%AF_%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%86_%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%20%281%29.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9y0az-iBd5ujtD17MpaeiXGrTDHWDAwWdcWLvsiNKBe58xVUJa_tAnyXkX58LTpWlhZotWFlziKvRrWbQH-WVQ15yZYwIP_7zSxLh_IrCBzwfYYM8Iz7iw7iNDC2RLTXEEQ8GxUV-VI87Cb8HFT4Gr-GtcN6_K2gxx6ShIlSjEi9kG6ZAKZL_mMCBkvA/s600/%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A9_%D8%B9%D9%86%D8%AF_%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%86_%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%20%281%29.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>
@@ -767,14 +778,20 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 وصلاتي هي أن نصدق هذه الوعود، ونتوق لرجاء ذلك الابتهاج، ونحب ظهور الرب.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="fn-1"><a href="#ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup> لا أستبعد من ذلك فكرة أن عمل الله المصالح (والمبرر) على الصليب يتضمن قصد الله بأن يفيض بوعد العهد الجديد ليعمل فينا ذلك "اللا لوم" العملي في حياتنا اليومية (إرميا ٣١: ٣٣؛ حزقيال ٣٦: ٢٧؛ لوقا ٢٢: ٢٠).
+<p id="fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> لا أستبعد من ذلك فكرة أن عمل الله المصالح (والمبرر) على الصليب يتضمن قصد الله بأن يفيض بوعد العهد الجديد ليعمل فينا ذلك "اللا لوم" العملي في حياتنا اليومية (إرميا ٣١: ٣٣؛ حزقيال ٣٦: ٢٧؛ لوقا ٢٢: ٢٠).
+</p>
 
-<sup id="fn-2"><a href="#ref-2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup> هذه الكلمة المترجمة "بلا لوم" هي الكلمة ذاتها المترجمة "بلا لوم" في ١ تيموثاوس ٣: ١٠، والمترجمة "بلا لوم" في ١ كورنثوس ١: ٨، وتستخدم مع كلمة "بلا عيب" في كولوسي ١: ٢٢.
+<p id="fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> هذه الكلمة المترجمة "بلا لوم" هي الكلمة ذاتها المترجمة "بلا لوم" في ١ تيموثاوس ٣: ١٠، والمترجمة "بلا لوم" في ١ كورنثوس ١: ٨، وتستخدم مع كلمة "بلا عيب" في كولوسي ١: ٢٢.
+</p>
 
-<sup id="fn-3"><a href="#ref-3" style="text-decoration: none; color: var(--primary-color);">[3]</a></sup> نعم، جاءت الكلمة في اليونانية كظرف (بلا لوم/على نحو منزه عن اللوم)، لا كصفة (بلا لوم). وتترجمها معظم النسخ كصفة—مثل نسخة (ESV) التي اقتبستُ منها—لأن المعنى الظرفي يبدو غريباً بعض الشيء. وبوصفه ظرفاً، فإنه يُعَدل صفة أو فعلاً؛ فالصفة التي يمكن أن يعدلها هي "كاملة" («روحكم ونفسكم وجسدكم كاملة»)، والفعل الذي يمكن أن يُعَدله هو "تُحفظ". وكلا الأمرين يبدو غريباً: "تُحفظ على نحو منزه عن اللوم" أو "كاملة على نحو منزه عن اللوم". والأول يشير إلى أن الله يعمل بلا لوم، بينما الثاني يشير إلى أن كمال الروح والنفس والجسد يجب أن يُنظر إليه في إشارة إلى خلوها من اللوم. ولست متأكداً كيف يعمل الظرف هنا. ومن التفاصيل التي تجعل هذا النص غريباً بعض الشيء هي الإشارة إلى "الجسد" باعتباره "بلا لوم". ولكن كون (ἀμέμπτως) ظرفاً قد يعيننا على عدم التعثر في تلك الغرابة؛ فبولس لا يصف الجسد بصفة "بلا لوم" كما تفعل معظم التراجم. وبناءً عليه، أستنتج أن الفكرة العامة هي أن الله سيعمل بطريقة تجعلنا، بأكمل صورة ممكنة (ὁλόκληρον)، غير مُعرّضين لأي لوم بأي حال من الأحوال.
-
+<p id="fn-3" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref-3" style="font-weight: bold; color: var(--primary); text-decoration: none;">[3] ↩</a> نعم، جاءت الكلمة في اليونانية كظرف (بلا لوم/على نحو منزه عن اللوم)، لا كصفة (بلا لوم). وتترجمها معظم النسخ كصفة—مثل نسخة (ESV) التي اقتبستُ منها—لأن المعنى الظرفي يبدو غريباً بعض الشيء. وبوصفه ظرفاً، فإنه يُعَدل صفة أو فعلاً؛ فالصفة التي يمكن أن يعدلها هي "كاملة" («روحكم ونفسكم وجسدكم كاملة»)، والفعل الذي يمكن أن يُعَدله هو "تُحفظ". وكلا الأمرين يبدو غريباً: "تُحفظ على نحو منزه عن اللوم" أو "كاملة على نحو منزه عن اللوم". والأول يشير إلى أن الله يعمل بلا لوم، بينما الثاني يشير إلى أن كمال الروح والنفس والجسد يجب أن يُنظر إليه في إشارة إلى خلوها من اللوم. ولست متأكداً كيف يعمل الظرف هنا. ومن التفاصيل التي تجعل هذا النص غريباً بعض الشيء هي الإشارة إلى "الجسد" باعتباره "بلا لوم". ولكن كون (ἀμέμπτως) ظرفاً قد يعيننا على عدم التعثر في تلك الغرابة؛ فبولس لا يصف الجسد بصفة "بلا لوم" كما تفعل معظم التراجم. وبناءً عليه، أستنتج أن الفكرة العامة هي أن الله سيعمل بطريقة تجعلنا، بأكمل صورة ممكنة (ὁλόκληρον)، غير مُعرّضين لأي لوم بأي حال من الأحوال.
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI9Xk1d_vhNwG7TA4GaI8SriaMfan25rP6UngZEgmDRPj8vZDR7l7GC75pBly12G51yMJMlLtQ_73_cNV_eT6e2ZvRTrMjc3MKluh8dsWbpTd0JuWNtcxvWKNTt6WWmuACXNY7CdigmstRYWqC_tpjN9PuudPDGu3l1UOMGo4TNWRdY60VaBQEh45b2Zc/s2752/%D8%A8%D9%84%D8%A7_%D9%84%D9%88%D9%85_%D8%B9%D9%86%D8%AF_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI9Xk1d_vhNwG7TA4GaI8SriaMfan25rP6UngZEgmDRPj8vZDR7l7GC75pBly12G51yMJMlLtQ_73_cNV_eT6e2ZvRTrMjc3MKluh8dsWbpTd0JuWNtcxvWKNTt6WWmuACXNY7CdigmstRYWqC_tpjN9PuudPDGu3l1UOMGo4TNWRdY60VaBQEh45b2Zc/s600/%D8%A8%D9%84%D8%A7_%D9%84%D9%88%D9%85_%D8%B9%D9%86%D8%AF_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>
@@ -930,16 +947,24 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 لذلك، لا داعي لأن نقلق بشأن أوجه القصور التي تثقل كاهلنا الآن، كما لو كانت ستحبط فرحنا وتسبيحنا في ذلك اليوم. فهي لن تفعل. هذا وعد مجيد. وهو سبب آخر لمحبة ظهور الرب.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="ch7-fn-1"><a href="#ch7-ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup> سيتضح بنهاية هذا الفصل ما أقصده باكتمال تغييرنا الأخلاقي عند المجيء الثاني، على الرغم من أن أرواح الذين يموتون في الرب "تُكمل" في السماء عند موتهم (عبرانيين ١٢: ٢٣).
+<p id="ch7-fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch7-ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> سيتضح بنهاية هذا الفصل ما أقصده باكتمال تغييرنا الأخلاقي عند المجيء الثاني، على الرغم من أن أرواح الذين يموتون في الرب "تُكمل" في السماء عند موتهم (عبرانيين ١٢: ٢٣).
+</p>
 
-<sup id="ch7-fn-2"><a href="#ch7-ref-2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup> في بعض الأحيان يُتحدث عن القيامة في الكتاب المقدس دون إيضاح الفوارق الزمنية بين وقت إقامة المؤمنين وغير المؤمنين أو وقت دينونة الجميع. على سبيل المثال، يقول يسوع في (يوحنا ٥: ٢٨، ٢٩): «لاَ تَتَعَجَّبُوا مِنْ هذَا، فَإِنَّهُ تَأْتِي سَاعَةٌ فِيهَا يَسْمَعُ جَمِيعُ الَّذِينَ فِي الْقُبُورِ صَوْتَهُ، فَيَخْرُجُونَ: الَّذِينَ فَعَلُوا الصَّالِحَاتِ إِلَى قِيَامَةِ الْحَيَاةِ، وَالَّذِينَ عَمِلُوا السَّيِّئَاتِ إِلَى قِيَامَةِ الدَّيْنُونَةِ». أعتقد أن هذا النص، شأنه شأن العديد من النصوص الأخرى، يضغط الأحداث المستقبلية التي تفصل بينها فترات زمنية، تماماً كما تبدو سلاسل الجبال من منظور بعيد وكأنها جبل واحد. هذا المنظور النبوي شائع في الكتاب المقدس ويساعدنا على فهم كيف تُعامل الأحداث البعيدة والقريبة أحياناً كرؤية واحدة. انظر الفصل الثامن، الهامش ١.
+<p id="ch7-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch7-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> في بعض الأحيان يُتحدث عن القيامة في الكتاب المقدس دون إيضاح الفوارق الزمنية بين وقت إقامة المؤمنين وغير المؤمنين أو وقت دينونة الجميع. على سبيل المثال، يقول يسوع في (يوحنا ٥: ٢٨، ٢٩): «لاَ تَتَعَجَّبُوا مِنْ هذَا، فَإِنَّهُ تَأْتِي سَاعَةٌ فِيهَا يَسْمَعُ جَمِيعُ الَّذِينَ فِي الْقُبُورِ صَوْتَهُ، فَيَخْرُجُونَ: الَّذِينَ فَعَلُوا الصَّالِحَاتِ إِلَى قِيَامَةِ الْحَيَاةِ، وَالَّذِينَ عَمِلُوا السَّيِّئَاتِ إِلَى قِيَامَةِ الدَّيْنُونَةِ». أعتقد أن هذا النص، شأنه شأن العديد من النصوص الأخرى، يضغط الأحداث المستقبلية التي تفصل بينها فترات زمنية، تماماً كما تبدو سلاسل الجبال من منظور بعيد وكأنها جبل واحد. هذا المنظور النبوي شائع في الكتاب المقدس ويساعدنا على فهم كيف تُعامل الأحداث البعيدة والقريبة أحياناً كرؤية واحدة. انظر الفصل الثامن، الهامش ١.
+</p>
 
-<sup id="ch7-fn-3"><a href="#ch7-ref-3" style="text-decoration: none; color: var(--primary-color);">[3]</a></sup> عندما يقول بولس: "نَحْنُ الأَحْيَاءَ"، فهو لا يُعلم بأنه يوقن أن المجيء الثاني سيحدث في حياته. ونحن نعلم ذلك لأنه في الأصحاح التالي يقول: «الَّذِي مَاتَ لأَجْلِنَا، حَتَّى إِذَا سَهِرْنَا أَوْ نِمْنَا نَحْيَا جَمِيعًا مَعَهُ» (تسالونيكي الأولى ٥: ١٠). في كلا النصين، يصور نفسه على أنه قد يكون في عِداد الأحياء. غير أنه يعلم أنه قد لا يكون كذلك، كما ذكر في (٥: ١٠).
+<p id="ch7-fn-3" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch7-ref-3" style="font-weight: bold; color: var(--primary); text-decoration: none;">[3] ↩</a> عندما يقول بولس: "نَحْنُ الأَحْيَاءَ"، فهو لا يُعلم بأنه يوقن أن المجيء الثاني سيحدث في حياته. ونحن نعلم ذلك لأنه في الأصحاح التالي يقول: «الَّذِي مَاتَ لأَجْلِنَا، حَتَّى إِذَا سَهِرْنَا أَوْ نِمْنَا نَحْيَا جَمِيعًا مَعَهُ» (تسالونيكي الأولى ٥: ١٠). في كلا النصين، يصور نفسه على أنه قد يكون في عِداد الأحياء. غير أنه يعلم أنه قد لا يكون كذلك، كما ذكر في (٥: ١٠).
+</p>
 
-<sup id="ch7-fn-4"><a href="#ch7-ref-4" style="text-decoration: none; color: var(--primary-color);">[4]</a></sup> سي. إس. لويس (مفكر ولاهوتي مسيحي بريطاني، مؤلف الدفاعيات المسيحية الكلاسيكية)، كتاب "ثقل المجد".
-
+<p id="ch7-fn-4" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch7-ref-4" style="font-weight: bold; color: var(--primary); text-decoration: none;">[4] ↩</a> سي. إس. لويس (مفكر ولاهوتي مسيحي بريطاني، مؤلف الدفاعيات المسيحية الكلاسيكية)، كتاب "ثقل المجد".
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7V8l03QMct4U_r5kDS-xsc4fJjK9lcpa9667ALZXqMipbQ7kAE-tn2WOO0Bv2c9BkAsg-FizkNXRbEVf7z7X_YdMGi1bKcuYyvMph2-u5jSjELhmP0hRs7eOl_Pz1Fe-K9uQfbp3qvvRBYOSELt2XbC_tci_6c1YXqS1ITvhpbHiKMcI67mSn38NCgNw/s2752/%D8%AA%D9%85%D8%AC%D9%8A%D8%AF_%D9%83%D8%A7%D9%85%D9%84__%D8%B9%D9%82%D9%84%D8%A7%D9%8B_%D9%88%D9%82%D9%84%D8%A8%D9%8B%D8%A7_%D9%88%D8%AC%D8%B3%D8%AF%D9%8B%D8%A7.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7V8l03QMct4U_r5kDS-xsc4fJjK9lcpa9667ALZXqMipbQ7kAE-tn2WOO0Bv2c9BkAsg-FizkNXRbEVf7z7X_YdMGi1bKcuYyvMph2-u5jSjELhmP0hRs7eOl_Pz1Fe-K9uQfbp3qvvRBYOSELt2XbC_tci_6c1YXqS1ITvhpbHiKMcI67mSn38NCgNw/s600/%D8%AA%D9%85%D8%AC%D9%8A%D8%AF_%D9%83%D8%A7%D9%85%D9%84__%D8%B9%D9%82%D9%84%D8%A7%D9%8B_%D9%88%D9%82%D9%84%D8%A8%D9%8B%D8%A7_%D9%88%D8%AC%D8%B3%D8%AF%D9%8B%D8%A7.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>
@@ -1077,12 +1102,16 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 فكيف سيكون الحال إذن عندما يأتي يسوع في الغضب وفي الإنقاذ من الغضب؟ هذا هو السؤال الذي سنتناوله في الفصل التالي.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="ch8-fn-1"><a href="#ch8-ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup> على سبيل المثال، عندما نطق إشعياء بكلمات المسيا التي اقتبسها يسوع في (لوقا ٤: ١٨-١٩)، لم يُميز بين "سَنَةٍ مَقْبُولَةٍ لِلرَّبِّ" وبين "يَوْمِ انْتِقَامٍ لإِلَهِنَا". لقد كتب: «رُوحُ السَّيِّدِ الرَّبِّ عَلَيَّ، لأَنَّ الرَّبَّ مَسَحَنِي لأُبَشِّرَ الْمَسَاكِينَ، أَرْسَلَنِي لأَعْصِبَ مُنْكَسِرِي الْقَلْبِ، لأُنَادِيَ لِلْمَسْبِيِّينَ بِالْعِتْقِ، وَلِلْمَأْسُورِينَ بِالإِطْلاَقِ. لأُنَادِيَ بِسَنَةٍ مَقْبُولَةٍ لِلرَّبِّ، وَبِيَوْمِ انْتِقَامٍ لإِلَهِنَا» (إشعياء ٦١: ١-٢). وعندما اقتبس يسوع هذه الكلمات كإتمام لخدمته، توقف قُبيل كلمات: "وَبِيَوْمِ انْتِقَامٍ لإِلَهِنَا". كان ذلك "يوم الانتقام" جزءاً من مجيء المسيا، غير أنه لم يكن ضمن مجيئه الأول. فما رآه إشعياء كحزمة واحدة من الأحداث انطوى على فجوة دامت قروناً من الزمان. وبالمثل، عندما تنبأ إشعياء بمجيء المسيح، رأى ميلاد الطفل وحُكم الملك كلمحة جبلية واحدة: «لأَنَّهُ يُولَدُ لَنَا وَلَدٌ وَنُعْطَى ابْنًا، وَتَكُونُ الرِّيَاسَةُ عَلَى كَتِفِهِ، وَيُدْعَى اسْمُهُ عَجِيبًا، مُشِيرًا، إِلهًا قَدِيرًا، أَبًا أَبَدِيًّا، رَئِيسَ السَّلاَمِ. لِنُمُوِّ رِيَاسَتِهِ، وَلِلسَّلاَمِ لاَ نِهَايَةَ عَلَى كُرْسِيِّ دَاوُدَ وَعَلَى مَمْلَكَتِهِ، لِيُثَبِّتَهَا وَيَعْضُدَهَا بِالْحَقِّ وَالْعَدْلِ، مِنَ الآنَ إِلَى الأَبَدِ. غَيْرَةُ رَبِّ الْجُنُودِ تَصْنَعُ هذَا» (إشعياء ٩: ٦-٧). هذا "المنظور النبوي"، كما أطلق عليه "جورج إلدون لاد"، مُعين على فهم كيف رأى كُتاب العهد الجديد العلاقة بين الأحداث المستقبلية القريبة والبعيدة. جورج إلدون لاد، لاهوت العهد الجديد (غراند رابيدز، ميشيغان: إيردمانز، ١٩٧٤)، ١٩٨. للمزيد حول "المنظور النبوي"، انظر الفصل السابع، الهامش ٢.
+<p id="ch8-fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch8-ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> على سبيل المثال، عندما نطق إشعياء بكلمات المسيا التي اقتبسها يسوع في (لوقا ٤: ١٨-١٩)، لم يُميز بين "سَنَةٍ مَقْبُولَةٍ لِلرَّبِّ" وبين "يَوْمِ انْتِقَامٍ لإِلَهِنَا". لقد كتب: «رُوحُ السَّيِّدِ الرَّبِّ عَلَيَّ، لأَنَّ الرَّبَّ مَسَحَنِي لأُبَشِّرَ الْمَسَاكِينَ، أَرْسَلَنِي لأَعْصِبَ مُنْكَسِرِي الْقَلْبِ، لأُنَادِيَ لِلْمَسْبِيِّينَ بِالْعِتْقِ، وَلِلْمَأْسُورِينَ بِالإِطْلاَقِ. لأُنَادِيَ بِسَنَةٍ مَقْبُولَةٍ لِلرَّبِّ، وَبِيَوْمِ انْتِقَامٍ لإِلَهِنَا» (إشعياء ٦١: ١-٢). وعندما اقتبس يسوع هذه الكلمات كإتمام لخدمته، توقف قُبيل كلمات: "وَبِيَوْمِ انْتِقَامٍ لإِلَهِنَا". كان ذلك "يوم الانتقام" جزءاً من مجيء المسيا، غير أنه لم يكن ضمن مجيئه الأول. فما رآه إشعياء كحزمة واحدة من الأحداث انطوى على فجوة دامت قروناً من الزمان. وبالمثل، عندما تنبأ إشعياء بمجيء المسيح، رأى ميلاد الطفل وحُكم الملك كلمحة جبلية واحدة: «لأَنَّهُ يُولَدُ لَنَا وَلَدٌ وَنُعْطَى ابْنًا، وَتَكُونُ الرِّيَاسَةُ عَلَى كَتِفِهِ، وَيُدْعَى اسْمُهُ عَجِيبًا، مُشِيرًا، إِلهًا قَدِيرًا، أَبًا أَبَدِيًّا، رَئِيسَ السَّلاَمِ. لِنُمُوِّ رِيَاسَتِهِ، وَلِلسَّلاَمِ لاَ نِهَايَةَ عَلَى كُرْسِيِّ دَاوُدَ وَعَلَى مَمْلَكَتِهِ، لِيُثَبِّتَهَا وَيَعْضُدَهَا بِالْحَقِّ وَالْعَدْلِ، مِنَ الآنَ إِلَى الأَبَدِ. غَيْرَةُ رَبِّ الْجُنُودِ تَصْنَعُ هذَا» (إشعياء ٩: ٦-٧). هذا "المنظور النبوي"، كما أطلق عليه "جورج إلدون لاد"، مُعين على فهم كيف رأى كُتاب العهد الجديد العلاقة بين الأحداث المستقبلية القريبة والبعيدة. جورج إلدون لاد، لاهوت العهد الجديد (غراند رابيدز، ميشيغان: إيردمانز، ١٩٧٤)، ١٩٨. للمزيد حول "المنظور النبوي"، انظر الفصل السابع، الهامش ٢.
+</p>
 
-<sup id="ch8-fn-2"><a href="#ch8-ref-2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup> انظر الفصل الثامن، الهامش ١.
-
+<p id="ch8-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch8-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> انظر الفصل الثامن، الهامش ١.
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVTIdVsddJpBOVnr9nvS_-8tSfp0cQSkQ4ovFVhhYtJoL8o55he44Pnc4dxrm9yccIvul5wvEqHrq0yn__FnbZ3XLneWYmGT8d5Kw60aOJH9Z2CRLnSDIxKfXNMkuIXEuU_8fzMU4sHPjEGvQ30vyVjisrPJ5X6IkuTmr5hqzQf0BPhTbIfPgWyS5w0Yw/s2752/%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD__%D8%A7%D9%84%D8%AF%D9%8A%D8%A7%D9%86_%D9%88%D8%A7%D9%84%D9%85%D9%86%D9%82%D8%B0.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVTIdVsddJpBOVnr9nvS_-8tSfp0cQSkQ4ovFVhhYtJoL8o55he44Pnc4dxrm9yccIvul5wvEqHrq0yn__FnbZ3XLneWYmGT8d5Kw60aOJH9Z2CRLnSDIxKfXNMkuIXEuU_8fzMU4sHPjEGvQ30vyVjisrPJ5X6IkuTmr5hqzQf0BPhTbIfPgWyS5w0Yw/s600/%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD__%D8%A7%D9%84%D8%AF%D9%8A%D8%A7%D9%86_%D9%88%D8%A7%D9%84%D9%85%D9%86%D9%82%D8%B0.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>
@@ -1230,14 +1259,20 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 استنتاجي هو أن محبة ظهور الرب يسوع (تيموثاوس الثانية ٤: ٨) هي جزء أساسي من محبة الحق التي يضعها بولس نصب عينيه في (تسالونيكي الثانية ٢: ١٠، ١٢). ولذلك، فإن إضرام محبة لا تتزعزع لظهور الرب هو استراتيجية حاسمة لحماية أنفسنا وكنائسنا من سر الإثم، الذي: "الآنَ يَعْمَلُ" (تسالونيكي الثانية ٢: ٧). وينبغي أن يكون تأثير تحذيرات الأصحاحين الأول والثاني من رسالة تسالونيكي الثانية هو أن نتخذ كل خطوة ممكنة لمنع محبتنا لظهور الرب من البرود. وينبغي أن يكون تأثير تشجيعات الأصحاحين الأول والثاني من الرسالة ذاتها هو أن نرى المجيء العنيف والناري ليسوع كانتصار على جميع أعدائنا. دعونا نتعجب الآن من مجيء هذا المسيح المنتصر، ودعونا نجد فيه سروراً أعظم من أي شيء يمكن أن يقدمه هذا العالم. دعونا نحب ظهوره.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="ch9-fn-1"><a href="#ch9-ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup> للاطلاع على المزيد حول فهمي لخطأ نظرية الاختطاف قبل الضيقة، انظر: جون بايبر، "تعاريف وملاحظات حول المجيء الثاني للمسيح"، (Desiring God)، ٣٠ أغسطس ١٩٨٧.
+<p id="ch9-fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch9-ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> للاطلاع على المزيد حول فهمي لخطأ نظرية الاختطاف قبل الضيقة، انظر: جون بايبر، "تعاريف وملاحظات حول المجيء الثاني للمسيح"، (Desiring God)، ٣٠ أغسطس ١٩٨٧.
+</p>
 
-<sup id="ch9-fn-2"><a href="#ch9-ref-2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup> بوب غوندري، "أولاً ضد المسيح: لماذا لن يأتي المسيح قبل أن يأتي ضد المسيح" (غراند رابيدز، ميشيغان: بيكر، ١٩٩٦).
+<p id="ch9-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch9-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> بوب غوندري، "أولاً ضد المسيح: لماذا لن يأتي المسيح قبل أن يأتي ضد المسيح" (غراند رابيدز، ميشيغان: بيكر، ١٩٩٦).
+</p>
 
-<sup id="ch9-fn-3"><a href="#ch9-ref-3" style="text-decoration: none; color: var(--primary-color);">[3]</a></sup> أعتقد أنه من الخطأ حصر تركيز (متى ٢٤) على الأحداث التاريخية التي سبقت وشملت دمار أورشليم عام ٧٠ ميلادياً. انظر الفصل السادس عشر. لا تكمن المشكلة في رؤية إشارات إلى هذه الأحداث في القرن الأول، بل تكمن المشكلة في حصر أفكار يسوع في هذه الأحداث فقط. وأنا أتفق مع لاد حين يكتب: "من مجمل تعليم \[يسوع\]، يتضح أمر واحد: لقد تحدث يسوع عن سقوط أورشليم وعن مجيئه الأخروي معاً. وقد اقترح كرانفيلد أن التاريخي والأخروي قد امتزجا في منظور يسوع الخاص، وأن الحدث الأخروي الأخير يُرى من خلال "شفافية" الحدث التاريخي المباشر. وقد طبق المؤلف هذه الأطروحة على أنبياء العهد القديم ووجد أن هذه النظرة المقربة للمستقبل هي أحد العناصر الأساسية في المنظور النبوي. في عاموس، يوم الرب هو حدث تاريخي (عاموس ٥: ١٨-٢٠) وأخروي (عاموس ٧: ٤؛ ٨: ٨، ٩؛ ٩: ٥). ويصف إشعياء يوم افتقاد بابل التاريخي وكأنه يوم الرب الأخروي (إشعياء ١٣). ويصف صفنيا يوم الرب (صفنيا ١: ٧، ١٤) ككارثة تاريخية على يد عدو غير مسمى (صفنيا ١: ١٠-١٢، ١٦-١٧؛ ٢: ٥-١٥)؛ ولكنه يصفه أيضاً بعبارات كارثة عالمية يُمسح فيها كل كائن من على وجه الأرض (صفنيا ١: ٢، ٣) حتى لا يبقى شيء (صفنيا ١: ۱۸). إن هذه الطريقة في النظر إلى المستقبل تعبر عن الرأي القائل \[بكلمات كرانفيلد\] إن "الأخروي يتجلى في أزمات التاريخ. فالدينونات الإلهية في التاريخ هي، إن جاز التعبير، بروفات للدينونة الأخيرة، والتجسدات المتتابعة لضد المسيح هي إرهاصات للتركيز الأسمى الأخير لتمرد إبليس قبل النهاية" \[سي. إي. بي. كرانفيلد، الإنجيل بحسب القديس مرقس: مقدمة وتعليق (كامبريدج، المملكة المتحدة: مطبعة جامعة كامبريدج، ١٩٥٩)، ٤٠٤\]". جورج إلدون لاد ، لاهوت العهد الجديد، طبعة منقحة، تحرير دي. إيه. هاجنر (غراند رابيدز، ميشيغان: إيردمانز، ١٩٩٣)، ١٩٩. للمزيد حول "المنظور النبوي"، انظر الفصل السابع، الهامش ٢.
-
+<p id="ch9-fn-3" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch9-ref-3" style="font-weight: bold; color: var(--primary); text-decoration: none;">[3] ↩</a> أعتقد أنه من الخطأ حصر تركيز (متى ٢٤) على الأحداث التاريخية التي سبقت وشملت دمار أورشليم عام ٧٠ ميلادياً. انظر الفصل السادس عشر. لا تكمن المشكلة في رؤية إشارات إلى هذه الأحداث في القرن الأول، بل تكمن المشكلة في حصر أفكار يسوع في هذه الأحداث فقط. وأنا أتفق مع لاد حين يكتب: "من مجمل تعليم \[يسوع\]، يتضح أمر واحد: لقد تحدث يسوع عن سقوط أورشليم وعن مجيئه الأخروي معاً. وقد اقترح كرانفيلد أن التاريخي والأخروي قد امتزجا في منظور يسوع الخاص، وأن الحدث الأخروي الأخير يُرى من خلال "شفافية" الحدث التاريخي المباشر. وقد طبق المؤلف هذه الأطروحة على أنبياء العهد القديم ووجد أن هذه النظرة المقربة للمستقبل هي أحد العناصر الأساسية في المنظور النبوي. في عاموس، يوم الرب هو حدث تاريخي (عاموس ٥: ١٨-٢٠) وأخروي (عاموس ٧: ٤؛ ٨: ٨، ٩؛ ٩: ٥). ويصف إشعياء يوم افتقاد بابل التاريخي وكأنه يوم الرب الأخروي (إشعياء ١٣). ويصف صفنيا يوم الرب (صفنيا ١: ٧، ١٤) ككارثة تاريخية على يد عدو غير مسمى (صفنيا ١: ١٠-١٢، ١٦-١٧؛ ٢: ٥-١٥)؛ ولكنه يصفه أيضاً بعبارات كارثة عالمية يُمسح فيها كل كائن من على وجه الأرض (صفنيا ١: ٢، ٣) حتى لا يبقى شيء (صفنيا ١: ۱۸). إن هذه الطريقة في النظر إلى المستقبل تعبر عن الرأي القائل \[بكلمات كرانفيلد\] إن "الأخروي يتجلى في أزمات التاريخ. فالدينونات الإلهية في التاريخ هي، إن جاز التعبير، بروفات للدينونة الأخيرة، والتجسدات المتتابعة لضد المسيح هي إرهاصات للتركيز الأسمى الأخير لتمرد إبليس قبل النهاية" \[سي. إي. بي. كرانفيلد، الإنجيل بحسب القديس مرقس: مقدمة وتعليق (كامبريدج، المملكة المتحدة: مطبعة جامعة كامبريدج، ١٩٥٩)، ٤٠٤\]". جورج إلدون لاد ، لاهوت العهد الجديد، طبعة منقحة، تحرير دي. إيه. هاجنر (غراند رابيدز، ميشيغان: إيردمانز، ١٩٩٣)، ١٩٩. للمزيد حول "المنظور النبوي"، انظر الفصل السابع، الهامش ٢.
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifFKwNR6QQC3bKFiAKqeufafEjU6RWjVcJi2tlKtkOvAnJlDCaa7h0i0mxhH-WWjvnlTVFTEJ4ePjnfiX-4w0gIW8yVnLbWo8aGtdZwAn8iBExICiqtdaJnkZjqBXptoOCjnng_T8OlHS3fTiyVcoNErE9Zv_UXUsEf8MhLGHu6w7rYO8ZfTRa0Gb4UGw/s2752/%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%A7%D9%84%D9%85%D8%B2%D8%AF%D9%88%D8%AC__%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%85_%D9%88%D8%A7%D9%84%D8%B1%D8%A7%D8%AD%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifFKwNR6QQC3bKFiAKqeufafEjU6RWjVcJi2tlKtkOvAnJlDCaa7h0i0mxhH-WWjvnlTVFTEJ4ePjnfiX-4w0gIW8yVnLbWo8aGtdZwAn8iBExICiqtdaJnkZjqBXptoOCjnng_T8OlHS3fTiyVcoNErE9Zv_UXUsEf8MhLGHu6w7rYO8ZfTRa0Gb4UGw/s400/%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%A7%D9%84%D9%85%D8%B2%D8%AF%D9%88%D8%AC__%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%85_%D9%88%D8%A7%D9%84%D8%B1%D8%A7%D8%AD%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>
@@ -1383,12 +1418,16 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 ولذلك، أختتم هذا الفصل، إجابةً عن تساؤلاتنا في الفقرة الأولى، بأن هناك وظيفة مزدوجة لأعمالنا—طاعة إيماننا—في الدينونة عند المجيء الثاني للرب يسوع. الوظيفة الأولى هي أن طاعتنا ستؤكد إيماننا المخلص. ولهذا السبب يُتحدث عن طاعتنا (أو قداستنا أو محبتنا) كأمر حتمي لخلاصنا النهائي (غلاطية ٥: ٢١؛ أفسس ٥: ٥؛ عبرانيين ١٢: ١٤؛ يوحنا الأولى ٣: ١٠). وهي ليست حتمية كأساس، بل كتأكيد. والوظيفة الأخرى لأعمالنا في يوم المسيح هي أن المسيح سيُقيمها ويكافئها كما يرى مناسباً. والآن يبرز التساؤل: كيف يساعدنا هذا التوقع على محبة ظهور الرب؟ هذا ما سنتناوله في الفصل الحادي عشر.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="ch10-fn-1"><a href="#ch10-ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup> على سبيل المثال، يُظهر (لوقا ١٧: ٧-١٠) أنه لا يمكننا أن نجعل يسوع مديناً لنا: «كَذلِكَ أَنْتُمْ أَيْضًا، مَتَى فَعَلْتُمْ كُلَّ مَا أُمِرْتُمْ بِهِ فَقُولُوا: إِنَّنَا عَبِيدٌ بَاطَّالُونَ، لأَنَّنَا إِنَّمَا عَمِلْنَا مَا كَانَ يَجِبُ عَلَيْنَا.»
+<p id="ch10-fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch10-ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> على سبيل المثال، يُظهر (لوقا ١٧: ٧-١٠) أنه لا يمكننا أن نجعل يسوع مديناً لنا: «كَذلِكَ أَنْتُمْ أَيْضًا، مَتَى فَعَلْتُمْ كُلَّ مَا أُمِرْتُمْ بِهِ فَقُولُوا: إِنَّنَا عَبِيدٌ بَاطَّالُونَ، لأَنَّنَا إِنَّمَا عَمِلْنَا مَا كَانَ يَجِبُ عَلَيْنَا.»
+</p>
 
-<sup id="ch10-fn-2"><a href="#ch10-ref-2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup> "وحدات نقدية، تبلغ قيمة كل منها أجرة ثلاثة أو أربعة أشهر لعامل يدوي يعمل ستة أيام في الأسبوع." روبرت إتش. غوندري، تعليق على العهد الجديد: شروحات آية بآية مع ترجمة حرفية (بيبودي، ماساتشوستس: هندريكسون، ٢٠١٠)، ٣١٧.
-
+<p id="ch10-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch10-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> "وحدات نقدية، تبلغ قيمة كل منها أجرة ثلاثة أو أربعة أشهر لعامل يدوي يعمل ستة أيام في الأسبوع." روبرت إتش. غوندري، تعليق على العهد الجديد: شروحات آية بآية مع ترجمة حرفية (بيبودي، ماساتشوستس: هندريكسون، ٢٠١٠)، ٣١٧.
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qgqo4eaBj1bA2LXCpQyjQVkVl8ZYV-MJMCjf1Oja9HgEiqC3ltiOpRQiCD3GOODn0fcBMeCZ8yAEACnZpBgIbO9PazTE5viMVYBz1MDNFCqOmVhGHa71VxDdrEuStmPurK3Y0nbvfde-0XHAr0yYgJyPtWg_x5RjMchfn6eUaxyJFYlo6MSmDzaJcTM/s2752/%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%88%D9%86%D8%A9_%D9%88%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A3%D8%A9_%D9%88%D9%81%D9%87%D9%85_%D8%AF%D9%88%D8%B1_%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qgqo4eaBj1bA2LXCpQyjQVkVl8ZYV-MJMCjf1Oja9HgEiqC3ltiOpRQiCD3GOODn0fcBMeCZ8yAEACnZpBgIbO9PazTE5viMVYBz1MDNFCqOmVhGHa71VxDdrEuStmPurK3Y0nbvfde-0XHAr0yYgJyPtWg_x5RjMchfn6eUaxyJFYlo6MSmDzaJcTM/s600/%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%88%D9%86%D8%A9_%D9%88%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A3%D8%A9_%D9%88%D9%81%D9%87%D9%85_%D8%AF%D9%88%D8%B1_%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>
@@ -1482,12 +1521,16 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 وصلاتي هي أن نصدق هذه الوعود، ونتوق لرجاء ذلك الابتهاج، ونحب ظهور الرب.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="ch11-fn-1"><a href="#ch11-ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup> للاطلاع على المراجع اللاهوتية التاريخية حول تنوع درجات المكافآت والسعادة الأبدية، انظر: أغسطينوس، _الثالوث الأقدس_؛ توما الأكويني، _الخلاصة اللاهوتية_؛ _الاعتراف الأرثوذكسي للكنيسة الشرقية_؛ فيليب شاف، _قانون إيمان العالم المسيحي_؛ روبرت غوندري، _تعليق على العهد الجديد_.
+<p id="ch11-fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch11-ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> للاطلاع على المراجع اللاهوتية التاريخية حول تنوع درجات المكافآت والسعادة الأبدية، انظر: أغسطينوس، _الثالوث الأقدس_؛ توما الأكويني، _الخلاصة اللاهوتية_؛ _الاعتراف الأرثوذكسي للكنيسة الشرقية_؛ فيليب شاف، _قانون إيمان العالم المسيحي_؛ روبرت غوندري، _تعليق على العهد الجديد_.
+</p>
 
-<sup id="ch11-fn-2"><a href="#ch11-ref-2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup> جوناثان إدواردز، _أعمال جوناثان إدواردز_، المجلد ٢، ص ٩٠٢.
-
+<p id="ch11-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch11-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> جوناثان إدواردز، _أعمال جوناثان إدواردز_، المجلد ٢، ص ٩٠٢.
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9EKIqRbprr115ozmW912w3FfgXOQ0aT5OSAks49g7N1oIPChMim0RLhLPRWCpKc1UFKO_RHJ5fuLtHznATuoM1o9UZOPzULidTvR7dQregGyWHEZQGWZs0MNq97O_oxbzWRuk61mvaRl8XLs9J9cwGCwFzaZqTUzyrgIM46ITzPptO17l1PjrxtQ5GZs/s2752/%D8%A3%D9%81%D8%B1%D8%A7%D8%AD_%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A2%D8%AA_%D8%B9%D9%86%D8%AF_%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9EKIqRbprr115ozmW912w3FfgXOQ0aT5OSAks49g7N1oIPChMim0RLhLPRWCpKc1UFKO_RHJ5fuLtHznATuoM1o9UZOPzULidTvR7dQregGyWHEZQGWZs0MNq97O_oxbzWRuk61mvaRl8XLs9J9cwGCwFzaZqTUzyrgIM46ITzPptO17l1PjrxtQ5GZs/s600/%D8%A3%D9%81%D8%B1%D8%A7%D8%AD_%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A2%D8%AA_%D8%B9%D9%86%D8%AF_%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>
@@ -1621,16 +1664,24 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 لذا أستنتج أن مجد المجيء الثاني سيتضمن روعة الشركة الشخصية مع المسيح. وسيكون لهذه الشركة الشخصية بعد عظيم يفوق الوصف: سيكون حميميا ومتساميا في آن واحد. فسيأخذنا إليه \[يوحنا ١٤ : ٣\]. وفي تلك الشركة، سيأخذنا في اختبارات من جلال الخادم سيتطلب التمتع بها بالكامل أبدية بأسرها.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="ch12-fn-1"><a href="#ch12-ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup>. يحاجج بعض المفسرين بأن كلمات يسوع: «آتِي أَيْضًا»، تشير إلى رجوعه بعد ثلاثة أيام من القبر. على سبيل المثال، روبرت إتش. غوندري، تعليق على العهد الجديد: شروحات آية بآية مع ترجمة حرفية (بيبودي، ماساتشوستس: هندريكسون، ٢٠١٠)، ٤٢٩. ولكن بسبب الكلمات التي يستخدمها يسوع، أجد من الصعب استبعاد الإشارة إلى المجيء الثاني. وبالنظر إلى المعاني المتعددة الطبقات التي يقصدها يوحنا بانتظام، قد يكون "ألفورد" قريبا من الحقيقة في محاولته الجمع بين الأمرين: "لكي نفهم هذا، يجب أن نضع في اعتبارنا ما يسميه شتير بحق 'منظور' النبوة. إن مجيء الرب ثانية ليس عملا مفردا، كقيامته، أو نزول الروح، أو مجيئه الشخصي الثاني، أو المجيء الأخير للدينونة؛ بل هو المجموع المعقد لكل هذه الأشياء، والذي ستكون نتيجته أخذه لشعبه إليه ليكونوا حيثما هو. إن فعل ἔρχομαι (آتي)، يبدأ (في العدد ١٨) في قيامته، ويستمر (في العدد ٢٣) في الحياة الروحية (انظر أيضا الأصحاح ١٦: ٢٢ وما يليه)، كإعداد لهم للمكان المعد؛ ويتقدم أكثر عندما يؤخذ كل واحد بالموت ليكون معه \[فيلبي ١ : ٢٣\]؛ ويكتمل بالكامل في مجيئه في المجد، عندما يكونون إلى الأبد معه \[تسالونيكي الأولى ٤ : ١٧\] في حالة القيامة المكملة." هنري ألفورد، العهد الجديد اليوناني لألفورد: تعليق تفسيري ونقدي (غراند رابيدز، ميشيغان: غارديان بريس، ١٩٧٦)، ١: ٨٤٩-٥٠.
+<p id="ch12-fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch12-ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> . يحاجج بعض المفسرين بأن كلمات يسوع: «آتِي أَيْضًا»، تشير إلى رجوعه بعد ثلاثة أيام من القبر. على سبيل المثال، روبرت إتش. غوندري، تعليق على العهد الجديد: شروحات آية بآية مع ترجمة حرفية (بيبودي، ماساتشوستس: هندريكسون، ٢٠١٠)، ٤٢٩. ولكن بسبب الكلمات التي يستخدمها يسوع، أجد من الصعب استبعاد الإشارة إلى المجيء الثاني. وبالنظر إلى المعاني المتعددة الطبقات التي يقصدها يوحنا بانتظام، قد يكون "ألفورد" قريبا من الحقيقة في محاولته الجمع بين الأمرين: "لكي نفهم هذا، يجب أن نضع في اعتبارنا ما يسميه شتير بحق 'منظور' النبوة. إن مجيء الرب ثانية ليس عملا مفردا، كقيامته، أو نزول الروح، أو مجيئه الشخصي الثاني، أو المجيء الأخير للدينونة؛ بل هو المجموع المعقد لكل هذه الأشياء، والذي ستكون نتيجته أخذه لشعبه إليه ليكونوا حيثما هو. إن فعل ἔρχομαι (آتي)، يبدأ (في العدد ١٨) في قيامته، ويستمر (في العدد ٢٣) في الحياة الروحية (انظر أيضا الأصحاح ١٦: ٢٢ وما يليه)، كإعداد لهم للمكان المعد؛ ويتقدم أكثر عندما يؤخذ كل واحد بالموت ليكون معه \[فيلبي ١ : ٢٣\]؛ ويكتمل بالكامل في مجيئه في المجد، عندما يكونون إلى الأبد معه \[تسالونيكي الأولى ٤ : ١٧\] في حالة القيامة المكملة." هنري ألفورد، العهد الجديد اليوناني لألفورد: تعليق تفسيري ونقدي (غراند رابيدز، ميشيغان: غارديان بريس، ١٩٧٦)، ١: ٨٤٩-٥٠.
+</p>
 
-<sup id="ch12-fn-2"><a href="#ch12-ref-2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup>. انظر على وجه الخصوص الفصلين الثامن والتاسع.
+<p id="ch12-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch12-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> . انظر على وجه الخصوص الفصلين الثامن والتاسع.
+</p>
 
-<sup id="ch12-fn-3"><a href="#ch12-ref-3" style="text-decoration: none; color: var(--primary-color);">[3]</a></sup>. لا يقدم مثل وليمة العرس في \[متى ٢٢ : ١-١٤\] كتصوير للمجيء الثاني. والصورة لا تتناسب مع وليمة عرس يكون فيها يسوع هو العريس والتلاميذ هم العروس، لأن التلاميذ الذين يتجددون ويأتون إلى الوليمة هم ضيوف في الوليمة. وهم ليسوا العروس. إنه مثل عن أنواع الأسباب الدنيوية التي يستخدمها الناس للابتعاد عن السخاء الفياض لدعوات الملكوت.
+<p id="ch12-fn-3" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch12-ref-3" style="font-weight: bold; color: var(--primary); text-decoration: none;">[3] ↩</a> . لا يقدم مثل وليمة العرس في \[متى ٢٢ : ١-١٤\] كتصوير للمجيء الثاني. والصورة لا تتناسب مع وليمة عرس يكون فيها يسوع هو العريس والتلاميذ هم العروس، لأن التلاميذ الذين يتجددون ويأتون إلى الوليمة هم ضيوف في الوليمة. وهم ليسوا العروس. إنه مثل عن أنواع الأسباب الدنيوية التي يستخدمها الناس للابتعاد عن السخاء الفياض لدعوات الملكوت.
+</p>
 
-<sup id="ch12-fn-4"><a href="#ch12-ref-4" style="text-decoration: none; color: var(--primary-color);">[4]</a></sup>. انظر الفصل الثامن، الهامش ١.
-
+<p id="ch12-fn-4" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch12-ref-4" style="font-weight: bold; color: var(--primary); text-decoration: none;">[4] ↩</a> . انظر الفصل الثامن، الهامش ١.
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzDtpyptfaHSD1rWYBlDvPyKO_MTMJD9NbRMwOJYRvLAP-_9RCWsSUDjxZMw63PycVMR0kQ-W-pLmKHLtf-e6rITtYEySwdWiGkBTkBJRacvHO7Dj4qQt98mRwG5xO0-WFvzeveBaOWgGvhuK5UuP1-9DXzak4SUVHWll32dyr-bEzF0lj2Gx0Rjt_u0/s2752/%D8%A7%D9%84%D9%81%D8%B1%D8%AD_%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A_%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9_%D9%85%D8%B9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzDtpyptfaHSD1rWYBlDvPyKO_MTMJD9NbRMwOJYRvLAP-_9RCWsSUDjxZMw63PycVMR0kQ-W-pLmKHLtf-e6rITtYEySwdWiGkBTkBJRacvHO7Dj4qQt98mRwG5xO0-WFvzeveBaOWgGvhuK5UuP1-9DXzak4SUVHWll32dyr-bEzF0lj2Gx0Rjt_u0/s600/%D8%A7%D9%84%D9%81%D8%B1%D8%AD_%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A_%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9_%D9%85%D8%B9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>
@@ -1738,26 +1789,44 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 عندما نتراجع خطوة للوراء عن هذه المجموعات الثلاث من النصوص، والتي فهمها البعض على أنها تلمح إلى أن يسوع تنبأ بالمجيء الثاني وانقضاء الدهر في غضون جيل واحد، فإن استنتاجي هو أن يسوع لم يُعلّم بأنه سيرجع في غضون جيل واحد. ولذلك، ومهما كانت الحيرات الأخرى التي قد تعكر صفو مياه محبتنا لظهوره، فليس من الضروري أن تكون هذه الحيرة من بينها. ولكن، قد يتساءل أحدهم، ألا يتحدث العهد الجديد مرارا وتكرارا عن المجيء الثاني كحدث سيقع قريبا؟ نعم. وإلى هذا السؤال نتحول في الفصل التالي.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="fn1"><a href="#ref1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup> جورج إلدون لاد: لاهوتي أمريكي معمداني، عُرف بدفاعه القوي عن لاهوت "الملكوت الحاضر والمستقبلي" في دراسات العهد الجديد.
+<p id="fn1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> جورج إلدون لاد: لاهوتي أمريكي معمداني، عُرف بدفاعه القوي عن لاهوت "الملكوت الحاضر والمستقبلي" في دراسات العهد الجديد.
+</p>
 
-<sup id="fn2"><a href="#ref2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup> سي. إي. بي. كرانفيلد: لاهوتي بريطاني مصلح وخبير في العهد الجديد، اشتهر بتعليقاته التفسيرية العميقة.
+<p id="fn2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> سي. إي. بي. كرانفيلد: لاهوتي بريطاني مصلح وخبير في العهد الجديد، اشتهر بتعليقاته التفسيرية العميقة.
+</p>
 
-<sup id="fn3"><a href="#ref3" style="text-decoration: none; color: var(--primary-color);">[3]</a></sup> جورج إلدون لاد، لاهوت العهد الجديد.
+<p id="fn3" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref3" style="font-weight: bold; color: var(--primary); text-decoration: none;">[3] ↩</a> جورج إلدون لاد، لاهوت العهد الجديد.
+</p>
 
-<sup id="fn4"><a href="#ref4" style="text-decoration: none; color: var(--primary-color);">[4]</a></sup> يقدم سام ستورمز \[لاهوتي أمريكي إصلاحي معاصر\] حجة مفادها أن \[متى ٢٤ : ٤-٣١\] تشير "بشكل مباشر وأساسي" إلى الأحداث المؤدية إلى عام ٧٠ ميلاديا وما شمله. غير أنه يستنتج بعد ذلك قائلا: "إن حجتي... لا تستبعد بالضرورة احتمال أن يكون انقضاء الدهر أيضا، على الأقل بشكل غير مباشر، في الأفق. فمن المحتمل جدا أن الأحداث المستقبلية المرتبطة بالمجيء الثاني للمسيح يُرْهَص بها بدمار الهيكل والمدينة... ولذلك، فإن رأيي هو أن نمط الأحداث التي جرت في الفترة من ٣٣-٧٠م... قد تعمل كإرهاص محلي وجزئي للأحداث العالمية والكلية المرتبطة بالمجيء ونهاية التاريخ." يمكنك أن تسمع في عباراته حالة من عدم اليقين. الفارق بين وجهة نظري ووجهة نظر ستورمز ذو شقين: الأول، أنه يرى مجرد احتمال أن \[متى ٢٤ : ٤-٣١\] ترهص بأحداث في نهاية الدهر، بينما أعتقد أنا أن هناك أدلة جيدة على أن كل من متى وبولس فهما تعليم يسوع على أنه يضع النهاية الأخيرة في الأفق بوضوح.
+<p id="fn4" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref4" style="font-weight: bold; color: var(--primary); text-decoration: none;">[4] ↩</a> يقدم سام ستورمز \[لاهوتي أمريكي إصلاحي معاصر\] حجة مفادها أن \[متى ٢٤ : ٤-٣١\] تشير "بشكل مباشر وأساسي" إلى الأحداث المؤدية إلى عام ٧٠ ميلاديا وما شمله. غير أنه يستنتج بعد ذلك قائلا: "إن حجتي... لا تستبعد بالضرورة احتمال أن يكون انقضاء الدهر أيضا، على الأقل بشكل غير مباشر، في الأفق. فمن المحتمل جدا أن الأحداث المستقبلية المرتبطة بالمجيء الثاني للمسيح يُرْهَص بها بدمار الهيكل والمدينة... ولذلك، فإن رأيي هو أن نمط الأحداث التي جرت في الفترة من ٣٣-٧٠م... قد تعمل كإرهاص محلي وجزئي للأحداث العالمية والكلية المرتبطة بالمجيء ونهاية التاريخ." يمكنك أن تسمع في عباراته حالة من عدم اليقين. الفارق بين وجهة نظري ووجهة نظر ستورمز ذو شقين: الأول، أنه يرى مجرد احتمال أن \[متى ٢٤ : ٤-٣١\] ترهص بأحداث في نهاية الدهر، بينما أعتقد أنا أن هناك أدلة جيدة على أن كل من متى وبولس فهما تعليم يسوع على أنه يضع النهاية الأخيرة في الأفق بوضوح.
+</p>
 
-<sup id="fn5"><a href="#ref5" style="text-decoration: none; color: var(--primary-color);">[5]</a></sup> هيرمان ريدربوس: لاهوتي هولندي إصلاحي، اشتهر بأعماله المؤثرة حول لاهوت بولس الرسول وملكوت الله.
+<p id="fn5" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref5" style="font-weight: bold; color: var(--primary); text-decoration: none;">[5] ↩</a> هيرمان ريدربوس: لاهوتي هولندي إصلاحي، اشتهر بأعماله المؤثرة حول لاهوت بولس الرسول وملكوت الله.
+</p>
 
-<sup id="fn6"><a href="#ref6" style="text-decoration: none; color: var(--primary-color);">[6]</a></sup> هيرمان ريدربوس، مجيء الملكوت.
+<p id="fn6" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref6" style="font-weight: bold; color: var(--primary); text-decoration: none;">[6] ↩</a> هيرمان ريدربوس، مجيء الملكوت.
+</p>
 
-<sup id="fn7"><a href="#ref7" style="text-decoration: none; color: var(--primary-color);">[7]</a></sup> جورج إلدون لاد، لاهوت العهد الجديد. وبالمثل، يستنتج أنتوني أ. هيكيما \[لاهوتي إصلاحي معروف بمؤلفاته في الأخرويات\]، الكتاب المقدس والمستقبل.
+<p id="fn7" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref7" style="font-weight: bold; color: var(--primary); text-decoration: none;">[7] ↩</a> جورج إلدون لاد، لاهوت العهد الجديد. وبالمثل، يستنتج أنتوني أ. هيكيما \[لاهوتي إصلاحي معروف بمؤلفاته في الأخرويات\]، الكتاب المقدس والمستقبل.
+</p>
 
-<sup id="fn8"><a href="#ref8" style="text-decoration: none; color: var(--primary-color);">[8]</a></sup> على سبيل المثال، يُحاجج د. أ. كارسون بأن "مجيء ابن الإنسان" هنا يشير إلى مجيئه في الدينونة ضد اليهود، متوجا بسقوط أورشليم ودمار الهيكل.
+<p id="fn8" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref8" style="font-weight: bold; color: var(--primary); text-decoration: none;">[8] ↩</a> على سبيل المثال، يُحاجج د. أ. كارسون بأن "مجيء ابن الإنسان" هنا يشير إلى مجيئه في الدينونة ضد اليهود، متوجا بسقوط أورشليم ودمار الهيكل.
+</p>
 
-<sup id="fn9"><a href="#ref9" style="text-decoration: none; color: var(--primary-color);">[9]</a></sup> انظر جون بايبر، "خمسة أسباب تجعلني أعتقد أن \[رومية ١١ : ٢٦\] تعني تجديدا مستقبليا لإسرائيل".
-
+<p id="fn9" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ref9" style="font-weight: bold; color: var(--primary); text-decoration: none;">[9] ↩</a> انظر جون بايبر، "خمسة أسباب تجعلني أعتقد أن \[رومية ١١ : ٢٦\] تعني تجديدا مستقبليا لإسرائيل".
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6TCFCpo-qHKeQ18hM8h4XdKSiPfvrxgLhyouxCTIIA8KzTLhgfptYF6GQVch9tgCaLN9sxpi-lnx5miIv51Vps8P8IO7a_pcQJN2aDN7EQhxbTYGfrLAuYu6Rg-vqAnoDKFAmCGHgb6QZCac9lV6BtVSvue93rpIqcDHHi60BA-qbz3tCzpwwCIjeYoQ/s2752/%D9%85%D8%AA%D9%89_%D9%8A%D8%B9%D9%88%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D8%B1_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6TCFCpo-qHKeQ18hM8h4XdKSiPfvrxgLhyouxCTIIA8KzTLhgfptYF6GQVch9tgCaLN9sxpi-lnx5miIv51Vps8P8IO7a_pcQJN2aDN7EQhxbTYGfrLAuYu6Rg-vqAnoDKFAmCGHgb6QZCac9lV6BtVSvue93rpIqcDHHi60BA-qbz3tCzpwwCIjeYoQ/s600/%D9%85%D8%AA%D9%89_%D9%8A%D8%B9%D9%88%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D8%B1_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>
@@ -1863,16 +1932,24 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 وهو ما يقودنا الآن إلى التساؤل: ما الذي تقتضيه هذه النظرة للقرب، إن كان لها أي مقتضى، بشأن ما إذا كان يسوع قد يأتي في أية لحظة؟ وهذا هو محور الفصول ١٥-١٧.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="ch14-fn-1"><a href="#ch14-ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup>. انظر الفصل الثامن، الهامش ١.
+<p id="ch14-fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch14-ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> . انظر الفصل الثامن، الهامش ١.
+</p>
 
-<sup id="ch14-fn-2"><a href="#ch14-ref-2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup>. سي. إي. بي. كرانفيلد، الإنجيل بحسب القديس مرقس (كامبريدج، المملكة المتحدة: مطبعة جامعة كامبريدج، ١٩٥٩)، ٤٠٨.
+<p id="ch14-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch14-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> . سي. إي. بي. كرانفيلد، الإنجيل بحسب القديس مرقس (كامبريدج، المملكة المتحدة: مطبعة جامعة كامبريدج، ١٩٥٩)، ٤٠٨.
+</p>
 
-<sup id="ch14-fn-3"><a href="#ch14-ref-3" style="text-decoration: none; color: var(--primary-color);">[3]</a></sup>. إن فهمي للتصريح القائل بأن الله «يَتَأَنَّى عَلَيْنَا، وَهُوَ لاَ يَشَاءُ أَنْ يَهْلِكَ أُنَاسٌ، بَلْ أَنْ يُقْبِلَ الْجَمِيعُ إِلَى التَّوْبَةِ.» \[بطرس الثانية ٣ : ٩\] هو أن عبارة "عَلَيْنَا" تعني عليكم أنتم المؤمنين، وضمنيا، جميع المؤمنين — جميع المختارين \[بطرس الثانية ١ : ١٠\]. ولذلك، فإن كلمة "أُنَاسٌ" (أو أيٌّ Any في الإنجليزية) في عبارة "لاَ يَشَاءُ أَنْ يَهْلِكَ أُنَاسٌ" تتحدد بمعاني كلمات "الله يتأنى علينا". ومن هنا، فإن الله "لا يشاء أن يهلك أيٌّ \[منكم\]" — أي "أيٌّ منكم أيها المختارون". فالمعضلة في تفسير قصد بطرس على أن الله يؤخر المجيء الثاني لأنه يشاء أن يخلص جميع البشر هي أنه كلما تأخر المجيء، كلما هلك أناس أكثر، لأنه في كل جيل هناك الكثيرون ممن لا يتوبون. والله ليس جاهلا بهذه الحقيقة. ولذلك، فإن منطق العدد سينهار لو كان يقصد "جميع البشر"، لأن منطق العدد هو أن الإبطاء يعود إلى الرغبة الإلهية في ألا يهلك أحد.
+<p id="ch14-fn-3" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch14-ref-3" style="font-weight: bold; color: var(--primary); text-decoration: none;">[3] ↩</a> . إن فهمي للتصريح القائل بأن الله «يَتَأَنَّى عَلَيْنَا، وَهُوَ لاَ يَشَاءُ أَنْ يَهْلِكَ أُنَاسٌ، بَلْ أَنْ يُقْبِلَ الْجَمِيعُ إِلَى التَّوْبَةِ.» \[بطرس الثانية ٣ : ٩\] هو أن عبارة "عَلَيْنَا" تعني عليكم أنتم المؤمنين، وضمنيا، جميع المؤمنين — جميع المختارين \[بطرس الثانية ١ : ١٠\]. ولذلك، فإن كلمة "أُنَاسٌ" (أو أيٌّ Any في الإنجليزية) في عبارة "لاَ يَشَاءُ أَنْ يَهْلِكَ أُنَاسٌ" تتحدد بمعاني كلمات "الله يتأنى علينا". ومن هنا، فإن الله "لا يشاء أن يهلك أيٌّ \[منكم\]" — أي "أيٌّ منكم أيها المختارون". فالمعضلة في تفسير قصد بطرس على أن الله يؤخر المجيء الثاني لأنه يشاء أن يخلص جميع البشر هي أنه كلما تأخر المجيء، كلما هلك أناس أكثر، لأنه في كل جيل هناك الكثيرون ممن لا يتوبون. والله ليس جاهلا بهذه الحقيقة. ولذلك، فإن منطق العدد سينهار لو كان يقصد "جميع البشر"، لأن منطق العدد هو أن الإبطاء يعود إلى الرغبة الإلهية في ألا يهلك أحد.
+</p>
 
-<sup id="ch14-fn-4"><a href="#ch14-ref-4" style="text-decoration: none; color: var(--primary-color);">[4]</a></sup>. يشير بن ويذرنجتون إلى أن نظرية النسبية ينبغي، على الأقل، أن تجعلنا متواضعين وتمنعنا من استخدام إدراكنا الهش لمعنى الزمن لإصدار أحكام على النبوات الكتابية: "يشير العديد من العلماء إلى أن 'الزمن، في الواقع، مرن ويمكن تمديده وتقليصه بالحركة'. ليس هذا فحسب، بل 'إن الزمن يمر حقا بشكل أسرع في الفضاء، حيث تكون جاذبية الأرض أضعف'. باختصار، الزمان والمكان والجاذبية أمور مترابطة ومعتمدة على بعضها البعض... والآن، هذا في حد ذاته يجب أن يدفعنا جميعا للتوقف والتأمل. فإدراكنا الخاص لمرور الزمن أو حساب الزمن لا يمثل أساسا صلبا أو موثوقا لإصدار حكم واثق حول صحة المفاهيم الأخروية التي علمها يسوع وبولس... إن ما تعلمناه عن الزمن من نظرية النسبية مقترنا باستكشاف الفضاء يشير إلى أنه بما أن الزمان والمكان والجاذبية أمور مترابطة، ومهما كان ما قد يقال خلاف ذلك، فإن الأبدية أو السماء لابد أن تكون مختلفة تماما عن الأرض فيما يتعلق بمسألة الزمن برمتها. وقد يثبت أيضا أنه من الحق أن الكاتب الكتابي قد قال أكثر مما أدرك عندما أشار إلى أن 'يَوْمًا وَاحِدًا عِنْدَ الرَّبِّ كَأَلْفِ سَنَةٍ، وَأَلْفَ سَنَةٍ كَيَوْمٍ وَاحِدٍ' \[بطرس الثانية ٣ : ٨\]." بن ويذرنجتون الثالث، يسوع وبولس ونهاية العالم: دراسة مقارنة في أخرويات العهد الجديد (داونرز جروف، إلينوي: مطبعة إنترڤارسيتي، ١٩٩٢)، ٢٣٣-٣٤.
-
+<p id="ch14-fn-4" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch14-ref-4" style="font-weight: bold; color: var(--primary); text-decoration: none;">[4] ↩</a> . يشير بن ويذرنجتون إلى أن نظرية النسبية ينبغي، على الأقل، أن تجعلنا متواضعين وتمنعنا من استخدام إدراكنا الهش لمعنى الزمن لإصدار أحكام على النبوات الكتابية: "يشير العديد من العلماء إلى أن 'الزمن، في الواقع، مرن ويمكن تمديده وتقليصه بالحركة'. ليس هذا فحسب، بل 'إن الزمن يمر حقا بشكل أسرع في الفضاء، حيث تكون جاذبية الأرض أضعف'. باختصار، الزمان والمكان والجاذبية أمور مترابطة ومعتمدة على بعضها البعض... والآن، هذا في حد ذاته يجب أن يدفعنا جميعا للتوقف والتأمل. فإدراكنا الخاص لمرور الزمن أو حساب الزمن لا يمثل أساسا صلبا أو موثوقا لإصدار حكم واثق حول صحة المفاهيم الأخروية التي علمها يسوع وبولس... إن ما تعلمناه عن الزمن من نظرية النسبية مقترنا باستكشاف الفضاء يشير إلى أنه بما أن الزمان والمكان والجاذبية أمور مترابطة، ومهما كان ما قد يقال خلاف ذلك، فإن الأبدية أو السماء لابد أن تكون مختلفة تماما عن الأرض فيما يتعلق بمسألة الزمن برمتها. وقد يثبت أيضا أنه من الحق أن الكاتب الكتابي قد قال أكثر مما أدرك عندما أشار إلى أن 'يَوْمًا وَاحِدًا عِنْدَ الرَّبِّ كَأَلْفِ سَنَةٍ، وَأَلْفَ سَنَةٍ كَيَوْمٍ وَاحِدٍ' \[بطرس الثانية ٣ : ٨\]." بن ويذرنجتون الثالث، يسوع وبولس ونهاية العالم: دراسة مقارنة في أخرويات العهد الجديد (داونرز جروف، إلينوي: مطبعة إنترڤارسيتي، ١٩٩٢)، ٢٣٣-٣٤.
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-2RAHvbW5c8Wmn8r44gLvDcbyldH2FyAWXnMALespwCDax6meibhphpoNGR-7siqMoh4dZ7qkEuhdYDnJ9YsbPXdhsP7e4aLVEpvIpHY0mdwAh2zjwrt5jLKWnDdt6McUlQibjbU-Cdz_71Cz5DO8osRT1Xgc4QhmkH1pFDB69QxkJL_K5wwa-PR4F2c/s2752/%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF_%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9_%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%B3%D8%B1%D9%8A%D8%B9%D8%A7%D9%8B.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-2RAHvbW5c8Wmn8r44gLvDcbyldH2FyAWXnMALespwCDax6meibhphpoNGR-7siqMoh4dZ7qkEuhdYDnJ9YsbPXdhsP7e4aLVEpvIpHY0mdwAh2zjwrt5jLKWnDdt6McUlQibjbU-Cdz_71Cz5DO8osRT1Xgc4QhmkH1pFDB69QxkJL_K5wwa-PR4F2c/s600/%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF_%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9_%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%B3%D8%B1%D9%8A%D8%B9%D8%A7%D9%8B.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>
@@ -2002,14 +2079,20 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 سأحاول أن أبين في الفصل القادم أن نظرة بولس للمجيء الثاني ونظرة يسوع (لاسيما في \[متى ٢٤\]) هما نظرة واحدة. وسيكون لهذا تداعيات مهمة على الخطوة الثالثة (الفصل السابع عشر)، وتحديدا، ما هي الأحداث التي يجب أن تقع قبل مجيء المسيح.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="ch15-fn-1"><a href="#ch15-ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup> جورج إلدون لاد، الرجاء المبارك: دراسة كتابية للمجيء الثاني والاختطاف (غراند رابيدز، ميشيغان: إيردمانز، ١٩٩٠)؛ روبرت إتش. غوندري، الكنيسة والضيقة (غراند رابيدز، ميشيغان: زوندرفان، ١٩٧٣).
+<p id="ch15-fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch15-ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> جورج إلدون لاد، الرجاء المبارك: دراسة كتابية للمجيء الثاني والاختطاف (غراند رابيدز، ميشيغان: إيردمانز، ١٩٩٠)؛ روبرت إتش. غوندري، الكنيسة والضيقة (غراند رابيدز، ميشيغان: زوندرفان، ١٩٧٣).
+</p>
 
-<sup id="ch15-fn-2"><a href="#ch15-ref-2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup> يتضح التزامن بين الدينونة والإنقاذ من خلال (١) قول بولس إن كليهما يحدثان «عِنْدَ اسْتِعْلاَنِ الرَّبِّ يَسُوعَ مِنَ السَّمَاءِ مَعَ مَلاَئِكَةِ قُوَّتِهِ» (ἐν τῇ ἀποκαλύψει τοῦ κυρίου Ἰησοῦ ἀπʼ οὐρανοῦ μετʼ ἀγγέλων δυνάμεως αὐτοῦ - en tē apokalypsei tou kyriou Iēsou ap’ ouranou met’ angelōn dynameōs autou) \[تسالونيكي الثانية ١ : ٧\]، و(٢) من خلال قوله إن الدينونة تحدث «مَتَى جَاءَ لِيَتَمَجَّدَ فِي قِدِّيسِيهِ» (ὅταν ἔλθῃ ἐνδοξασθῆναι ἐν τοῖς ἁγίοις αὐτοῦ - hotan elthē endoxasthēnai en tois hagiois autou) \[تسالونيكي الثانية ١ : ١٠\].
+<p id="ch15-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch15-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> يتضح التزامن بين الدينونة والإنقاذ من خلال (١) قول بولس إن كليهما يحدثان «عِنْدَ اسْتِعْلاَنِ الرَّبِّ يَسُوعَ مِنَ السَّمَاءِ مَعَ مَلاَئِكَةِ قُوَّتِهِ» (ἐν τῇ ἀποκαλύψει τοῦ κυρίου Ἰησοῦ ἀπʼ οὐρανοῦ μετʼ ἀγγέλων δυνάμεως αὐτοῦ - en tē apokalypsei tou kyriou Iēsou ap’ ouranou met’ angelōn dynameōs autou) \[تسالونيكي الثانية ١ : ٧\]، و(٢) من خلال قوله إن الدينونة تحدث «مَتَى جَاءَ لِيَتَمَجَّدَ فِي قِدِّيسِيهِ» (ὅταν ἔλθῃ ἐνδοξασθῆναι ἐν τοῖς ἁγίοις αὐτοῦ - hotan elthē endoxasthēnai en tois hagiois autou) \[تسالونيكي الثانية ١ : ١٠\].
+</p>
 
-<sup id="ch15-fn-3"><a href="#ch15-ref-3" style="text-decoration: none; color: var(--primary-color);">[3]</a></sup> انظر الفصل الثامن.
-
+<p id="ch15-fn-3" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch15-ref-3" style="font-weight: bold; color: var(--primary); text-decoration: none;">[3] ↩</a> انظر الفصل الثامن.
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipIRSFiao37CxGmBlT1MbelYH5QusR5DKFBZE6v0tb76KZCuqwDUvyZ3bwdTT6ImyrfwzCckY0RPg1sDZ5nwWjOmUjs9bb3KQ8J1OxN5mXanKm3SgMLYy6Zad2_MkATqM8WrXNsVgyq-vBqnG-xM8g282dNXEtGuFcqiRw30Bmb0raWiTbQYtPRPCbfiM/s2752/%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A__%D8%AD%D8%AF%D8%AB_%D8%A3%D9%85_%D8%AD%D8%AF%D8%AB%D8%A7%D9%86%D8%9F.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipIRSFiao37CxGmBlT1MbelYH5QusR5DKFBZE6v0tb76KZCuqwDUvyZ3bwdTT6ImyrfwzCckY0RPg1sDZ5nwWjOmUjs9bb3KQ8J1OxN5mXanKm3SgMLYy6Zad2_MkATqM8WrXNsVgyq-vBqnG-xM8g282dNXEtGuFcqiRw30Bmb0raWiTbQYtPRPCbfiM/s600/%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A__%D8%AD%D8%AF%D8%AB_%D8%A3%D9%85_%D8%AD%D8%AF%D8%AB%D8%A7%D9%86%D8%9F.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>
@@ -2245,18 +2328,28 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 ٣. هل يُعلِّم العهد الجديد بأن هناك أحداثا لم تقع بعد ويجب أن تحدث قبل أن يرجع الرب؟ إن وُجدت، فمن المرجح أن يُجيب ذلك عن تساؤلنا حول ظهور المسيح في أية لحظة. وإلى هذا التساؤل نتحول في الفصل القادم.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="ch16-fn-1"><a href="#ch16-ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup> دبليو. أرندت، وإف. دبليو. دانكر، ودبليو. باور، وإف. دبليو. غينجريتش، معجم يوناني-إنجليزي للعهد الجديد والأدب المسيحي المبكر الآخر، الطبعة الثالثة (شيكاغو: مطبعة جامعة شيكاغو، ٢٠٠٠)، ١٢٠.
+<p id="ch16-fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch16-ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> دبليو. أرندت، وإف. دبليو. دانكر، ودبليو. باور، وإف. دبليو. غينجريتش، معجم يوناني-إنجليزي للعهد الجديد والأدب المسيحي المبكر الآخر، الطبعة الثالثة (شيكاغو: مطبعة جامعة شيكاغو، ٢٠٠٠)، ١٢٠.
+</p>
 
-<sup id="ch16-fn-2"><a href="#ch16-ref-2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup> يزعم بعض المفسرين أنه نظرا لأن اللغة هنا تعكس لغة \[دانيال ٧ : ١٣-١٤\]، فإن هذا "الآتي على سحاب" ليس مجيئا إلى الأرض بل مجيئا لابن الإنسان إلى القديم الأيام في السماء. يقول \[دانيال ٧ : ١٣-١٤\]: «كُنْتُ أَرَى فِي رُؤَى اللَّيْلِ وَإِذَا مَعَ سُحُبِ السَّمَاءِ مِثْلُ ابْنِ إِنْسَانٍ أَتَى وَجَاءَ إِلَى الْقَدِيمِ الأَيَّامِ، فَقَرَّبُوهُ قُدَّامَهُ. فَأُعْطِيَ سُلْطَاناً وَمَجْداً وَمَلَكُوتاً لِتَتَعَبَّدَ لَهُ كُلُّ الشُّعُوبِ وَالأُمَمِ وَالأَلْسِنَةِ. سُلْطَانُهُ سُلْطَانٌ أَبَدِيٌّ مَا لَنْ يَزُولَ، وَمَلَكُوتُهُ مَا لاَ يَنْقَرِضُ.» ثمة مشاكل عديدة في إنكار أن "الآتي على سحاب" (في \[متى ٢٤ : ٣٠\] و \[متى ٢٦ : ٦٤\]) هو المجيء الثاني للمسيح إلى الأرض. أولا، القراءة الطبيعية لإنجيل متى تتعارض مع هذا الإنكار. ثانيا، الروابط اللغوية مع رسالتي تسالونيكي الأولى والثانية (والتي نتفحصها في هذا الفصل) تشير إلى معنى المجيء الثاني. ثالثا، من الممكن تماما، بل ومن المرجح، أن يسوع كان يأخذ من لغة \[دانيال ٧ : ١٣-١٤\] بدلا من إعادة إنتاج المشهد السماوي نفسه. رابعا، حتى في \[دانيال ٧\]، فإن الملكوت الذي يتسلمه ابن الإنسان الذي يأتي "إلى القديم الأيام" يُعطى بدوره لقديسي العلي على الأرض: «أَمَّا قِدِّيسُو الْعَلِيِّ فَيَأْخُذُونَ الْمَلَكُوتَ وَيَمْتَلِكُونَ الْمَلَكُوتَ إِلَى الأَبَدِ وَإِلَى أَبَدِ الآبِدِينَ.» (\[دانيال ٧ : ١٨\]؛ راجع ٧ : ٢٢، ٢٧). ومن الطبيعي تماما أن يأتي ابن الإنسان على السحاب إلى الله ليتسلم الملكوت، ثم يرجع على السحاب «...فِي مَجْدِهِ وَجَمِيعُ الْمَلاَئِكَةِ الْقِدِّيسِينَ مَعَهُ،» \[متى ٢٥ : ٣١\] ويقول لشعبه: «...تَعَالَوْا يَا مُبَارَكِي أَبِي، رِثُوا الْمَلَكُوتَ الْمُعَدَّ لَكُمْ مُنْذُ تَأْسِيسِ الْعَالَمِ.» \[متى ٢٥ : ٣٤\].
+<p id="ch16-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch16-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> يزعم بعض المفسرين أنه نظرا لأن اللغة هنا تعكس لغة \[دانيال ٧ : ١٣-١٤\]، فإن هذا "الآتي على سحاب" ليس مجيئا إلى الأرض بل مجيئا لابن الإنسان إلى القديم الأيام في السماء. يقول \[دانيال ٧ : ١٣-١٤\]: «كُنْتُ أَرَى فِي رُؤَى اللَّيْلِ وَإِذَا مَعَ سُحُبِ السَّمَاءِ مِثْلُ ابْنِ إِنْسَانٍ أَتَى وَجَاءَ إِلَى الْقَدِيمِ الأَيَّامِ، فَقَرَّبُوهُ قُدَّامَهُ. فَأُعْطِيَ سُلْطَاناً وَمَجْداً وَمَلَكُوتاً لِتَتَعَبَّدَ لَهُ كُلُّ الشُّعُوبِ وَالأُمَمِ وَالأَلْسِنَةِ. سُلْطَانُهُ سُلْطَانٌ أَبَدِيٌّ مَا لَنْ يَزُولَ، وَمَلَكُوتُهُ مَا لاَ يَنْقَرِضُ.» ثمة مشاكل عديدة في إنكار أن "الآتي على سحاب" (في \[متى ٢٤ : ٣٠\] و \[متى ٢٦ : ٦٤\]) هو المجيء الثاني للمسيح إلى الأرض. أولا، القراءة الطبيعية لإنجيل متى تتعارض مع هذا الإنكار. ثانيا، الروابط اللغوية مع رسالتي تسالونيكي الأولى والثانية (والتي نتفحصها في هذا الفصل) تشير إلى معنى المجيء الثاني. ثالثا، من الممكن تماما، بل ومن المرجح، أن يسوع كان يأخذ من لغة \[دانيال ٧ : ١٣-١٤\] بدلا من إعادة إنتاج المشهد السماوي نفسه. رابعا، حتى في \[دانيال ٧\]، فإن الملكوت الذي يتسلمه ابن الإنسان الذي يأتي "إلى القديم الأيام" يُعطى بدوره لقديسي العلي على الأرض: «أَمَّا قِدِّيسُو الْعَلِيِّ فَيَأْخُذُونَ الْمَلَكُوتَ وَيَمْتَلِكُونَ الْمَلَكُوتَ إِلَى الأَبَدِ وَإِلَى أَبَدِ الآبِدِينَ.» (\[دانيال ٧ : ١٨\]؛ راجع ٧ : ٢٢، ٢٧). ومن الطبيعي تماما أن يأتي ابن الإنسان على السحاب إلى الله ليتسلم الملكوت، ثم يرجع على السحاب «...فِي مَجْدِهِ وَجَمِيعُ الْمَلاَئِكَةِ الْقِدِّيسِينَ مَعَهُ،» \[متى ٢٥ : ٣١\] ويقول لشعبه: «...تَعَالَوْا يَا مُبَارَكِي أَبِي، رِثُوا الْمَلَكُوتَ الْمُعَدَّ لَكُمْ مُنْذُ تَأْسِيسِ الْعَالَمِ.» \[متى ٢٥ : ٣٤\].
+</p>
 
-<sup id="ch16-fn-3"><a href="#ch16-ref-3" style="text-decoration: none; color: var(--primary-color);">[3]</a></sup> انظر الفصل ١٥.
+<p id="ch16-fn-3" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch16-ref-3" style="font-weight: bold; color: var(--primary); text-decoration: none;">[3] ↩</a> انظر الفصل ١٥.
+</p>
 
-<sup id="ch16-fn-4"><a href="#ch16-ref-4" style="text-decoration: none; color: var(--primary-color);">[4]</a></sup> من باب التذكير، لاحظ كيف تتغلغل المتوازيات مع نظرة بولس في كل \[متى ٢٤\]: الباروسيا (٢٤ : ٢٧)، الاجتماع (٢٤ : ٣١)، لا ترتاعوا (٢٤ : ٦)، الخداع وفقدان الإيمان (٢٤ : ٤، ١٠، ١١، ٢٤)، الإثم (٢٤ : ١٢)، إخفاق المحبة (٢٤ : ١٢)، آيات وعجائب (٢٤ : ٢٤)، سحاب، قوة، مجد، بوق (٢٤ : ٣٠-٣١)، أوجاع مخاض (٢٤ : ٨).
+<p id="ch16-fn-4" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch16-ref-4" style="font-weight: bold; color: var(--primary); text-decoration: none;">[4] ↩</a> من باب التذكير، لاحظ كيف تتغلغل المتوازيات مع نظرة بولس في كل \[متى ٢٤\]: الباروسيا (٢٤ : ٢٧)، الاجتماع (٢٤ : ٣١)، لا ترتاعوا (٢٤ : ٦)، الخداع وفقدان الإيمان (٢٤ : ٤، ١٠، ١١، ٢٤)، الإثم (٢٤ : ١٢)، إخفاق المحبة (٢٤ : ١٢)، آيات وعجائب (٢٤ : ٢٤)، سحاب، قوة، مجد، بوق (٢٤ : ٣٠-٣١)، أوجاع مخاض (٢٤ : ٨).
+</p>
 
-<sup id="ch16-fn-5"><a href="#ch16-ref-5" style="text-decoration: none; color: var(--primary-color);">[5]</a></sup> انظر الهامش ٤ في الفصل ١٣. يجادل بعض مفسري \[متى ٢٤\] بأنه عندما سأل التلاميذ في العدد ٣: «...مَتَى يَكُونُ هذَا؟» كانوا يشيرون فقط إلى دمار الهيكل، وأن يسوع يجيب عن هذا الجزء من سؤالهم في الأعداد ٤-٣٥. وفي ذلك الرأي، تشير لغة تلك الأعداد فقط إلى القرن الأول. وهكذا، على سبيل المثال، عندما يقول يسوع في العدد ١٤: «وَيُكْرَزُ بِبِشَارَةِ الْمَلَكُوتِ هذِهِ فِي كُلِّ الْمَسْكُونَةِ شَهَادَةً لِجَمِيعِ الأُمَمِ. ثُمَّ يَأْتِي الْمُنْتَهَى.» يقول سام ستورمز \[Sam Storms، لاهوتي أمريكي إصلاحي معاصر\]: "بقدر ما يتعلق الأمر بنبوة يسوع في \[متى ٢٤ : ١٤\]، فإن النقطة التي يرمي إليها هي أنه في أعقاب قيامته سيُكرز بالإنجيل خارج حدود اليهودية، بحيث تسمع الأمم الوثنية في العالم المأهول المعروف باسم الإمبراطورية الرومانية شهادة عمله الفدائي. وفقط بعد ذلك، كما يقول يسوع، سيحدث 'منتهى' المدينة والهيكل... إن المأمورية العظمى في \[متى ٢٨\] لا تترك أية ثغرات. يجب علينا ببساطة أن نكدح في نعمة الله لنكرز بإنجيل الله ولنتلمذ جميع الأمم. إن نقطتي... هي ببساطة أن \[متى ٢٤ : ١٤\] لا يهتم بتلك المهمة." سام ستورمز، ملكوت آت: البديل اللاألفي (فيرن، روس-شاير، المملكة المتحدة: مينتور، ٢٠١٣)، ٢٤٢-٤٤.
-
+<p id="ch16-fn-5" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch16-ref-5" style="font-weight: bold; color: var(--primary); text-decoration: none;">[5] ↩</a> انظر الهامش ٤ في الفصل ١٣. يجادل بعض مفسري \[متى ٢٤\] بأنه عندما سأل التلاميذ في العدد ٣: «...مَتَى يَكُونُ هذَا؟» كانوا يشيرون فقط إلى دمار الهيكل، وأن يسوع يجيب عن هذا الجزء من سؤالهم في الأعداد ٤-٣٥. وفي ذلك الرأي، تشير لغة تلك الأعداد فقط إلى القرن الأول. وهكذا، على سبيل المثال، عندما يقول يسوع في العدد ١٤: «وَيُكْرَزُ بِبِشَارَةِ الْمَلَكُوتِ هذِهِ فِي كُلِّ الْمَسْكُونَةِ شَهَادَةً لِجَمِيعِ الأُمَمِ. ثُمَّ يَأْتِي الْمُنْتَهَى.» يقول سام ستورمز \[Sam Storms، لاهوتي أمريكي إصلاحي معاصر\]: "بقدر ما يتعلق الأمر بنبوة يسوع في \[متى ٢٤ : ١٤\]، فإن النقطة التي يرمي إليها هي أنه في أعقاب قيامته سيُكرز بالإنجيل خارج حدود اليهودية، بحيث تسمع الأمم الوثنية في العالم المأهول المعروف باسم الإمبراطورية الرومانية شهادة عمله الفدائي. وفقط بعد ذلك، كما يقول يسوع، سيحدث 'منتهى' المدينة والهيكل... إن المأمورية العظمى في \[متى ٢٨\] لا تترك أية ثغرات. يجب علينا ببساطة أن نكدح في نعمة الله لنكرز بإنجيل الله ولنتلمذ جميع الأمم. إن نقطتي... هي ببساطة أن \[متى ٢٤ : ١٤\] لا يهتم بتلك المهمة." سام ستورمز، ملكوت آت: البديل اللاألفي (فيرن، روس-شاير، المملكة المتحدة: مينتور، ٢٠١٣)، ٢٤٢-٤٤.
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWD8s1sDgLT2BJ8R0ftTGcflVdvMpFjbice_dqkU1XinQGuFDIBbgfww2ADVxSjHrFgAZzfeYKTQ8nje2FN7naknI3Gl2S5HDqanBRuTlYU7KHKq65fRfjSnKAuFuqD6ltoHrxaFFd_65GukBbYYvd6cvwTkk0othVPnhUvcHfUV81YnYPphrZnDu-AIA/s2752/%D8%B1%D8%A4%D9%8A%D8%A9_%D9%85%D9%88%D8%AD%D8%AF%D8%A9_%D9%84%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWD8s1sDgLT2BJ8R0ftTGcflVdvMpFjbice_dqkU1XinQGuFDIBbgfww2ADVxSjHrFgAZzfeYKTQ8nje2FN7naknI3Gl2S5HDqanBRuTlYU7KHKq65fRfjSnKAuFuqD6ltoHrxaFFd_65GukBbYYvd6cvwTkk0othVPnhUvcHfUV81YnYPphrZnDu-AIA/s600/%D8%B1%D8%A4%D9%8A%D8%A9_%D9%85%D9%88%D8%AD%D8%AF%D8%A9_%D9%84%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>
@@ -2396,30 +2489,52 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 والآن يبرز التساؤل: كيف ينبغي لنا أن نعيش إذن؟ والأكثر إلحاحا هو التساؤل عما إذا كان غياب التوقع للمجيء في أية لحظة يضعف أو يقوض وصايا يسوع المتكررة بأن ننظر (βλέπετε - blepete) \[مرقس ١٣ : ٣٣\]، ونسهر (ἀγρυπνεῖτε - agrypneite) \[مرقس ١٣ : ٣٣\]، ونكون متيقظين (γρηγορεῖτε - grēgoreite) \[مرقس ١٣ : ٣٥\]، ومستعدين (γίνεσθε ἕτοιμοι - ginesthe hetoimoi) \[لوقا ١٢ : ٤٠\]، ونحترز (προσέχετε - prosechete) \[لوقا ٢١ : ٣٤\]. فهل تفترض هذه التحريضات مجيئا للرب في أية لحظة؟ إن أحد الأسباب التي يقدمها يسوع لمثل هذه اليقظة هو «لأَنَّكُمْ لاَ تَعْرِفُونَ الْيَوْمَ وَلاَ السَّاعَةَ» \[متى ٢٥ : ١٣\]. ستكون هذه القضية المتعلقة بالسهر واليقظة هي شاغلنا الأول في الجزء الثالث، بعد أن نُمهد الطريق في المقدمة.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="ch17-fn-1"><a href="#ch17-ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup> كما قال يسوع تماما: «...انْظُرُوا لاَ يُضِلَّكُمْ أَحَدٌ.» \[متى ٢٤ : ٤\]. وعلى غرار تحذير بولس، كان الخطر يكمن في أن ينجرف المرء في جنون وقت النهاية ويقفز إلى الاستنتاج بأن أحد المسحاء الكذبة كان حقيقيا وأن يوم الرب قد حضر. «فَإِنَّ كَثِيرِينَ سَيَأْتُونَ بِاسْمِي قَائِلِينَ: أَنَا هُوَ الْمَسِيحُ! وَيُضِلُّونَ كَثِيرِينَ.» \[متى ٢٤ : ٥\].
+<p id="ch17-fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch17-ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> كما قال يسوع تماما: «...انْظُرُوا لاَ يُضِلَّكُمْ أَحَدٌ.» \[متى ٢٤ : ٤\]. وعلى غرار تحذير بولس، كان الخطر يكمن في أن ينجرف المرء في جنون وقت النهاية ويقفز إلى الاستنتاج بأن أحد المسحاء الكذبة كان حقيقيا وأن يوم الرب قد حضر. «فَإِنَّ كَثِيرِينَ سَيَأْتُونَ بِاسْمِي قَائِلِينَ: أَنَا هُوَ الْمَسِيحُ! وَيُضِلُّونَ كَثِيرِينَ.» \[متى ٢٤ : ٥\].
+</p>
 
-<sup id="ch17-fn-2"><a href="#ch17-ref-2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup> انظر الفصل ٩ للتعرف على وصف شخصية وقت النهاية هذه.
+<p id="ch17-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch17-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> انظر الفصل ٩ للتعرف على وصف شخصية وقت النهاية هذه.
+</p>
 
-<sup id="ch17-fn-3"><a href="#ch17-ref-3" style="text-decoration: none; color: var(--primary-color);">[3]</a></sup> إن هذا الفهم لحضور المستقبل هو جزء من النظرة "الشمولية" للمستقبل القريب والبعيد التي بسطتها في الفصل ١٤ تحت العنوان الفرعي "قريب شموليا".
+<p id="ch17-fn-3" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch17-ref-3" style="font-weight: bold; color: var(--primary); text-decoration: none;">[3] ↩</a> إن هذا الفهم لحضور المستقبل هو جزء من النظرة "الشمولية" للمستقبل القريب والبعيد التي بسطتها في الفصل ١٤ تحت العنوان الفرعي "قريب شموليا".
+</p>
 
-<sup id="ch17-fn-4"><a href="#ch17-ref-4" style="text-decoration: none; color: var(--primary-color);">[4]</a></sup> لشرح هذه المصطلحات، انظر الفصل ١٤.
+<p id="ch17-fn-4" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch17-ref-4" style="font-weight: bold; color: var(--primary); text-decoration: none;">[4] ↩</a> لشرح هذه المصطلحات، انظر الفصل ١٤.
+</p>
 
-<sup id="ch17-fn-5"><a href="#ch17-ref-5" style="text-decoration: none; color: var(--primary-color);">[5]</a></sup> انظر الفصل ١٦، الهامش ٥.
+<p id="ch17-fn-5" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch17-ref-5" style="font-weight: bold; color: var(--primary); text-decoration: none;">[5] ↩</a> انظر الفصل ١٦، الهامش ٥.
+</p>
 
-<sup id="ch17-fn-6"><a href="#ch17-ref-6" style="text-decoration: none; color: var(--primary-color);">[6]</a></sup> جون بايبر، لتبتهج الأمم!: سيادة الله في الإرساليات (غراند رابيدز، ميشيغان: بيكر أكاديميك، ٢٠١٠)، ١٧٧-٢٤.
+<p id="ch17-fn-6" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch17-ref-6" style="font-weight: bold; color: var(--primary); text-decoration: none;">[6] ↩</a> جون بايبر، لتبتهج الأمم!: سيادة الله في الإرساليات (غراند رابيدز، ميشيغان: بيكر أكاديميك، ٢٠١٠)، ١٧٧-٢٤.
+</p>
 
-<sup id="ch17-fn-7"><a href="#ch17-ref-7" style="text-decoration: none; color: var(--primary-color);">[7]</a></sup> بايبر، لتبتهج الأمم!، ٢١٢.
+<p id="ch17-fn-7" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch17-ref-7" style="font-weight: bold; color: var(--primary); text-decoration: none;">[7] ↩</a> بايبر، لتبتهج الأمم!، ٢١٢.
+</p>
 
-<sup id="ch17-fn-8"><a href="#ch17-ref-8" style="text-decoration: none; color: var(--primary-color);">[8]</a></sup> انظر الفصل ١٤، الهامش ٣.
+<p id="ch17-fn-8" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch17-ref-8" style="font-weight: bold; color: var(--primary); text-decoration: none;">[8] ↩</a> انظر الفصل ١٤، الهامش ٣.
+</p>
 
-<sup id="ch17-fn-9"><a href="#ch17-ref-9" style="text-decoration: none; color: var(--primary-color);">[9]</a></sup> لقد قدمت الحجة (في الفصل ٩ وفي وقت سابق من هذا الفصل) بأن بولس يتعامل مع الارتداد أو التمرد في الأيام الأخيرة المذكور في \[تسالونيكي الثانية ٢ : ٣\] كواقعة تاريخية قابلة للتمييز يمكنه الاستشهاد بها كسبب لعدم وقوع المجيء الثاني بعد: «...لأَنَّهُ لاَ يَأْتِي إِنْ لَمْ يَأْتِ الارْتِدَادُ أَوَّلاً، وَيُسْتَعْلَنْ إِنْسَانُ الْخَطِيَّةِ...». لذا يمكنني إدراج هذا الحدث إلى جانب مجيء إنسان الخطية كحدث آخر يجب أن يقع قبل مجيء الرب. هذا صحيح. والسبب في أنني لا أتناول الارتداد بشكل منفصل هو أن بولس يبدو وكأنه يراه مرتبطا ارتباطا وثيقا بظهور إنسان الخطية بدلا من كونه حدثا متميزا. وفي الواقع، يبدو لي أنه بعد ذكره لكل من إنسان الخطية والارتداد في \[تسالونيكي الثانية ٢ : ٣\]، يتناول بعد ذلك إنسان الخطية في الأعداد ٤-٨ ثم يتناول الارتداد بشكل متكامل في الأعداد ٩-١٢. لذلك عندما أركز الآن على مجيء إنسان الخطية، فإنني أضع في اعتباري أن الارتداد هو جزء من مجيئه.
+<p id="ch17-fn-9" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch17-ref-9" style="font-weight: bold; color: var(--primary); text-decoration: none;">[9] ↩</a> لقد قدمت الحجة (في الفصل ٩ وفي وقت سابق من هذا الفصل) بأن بولس يتعامل مع الارتداد أو التمرد في الأيام الأخيرة المذكور في \[تسالونيكي الثانية ٢ : ٣\] كواقعة تاريخية قابلة للتمييز يمكنه الاستشهاد بها كسبب لعدم وقوع المجيء الثاني بعد: «...لأَنَّهُ لاَ يَأْتِي إِنْ لَمْ يَأْتِ الارْتِدَادُ أَوَّلاً، وَيُسْتَعْلَنْ إِنْسَانُ الْخَطِيَّةِ...». لذا يمكنني إدراج هذا الحدث إلى جانب مجيء إنسان الخطية كحدث آخر يجب أن يقع قبل مجيء الرب. هذا صحيح. والسبب في أنني لا أتناول الارتداد بشكل منفصل هو أن بولس يبدو وكأنه يراه مرتبطا ارتباطا وثيقا بظهور إنسان الخطية بدلا من كونه حدثا متميزا. وفي الواقع، يبدو لي أنه بعد ذكره لكل من إنسان الخطية والارتداد في \[تسالونيكي الثانية ٢ : ٣\]، يتناول بعد ذلك إنسان الخطية في الأعداد ٤-٨ ثم يتناول الارتداد بشكل متكامل في الأعداد ٩-١٢. لذلك عندما أركز الآن على مجيء إنسان الخطية، فإنني أضع في اعتباري أن الارتداد هو جزء من مجيئه.
+</p>
 
-<sup id="ch17-fn-10"><a href="#ch17-ref-10" style="text-decoration: none; color: var(--primary-color);">[10]</a></sup> إن استخدام الأنبياء لمثل هذه اللغة يأتي بانتظام في سياقات تتميز بما أسميته "المنظور النبوي" والذي يُتحدث فيه عن حدث قريب (مثل دمار بابل) وحدث بعيد (مثل الدينونة الشاملة) دون تمييز زمني. ولذلك، يجب على المرء أن يكون حذرا من افتراض أن الإشارة إلى إظلام النجوم والشمس (على سبيل المثال، \[إشعياء ١٣ : ١٠\]) هي إشارة مجازية في مثل هذا السياق، في حين أنها قد تحظى بإتمام حرفي في اليوم الأخير.
+<p id="ch17-fn-10" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch17-ref-10" style="font-weight: bold; color: var(--primary); text-decoration: none;">[10] ↩</a> إن استخدام الأنبياء لمثل هذه اللغة يأتي بانتظام في سياقات تتميز بما أسميته "المنظور النبوي" والذي يُتحدث فيه عن حدث قريب (مثل دمار بابل) وحدث بعيد (مثل الدينونة الشاملة) دون تمييز زمني. ولذلك، يجب على المرء أن يكون حذرا من افتراض أن الإشارة إلى إظلام النجوم والشمس (على سبيل المثال، \[إشعياء ١٣ : ١٠\]) هي إشارة مجازية في مثل هذا السياق، في حين أنها قد تحظى بإتمام حرفي في اليوم الأخير.
+</p>
 
-<sup id="ch17-fn-11"><a href="#ch17-ref-11" style="text-decoration: none; color: var(--primary-color);">[11]</a></sup> قد يحسب المرء أن الضيقة العظيمة هي الأسبوع السبعون من \[دانيال ٩ : ٢٤-٢٥\]، وبالتالي فإن مدتها هي سبع سنوات. ثم قد يلاحظ المرء من سفر الرؤيا أن الوحش أو ضد المسيح (والذي هو على الأرجح ذاته إنسان الخطية) سيهيمن في جزء كبير من هذا الوقت. وإذا اتبعنا مسار التفكير هذا، فإن سبع سنوات هي الحد الأقصى للمدة التي سيهيمن فيها إنسان الخطية. ولكن حتى لو اتبعنا هذا المسار، فإن الأرقام غالبا ما تكون رمزية في الكتاب المقدس. وأضف إلى ذلك ما يقوله يسوع عن أيام الضيقة تلك: «وَلَوْ لَمْ تُقَصَّرْ تِلْكَ الأَيَّامُ لَمْ يَخْلُصْ جَسَدٌ. وَلكِنْ لأَجْلِ الْمُخْتَارِينَ تُقَصَّرُ تِلْكَ الأَيَّامُ.» \[متى ٢٤ : ٢٢\]. وفي ضوء هذا "التقصير" الإلهي للأيام، وفي ضوء الطابع الرمزي المتكرر للرقم سبعة، لا أعتقد أنه يمكننا القول بيقين مدى سرعة صعود إنسان الخطية، ولا كم من الوقت سيمضي قبل أن يبيده الرب. ولكن بالنظر إلى كل الأمور، لا تبدو مدة خمس إلى سبع سنوات كتقدير متهور لطول الفترة التي قد تستغرقها المرحلة من ظهوره وحتى مجيء المسيح، حين يُباد إنسان الخطية \[تسالونيكي الثانية ٢ : ٨\].
-
+<p id="ch17-fn-11" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch17-ref-11" style="font-weight: bold; color: var(--primary); text-decoration: none;">[11] ↩</a> قد يحسب المرء أن الضيقة العظيمة هي الأسبوع السبعون من \[دانيال ٩ : ٢٤-٢٥\]، وبالتالي فإن مدتها هي سبع سنوات. ثم قد يلاحظ المرء من سفر الرؤيا أن الوحش أو ضد المسيح (والذي هو على الأرجح ذاته إنسان الخطية) سيهيمن في جزء كبير من هذا الوقت. وإذا اتبعنا مسار التفكير هذا، فإن سبع سنوات هي الحد الأقصى للمدة التي سيهيمن فيها إنسان الخطية. ولكن حتى لو اتبعنا هذا المسار، فإن الأرقام غالبا ما تكون رمزية في الكتاب المقدس. وأضف إلى ذلك ما يقوله يسوع عن أيام الضيقة تلك: «وَلَوْ لَمْ تُقَصَّرْ تِلْكَ الأَيَّامُ لَمْ يَخْلُصْ جَسَدٌ. وَلكِنْ لأَجْلِ الْمُخْتَارِينَ تُقَصَّرُ تِلْكَ الأَيَّامُ.» \[متى ٢٤ : ٢٢\]. وفي ضوء هذا "التقصير" الإلهي للأيام، وفي ضوء الطابع الرمزي المتكرر للرقم سبعة، لا أعتقد أنه يمكننا القول بيقين مدى سرعة صعود إنسان الخطية، ولا كم من الوقت سيمضي قبل أن يبيده الرب. ولكن بالنظر إلى كل الأمور، لا تبدو مدة خمس إلى سبع سنوات كتقدير متهور لطول الفترة التي قد تستغرقها المرحلة من ظهوره وحتى مجيء المسيح، حين يُباد إنسان الخطية \[تسالونيكي الثانية ٢ : ٨\].
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2AIK-nYOaIq1fDoATS0HI3K9it0XL1GeWrsUISiTOVaAWlPRUsltmtjZfYIFzGV9ToiL7-LYQ_bXz5q0hTRF9QrGo_QVWmqr__asZgckQTbKA3jDVbvfOPO2E35Vt5Tywd1fkn7VDsem5snT-iapEDLSS9itzWNAD5oqBFhrrxMLGffX8JV8GBpBOJ5Q/s2752/%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA_%D9%85%D8%A7_%D9%82%D8%A8%D9%84_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2AIK-nYOaIq1fDoATS0HI3K9it0XL1GeWrsUISiTOVaAWlPRUsltmtjZfYIFzGV9ToiL7-LYQ_bXz5q0hTRF9QrGo_QVWmqr__asZgckQTbKA3jDVbvfOPO2E35Vt5Tywd1fkn7VDsem5snT-iapEDLSS9itzWNAD5oqBFhrrxMLGffX8JV8GBpBOJ5Q/s600/%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA_%D9%85%D8%A7_%D9%82%D8%A8%D9%84_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>
@@ -2650,12 +2765,16 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 والارتباط بمجيء الرب يكمن في أن المجيء الثاني هو الوقت الذي ستقع فيه نقمة الرب. ويوضح بولس هذا جليا في \[تسالونيكي الثانية ١ : ٧-٨\]: «...عِنْدَ اسْتِعْلاَنِ الرَّبِّ يَسُوعَ مِنَ السَّمَاءِ مَعَ مَلاَئِكَةِ قُوَّتِهِ، فِي نَارِ لَهِيبٍ، مُعْطِيًا نَقْمَةً لِلَّذِينَ لاَ يَعْرِفُونَ اللهَ وَالَّذِينَ لاَ يُطِيعُونَ إِنْجِيلَ رَبِّنَا يَسُوعَ الْمَسِيحِ،» وهكذا تُظهر طريقة بولس في الاستدلال في \[رومية ١٢ : ١٩-٢٠\] سببا واحدا يجعله يربط بين مجيء الرب في \[فيلبي ٤ : ٤\] وبين الدعوة للوداعة (أو الحلم) المسيحي. «لِيَكُنْ حِلْمُكُمْ مَعْرُوفًا عِنْدَ جَمِيعِ النَّاسِ. اَلرَّبُّ قَرِيبٌ.» فمجيئه سيسوي كل الحسابات بعدل ويُقوّم كل اعوجاج. ونحن أحرار لنترك النقمة له. نحن أحرار لنكون ودعاء (أو حلماء).
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="ch20-fn-1"><a href="#ch20-ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup> كما أوضحت في الفصل ٨، أنا لا أحاول في هذا الكتاب ترتيب كل الأحداث التي يُشار إليها كجزء من "يوم الرب". فبمثل هذا "اليوم"، أنا لا أشير إلى فترة من ٢٤ ساعة. بل يمكن لكلمة "يوم" أن تشير إلى فترة زمنية ممتدة. فعلى سبيل المثال: «...حِينَمَا يُرْفَعُ الْعَرِيسُ عَنْهُمْ، فَحِينَئِذٍ يَصُومُونَ فِي تِلْكَ الأَيَّامِ \[ذلِكَ الْيَوْمِ في الأصل\].» \[مرقس ٢ : ٢٠\]؛ (راجع \[يوحنا ٨ : ١٥\]؛ \[يوحنا ١٦ : ٢٣\]؛ \[كورنثوس الثانية ٦ : ٢\]؛ \[أفسس ٦ : ١٣\]؛ \[عبرانيين ٨ : ٩\]). في فكر الله، فإن الإطار الزمني الذي يُدعى "يوما" له مدة محددة. ولكن من وجهة نظرنا المحدودة، فإن مداه غير معلوم. ولذلك، يمكن لأحداث كثيرة أن تقع في غضون ذلك الوقت. وهكذا، عندما أستخدم العبارات الكتابية "يوم الرب"، أو "يوم الدينونة"، أو "يوم الغضب"، فإنني أترك مجالا في تلك الأيام لأحداث متنوعة، دون ترتيب تسلسلها أو تحديد مقدار الوقت الذي يمر بينها. وهكذا، وفي حالة إشارة بطرس إلى التجديد الكامل للسماوات والأرض، فأنا لا أحدد متى يحدث ذلك فيما يتعلق بأعمال "يوم الرب" الأخرى.
+<p id="ch20-fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch20-ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> كما أوضحت في الفصل ٨، أنا لا أحاول في هذا الكتاب ترتيب كل الأحداث التي يُشار إليها كجزء من "يوم الرب". فبمثل هذا "اليوم"، أنا لا أشير إلى فترة من ٢٤ ساعة. بل يمكن لكلمة "يوم" أن تشير إلى فترة زمنية ممتدة. فعلى سبيل المثال: «...حِينَمَا يُرْفَعُ الْعَرِيسُ عَنْهُمْ، فَحِينَئِذٍ يَصُومُونَ فِي تِلْكَ الأَيَّامِ \[ذلِكَ الْيَوْمِ في الأصل\].» \[مرقس ٢ : ٢٠\]؛ (راجع \[يوحنا ٨ : ١٥\]؛ \[يوحنا ١٦ : ٢٣\]؛ \[كورنثوس الثانية ٦ : ٢\]؛ \[أفسس ٦ : ١٣\]؛ \[عبرانيين ٨ : ٩\]). في فكر الله، فإن الإطار الزمني الذي يُدعى "يوما" له مدة محددة. ولكن من وجهة نظرنا المحدودة، فإن مداه غير معلوم. ولذلك، يمكن لأحداث كثيرة أن تقع في غضون ذلك الوقت. وهكذا، عندما أستخدم العبارات الكتابية "يوم الرب"، أو "يوم الدينونة"، أو "يوم الغضب"، فإنني أترك مجالا في تلك الأيام لأحداث متنوعة، دون ترتيب تسلسلها أو تحديد مقدار الوقت الذي يمر بينها. وهكذا، وفي حالة إشارة بطرس إلى التجديد الكامل للسماوات والأرض، فأنا لا أحدد متى يحدث ذلك فيما يتعلق بأعمال "يوم الرب" الأخرى.
+</p>
 
-<sup id="ch20-fn-2"><a href="#ch20-ref-2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup> للتعرف على معنى القرب، انظر الفصل ١٤.
-
+<p id="ch20-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch20-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> للتعرف على معنى القرب، انظر الفصل ١٤.
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKHdBR2jz9OU-G1y8E-l09z-3YH4-LFA25OJ_7hNvmVN4xNL3yl2P2t4v_a754zANFADcf0amW1XH2QG2QjLNWG0YZEXQ8j3IwjpOIlbGxJXemTHsi_YEm2LvRp1MeSv8jsVcmrKNlD2okuQHJRFJ3Ta7QRay3qFuB8YJ3IsOZbIJAWOnxb08Isk1Fock/s2752/%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKHdBR2jz9OU-G1y8E-l09z-3YH4-LFA25OJ_7hNvmVN4xNL3yl2P2t4v_a754zANFADcf0amW1XH2QG2QjLNWG0YZEXQ8j3IwjpOIlbGxJXemTHsi_YEm2LvRp1MeSv8jsVcmrKNlD2okuQHJRFJ3Ta7QRay3qFuB8YJ3IsOZbIJAWOnxb08Isk1Fock/s600/%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>
@@ -2743,12 +2862,16 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 لذا، ومن بين جميع الأسباب التي قد تكون في فكر الله لضرورة استمرارنا في الاجتماع معا في الأيام الأخيرة، فإن السبب الذي تركز عليه رسالة العبرانيين هو الوعظ والتشجيع المتبادل لمنع خداع عدم الإيمان الذي يقود إلى الارتداد عن الله. أو بصياغة أخرى: لمساعدة محبتنا ألا تبرد، ولإبقائنا متقدين بتوقع مفرح ومحبة لظهور الرب.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="ch21-fn-1"><a href="#ch21-ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup> سام ستورمز، ملكوت آت: البديل اللاألفي (فيرن، روس-شاير، المملكة المتحدة: مينتور، ٢٠١٣)، ٢٧٧-٧٨؛ التأكيد مضاف.
+<p id="ch21-fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch21-ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> سام ستورمز، ملكوت آت: البديل اللاألفي (فيرن، روس-شاير، المملكة المتحدة: مينتور، ٢٠١٣)، ٢٧٧-٧٨؛ التأكيد مضاف.
+</p>
 
-<sup id="ch21-fn-2"><a href="#ch21-ref-2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup> ستورمز، ملكوت آت، ٢٧٨؛ التأكيد مضاف.
-
+<p id="ch21-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch21-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> ستورمز، ملكوت آت، ٢٧٨؛ التأكيد مضاف.
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_0IKSzYGnvHHWjmdhdaeCGQjPsFh-6rIMIXWK1jpQ5kLXvactKCn9gUUdw9iw2SxuzaAH3oSUKkIYf683hA3WGDmCdF0bqBpG6nEZDDtwS_M2e6mA9X4OoFyAPWtdEYEIzuREUlNfjYgOzKP6QLE3kDMUHRS29RlT_VhWE4UjpQaHr6OCx25KS6OBwUQ/s2752/%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D9%85%D9%84_%D9%88%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_0IKSzYGnvHHWjmdhdaeCGQjPsFh-6rIMIXWK1jpQ5kLXvactKCn9gUUdw9iw2SxuzaAH3oSUKkIYf683hA3WGDmCdF0bqBpG6nEZDDtwS_M2e6mA9X4OoFyAPWtdEYEIzuREUlNfjYgOzKP6QLE3kDMUHRS29RlT_VhWE4UjpQaHr6OCx25KS6OBwUQ/s600/%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D9%85%D9%84_%D9%88%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>
@@ -2810,14 +2933,20 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 > 
 > مَعَ أَنَّنَا الآنَ، يَا مَسِيحُ، كَمَا فِي مِرْآةٍ، نَرَى بِلُغْزٍ، إِلاَّ أَنَّ رُؤْيَتَكَ وَجْهًا لِوَجْهٍ هِيَ شَهْوَتُنَا. وَنَعَمْ، وَحَسْرَتَاهُ، إِنَّ مَحَبَّتَنَا ضَعِيفَةٌ، لكِنَّنَا نَحْتَضِنُ الرَّجَاءَ الْمُبَارَكَ بِأَنَّنَا سَنُشِعُّ بِبَهَاءٍ مِنْكَ كُلُّهُ إِلهِيٌّ، لأَنَّنَا سَنَكُونُ فِي ذلِكَ الْيَوْمِ الْعَظِيمِ مُكْتَفِينَ لِلْغَايَةِ، وَلَنْ نَقُولَ بَعْدُ، تَعَالَ، يَا رَبُّ يَسُوعُ، تَعَالَ.
 
-**الهوامش:**
+<div class="footnote-section">
+<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>
 
-<sup id="ch22-fn-1"><a href="#ch22-ref-1" style="text-decoration: none; color: var(--primary-color);">[1]</a></sup> انظر مقدمة الجزء الثالث، "الحياة بين ظهوري المسيح"، لمناقشة المعاني المتنوعة التي يأتي بها ملكوت الله.
+<p id="ch22-fn-1" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch22-ref-1" style="font-weight: bold; color: var(--primary); text-decoration: none;">[1] ↩</a> انظر مقدمة الجزء الثالث، "الحياة بين ظهوري المسيح"، لمناقشة المعاني المتنوعة التي يأتي بها ملكوت الله.
+</p>
 
-<sup id="ch22-fn-2"><a href="#ch22-ref-2" style="text-decoration: none; color: var(--primary-color);">[2]</a></sup> جورج إلدون لاد، إنجيل الملكوت: دراسات كتابية في ملكوت الله (غراند رابيدز، ميشيغان: إيردمانز، ١٩٩٠)، مواقع ٢٠٨٤-٨٨، كيندل.
+<p id="ch22-fn-2" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch22-ref-2" style="font-weight: bold; color: var(--primary); text-decoration: none;">[2] ↩</a> جورج إلدون لاد، إنجيل الملكوت: دراسات كتابية في ملكوت الله (غراند رابيدز، ميشيغان: إيردمانز، ١٩٩٠)، مواقع ٢٠٨٤-٨٨، كيندل.
+</p>
 
-<sup id="ch22-fn-3"><a href="#ch22-ref-3" style="text-decoration: none; color: var(--primary-color);">[3]</a></sup> لاد، إنجيل الملكوت، مواقع ٢٠٣٤-٤٩، كيندل.
-
+<p id="ch22-fn-3" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;">
+  <a href="#ch22-ref-3" style="font-weight: bold; color: var(--primary); text-decoration: none;">[3] ↩</a> لاد، إنجيل الملكوت، مواقع ٢٠٣٤-٤٩، كيندل.
+</p>
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3JkOCd1bOUqGNIsClH5XfWTQIHLN1vn9z3CHZPFdP83_wLBNrwv9NlJQ9G8PxeZNQUY56CkGRtx0ThV4ntUH6jQYr5s-JptSJJYZImufHTjs5AXWyUfZKOoYP_lPPavfmSiH7Ygy-JzvSt5IdtkfVtgpFUX6muzwyCjwUIPomUWAkoGWqepsFWKgmzaI/s2752/%D8%B5%D9%84%D8%A7%D8%A9_%D9%88%D9%82%D8%AA_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A5%D8%B1%D8%B3%D8%A7%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3JkOCd1bOUqGNIsClH5XfWTQIHLN1vn9z3CHZPFdP83_wLBNrwv9NlJQ9G8PxeZNQUY56CkGRtx0ThV4ntUH6jQYr5s-JptSJJYZImufHTjs5AXWyUfZKOoYP_lPPavfmSiH7Ygy-JzvSt5IdtkfVtgpFUX6muzwyCjwUIPomUWAkoGWqepsFWKgmzaI/s600/%D8%B5%D9%84%D8%A7%D8%A9_%D9%88%D9%82%D8%AA_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A5%D8%B1%D8%B3%D8%A7%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
 </div>

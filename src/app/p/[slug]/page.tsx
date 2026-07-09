@@ -63,7 +63,7 @@ export default async function StaticPage({ params }: { params: Promise<{ slug: s
             <ul style={{ listStyle: 'none', margin: 0, padding: 0 }}>
               {toc.map(item => (
                 <li key={item.id} style={{ marginBottom: '0.5rem', paddingRight: item.level === 3 ? '1rem' : '0' }}>
-                  <a href={`#${item.id}`} className="toc-link" style={{ color: item.level === 2 ? 'var(--primary)' : 'inherit', fontWeight: item.level === 2 ? 'bold' : 'normal' }}>
+                  <a href={`#${item.id}`} className="toc-link" style={{ color: (item.level === 2 && item.text.includes('فصل')) ? 'var(--primary)' : 'inherit', fontWeight: (item.level === 2 && item.text.includes('فصل')) ? 'bold' : 'normal' }}>
                     {item.text}
                   </a>
                 </li>

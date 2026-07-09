@@ -75,7 +75,14 @@ export async function getPosts(): Promise<BlogPost[]> {
 
     // Use remark to convert markdown into HTML string
     const processedContent = await remark().use(gfm).use(html, { sanitize: false }).process(contentWithFootnotes);
-    const contentHtml = processedContent.toString();
+    let contentHtml = processedContent.toString();
+
+    // Fix remark-gfm footnotes to match our custom beautiful styling
+    contentHtml = contentHtml.replace(/<h2 id="footnote-label" class="sr-only">Footnotes<\/h2>/, '<div class="footnote-section">\n<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>');
+    // Remove any leftover manual 'هوامش:' paragraphs to avoid duplication
+    contentHtml = contentHtml.replace(/<p><strong>هوامش:<\/strong><\/p>/g, '');
+    contentHtml = contentHtml.replace(/<p><strong>الهوامش:<\/strong><\/p>/g, '');
+    contentHtml = contentHtml.replace(/<p><strong>الهوامش والمراجع:<\/strong><\/p>/g, '');
 
     return {
       id: slug,
@@ -113,7 +120,14 @@ export async function getPages(): Promise<BlogPage[]> {
     const contentWithFootnotes = convertFootnotesToMarkdown(matterResult.content);
 
     const processedContent = await remark().use(gfm).use(html, { sanitize: false }).process(contentWithFootnotes);
-    const contentHtml = processedContent.toString();
+    let contentHtml = processedContent.toString();
+
+    // Fix remark-gfm footnotes to match our custom beautiful styling
+    contentHtml = contentHtml.replace(/<h2 id="footnote-label" class="sr-only">Footnotes<\/h2>/, '<div class="footnote-section">\n<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>');
+    // Remove any leftover manual 'هوامش:' paragraphs to avoid duplication
+    contentHtml = contentHtml.replace(/<p><strong>هوامش:<\/strong><\/p>/g, '');
+    contentHtml = contentHtml.replace(/<p><strong>الهوامش:<\/strong><\/p>/g, '');
+    contentHtml = contentHtml.replace(/<p><strong>الهوامش والمراجع:<\/strong><\/p>/g, '');
 
     return {
       id: slug,

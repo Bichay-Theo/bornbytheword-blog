@@ -5,7 +5,7 @@ function processHtmlAndExtractTOC(html: string) {
   const toc: { id: string, text: string, level: number }[] = [];
   
   let idCounter = 0;
-  const processedHtml = html.replace(/<(h[23])([^>]*)>(.*?)<\/\1>/gi, (match, tag, attrs, content) => {
+  let processedHtml = html.replace(/<(h[23])([^>]*)>(.*?)<\/\1>/gi, (match, tag, attrs, content) => {
     idCounter++;
     const id = `heading-${idCounter}`;
     const text = content.replace(/<[^>]+>/g, '').trim();
@@ -14,6 +14,9 @@ function processHtmlAndExtractTOC(html: string) {
     }
     return `<${tag} id="${id}"${attrs}>${content}</${tag}>`;
   });
+
+  // Fix image paths for GitHub Pages subpath
+  processedHtml = processedHtml.replace(/<img\s+([^>]*?)src="(\/[^"]+)"/gi, '<img $1src="/bornbytheword-blog$2"');
 
   return { processedHtml, toc };
 }

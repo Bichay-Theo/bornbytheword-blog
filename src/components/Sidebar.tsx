@@ -7,7 +7,7 @@ export default async function Sidebar() {
   
   // Extract unique labels
   const allLabels = posts.flatMap(p => p.labels);
-  const uniqueLabels = Array.from(new Set(allLabels)).filter(Boolean);
+  const uniqueLabels = Array.from(new Set(allLabels)).filter(label => label && label !== 'الكل');
 
   return (
     <div className="sidebar">

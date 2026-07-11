@@ -15,6 +15,7 @@ export const metadata: Metadata = {
   description: "منصة لاهوتية تعتني بنشر كلمة الحق من خلال دراسات كتابية، وتأملات روحية، وترجمات لكتب لاهوتية",
 };
 
+import Script from 'next/script';
 import HashScroll from "@/components/HashScroll";
 
 export default function RootLayout({
@@ -25,6 +26,15 @@ export default function RootLayout({
   return (
     <html lang="ar" dir="rtl" className={cairo.variable}>
       <body>
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-M5W2WHH2VY" strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){window.dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-M5W2WHH2VY');
+          `}
+        </Script>
         <HashScroll />
         <Navbar />
         <div className="layout-container">

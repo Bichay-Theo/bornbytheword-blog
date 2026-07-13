@@ -17,7 +17,7 @@ async function main() {
   }
 
   const fileContent = fs.readFileSync(fullPath, 'utf8');
-  const { data } = matter(fileContent);
+  const { data, content } = matter(fileContent);
 
   if (!data.title || !data.slug) {
     console.error('Error: Missing title or slug in frontmatter.');
@@ -36,7 +36,19 @@ async function main() {
 
   const blogBaseUrl = 'https://bichay-theo.github.io/bornbytheword-blog';
   const postUrl = `${blogBaseUrl}/${data.slug}`;
-  const tweetText = `مقال لاهوتي جديد: ${data.title}\n\nلقراءة الدراسة كاملة تفضل بزيارة المدونة:\n${postUrl}`;
+
+  // Extract a short excerpt from the content
+  const paragraphs = content.split('\n')
+    .map(p => p.trim())
+    .filter(p => p.length > 0 && !p.startsWith('#') && !p.startsWith('>') && !p.startsWith('!') && !p.startsWith('<') && !p.startsWith('-') && !p.startsWith('*'));
+  
+  let excerpt = '';
+  if (paragraphs.length > 0) {
+    let rawText = paragraphs[0].replace(/\[(.*?)\]\(.*?\)/g, '$1').replace(/<[^>]*>?/gm, '');
+    excerpt = rawText.length > 180 ? rawText.substring(0, 177) + '...' : rawText;
+  }
+
+  const tweetText = `مقال لاهوتي جديد: ${data.title}\n\n${excerpt ? excerpt + '\n\n' : ''}لقراءة الدراسة كاملة تفضل بزيارة المدونة:\n${postUrl}`;
 
   let mediaIds = [];
 

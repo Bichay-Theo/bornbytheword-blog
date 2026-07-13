@@ -19,7 +19,7 @@ async function main() {
   for (const file of files) {
     const fullPath = path.join(postsDir, file);
     const fileContent = fs.readFileSync(fullPath, 'utf8');
-    const { data } = matter(fileContent);
+    const { data, content } = matter(fileContent);
     
     if (data && data.slug && data.date) {
       if (!history.includes(data.slug)) {
@@ -28,7 +28,8 @@ async function main() {
           slug: data.slug,
           title: data.title,
           date: new Date(data.date),
-          image: data.image
+          image: data.image,
+          content: content
         });
       }
     }
@@ -57,7 +58,19 @@ async function main() {
 
   const blogBaseUrl = 'https://bichay-theo.github.io/bornbytheword-blog';
   const postUrl = `${blogBaseUrl}/${postToPublish.slug}`;
-  const tweetText = `مقال من الأرشيف: ${postToPublish.title}\n\nلقراءة الدراسة كاملة تفضل بزيارة المدونة:\n${postUrl}`;
+
+  // Extract a short excerpt from the content
+  const paragraphs = postToPublish.content.split('\n')
+    .map(p => p.trim())
+    .filter(p => p.length > 0 && !p.startsWith('#') && !p.startsWith('>') && !p.startsWith('!') && !p.startsWith('<') && !p.startsWith('-') && !p.startsWith('*'));
+  
+  let excerpt = '';
+  if (paragraphs.length > 0) {
+    let rawText = paragraphs[0].replace(/\[(.*?)\]\(.*?\)/g, '$1').replace(/<[^>]*>?/gm, '');
+    excerpt = rawText.length > 180 ? rawText.substring(0, 177) + '...' : rawText;
+  }
+
+  const tweetText = `مقال من الأرشيف: ${postToPublish.title}\n\n${excerpt ? excerpt + '\n\n' : ''}لقراءة الدراسة كاملة تفضل بزيارة المدونة:\n${postUrl}`;
 
   let mediaIds = [];
 

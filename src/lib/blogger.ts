@@ -91,8 +91,8 @@ export async function getPosts(): Promise<BlogPost[]> {
     const footnoteHeader = '<div class="footnote-section">\n<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>\n</div>';
     contentHtml = contentHtml.replace(/<p><strong>(هوامش|الهوامش|الهوامش والمراجع):<\/strong><\/p>/g, footnoteHeader);
     
-    // In case remark-gfm somehow still generated footnotes, hide its header
-    contentHtml = contentHtml.replace(/<h2 id="footnote-label" class="sr-only">Footnotes<\/h2>/, '');
+    // Replace the remark-gfm generated 'Footnotes' header with an Arabic header
+    contentHtml = contentHtml.replace(/<h2[^>]*>Footnotes<\/h2>/i, '<h2 id="footnote-label" style="color: var(--primary); text-align: right; margin-top: 3rem; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h2>');
 
     return {
       id: slug,
@@ -136,8 +136,8 @@ export async function getPages(): Promise<BlogPage[]> {
     const footnoteHeader = '<div class="footnote-section">\n<h3 style="color: var(--primary); text-align: right; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h3>\n</div>';
     contentHtml = contentHtml.replace(/<p><strong>(هوامش|الهوامش|الهوامش والمراجع):<\/strong><\/p>/g, footnoteHeader);
     
-    // In case remark-gfm somehow still generated footnotes, hide its header
-    contentHtml = contentHtml.replace(/<h2 id="footnote-label" class="sr-only">Footnotes<\/h2>/, '');
+    // Replace the remark-gfm generated 'Footnotes' header with an Arabic header
+    contentHtml = contentHtml.replace(/<h2[^>]*>Footnotes<\/h2>/i, '<h2 id="footnote-label" style="color: var(--primary); text-align: right; margin-top: 3rem; margin-bottom: 2rem;">الْهَوَامِشُ وَالْمَرَاجِعُ</h2>');
 
     return {
       id: slug,

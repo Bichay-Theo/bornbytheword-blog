@@ -43,8 +43,11 @@ async function main() {
     .filter(p => p.length > 0 && !p.startsWith('#') && !p.startsWith('>') && !p.startsWith('!') && !p.startsWith('<') && !p.startsWith('-') && !p.startsWith('*'));
   
   let excerpt = '';
-  if (paragraphs.length > 0) {
-    let rawText = paragraphs[0].replace(/\[(.*?)\]\(.*?\)/g, '$1').replace(/<[^>]*>?/gm, '');
+  const substantialParagraph = paragraphs.find(p => p.length > 100);
+  const targetParagraph = substantialParagraph || (paragraphs.length > 0 ? paragraphs[0] : null);
+
+  if (targetParagraph) {
+    let rawText = targetParagraph.replace(/\[(.*?)\]\(.*?\)/g, '$1').replace(/<[^>]*>?/gm, '');
     excerpt = rawText.length > 180 ? rawText.substring(0, 177) + '...' : rawText;
   }
 

@@ -34,7 +34,7 @@ async function main() {
 
   const rwClient = client.readWrite;
 
-  const blogBaseUrl = 'https://bichay-theo.github.io/bornbytheword-blog/p';
+  const blogBaseUrl = 'https://bichay-theo.github.io/bornbytheword-blog';
   const postUrl = `${blogBaseUrl}/${data.slug}`;
   const tweetText = `مقال لاهوتي جديد: ${data.title}\n\nلقراءة الدراسة كاملة تفضل بزيارة المدونة:\n${postUrl}`;
 

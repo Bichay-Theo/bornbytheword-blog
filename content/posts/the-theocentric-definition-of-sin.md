@@ -3,6 +3,7 @@ title: "مَا هِيَ الخَطِيَّةُ؟ فَهْمٌ مُتَمَرْك
 date: "2026-07-13"
 slug: "the-theocentric-definition-of-sin"
 labels: ["اللاهوت المصلح", "مجد الله", "الخطية", "التبرير"]
+image: "/images/definition_of_sin.png"
 ---
 
 ![إنفوجرافيك: ما هي الخطية؟ فهم متمركز حول مجد الله](/images/definition_of_sin.png)

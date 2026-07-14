@@ -7,7 +7,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const posts = await getPosts();
   const pages = await getPages();
 
-  const baseUrl = 'https://YOUR_GITHUB_USERNAME.github.io/bornbytheword-blog';
+  const baseUrl = 'https://bichay-theo.github.io/bornbytheword-blog';
 
   const postUrls = posts.map((post) => ({
     url: `${baseUrl}/${post.slug}`,

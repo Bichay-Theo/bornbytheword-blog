@@ -62,10 +62,13 @@ export default function MarkdownLayout({ title, date, content, tocTitle = "مح�
             dangerouslySetInnerHTML={{ __html: processedHtml }} 
           />
           
-          <div style={{ textAlign: 'center', margin: '3rem 0', fontWeight: 'bold' }}>
+          <div style={{ textAlign: 'center', margin: '3rem 0', fontWeight: 'bold', display: 'flex', justifyContent: 'center', gap: '2rem' }}>
             <Link href="/" style={{ color: 'var(--primary)', textDecoration: 'none', fontSize: '1.1rem' }}>
               العودة للرئيسية 🏠
             </Link>
+            <a href="#" onClick={(e) => { e.preventDefault(); window.scrollTo({ top: 0, behavior: 'smooth' }); }} style={{ color: 'var(--primary)', textDecoration: 'none', fontSize: '1.1rem', cursor: 'pointer' }}>
+              الرجوع للأعلى ⬆️
+            </a>
           </div>
         </article>
       </main>

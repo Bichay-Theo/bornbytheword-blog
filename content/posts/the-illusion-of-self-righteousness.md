@@ -2,7 +2,7 @@
 title: "البِرُّ الذَّاتِيُّ: إِصْلاَحُ التَّالِفِ مُسْتَخْدِماً تَلَفَهُ"
 date: "2026-07-13"
 slug: "the-illusion-of-self-righteousness"
-labels: ["البر الذاتي", "النعمة", "التبرير", "طبيعة الإنسان"]
+labels: ["البر الذاتي"]
 image: "/images/self_righteousness.png"
 ---
 

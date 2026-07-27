@@ -3,7 +3,7 @@ title: "📜 سلسلة أسرار الشَرِكَةِ الأزليَّة 📍 
 date: "2026-03-29T13:10:00.000-07:00"
 updated: "2026-03-29T13:10:52.121-07:00"
 slug: "god-the-father-source-sovereignty-planner-study"
-labels: ["دراسات، لاهوت نظامي، الثالوث، صفات الله"]
+labels: ["الثالوث والصفات"]
 ---
 
 ## 📜 سلسلة أسرار الشَرِكَةِ الأزليَّة  
@@ -73,3 +73,11 @@ labels: ["دراسات، لاهوت نظامي، الثالوث، صفات ال�
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwcQWiB0R3RRFmNmN7GL9VYgU3y5owHyc1kHEPKqKRkPS0BN3FFO4i-CmNh30oK3KjEZdqIy-zJnj_4DOGySTkTlqcW_6pzv9nyljI7nWLQ_kBQJSFn7nmjSA6O9FV5E3YU2hmY4rpZYUSkAy0Byv268i_lKNTifB9Zax1GRQ-y4oSj9wXFnnwMyh2hKE/s2752/unnamed%20%2852%29.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwcQWiB0R3RRFmNmN7GL9VYgU3y5owHyc1kHEPKqKRkPS0BN3FFO4i-CmNh30oK3KjEZdqIy-zJnj_4DOGySTkTlqcW_6pzv9nyljI7nWLQ_kBQJSFn7nmjSA6O9FV5E3YU2hmY4rpZYUSkAy0Byv268i_lKNTifB9Zax1GRQ-y4oSj9wXFnnwMyh2hKE/s600/unnamed%20%2852%29.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
+
+
+---
+**اقرأ أيضاً في سلسلة الثالوث والصفات الإلهية:**
+- [سلسلة أسرار الشَرِكَةِ الأزليَّة📍 المقال الثالث: لماذا لا تكفي الوحدانية الصامتة؟](/Trinwhy-silent-monism-fails-trinity-fellowship of God)
+- [ 📜 سلسلة أسرار الشَّرِكَةِ الأزليَّة📍 المقال السادس: يسوع المسيح.. إعلان الذات وعصمة الفادي ](/jesus-christ-divine-revelation-and-sinlessness-study)
+- [📜 سلسلة أسرار الشَرِكَةِ الأزليَّة   📍 المقال الثامن: الروح القدس.. الأقنوم الثالث وسر الانبثاق](/holy-spirit-third-person-eternal-procession-study)
+- [📜 سلسلة أسرار الشَرِكَةِ الأزليَّة  📍 المقال التاسع: عَمَلُ الرُّوحِ فِي المُؤْمِنِ.. السُّكْنَى وَالمَعْمُودِيَّةُ وَالامْتِلَاءُ](/holy-spirit-indwelling-baptism-filling-study)

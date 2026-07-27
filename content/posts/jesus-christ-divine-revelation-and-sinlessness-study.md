@@ -3,7 +3,7 @@ title: " 📜 سلسلة أسرار الشَّرِكَةِ الأزليَّة�
 date: "2026-03-29T13:21:00.000-07:00"
 updated: "2026-03-29T13:21:57.617-07:00"
 slug: "jesus-christ-divine-revelation-and-sinlessness-study"
-labels: ["دراسات، لاهوت نظامي، الثالوث، صفات الله"]
+labels: ["الثالوث والصفات"]
 ---
 
 ## 📜 سلسلة أسرار الشَّرِكَةِ الأزليَّة  
@@ -67,3 +67,11 @@ labels: ["دراسات، لاهوت نظامي، الثالوث، صفات ال�
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjss6oRMLIXjyq_RZJbpXrb00QF7UqPPNTPSXoNt_inN22ea9zB6tckm7ciV0lGRBNxdlU4z2Adpz-0g06wCIgBtemMrq-nueXzcRJzZAesvht8pYyQ13gUGSADKISiHDNSDlr7zf95MeRbpIgyk66E4bKNWcxI5Pz5IStYspvwIHhScneWfUr3_L-dmSE/s2752/unnamed%20%2853%29.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjss6oRMLIXjyq_RZJbpXrb00QF7UqPPNTPSXoNt_inN22ea9zB6tckm7ciV0lGRBNxdlU4z2Adpz-0g06wCIgBtemMrq-nueXzcRJzZAesvht8pYyQ13gUGSADKISiHDNSDlr7zf95MeRbpIgyk66E4bKNWcxI5Pz5IStYspvwIHhScneWfUr3_L-dmSE/s600/unnamed%20%2853%29.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
 
+
+
+---
+**اقرأ أيضاً في سلسلة الثالوث والصفات الإلهية:**
+- [سلسلة أسرار الشَرِكَةِ الأزليَّة📍 المقال الثالث: لماذا لا تكفي الوحدانية الصامتة؟](/Trinwhy-silent-monism-fails-trinity-fellowship of God)
+- [📜 سلسلة أسرار الشَرِكَةِ الأزليَّة 📍 المقال الخامس: اللهُ الآبُ.. المَصْدَرُ والسِّيَادَةُ والمُخَطِّطُ](/god-the-father-source-sovereignty-planner-study)
+- [📜 سلسلة أسرار الشَرِكَةِ الأزليَّة   📍 المقال الثامن: الروح القدس.. الأقنوم الثالث وسر الانبثاق](/holy-spirit-third-person-eternal-procession-study)
+- [📜 سلسلة أسرار الشَرِكَةِ الأزليَّة  📍 المقال التاسع: عَمَلُ الرُّوحِ فِي المُؤْمِنِ.. السُّكْنَى وَالمَعْمُودِيَّةُ وَالامْتِلَاءُ](/holy-spirit-indwelling-baptism-filling-study)

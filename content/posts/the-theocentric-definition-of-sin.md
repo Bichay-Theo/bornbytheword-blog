@@ -2,7 +2,7 @@
 title: "مَا هِيَ الخَطِيَّةُ؟ فَهْمٌ مُتَمَرْكِزٌ حَوْلَ مَجْدِ اللهِ"
 date: "2026-07-13"
 slug: "the-theocentric-definition-of-sin"
-labels: ["مجد الله", "الخطية", "التبرير"]
+labels: ["مجد الله"]
 image: "/images/definition_of_sin.png"
 ---
 

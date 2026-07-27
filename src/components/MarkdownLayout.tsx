@@ -29,6 +29,7 @@ interface MarkdownLayoutProps {
 }
 
 import ImageZoom from './ImageZoom';
+import BackToTop from './BackToTop';
 
 export default function MarkdownLayout({ title, date, content, tocTitle = "محتويات المقال" }: MarkdownLayoutProps) {
   const { processedHtml, toc } = processHtmlAndExtractTOC(content);
@@ -66,9 +67,7 @@ export default function MarkdownLayout({ title, date, content, tocTitle = "مح�
             <Link href="/" style={{ color: 'var(--primary)', textDecoration: 'none', fontSize: '1.1rem' }}>
               العودة للرئيسية 🏠
             </Link>
-            <a href="#" onClick={(e) => { e.preventDefault(); window.scrollTo({ top: 0, behavior: 'smooth' }); }} style={{ color: 'var(--primary)', textDecoration: 'none', fontSize: '1.1rem', cursor: 'pointer' }}>
-              الرجوع للأعلى ⬆️
-            </a>
+            <BackToTop />
           </div>
         </article>
       </main>

@@ -189,9 +189,10 @@ p {
   margin: 2rem 0;
   border-radius: 4px;
   font-style: italic;
-  color: var(--foreground);
-  font-size: 1.1rem;
+  color: var(--primary); /* Changed from foreground to primary (red) to make verses stand out */
+  font-size: 1.2rem; /* Slightly larger for better readability */
   line-height: 1.8;
+  font-weight: 600; /* Made text bolder */
 }
 
 /* Layout Container */

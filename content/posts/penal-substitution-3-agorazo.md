@@ -55,8 +55,8 @@ labels: ["الكفارة البدلية"]
 <div class="read-also-section">
 
 **اقرأ أيضاً في سلسلة الكفارة البدلية:**
-- [الكفارة البدلية (١): الفداء في العهد القديم.. من هو الولي؟](/penal-substitution-1-ot-redemption)
-- [الكفارة البدلية (٢): الفداء في العهد الجديد.. وسوق العبيد](/penal-substitution-2-nt-lutron)
+- [الكفارة البدلية (١): الفداء في العهد القديم.. من هو الولي؟](penal-substitution-1-ot-redemption)
+- [الكفارة البدلية (٢): الفداء في العهد الجديد.. وسوق العبيد](penal-substitution-2-nt-lutron)
 
 </div>
 

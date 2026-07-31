@@ -188,7 +188,7 @@ p {
   padding: 1.5rem;
   margin: 2rem 0;
   border-radius: 4px;
-  font-style: italic;
+  font-style: normal; /* Make straight, not italic */
   color: var(--primary); /* Changed from foreground to primary (red) to make verses stand out */
   font-size: 1.2rem; /* Slightly larger for better readability */
   line-height: 1.8;

@@ -49,12 +49,12 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   let relatedPostsRaw = posts.filter(p => p.slug !== slug && !p.labels.some(l => currentPostLabels.includes(l)));
   
   // If we don't have enough posts with different labels, fill the rest with any recent posts
-  if (relatedPostsRaw.length < 3) {
+  if (relatedPostsRaw.length < 4) {
     const otherPosts = posts.filter(p => p.slug !== slug && !relatedPostsRaw.includes(p));
     relatedPostsRaw = [...relatedPostsRaw, ...otherPosts];
   }
 
-  const relatedPosts = relatedPostsRaw.slice(0, 3).map(p => ({
+  const relatedPosts = relatedPostsRaw.slice(0, 4).map(p => ({
     slug: p.slug,
     title: p.title,
     published: p.published,

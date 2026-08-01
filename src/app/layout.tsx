@@ -25,7 +25,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ar" dir="rtl" className={cairo.variable}>
-      <head>
+      <body>
         <Script src="https://www.googletagmanager.com/gtag/js?id=G-M5W2WHH2VY" strategy="afterInteractive" />
         <Script id="google-analytics" strategy="afterInteractive">
           {`
@@ -35,8 +35,6 @@ export default function RootLayout({
             gtag('config', 'G-M5W2WHH2VY');
           `}
         </Script>
-      </head>
-      <body>
         <HashScroll />
         <Navbar />
         <div className="layout-container">

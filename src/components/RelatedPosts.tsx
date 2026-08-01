@@ -12,7 +12,7 @@ export default function RelatedPosts({ posts }: { posts: RelatedPost[] }) {
 
   return (
     <div className="related-posts-container">
-      <h3 className="related-posts-title">اقرأ أيضاً:</h3>
+      <h3 className="related-posts-title">مقالات أخرى قد تهمك:</h3>
       <div className="related-posts-grid">
         {posts.map((post) => {
           const dateStr = post.published ? new Date(post.published).toLocaleDateString('ar-EG', {

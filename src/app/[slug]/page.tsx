@@ -44,8 +44,17 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
     notFound();
   }
 
-  // Get 3 related posts (for now, just the most recent ones excluding the current one)
-  const relatedPosts = posts.filter(p => p.slug !== slug).slice(0, 3).map(p => ({
+  // Try to find posts with DIFFERENT labels (to avoid duplicating the series links which the user adds manually)
+  const currentPostLabels = post.labels || [];
+  let relatedPostsRaw = posts.filter(p => p.slug !== slug && !p.labels.some(l => currentPostLabels.includes(l)));
+  
+  // If we don't have enough posts with different labels, fill the rest with any recent posts
+  if (relatedPostsRaw.length < 3) {
+    const otherPosts = posts.filter(p => p.slug !== slug && !relatedPostsRaw.includes(p));
+    relatedPostsRaw = [...relatedPostsRaw, ...otherPosts];
+  }
+
+  const relatedPosts = relatedPostsRaw.slice(0, 3).map(p => ({
     slug: p.slug,
     title: p.title,
     published: p.published,

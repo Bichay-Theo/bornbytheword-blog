@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://YOUR_GITHUB_USERNAME.github.io/bornbytheword-blog/sitemap.xml',
+    sitemap: 'https://bichay-theo.github.io/bornbytheword-blog/sitemap.xml',
   };
 }

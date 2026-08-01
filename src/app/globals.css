@@ -148,16 +148,16 @@ p {
   font-size: 1.125rem;
   line-height: 1.8;
   color: var(--foreground);
-  display: flex;
-  flex-direction: column;
+  /* display: flex removed to allow floating elements to work */
 }
 
 .footnotes {
-  order: 1;
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--secondary);
 }
 
 .read-also-section {
-  order: 2;
   margin-top: 3rem;
   padding-top: 1rem;
   border-top: 1px solid var(--secondary);

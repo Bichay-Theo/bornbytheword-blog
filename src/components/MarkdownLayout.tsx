@@ -66,12 +66,41 @@ export default function MarkdownLayout({ title, date, content, tocTitle = "مح�
               )}
             </header>
           )}
+
+          {toc.length > 0 && (
+            <aside id="toc" style={{ float: 'left', width: '320px', marginLeft: '2rem', marginBottom: '1.5rem', background: 'var(--card-bg)', padding: '1.5rem', borderRadius: '8px', border: '1px solid var(--secondary)' }} className="toc-floating">
+              <h3 style={{ marginBottom: '1rem', color: 'var(--primary)', borderBottom: '1px solid var(--secondary)', paddingBottom: '0.5rem' }}>
+                {tocTitle}
+              </h3>
+              <ul style={{ listStyle: 'none', margin: 0, padding: 0 }}>
+                {toc.map(item => {
+                  const isChapter = item.level === 2 && item.text.replace(/[\u0617-\u061A\u064B-\u0652]/g, '').includes('فصل');
+                  return (
+                    <li key={item.id} style={{ marginBottom: '0.5rem', paddingRight: item.level === 3 ? '1rem' : '0' }}>
+                      <a 
+                        href={`#${item.id}`} 
+                        className="toc-link" 
+                        style={{ 
+                          color: isChapter ? 'var(--primary)' : 'inherit', 
+                          fontWeight: isChapter ? 'bold' : 'normal' 
+                        }}
+                      >
+                        {item.text}
+                      </a>
+                    </li>
+                  );
+                })}
+              </ul>
+            </aside>
+          )}
           
           <div 
             className="post-html"
             dangerouslySetInnerHTML={{ __html: processedHtml }} 
           />
           
+          <div style={{ clear: 'both' }}></div>
+
           <div style={{ margin: '4rem 0 2rem 0' }}>
             <SocialShare title={title} />
           </div>
@@ -94,35 +123,6 @@ export default function MarkdownLayout({ title, date, content, tocTitle = "مح�
           </div>
         </article>
       </main>
-
-      {toc.length > 0 && (
-        <aside id="toc" style={{ flex: '0 0 300px', position: 'sticky', top: '100px' }} className="toc-sidebar">
-          <div style={{ background: 'var(--card-bg)', padding: '1.5rem', borderRadius: '8px', border: '1px solid var(--secondary)' }}>
-            <h3 style={{ marginBottom: '1rem', color: 'var(--primary)', borderBottom: '1px solid var(--secondary)', paddingBottom: '0.5rem' }}>
-              {tocTitle}
-            </h3>
-            <ul style={{ listStyle: 'none', margin: 0, padding: 0 }}>
-              {toc.map(item => {
-                const isChapter = item.level === 2 && item.text.replace(/[\u0617-\u061A\u064B-\u0652]/g, '').includes('فصل');
-                return (
-                  <li key={item.id} style={{ marginBottom: '0.5rem', paddingRight: item.level === 3 ? '1rem' : '0' }}>
-                    <a 
-                      href={`#${item.id}`} 
-                      className="toc-link" 
-                      style={{ 
-                        color: isChapter ? 'var(--primary)' : 'inherit', 
-                        fontWeight: isChapter ? 'bold' : 'normal' 
-                      }}
-                    >
-                      {item.text}
-                    </a>
-                  </li>
-                );
-              })}
-            </ul>
-          </div>
-        </aside>
-      )}
     </div>
   );
 }

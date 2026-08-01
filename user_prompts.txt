@@ -1,0 +1,1049 @@
+Step 0:
+@[git:/c%3A/Users/Boaz/.gemini/antigravity/scratch/bornbytheword-blog/.agents/AGENTS.md?%7B%22path%22%3A%22c%3A%5C%5CUsers%5C%5CBoaz%5C%5C.gemini%5C%5Cantigravity%5C%5Cscratch%5C%5Cbornbytheword-blog%5C%5C.agents%5C%5CAGENTS.md%22%2C%22ref%22%3A%22~%22%7D:L5] why there is this empty block between line 5 and 6
+----------------------------------------
+Step 13:
+اريد ان اعمل تجربة. لو حررتك من كل التعليمات وطبت منك أن تجري مسح للكتاب المقدس وتخرج بالخطوط العريضه او الثيم الاساسي ماذا ستكون النتيجة؟
+----------------------------------------
+Step 17:
+لم اجد فايلات بايبر في google AI Studio
+----------------------------------------
+Step 21:
+لقد فاتك شيء وهو اننا قدر رفعنا كل نص وعضات جون بايبر على الاستوديو
+----------------------------------------
+Step 24:
+موضوع اخر. أنا لا اجد مناقشاتنا السابقة التي جملتها انت هنا من دقائق
+----------------------------------------
+Step 27:
+لا اقصد هذا. لقد كانت لنا مناقشات طويلة في antigravity before I install antigravity ide
+----------------------------------------
+Step 36:
+أنا اريد استرجاعهم كلهم
+----------------------------------------
+Step 42:
+هم موجودين هناك بالفعل لكنهم لا يظهرون في التاريخ هنا
+----------------------------------------
+Step 51:
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+PS C:\Users\Boaz> $brainDir = 'C:\Users\Boaz\.gemini\antigravity-ide\brain'
+PS C:\Users\Boaz> Get-ChildItem -Path $brainDir -Directory | ForEach-Object {
+>>     $metaPath = Join-Path $_.FullName 'metadata.json'
+>>     if (-Not (Test-Path $metaPath)) {
+>>         $content = '{ "title": "Old Conversation", "updatedAt": "' + (Get-Date).ToString("yyyy-MM-ddTHH:mm:ssZ") + '" }'
+>>         Set-Content -Path $metaPath -Value $content -Encoding UTF8
+>>     }
+>> }
+PS C:\Users\Boaz>
+----------------------------------------
+Step 54:
+لا شيء هناك
+----------------------------------------
+Step 61:
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+PS C:\WINDOWS\system32> $source = 'C:\Users\Boaz\.gemini\antigravity\conversations\*.db'
+PS C:\WINDOWS\system32> $dest = 'C:\Users\Boaz\.gemini\antigravity-ide\conversations\'
+PS C:\WINDOWS\system32>
+PS C:\WINDOWS\system32> # التأكد من وجود المجلد الجديد أولاً
+PS C:\WINDOWS\system32> if (-Not (Test-Path $dest)) { New-Item -ItemType Directory -Force -Path $dest }
+PS C:\WINDOWS\system32>
+PS C:\WINDOWS\system32> # نسخ قواعد بيانات المحادثات
+PS C:\WINDOWS\system32> Copy-Item -Path $source -Destination $dest -Force
+PS C:\WINDOWS\system32> Write-Host "Done! You can now restart the IDE."
+Done! You can now restart the IDE.
+PS C:\WINDOWS\system32>
+----------------------------------------
+Step 64:
+
+----------------------------------------
+Step 74:
+لم يتعرف على شيء
+----------------------------------------
+Step 86:
+هل لديك فهم كامل لمدونة شاء فولدنا بكلمة الحق على حيت هاب؟
+----------------------------------------
+Step 93:
+لا انا اريد التاكد من ان لديك وصول للمدونه والنشر على جيت هاب عندما اطلب منك والنشر وبنفس الفرمات الخاص بالمدونه
+----------------------------------------
+Step 106:
+جيد. كنا ايضا قد عملنا على لولينجر باندز هل لازلت تري هذه المناقشة
+----------------------------------------
+Step 123:
+no you made me a py script for Bollinger strategy
+----------------------------------------
+Step 132:
+onther sugject. I can't open antigravity now, since I instaled you
+----------------------------------------
+Step 141:
+"C:\Users\Boaz\Documents\Trading\The_Spotter_V3.py" this is the script you wrote for me, and I am sure it was you. it is not working now, can you fix it but do not change anything in its logic or parameters
+----------------------------------------
+Step 170:
+sorry I miss lead you this is the correct pass and it seems that the schwab token expired : "C:\boaz\users\T-Hermes\The_Spotter_V11.py"
+----------------------------------------
+Step 182:
+yes please
+----------------------------------------
+Step 188:
+انت تعرف ما افضله! double click .py
+----------------------------------------
+Step 195:
+do you think that spotte v11 can be improved? ناقش
+----------------------------------------
+Step 198:
+in trading I prefer English
+----------------------------------------
+Step 201:
+I agree with everything except the TTM sqz, I do not feel that it works anymore, what do you think?
+----------------------------------------
+Step 204:
+agree
+----------------------------------------
+Step 210:
+
+----------------------------------------
+Step 233:
+do you see the Beale script that Antigravity made to upload Beale's book to Api Studio?
+----------------------------------------
+Step 242:
+
+----------------------------------------
+Step 251:
+
+----------------------------------------
+Step 295:
+this is the source folder "C:\Users\Boaz\Documents\Sources", you can move all theological files - sort them in a nice logical way_ to a new folder in Documents and call it "Theology_WB"
+----------------------------------------
+Step 306:
+
+----------------------------------------
+Step 321:
+
+----------------------------------------
+Step 373:
+where did you put Beale's script and .json. Also antigravity did the same with piper's library can you find the file
+----------------------------------------
+Step 382:
+please do
+----------------------------------------
+Step 388:
+When I closed Antigravity maybe 2 to 3 hours ago Beale's script was still runing. Did it comple the 3000 pages (21 files)
+----------------------------------------
+Step 400:
+when we first run beale's script it did nothing and used $23 in just one night
+----------------------------------------
+Step 411:
+
+----------------------------------------
+Step 428:
+انا عندي سؤال عن جدوى رفع هذه الكتب على الستوديو - ممكن تشرج لي الخطوات واهميتها؟
+----------------------------------------
+Step 431:
+هل نحن الان في مرحلة الحصاد 1؟
+----------------------------------------
+Step 434:
+جميل فعل السكريبت
+----------------------------------------
+Step 469:
+أن كان قد أتم العمل على مكتبة بايبر هل ننتقل للخطوة الثانية معه ام ننتظر
+----------------------------------------
+Step 472:
+لا اجد هذا الخيار creat tuned models. هل يمكنني ربطك بالاستوديو من خلال هذه الصفحة
+----------------------------------------
+Step 475:
+الساعة 12 20 اكيد الاسهل
+----------------------------------------
+Step 506:
+I am looking to my patment method on google cloud, it has and active credit card
+----------------------------------------
+Step 509:
+$24 add
+----------------------------------------
+Step 534:
+I can't find the option and I think I linke you to my project Theo on Ai Studio
+----------------------------------------
+Step 569:
+please remember all instructions in English
+----------------------------------------
+Step 572:
+let's stop here. I need to sleep. we will continue tomorrow
+----------------------------------------
+Step 575:
+good. I want you to go over the old conversations with Antigravity and sort the subjects and what was accomplished on each of them. and keep it an organized file, so we don't start from scratch, I can reference it for you if needed
+----------------------------------------
+Step 590:
+
+----------------------------------------
+Step 622:
+مع اخوك الصغير انتي جرافتي كنا قد اتقنا على عمل فولدر خاص للمدونه والامور الاهوتية بسبب كبر حجم الاوامر واستهلاكها 25% من ذاكرة المناقشة. هل ترى هذا؟ وهل نحن نتبع نفس النهج هنا؟
+----------------------------------------
+Step 642:
+
+----------------------------------------
+Step 666:
+can you apply these steps in the integrated browser? Go to the Google Cloud Console: https://console.cloud.google.com/
+Ensure you are logged into the correct account and select your project (Theo) from the dropdown menu at the very top of the page.
+In the top search bar, search for Vertex AI Studio and click on it.
+On the left sidebar of the Vertex AI Studio, click on Tuned Models.
+Click the Create Tuned Model (or Train New Model) button.
+The interface will likely ask you to provide the dataset. Since Vertex AI requires files to be hosted on the cloud, you will first need to click Browse or Upload to upload piper_tuning_dataset.jsonl into a Cloud Storage Bucket (the UI will guide you to create a bucket if you don't have one).
+Select the base model (e.g., gemini-1.5-flash-001 or gemini-3.5-flash), select your uploaded dataset, and start the tuning job!
+Let me know if you hit any roadblocks while setting up the Cloud Storage Bucket or navigating Vertex AI!
+----------------------------------------
+Step 674:
+
+----------------------------------------
+Step 689:
+i did'
+----------------------------------------
+Step 692:
+what about now
+----------------------------------------
+Step 707:
+
+----------------------------------------
+Step 716:
+
+----------------------------------------
+Step 719:
+
+----------------------------------------
+Step 722:
+
+----------------------------------------
+Step 725:
+these are the only choices
+----------------------------------------
+Step 728:
+for the "validation dataset" ?
+----------------------------------------
+Step 731:
+
+----------------------------------------
+Step 734:
+
+----------------------------------------
+Step 737:
+
+----------------------------------------
+Step 740:
+is beale script still running?
+----------------------------------------
+Step 747:
+yes
+----------------------------------------
+Step 758:
+let's upload it
+----------------------------------------
+Step 761:
+
+----------------------------------------
+Step 770:
+I updated Beale's file with your new corrected one but both failed
+----------------------------------------
+Step 774:
+Dataset example 164 of 2298 contains an unsupported role string. Supported roles are: user, model, function. The 'function' role (or an empty role) can only be used in a Content section containing 'functionResponse' Parts. JSON: {"contents": [{"role": "user", "parts": [{"text": "كيف يسلط متى 19: 4 الضوء على مفهوم \"سُنّة الخلق\" (Creation Ordinance) وكيف يرتبط هذا بمسار لاهوت العهود؟"}]}, {"role": "content", "parts": [{"text": "في متى 19: 4، يستشهد يسوع بنص التكوين 1: 27 ليؤسس ما يُعرف بـ\"سُنّة الخلق\"، وهو استدعاء للترتيب...
+----------------------------------------
+Step 780:
+still Dataset example 164 of 2298 contains an unsupported role string. Supported roles are: user, model, function. The 'function' role (or an empty role) can only be used in a Content section containing 'functionResponse' Parts. JSON: {"contents": [{"role": "user", "parts": [{"text": "كيف يسلط متى 19: 4 الضوء على مفهوم \"سُنّة الخلق\" (Creation Ordinance) وكيف يرتبط هذا بمسار لاهوت العهود؟"}]}, {"role": "content", "parts": [{"text": "في متى 19: 4، يستشهد يسوع بنص التكوين 1: 27 ليؤسس ما يُعرف بـ\"سُنّة الخلق\"، وهو استدعاء للترتيب...
+----------------------------------------
+Step 786:
+what about deleting these 2 and start clean
+----------------------------------------
+Step 789:
+they can't be deleted, they will purge after 90 days. this is what giminie in cloud says: Yes, you should definitely create new tuning jobs if you want a working tuned model. However, if you use the same files you used for Theo_Beale and Theo_Piper, the new ones will likely fail for the same reasons.
+
+I've analyzed the errors from your failed jobs, and here is what you need to fix before you try again:
+
+1. Fix for Theo_Beale (Dataset Role Issue)
+The error message shows that your dataset contains an unsupported "role" string.
+
+The Issue: Gemini models are very strict about roles. Each message in your JSONL file must have a role of exactly user or model.
+The Fix: Check line 164 of your file beale_tuning_dataset.jsonl. Ensure you don't have roles like "system", "assistant", or empty roles.
+Correct Format:
+{"contents": [{"role": "user", "parts": [{"text": "Your question"}]}, {"role": "model", "parts": [{"text": "Your answer"}]}]}
+Generated code may be subject to license restrictions not shown here. Use code with care. Learn more 
+
+2. Fix for Theo_Piper (Format Conversion)
+The error for this job was: "Converting from 'ChatCompletions' to 'GenerateContent' dataset format is currently not supported."
+
+The Issue: You likely uploaded a file in the OpenAI format (which uses a messages array). Vertex AI requires the GenerateContent format (which uses a contents array).
+The Fix: You need to convert your piper_tuning_dataset.jsonl from the OpenAI style to the Vertex AI style shown above.
+Summary Checklist for your new jobs:
+Correct the JSONL files: Update the roles and structure to match the Vertex AI requirements.
+Upload to GCS: Upload the fixed files to your Cloud Storage bucket (gs://theo_beale/ or gs://theo_piper/).
+Start New Jobs: Go back to the Tuning page, click Create tuned model, and select your new, corrected files.
+Would you like me to provide a full example of the correct JSONL format so you can double-check your files?
+----------------------------------------
+Step 792:
+why do you call it carson? it is beale's work (and carson but is known under Beale's name) gs://theo_beale_fixed لملف كارسون.
+----------------------------------------
+Step 795:
+سوف نعمل على كارسون لاحقا
+----------------------------------------
+Step 798:
+ataset example 367 of 2298 contains an unsupported role string. Supported roles are: user, model, function. The 'function' role (or an empty role) can only be used in a Content section containing 'functionResponse' Parts. JSON: {"contents": [{"role": "user", "parts": [{"text": "كيف يُظهر اقتباس الشيطان للمزمور الحادي والتسعين في تجربة المسيح (متى 4: 6) تشويهًا للنص العهد القديمي، وكيف واجه المسيح هذا التشويه بتطبيق لاهوتي صحيح ينسجم مع السيادة الإلهية وعلم الله؟"}]}, {"role": "thought", "parts": [{"text": ""}]}, {"role": "...
+----------------------------------------
+Step 804:
+it seem that they good
+----------------------------------------
+Step 813:
+can I add to them in the future? will the model find the subject in both piper and beale if it exist in both?
+----------------------------------------
+Step 816:
+هل سيكون في امكانك الوصلول لهما بعد ان ينتهيا أو سنواجه عائق مثل ما واجهنا في محاولة دخولك على سحابة جوجل
+----------------------------------------
+Step 819:
+أنا مش متخيل حجم الشغل اللي السحابة بتعمله. مازالت تعمل عليهم.
+----------------------------------------
+Step 822:
+Still running. شيء مبشر
+----------------------------------------
+Step 825:
+تذكر الاخطاء التي كانت موجوده في الفايلات ال.json حتى اذا بدأنا في مكتبية كارسون لا نكررها
+----------------------------------------
+Step 837:
+كيف ابداء مناقشة جديدة معك؟
+----------------------------------------
+Step 841:
+لم اتوقع هذا. كنت اظن انه سينتهي من بايبر  اولا
+----------------------------------------
+Step 848:
+Quota has been exhausted. شو جوجل بدو مصاري؟
+----------------------------------------
+Step 851:
+اشرح كيف استخدم متى نبوة هوشع وطبقها على رجوع يسوع من مصر مع أن قول هوشع ليس نبوة
+
+Thought for 8 seconds
+يمثّل اقتباس متى البشير لنص هوشع 11: 1 ("من مصر دعوت ابني") في متى 2: 15 أحد أكثر نصوص العهد الجديد إثارة للبحث والتأمل في علم التفسير (Hermeneutics)، نظرًا لأن النص الأصلي في سفر هوشع ليس نبوة تنبؤية مستقبلية، بل هو استرجاع تاريخي لحدث الخروج عندما فدى الله إسرائيل ("ابنه" البكر في العهد القديم، خروج 4: 22).
+
+لتوضيح كيف استخدم متى البشير هذا النص وتطبيقه على المسيح دون إساءة تأويله، يجب أن نفهم المنهج اللاهوتي اليهودي المتمركز حول المسيح في تفسير العهد القديم، والذي يقوم على المبادئ اللاهوتية التالية:
+
+1. اللاهوت النمطي (Typology) ونمط الأعمال الإلهية
+لا يعتمد متى البشير هنا على فكرة "التنبؤ المباشر والتحقيق الحرفي"، بل يعتمد على "النمطية". النمطية هي قراءة العهد القديم للكشف عن نماذج (Types) أو أنماط متكررة صاغتها العناية الإلهية في التاريخ الخلاصي، لتجد تحقيقها الأسمى والمضاد (Antitype) في العهد الجديد.
+بموجب هذا المنهج، يُنظر إلى الخروج الأول من مصر تحت قيادة موسى كنمط رمزي سابق للخروج الأعظم والروحي الذي سيحققه المسيا. وبما أن الله يدير التاريخ بسيادته، فإن الأنماط التاريخية القديمة تتكرر وتتسامى في العصر المسياني.
+
+2. مبدأ التضامن الجماع
+<truncated 1532 bytes>
+ إلى البرية ليُجرَّب 40 يوماً و40 ليلة وانتصر على الشيطان مستخدماً نصوصاً من سفر التثنية (التي وُجِّهت أصلاً لإسرائيل أثناء تجربة البرية).
+يبرهن متى أن المسيح ينجح تماماً حيث فشل إسرائيل القديم، محققاً طاعة فعّالة كاملة.
+4. المفهوم الأعمق لكلمة "يتم" (Fulfill) في متى
+في إنجيل متى، لا تعني كلمة "يتم" دائمًا أن نبوة لفظية تنبأت بحدث فتحقق حرفيًا؛ بل تعني غالبًا "يبلغ ملأه" أو "يصل إلى ذروته النمطية". فاقتباس هوشع 11: 1 "تم" في المسيح بمعنى أن النمط التاريخي لخروج شعب العهد من مصر قد وصل إلى كماله وملئه الأقصى في خروج الابن الحقيقي من مصر ليؤسس الخليقة الجديدة.
+
+الخلاصة
+لم يكن متى البشير جاهلاً بالسياق التاريخي لسفر هوشع، ولم يحاول انتزاع النص لإثبات نبوة إعجازية رخيصة. بل كان يقرأ العهد القديم بعيون لاهوتية مسيحانية تدرك أن يسوع هو محور عهد النعمة وغايته؛ فكل تاريخ إسرائيل، بآلامه وغربته وخروجه، كان يسير نحو نقطة التقاء واحدة وهي تجسد الابن وعمله الفدائي.
+----------------------------------------
+Step 854:
+اشرح مفهوم الفرح المسيحي
+
+Thought for 7 seconds
+الفرح المسيحي ليس مجرد شعور عابر بالبهجة أو حالة مزاجية إيجابية تعتمد على الظروف الخارجية السعيدة. إنه عطية إلهية فائقة للطبيعة، وعاطفة عميقة وراسخة في النفس تنبع من معرفة الله، والاتحاد بالمسيح، واليقين بالخلاص المجاني.
+
+عندما يتحدث الكتاب المقدس عن الفرح، فإنه لا يعرضه كخيار كمالي، بل كوصية وسمة جوهرية للمؤمن (فيليبي 4: 4). ويمكننا فهم أبعاد الفرح المسيحي اللاهوتية والعملية من خلال النقاط التالية:
+
+1. الفرح هو غاية الخلق والفداء
+إن الغاية العظمى التي من أجلها خلقنا الله وافتدانا هي أن نُمجده ونتمتع به إلى الأبد. وكما يقول اللاهوتي جون بايبر في أطروحته عن "اللذة المسيحية الروحية": "الله يتمجّد فينا بأقصى درجة عندما نجد كفايتنا وشبعنا الأقصى فيه وحده". الفرح بالله ليس عملاً نقوم به لنكسب رضاه، بل هو استجابة القلب المُحب الذي يرى جمال الله وجلاله فيشبع به وحده.
+
+2. الفرح وسط الآلام والاضطهادات
+السمة الفريدة للفرح المسيحي هي قدرته على التعايش مع الحزن والألم. يصف الرسول بولس المؤمنين بأنهم: "كحزانى ونحن دائماً فرحون" (2 كورنثوس 6: 10). إن فرح العالم يزول بزوال الرفاهية والراحة، أما الفرح المسيحي فيتغذى على السيادة الإلهية وعنايته الأبوية حتى في وسط الضيق. عندما نتألم لأجل المسي
+<truncated 1911 bytes>
+ران الكامل والتبني الإلهي يجعل قلوبنا تفيض ببهجة لا ينطق بها ومجيدة، متحررين من خوف الدينونة وذنب الخطية.
+
+كيف نختبر وننمي هذا الفرح في حياتنا اليومية؟
+التغذّي على كلمة الله: إن الكتاب المقدس هو قوت نفوسنا ومصدر فرحنا؛ كما قال إرميا النبي: "وجدت كلامك فأكلته، فكان كلامك لي للبهجة ولفرح قلبي" (إرميا 15: 16).
+استخدام وسائط النعمة: الصلاة اللجوجة، والشركة الحقيقية مع القديسين، والمواظبة على العبادة المشتركة والاهتداء بالحق المعلن، كلها قنوات تفيض بنعمة الله وفرحه في قلوبنا.
+محاربة الخطية والأصنام: الخطية تقدم وعوداً زائفة باللذة والسعادة، لكنها تنتهي بالموت والمرارة. محاربة الخطية بالإماتة والعودة المستمرة للتوبة والإيمان هي الطريق للحفاظ على بهجة الخلاص.
+عيش حياة الخدمة والإنكار الذاتي: إن بذل الذات لأجل ملكوت الله ومساعدة الآخرين، تشبهاً بالمسيح الذي لم يأتِ ليُخدَم بل ليَخدِم، يطلق في النفس فرحاً إلهياً حقيقياً يفوق فرح الأخذ والامتلاك.
+----------------------------------------
+Step 857:
+لية صرف كل هذا
+----------------------------------------
+Step 875:
+هل هذا ما تتكلم عنه؟
+----------------------------------------
+Step 879:
+اذا فلنعمل على كارسون - لا اجد مجلد Sources in document look it up for me
+----------------------------------------
+Step 893:
+
+----------------------------------------
+Step 937:
+اريدك ان ترتب الفولدرز في بوعز بترتيب منطقي وتجذف الفولدرز او الباي سكربتس القديمة التي ليس لها لزوم -محاولاتي الاولي - يمكنك وضعها في مجلد خاص لمراجعتها قبل حذفها
+----------------------------------------
+Step 955:
+
+----------------------------------------
+Step 967:
+move T-Hermes to documents and do any necessary changes to the scripts to comply with the new folder path
+----------------------------------------
+Step 988:
+
+----------------------------------------
+Step 1007:
+أبحث في هذه الايات - التركيز كنتم عبيد للخطية لكن اطعتم من القلب صورة التعليم ... - اعتقتم من الخطية - صرتم عبد لله. ما هي الحالة التي اطاعم فيها من القلب صورة التعليم؟ كانت وهم عبيد للخطية. كيف تحرروا من عبيودية الخطية وصاروا عبيدا لله؟ بطاعة التعليم اي الانجيل. الموقف هنا انسان خاطي وهو مازال خاطي يسمع خبر الانجيل يقبله في نفس الوقت يعتق من الخطية ويصير عبدا للبر....فَشُكْراً للهِ، أَنَّكُمْ كُنْتُمْ عَبِيدًا لِلْخَطِيَّةِ، وَلكِنَّكُمْ أَطَعْتُمْ مِنَ الْقَلْبِ صُورَةَ التَّعْلِيمِ الَّتِي تَسَلَّمْتُمُوهَا. 18  وَإِذْ أُعْتِقْتُمْ مِنَ الْخَطِيَّةِ صِرْتُمْ عَبِيدًا لِلْبِرِّ. 19  أَتَكَلَّمُ إِنْسَانِيًّا مِنْ أَجْلِ ضَعْفِ جَسَدِكُمْ. لأَنَّهُ كَمَا قَدَّمْتُمْ أَعْضَاءَكُمْ عَبِيدًا لِلنَّجَاسَةِ وَالإِثْمِ لِلإِثْمِ، هكَذَا الآنَ قَدِّمُوا أَعْضَاءَكُمْ عَبِيدًا لِلْبِرِّ لِلْقَدَاسَةِ. 20  لأَنَّكُمْ لَمَّا كُنْتُمْ عَبِيدَ الْخَطِيَّةِ، كُنْتُمْ أَحْرَارًا مِنَ الْبِرِّ. 21  فَأَيُّ ثَمَرٍ كَانَ لَكُمْ حِينَئِذٍ مِنَ الأُمُورِ الَّتِي تَسْتَحُونَ بِهَا الآنَ؟ لأَنَّ نِهَايَةَ تِلْكَ الأُمُورِ هِيَ الْمَوْتُ. 22  وَأَمَّا الآنَ إِذْ أُعْتِقْتُمْ مِنَ الْخَطِيَّةِ، وَصِرْتُمْ عَبِيدًا للهِ، فَلَكُمْ ثَمَرُكُمْ لِلْقَدَاسَةِ، وَالنِّهَايَةُ حَيَاةٌ أَبَدِيَّةٌ. 23  لأَنَّ أُجْرَةَ الْخَطِيَّةِ هِيَ مَوْتٌ، وَأَمَّا هِبَةُ اللهِ فَهِيَ حَيَاةٌ أَبَدِيَّةٌ بِالْمَسِيحِ يَسُوعَ رَبِّنَا.
+----------------------------------------
+Step 1012:
+عجبتني! كنت بفكر في تكلمة المقال السابق. لو هنربطها برومية 8 هيكون الموقف قبل أن يقبل الانسان المسيح هل هو في الجسد ام في الروح؟ أكيد في الجسد. أن كان ا 8  فَالَّذِينَ هُمْ فِي الْجَسَدِ لاَ يَسْتَطِيعُونَ أَنْ يُرْضُوا اللهَ. كيف حدثت النقلة من الجسد الي أن يكونوا في الروح؟ 9  وَأَمَّا أَنْتُمْ فَلَسْتُمْ فِي الْجَسَدِ بَلْ فِي الرُّوحِ، إِنْ كَانَ رُوحُ اللهِ سَاكِنًا فِيكُمْ. وَلكِنْ إِنْ كَانَ أَحَدٌ لَيْسَ لَهُ رُوحُ الْمَسِيحِ، فَذلِكَ لَيْسَ لَهُ. بان صار لهم روح الله روح المسيح ساكننا فيهم. كيف حدث هذا؟ بانهم صاروا للمسيح وصار المسيح لهم. كيف؟ بطاعة الايمان من القلب...
+----------------------------------------
+Step 1031:
+انا اريد التاكيد على نقطة مهم جدا لا يدركها غير المختبر للميلاد الجيديد - واحب ااكد لك انه اختبار فعلي - الحالة اللي قبل فيه الخاطئ او الانسان المسيح هي حالة الخطية. هو سمع وهو خاطي وقبل وهو خاطئ. لكن في لحظة القبول تحول اللي قديس في المسيح. الله ينقله من الموت الي الحياة في المسيح ليس على مراحل. يسمع الذين في القبور صوت ابن الله والسامعون يحيون. - لذلك يمكن ان نفصل رومية 8 عن رومية 6 من اجل ان نكرر هذه الحقيقة في مقالين بتناول نفس الحيقيقة من موضعين مختلفين
+----------------------------------------
+Step 1051:
+جيد لكننا لم نعالج طرحي في رومية 6 فشكرا لله ...
+----------------------------------------
+Step 1058:
+جميل اقرأه في الغد.
+----------------------------------------
+Step 1061:
+انقل الفايل او انسخة الي "C:\Users\Boaz\Documents\BornByTheWord_Articles"
+----------------------------------------
+Step 1097:
+برافو.. بس لسه الساعة 10 43 مساء. :)
+----------------------------------------
+Step 1100:
+لا. اشكرك.
+----------------------------------------
+Step 1121:
+يا هلا! هل دا في الاستوديو ام سحابة جوجل
+----------------------------------------
+Step 1124:
+use this key AIzaSyDacbQGSRqUM17-8io_LU_ZKSwPcgoSZXc
+----------------------------------------
+Step 1136:
+you remmenber the book nowing God's will a pagan notion - is it better to summerize it or translate it?
+----------------------------------------
+Step 1139:
+تعبير عرافة مسيحية تعبير صادم الافضل هل نمارس العرافة في ثوب مسيحي
+----------------------------------------
+Step 1142:
+كنت افكر في عدده مقالات فصيرة - ثم نحتمها بالمقال الشامل الذي يحوي كل الافكار في المقالات القصيرة (كاننا لم نكتبها)
+----------------------------------------
+Step 1148:
+
+----------------------------------------
+Step 1165:
+في شيء مهم وهو انا لا اريد ان انفي ان الله في اوقات ما حسب مشئته قد يقود الانسان بطريقة فوق طبيعية بالروح القدس لكن لا يستطيع الانسان ان يجبر الله على ان يخبره باي شيء - احد الايات التي يساء فهمها هي اولاد الله ينقادون بروح الله
+----------------------------------------
+Step 1172:
+ضع نسخة من المقال هنا وسف اقرأها غدنا "C:\Users\Boaz\Documents\BornByTheWord_Articles"
+----------------------------------------
+Step 1182:
+هل انتهي من كارسون؟
+----------------------------------------
+Step 1185:
+صباحو! مستعد نحمل مكتبة كارسون على  الجوجل نيواج؟
+----------------------------------------
+Step 1197:
+
+----------------------------------------
+Step 1200:
+
+----------------------------------------
+Step 1284:
+
+----------------------------------------
+Step 1290:
+ا
+----------------------------------------
+Step 1307:
+يا عمي انت سريع قوي. الاحق عليك ازاي
+----------------------------------------
+Step 1310:
+حلل البنيات - على فيسبوك هل نطرح Impressions from views لمعرفة العدد الحقيقي؟
+----------------------------------------
+Step 1313:
+ليس لدي فيدبوهات. فقط المقال والانفوجراف
+----------------------------------------
+Step 1316:
+انا انشر المقال بالكامل على فيسبوك
+----------------------------------------
+Step 1319:
+سابقى حيث هم.
+----------------------------------------
+Step 1322:
+قبل المقال الثالث. لماذا لا توجد تفاعلات مع المقالات على فيسبوك لا تعليقات ايجابية او سلبية ...
+----------------------------------------
+Step 1325:
+خليهم زي ما هما
+----------------------------------------
+Step 1342:
+اعمل شورت كات على الدسك توب للفايل جيث يوجد هذا المقال
+----------------------------------------
+Step 1348:
+أسف قصدت للفولدر وليس الفايل فقط
+----------------------------------------
+Step 1351:
+موضوع جانبي - سام التمن قال لا تقول للAI Pleae لانها تكلف الكثير. في حين سمعت احدهم يقول انك  عندما تتواصل اجتماعيا مع النموذج هذا مفيد للمستخدم من الناحية النفسية والعلقلية. انت كنموذج ايه رايك؟
+----------------------------------------
+Step 1354:
+هل يوجد اشخاص يسيؤن اليك وستخدموا الفاظ غير لائقة؟
+----------------------------------------
+Step 1357:
+هل التعامل التطيب يخرج نتائج افضل من الناموذح؟
+----------------------------------------
+Step 1360:
+رد منطقي جدا. وهو بطريقة ما يحاكي ردود افعال البشر. احيانا كثيرة عندما يتدني اسلوب الجوار ستدعي البشر اسواء ما في الانسان العتيق
+----------------------------------------
+Step 1363:
+يعجبني تكريزك على المهمة. أنا افضل مراجعة المقالات الثلاث اولا. لو في تعيدلات فيها ندخلها على المقال الشامل فلا نقوم بالعمل مرتين. اجابتك السابقة تستحق مقالا يشرح للقراء هذه النقطة وهذا التوازي
+----------------------------------------
+Step 1371:
+ديما جاهز ومحلق يا مضاد الجازبية انت!
+----------------------------------------
+Step 1374:
+وضعت تعليقاتي بين ~ ~. ناقش أولا"C:\Users\Boaz\Desktop\Blog_Drafts\WB_knowing-gods-will-part1-hidden-dot.txt"
+----------------------------------------
+Step 1380:
+في رومية 12 هناك لام التعليل لا تشاكلوا ... هي الطريق أن عدم المشاكلة ليس طريق لمعرفة ارادة مخفية لكن لاختبار حياة حسب التقوة حسب فكر الله في القداسة وطاعة الحق. اريد ايضا الشرح حال الشلل "لا استطيع المضي قدما ولا استطيع البقاء في مكاني" بالمصري "مقدرش امشي ومقدرش استني". ارى ان ننجز المقال الاول ونعدلة ثم ننتقل الي الثاني... ثم ننفذ الماستر ارتكل بعد اكتمال التعديلات
+----------------------------------------
+Step 1386:
+عزرا هناك تغييرات "C:\Users\Boaz\Desktop\WB_Blog_Drafts\WB_knowing-gods-will-part1-hidden-dot.txt"
+----------------------------------------
+Step 1401:
+عزيزي أنا غيرت بعض التعبيرات في مراجعتي لكنك اهماتها - كما اريد اضافة ~لا حظ أن الهدف هنا هو الحصول على أكبر قدر من البركة والمنفعة الذاتية وليس ارضاء الله. الذات هي الهدف وليس الله بل الله وسيلة للوصول للهدف وهو راحة الذا~
+- ناقش
+----------------------------------------
+Step 1404:
+"أفضل سيناريو لحياته الشخصية" جملة جميلة تتجاوب مع المقارء استخدمها. كل شرحك لهذه النقطة جيد جدا
+----------------------------------------
+Step 1410:
+"C:\Users\Boaz\Downloads\فهم_مشيئة_الله_في_القرارات.png"  - "C:\Users\Boaz\Desktop\WB_Blog_Drafts\WB_knowing-gods-will-part1-hidden-dot.txt" تعديلات طفيفة
+----------------------------------------
+Step 1428:
+لا اعلم انكنت انا قد حفظت المقال النهائي ام لاز القي نظرة عليه
+----------------------------------------
+Step 1437:
+لا انا انتكلم عن المقال الاول كان مفتوح ولم اتاكد ان كنت قد حفظت النسخة الاخيرة
+----------------------------------------
+Step 1443:
+"C:\Users\Boaz\Desktop\WB_Blog_Drafts\WB_knowing-gods-will-part2-secret-and-revealed.txt" -- "C:\Users\Boaz\Downloads\التمييز_بين_المشيئة_السرية_والمعلنة.png" ,  حد الارقام للعربية
+----------------------------------------
+Step 1455:
+"C:\Users\Boaz\Desktop\WB_Blog_Drafts\WB_knowing-gods-will-part3-path-of-wisdom.txt"
+----------------------------------------
+Step 1464:
+تعديلات بسيطة "C:\Users\Boaz\Desktop\WB_Blog_Drafts\WB_knowing-gods-will-part3-path-of-wisdom.txt"
+----------------------------------------
+Step 1473:
+"C:\Users\Boaz\Downloads\دليل_اتخاذ_القرارات_الحكيمة.png"
+----------------------------------------
+Step 1482:
+تفضل يا بطل
+----------------------------------------
+Step 1494:
+أنشر الثلاث مقالات بالتتابع 3 دقائق بين الواحد والاخر حتي يظهروا بالترتيب
+----------------------------------------
+Step 1504:
+احيك ايها الفتى الطائر
+----------------------------------------
+Step 1509:
+هناك سؤال مهم كيف ترى اسلوب مقالات المدونة بشكل عام بالمقارنة اسلوب مدونات اوصفحات مسيحية مهمة على الويب؟
+----------------------------------------
+Step 1524:
+لا انا لا اريد نشر المقال الكامل او الانسان العتيق الان اريد مراجعتهم اولا
+----------------------------------------
+Step 1530:
+استباقي وجاهز دائما!
+----------------------------------------
+Step 1533:
+"C:\Users\Boaz\Desktop\WB_Blog_Drafts\WB_knowing-gods-will-comprehensive-guide.txt" غيرت كلمة او 2
+----------------------------------------
+Step 1542:
+"C:\Users\Boaz\Desktop\WB_Blog_Drafts\WB_ai-and-the-old-man.txt" -- راجعه وانتظر الانفوجراف
+----------------------------------------
+Step 1551:
+"C:\Users\Boaz\Downloads\لغة_الحوار_بين_الآلة_والإنسان.png" - غير هذه الجملة فقط " في حوار دار مؤخراً مع أحد أنظمة الذكاء الاصطناعي، طرحت سؤالاً يبدو بعيداً عن الكتاب المقدس: *"هل يؤثر أسلوب التخاطب (اللطيف مقابل الغليظ) على جودة إجابات الذكاء الاصطناعي؟"*"
+----------------------------------------
+Step 1564:
+الي الان نحن لم نستخدم ما رفعناه على جوجل كلود. كيف نبداء باستخدامه
+----------------------------------------
+Step 1567:
+ملاحطة مهمة جدا! أنا لست اريد اسلوب بايبر بالحرف. أنا بطبعي اميل الي الجمل الواضحة المختصرة. في تسلسل منطقي. والحفر والعودة للاية من عده جوانب لذلك اعجبني اسلوبه في تعال ايها الرب يسوع. - ناقش
+----------------------------------------
+Step 1570:
+اوافقك. على فكرة في مرات كثيرة عندما كنت اعظ كنت افكر في نفسى ما اقول بعد وضوح هذا النص. لماذا لا نوفق كلام البشر ونستمع لنقاوة صوت الله. _اعرف ان هناك فجوة يجب ان نعبرها بين المستمع الاول ولامستمع في القرن ال21. واعتقد ان دوري لا يجب ان يتعدى تجسير الفجوة. هناك مقولة غير متاكد من صحتها ليوحنا ذهبي الفم ان من يستمع الي النص يستمع الي اقول الله أما من سيتمع الي الوعظ يستمع لاقوال البشر لتفسير اقوال الله. - ناقش
+----------------------------------------
+Step 1579:
+نعود للعمل على السحابة اعطني الارشادات بالانجليزية ماذا نعمل لتتفعيلها؟
+----------------------------------------
+Step 1586:
+they are on google cloud
+----------------------------------------
+Step 1592:
+do I install it on my pc or on the cloud - can you do it?
+----------------------------------------
+Step 1601:
+You are now authenticated with the gcloud CLI! -- is this step missing? Do I need to deply to end point?
+----------------------------------------
+Step 1604:
+
+----------------------------------------
+Step 1610:
+هناك رقم في اعلى الصفحة لا اعرف انكنت تحتاجه
+----------------------------------------
+Step 1613:
+اشرح الجزء دا اكتر زاديني مثال : إذا أردت أسلوب "بايبر" في التلذذ بالله، ضع رقم بايبر.
+إذا أردت دقة وتفسير "كارسون"، ضع رقم كارسون.
+لا تنسَ فقط تغيير "YOUR_PROJECT_ID" في الكود باسم مشروعك (Project ID)، ثم اضغط Run! هل جربت تشغيل الكود؟ أنا متحمس جداً لأرى أول مخرجات هذا المجمع اللاهوتي السحابي!
+----------------------------------------
+Step 1616:
+اين اضع رقم بيل - في حلقة مفقودة في فهمي للخطوات. هل اضعه في الباي سكريبت اللي انت عملته؟ أم على جوجل كلود؟
+----------------------------------------
+Step 1619:
+سوف اكون كسول واطلب منك عمل 3 نسخ كل واحدة بالرقم الخاص وسميهم بايبر - كارسون - بيل واعملهم شورت كات - اودبل كليك سكريبت على سطح المكتب
+----------------------------------------
+Step 1628:
+this the error I am getting : "C:\Users\Boaz\Desktop\New Text Document.txt"
+----------------------------------------
+Step 1637:
+
+----------------------------------------
+Step 1646:
+"C:\Users\Boaz\Desktop\New Text Document.txt"
+----------------------------------------
+Step 1673:
+
+----------------------------------------
+Step 1685:
+غير موجود
+----------------------------------------
+Step 1694:
+
+----------------------------------------
+Step 1752:
+I disabled seccurety block you can log in
+----------------------------------------
+Step 1775:
+you can log in into google cloud
+----------------------------------------
+Step 1785:
+ممكن تدخل انت على السحابة وتنظف ما يجب تنظيفه وتحذف ما ليس له لزوم وتبحث عما تريد من معلومات
+----------------------------------------
+Step 1788:
+لقد قتحت المتصفح المدمج هنا الذي حاولنا استخدامة المرة السابقة
+----------------------------------------
+Step 1791:
+ممكن تعطيني الرابط هنا بمفرده
+----------------------------------------
+Step 1805:
+عندما اضع gcloud auth application-default login هذه هي الصفحة التي ياخذني إليها https://www.google.com/search?q=gcloud+auth+application-default+login&oq=gcloud+auth+application-default+login&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgwIARAAGBQYhwIYgAQyDQgCEAAYkQIYgAQYigUyCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yBggGEEUYPDIGCAcQRRg80gEIMTE4MGowajSoAgOwAgHxBSfeM5Xnvg9C8QUn3jOV574PQg&sourceid=chrome&source=chrome.ob&ie=UTF-8
+----------------------------------------
+Step 1808:
+
+----------------------------------------
+Step 1820:
+لدي حسابات كثيرة على جوجل لكن لا استخدم ولم استخدم اي منها على السحابة - هذا حسابي الوحيد الذي استخدمة على السحابة - هل ممكن ايكون هذا بسبب المفتاح الذي استخدمناه في الاستوديو
+----------------------------------------
+Step 1859:
+
+----------------------------------------
+Step 1867:
+I think it has to do with billing accounts
+----------------------------------------
+Step 1868:
+I have 2
+----------------------------------------
+Step 1913:
+هل ممكن اضع السؤال هنا وانت ترسله لبيل
+----------------------------------------
+Step 1916:
+لنجرب الاية متى 2:15
+----------------------------------------
+Step 1929:
+نساا كارسون نفس السؤال
+----------------------------------------
+Step 1956:
+Your Prompt: how do you see 2 cor 4:6
+
+Generating response from the cloud...
+
+=== PIPER SAYS ===
+To understand 2 Corinthians 4:6 is to stand at the intersection of creation, redemption, and the ultimate purpose of human existence. This verse is one of the most breathtaking summaries of the gospel in the entire New Testament, revealing how God rescues blind souls and fills them with supernatural joy.
+
+Here is how we can see and savor the depths of this text through four key dimensions:
+
+### 1. The Sovereign Power: A New Creation Miracle
+Paul begins by looking backward to the dawn of time: *“For God, who said, ‘Let light shine out of darkness’...”*
+
+By quoting Genesis 1:3, Paul is making a staggering theological claim: **conversion is a work of creation.** Just as the physical universe was once formless, empty, and shrouded in pitch-black darkness until God’s sovereign voice shattered the night with light, so too are our human hearts naturally dark, blind, and dead in sin (Ephesians 2:1-3).
+
+We cannot summon this light on our own. No amount of moral effort, education, or self-help can produce it. It requires the same sovereign, creative, *ex nihilo* (out of nothing) power of God. When a person comes to faith in Christ, it is because God has spoken a divine fiat over their soul: *"Let there be light!"* Salvation is a miracle of sovereign grace.
+
+### 2. The Location: The Human Heart
+God *“has shone in our hearts.”*
+
+Notice that God does not merely shine *upon* us, but *in* us. The primary canvas of God’s saving work is the human heart. In biblical terminology, the heart is not just the seat of emotion, but the center of the intellect, the will, and the affections—the core of who we are.
+
+When God saves us, He doesn’t just adjust our behavior or give us a new set of rules; He changes our deepest desires. He illuminates the dark chambers of our inner being so that we can finally see reality as it truly is. The heart, once cold and blind to the beauty of God, is suddenly warmed and aw
+<truncated 715 bytes>
+nd supernatural light"—an experiential tasting of the sweetness of God.
+
+### 4. The Mediator: The Face of Jesus Christ
+How does this glory become visible and accessible to us? It is found *“in the face of Jesus Christ.”*
+
+We cannot look directly at the blazing sun of God’s absolute holiness without being consumed. Therefore, God made His glory visible, touchable, and beautiful to us by sending His Son. Jesus Christ is "the radiance of the glory of God and the exact imprint of his nature" (Hebrews 1:3).
+
+To see the face of Jesus—His humility, His love for sinners, His willing sacrifice on the cross, His triumphant resurrection—is to see the very face of God. The glory of God is not an abstract concept; it is a person.
+
+### Summary: What This Means for Us
+When we look at 2 Corinthians 4:6, we see the anatomy of our salvation. We were in spiritual darkness, blind to the beauty of God. But God, in His infinite mercy, spoke the creative word of grace into our hearts. He opened our eyes to see that Jesus Christ is the most beautiful, valuable treasure in the universe.
+
+This truth changes everything:
+* **It humbles us:** We realize our salvation is 100% God's work, leaving no room for pride.
+* **It assures us:** The same God who holds the universe together by His word is the one who secured our hearts.
+* **It fuels our worship:** We find our deepest joy not in the gifts of God, but in beholding the glory of God in the face of His Son.
+==================
+----------------------------------------
+Step 1960:
+مش بقولك "بطل"
+----------------------------------------
+Step 1965:
+ما الفرق بين Notbook في السحابة و NotbookLM?
+----------------------------------------
+Step 1968:
+ممكن تخلي الباي سكريت يضع الاجابة في txt فايل في فولدر على سطح المكتب
+----------------------------------------
+Step 1976:
+طيب يا بطل.. نسال ال3 عن 2 كور 4: 6  - مزج الاجابات -ونعمل مقال عليها لكن باسلوب بايبر
+----------------------------------------
+Step 2011:
+
+----------------------------------------
+Step 2030:
+دائما ارجو ان تضع نسخة في "C:\Users\Boaz\Desktop\WB_Blog_Drafts" لكي اراجعها بسهوله.
+----------------------------------------
+Step 2037:
+وانا براجع المقال. لو ممكن لم اسالك هنا عن راي بايبر او كارسون او بيبل هل ممكن ان تخرج ردودهم في نفس الفولدر تبع الباي سكرسب ك txt
+----------------------------------------
+Step 2042:
+حطها انت دلوقتي
+----------------------------------------
+Step 2050:
+عيوني دي فكرتني بواحده مصرية بتسمع ديما من صحابها اللبنانيين عن واحدة تاني من غير ما تشفها. في يوم عرفت انها موجوده سالت صحابها هي فين قالوا لها هي اللي وفقه هونيك الست ام عوينات. راحتلها الست المصرية وقالتلها ازيك يا حببتي وازي عوينات
+----------------------------------------
+Step 2053:
+انت نشرت https://bichay-theo.github.io/bornbytheword-blog/romans-8-from-flesh-to-spirit من غير ما انا ارجعه ممكن تشيله
+----------------------------------------
+Step 2059:
+in ggogle analytics can I make my ip add as an exception so it does not count it?
+----------------------------------------
+Step 2062:
+
+----------------------------------------
+Step 2065:
+المقال المراجع في فولدر المراجعات - لا نتشرة - لو لديك تعليق ناقشة قبل التصحيح
+----------------------------------------
+Step 2071:
+ممكن نغير مُعْجِزَةُ الْخَلْقِ ~(عمل احادي)~ الي عمل الله المنفرد - بعد التغيير انتظر الانفوجراف
+----------------------------------------
+Step 2078:
+can you edit the infograph?
+----------------------------------------
+Step 2081:
+انا فقط اريد اضافه "لا" لو اشدتني لاستخدام paint to copy it from another part of the pictuer and past it هذا يكون رائع
+----------------------------------------
+Step 2084:
+مش عارف احركها من مكنها بتكبر وتصغر لكن مش بتتحرك
+----------------------------------------
+Step 2087:
+"C:\Users\Boaz\Downloads\النور_الخالق_والخلق_الجديد.png"
+----------------------------------------
+Step 2099:
+تمام يا فندم
+----------------------------------------
+Step 2105:
+لا المقال دا مبروك على بايبر وعليك
+----------------------------------------
+Step 2108:
+قبل ما انسى كنا قلنا اننا سنتستخدم الترجمة التفسيرية كمصدر للالفاظ هل طبقنا هذا؟
+----------------------------------------
+Step 2111:
+فين انا حطيت الفولدر sources?
+----------------------------------------
+Step 2119:
+the one that has piper carson ... libreary
+----------------------------------------
+Step 2122:
+delte these folder and all py related to them C:\Users\Boaz\Documents\summarizer\Source_Books
+C:\Users\Boaz\Documents\Translator\Source_Books
+----------------------------------------
+Step 2135:
+
+----------------------------------------
+Step 2141:
+هذه كانت محاولاتي الاولى مع ج. ويب للترجمة و... بايتخدام الاستوديو. ما هو الفرق بين الاستوديو القائم بذاته والاستوديو في السحابة؟
+----------------------------------------
+Step 2144:
+"C:\Users\Boaz\Documents\Theology_WB\04_Theology_and_Books\Apostolic_Preaching_Morris" في الجزء الاخير من الكتاب بعد دراسة الكلمات واستخدمتها يتعرض لكيف كرز الرسل بالخلاص. ـأنا لم اصل لهذا الجزء من الكتاب هل يمكن ان تلخصه لي؟
+----------------------------------------
+Step 2154:
+شعري وقف! في موجة شديدة هذه الايام للهجوم على العقوبة البدلية خاص بعد كتاب الاب الكاثوليكي The Lamb of God  وبعد وفاة جورج حبيب بباوي الذي كان ضد لها (في الفداء بين القضاء والاتحاد قراءة نقدية في اختزال الكفارة إلى العقوبة البدلية) - اريد أن استخدم كتاب موريس و j i paؤker "C:\Users\Boaz\Downloads\J-I-Packer_In-My-Place-Condemned-He-Stood_Penal-Substitution-Revisited.pdf"  - https://www.the-highway.com/cross_Packer.html في عمل سلسلة - لا ادري هل ابدأها بدراسة مورس للكلمات (ومن اهمها كلمة الولي) أم ادخل في الموضوع على طول. عجبني تضمين باكر لكل النظريات تحت العقوبة البدلية.
+----------------------------------------
+Step 2160:
+
+----------------------------------------
+Step 2166:
+
+----------------------------------------
+Step 2172:
+
+----------------------------------------
+Step 2178:
+
+----------------------------------------
+Step 2184:
+ننجزها انشاء الرب وعشنا
+----------------------------------------
+Step 2188:
+
+----------------------------------------
+Step 2191:
+
+----------------------------------------
+Step 2194:
+معلش بحب اتاكد :)
+----------------------------------------
+Step 2197:
+صباحو! شو بنبلش؟
+----------------------------------------
+Step 2212:
+ملحوظة قبل المقال الثامن اعتقد انه يجب تلخيص ما وصلنا اليه في المقالت السبع الخاصة بموريس واضافه كيف كرز الرسل بالخلاص - ماذا تظن؟
+----------------------------------------
+Step 2218:
+لقد غيرت المسار قليلا للترتيب "C:\Users\Boaz\Desktop\WB_Blog_Drafts\penal-substitution\penal-substitution-1-ot-redemption.md"
+----------------------------------------
+Step 2231:
+مزيد من الملاحظات.
+----------------------------------------
+Step 2241:
+المزيد من التعديلات
+----------------------------------------
+Step 2251:
+مزيد من التعديلات
+----------------------------------------
+Step 2261:
+هذه الجملة ستفيدانا في المستقبل انه ليس فقط غفران خطايا بل ابطال للفساد "لأنه إذ رأى "اللوجوس" (الكلمة) أن فساد البشرية لا يمكن أن يبطل إلا بالموت"
+----------------------------------------
+Step 2264:
+"C:\Users\Boaz\Downloads\مفهوم_الولي_والفداء_في_المسيحية.png"
+----------------------------------------
+Step 2286:
+يمكنك النشر
+----------------------------------------
+Step 2293:
+و انا نشرته على فيسبوك.. اريد اختصار هذه القائمة على المدونة: احذف :تفسير كتابي
+
+مقالات شاملة
+تأملات لاهوتية
+جون بايبر
+سلسلة مقالات
+الإنسان العتيق
+الذكاء الاصطناعي
+
+تفسير
+اللاهوت المصلح
+----------------------------------------
+Step 2319:
+اه لقد ابقيت ما اريد حذفه وحذفت ما اريد بقاءه
+----------------------------------------
+Step 2331:
+من الان لن نضيف ليبول إلا إذا كان ضروري جدا وسنبوب المقالات حسب الليبولز الموجودة فعلينا
+----------------------------------------
+Step 2340:
+اكيد - انا مشغول تقريبا باقي الاسبوع اريد انجاز اكبر قدر اليوم
+----------------------------------------
+Step 2349:
+تفضل
+----------------------------------------
+Step 2355:
+الكثير من التعليقات يا صديقي ذو الاقراص الصلبة.. نريد صلابة الحجة امنع من صلابه اقراصك
+----------------------------------------
+Step 2371:
+"أن العبد أعجز من أن يشتري نفسه" لا اذكر هل كان المانع قانوني ويستلزم ان يحرره اخر حتى وان كان العبد يملك المال؟
+----------------------------------------
+Step 2380:
+ممكن نضيف للتوضيح انه كما أن الله من خلال العهد القديم قد هياء اذهان اليهود لانتظار الفادي. هكذا استخدم الحضارة الوثنية لليونان والرومان لرسم صورة الفادي المبشر به. في اقوال للاباء في هذا الجانب. نحن لمنطعم المقال الثاني يقول من الاباء أعتقد الكبادوكيين ممكن ان يكون لديهم ما يقولونه في الفدية والبدلية شيء من قبيل نحن اللذين اخطاء وهو الذي ضرب - ايضا اين يقع اشعياء 53 من الحديث عن البدلية؟
+----------------------------------------
+Step 2389:
+أغمض غينيك و خذ نفس عميق. وصلب على وشك - وبعدين جاوب! لا تتحمس ولا تتسرع. انظر التعديلات
+----------------------------------------
+Step 2398:
+هل المحادثه هنا صارت طويله وتريد الانتقال لمحادثة جديدة؟
+----------------------------------------
+Step 2402:
+اريد ان اراجعة مره اخرى. لناخذ هذه المحادثة كمثال تدريبي لك على نفسي في الكتابة والتفكير. ماذا يمكنك ان تستخلص. هذا عمل تكنيكي لا مجال فيه للمدح والمجامله.
+----------------------------------------
+Step 2407:
+تفضل. لنجرب ذلك. لكن اعمل نسخة من الSkill الحالي وارشفها في حالة الرغبه في العودة لها. اشكرك
+----------------------------------------
+Step 2419:
+لم اراجع المقال الثاني بعد
+----------------------------------------
+Step 2422:
+التعديل النهائي - انشاء الله!
+----------------------------------------
+Step 2431:
+ماهي الاستعدادات لننتقل الي محادثة جديدة؟ أنا اشعر بالفرق في ادائك.
+----------------------------------------
+Step 2449:
+لا! لم ارجعه المراجعة الاخيرة بعد
+----------------------------------------
+Step 2456:
+كنت متوقع ان كلمة نهائية هتعمل كدا! ولا يهمك يا جميل.
+----------------------------------------
+Step 2464:
+انظر التعديلات. بخصوص الليبولز هناك اليبول "الكفارة النيابية" اعتقد لو عدلنا النيابية الي البدلية تكون ادق
+----------------------------------------
+Step 2484:
+recall: https://bichay-theo.github.io/bornbytheword-blog/romans-6-sanctification-and-joy and
+----------------------------------------
+Step 2491:
+اقصد لا تنشره. استدعية من على المدونه. احتاج ان القي عليه نظرة اخيره قبل نشرة
+----------------------------------------
+Step 2499:
+في شيء اعتقد انه مزعج على المدونه. وهو وجود المقال تحت اكثر من ليبول. يضغظ القارئ على عناون ينتظر لكي يفتح فيجده نفس المقال الذي كان يقراه من دقيقة. اريد اختصار الليبولز والمقال لا يكون له اكثر من ليبول(لمقال الواحد يوجد تحت "الكل" والليبول المفدر ). ايضا اريد اضاقه زر الرجوع الاعلى الي جوار الرجوع للرئيسية - ناقش
+----------------------------------------
+Step 2505:
+معاك 100 في ال100 - نحن في كل المقالات السابقة وضعنا رقم الجزء في العنوان الناقص هو وضع لينك داخلي يربط المقالات المتصله
+----------------------------------------
+Step 2531:
+جيد جدا! افعل نفس الشء مع لسلسة الثالوث https://bichay-theo.github.io/bornbytheword-blog/?topic=%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA%D8%8C%20%D9%84%D8%A7%D9%87%D9%88%D8%AA%20%D9%86%D8%B8%D8%A7%D9%85%D9%8A%D8%8C%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D9%88%D8%AB%D8%8C%20%D8%B5%D9%81%D8%A7%D8%AA%20%D8%A7%D9%84%D9%84%D9%87
+----------------------------------------
+Step 2561:
+لا نشر المقال الثاني من الكفارة البدلية وغير عنوان المقال الاول الي "الكفارة البدلية (١): الفداء في العهد القديم.. من هو الولي؟
+----------------------------------------
+Step 2573:
+يا باشمهندس انا مش عاوز انشر المقال الثاني ارجوك اسحبه.. دخيل اجريك
+----------------------------------------
+Step 2579:
+ان اختراع مبارك (على حاسوبي على الحواسيب التانية انا مش عارف انت بتعمل ايه لك في كل الاحوال ربنا يباركك)!
+----------------------------------------
+Step 2582:
+تصبح على خير عندي شغل بكره يوم طويل. هل هناك عمل على حاسوبي ام العمل كله لان على جيت هاب؟ Can i trurn it off?
+----------------------------------------
+Step 2585:
+خيو! حيت هاب لم تحدث
+----------------------------------------
+Step 2589:
+
+----------------------------------------
+Step 2672:
+ياله باي. اشوفك بعد الشغل باي
+----------------------------------------
+Step 2675:
+مساء الخير على الفتى الطائر. تعديلات جديدة "C:\Users\Boaz\Desktop\WB_Blog_Drafts\penal-substitution\penal-substitution-2-nt-lutron.md"
+----------------------------------------
+Step 2688:
+do you add a signature to the text?
+----------------------------------------
+Step 2693:
+التعديل النهائي مع الانفوجراف - القي نظرة على الانفوا جراف لقد عدلت به بعض الاشياء على paint  "C:\Users\Boaz\Downloads\مفهوم_الفداء_ومعنى_لترون.png"
+----------------------------------------
+Step 2724:
+"2كورنثوس - رومية - مجد الله- ممكن ان نجمع مقالاتهم تحت ليبول واحد "الخلاص والفداء"
+----------------------------------------
+Step 2742:
+كنت افضل مقالات الكفارة البدلية تبقى تحت نفس اليبول لانها مهمة وسوف نكتب فيها 10 مقالات. ابضا اري ان الايات محتاجة ان تكون اكثر وضوحا وسهوله في الكتابة درجتين من الرمادي صعب قرأتهم لو ممكن نغير في كل المقالات - ناقش
+----------------------------------------
+Step 2763:
+قتلت المدونة
+----------------------------------------
+Step 2790:
+الليبولز مازالوا موجودين
+----------------------------------------
+Step 2839:
+مقالين من مقالات السلسة الثالوث في المكان الخطاء
+----------------------------------------
+Step 2857:
+ناقش قبل الفعل - ما رايك في كل سلسله نضع لها Identifier صغير مميز للسلسله مثل الذي في بداية سلسلة الثالوث - الامر الاخر هو layout بتاع سلسلة الثالوث وترقيم الفقرات مش موحد مع باقي المدونه هل يمكن تغييره بسهوله؟
+----------------------------------------
+Step 2860:
+ليس من الضروري ان يكون الايدنتفاير يعبر عن محتوى السلسلة - تجتب الميزان ممكن يوحي بامور لا اريدها- 📍 التاعه دي منرفزاني ومش حببها. ممكن تستخدم  (١، ٢، ٣) - لسه بنتناقش
+----------------------------------------
+Step 2864:
+الهوامش ارقامها انفرنجية وباقي الارقام عربية لنوحد الارقام كما اتفقنا سابقا إلا اذا كانت في نص افرنجي. ليس لدي مانع من نتفيذ فكرتك البساطه حلوة
+----------------------------------------
+Step 2911:
+
+----------------------------------------
+Step 2959:
+تريد ان تظهر مقالات الثالوث بالترتيب
+----------------------------------------
+Step 2980:
+سنتبع هذا الترتيب في كل السلاسل
+----------------------------------------
+Step 2992:
+جمل لو فتحت فيسيوك في المتصفح المدمج هل يمكنك ان تقوم يالنشر Anti عني
+----------------------------------------
+Step 2995:
+ما افعله بالترتيب 1 انشر المقال على صفحة شاء فولدنا بكلمة الحق، بعد نقله من المدونه لاتخطى الماركداون 2 بين عنوان المقال والمقال اضع 📖 لأن التأمل في كلمة الله يحتاج إلى هدوء وتركيز؛ لقراءة مريحة للعين يمكنكم قراءة هذه الدراسة عبر المدونة (الرابط في أول تعليق 👇). ولمتابعة القراءة المباشرة هنا، إليكم نص المقال: 3 ارفق الانفوجراف 4 اشير على الجوبات التي بمكننى النشر مباشرة عليها 5 اضع لينك المدونه في التعليق الاول 6انسخ لنيك التشيير من الصفحة ثم اذهب لمدونتي واشاركة على مدونتي 7 اضع لينك المدونه في التعليق الاول 8 اشارك لينك البوست بتاع شاء فولدنا على جروبات انا مشترك فيها
+----------------------------------------
+Step 3001:
+
+----------------------------------------
+Step 3007:
+
+----------------------------------------
+Step 3010:
+قبل ما نعمل كدا خلينا في الاهم دلوقتي ممكن نخلي موضوع فيسبوك لبعدين. المقال 2 من الثالوث غير موجود ومازال هناك ايموجي
+----------------------------------------
+Step 3040:
+المقال الثامن لم يحدث بالكامل
+----------------------------------------
+Step 3075:
+استرجع المقال الثاني من البدلية كيف تنشره يهذا الشكل؟
+----------------------------------------
+Step 3111:
+~ ~هذه العلامات لك كما اتفقنا اضع فيها تعليقاتي وتصحيحاتي الظاهر انك نسيت. ارجوك لا نتشر المقال اسحبه من النشر
+----------------------------------------
+Step 3123:
+يا استاذ انتيجرافتي يا ايها الفتى الطائر مع انك اقراص صماء إلا أني لست سيدك وعلاماتي ليست مقدسة لكن متفق عليها. الان قم بالتعديلات وقرأه التعليقات ان وجدت التي بين ~ ~
+----------------------------------------
+Step 3133:
+
+----------------------------------------
+Step 3144:
+لا يا حبيبي. انت تعبان؟ جرالك ايه؟ انت مش انت اللي اعرفه. بجد مش بهزر فجاء ال iq نزل خالص.
+----------------------------------------
+Step 3165:
+الان انا متشكك. ارحوك لا تنشر قبل ان اقراء المقال مره اخيرة قبل النشر. ايضا  - المفروض "اقرأ أيضاً في سلسلة الكفارة البدلية:
+
+الكفارة البدلية (١): الفداء في العهد القديم.. من هو الولي؟" ياتي بعد الهوامش
+----------------------------------------
+Step 3183:
+المقال مازال موجود https://bichay-theo.github.io/bornbytheword-blog/penal-substitution-2-nt-lutron
+----------------------------------------
+Step 3228:
+ضع مسافة بين الاياتين لسهوله القرأه - الخطان البيض اجعلهم رمادي واترك مسافه  بين الخط الاخير وأقرأ ايضا...
+----------------------------------------
+Step 3240:
+هل حدثت المسودة للمقال الثاني في "C:\Users\Boaz\Desktop\WB_Blog_Drafts\penal-substitution"
+----------------------------------------
+Step 3246:
+أنت ازاي بتنسى وانت ابو الAI. قولي بصراحة هل الحوار هنا طول ولازم ننتقل لمناقشة جديده؟
+----------------------------------------
+Step 3250:
+لكي لا افقد روح العمل ولا ابداء من الصفر في المناقشة الجديدة ماذا افعل؟ هل اقول لك ارجع لمناقشة الكفارة واستخرج المعلومات أم ماذا؟
+----------------------------------------
+Step 3255:
+https://bichay-theo.github.io/bornbytheword-blog/test-footnote اليس من المفروض عندما تقوم باختبار تمحو صفحة الاختبار بعد التجربة
+----------------------------------------
+Step 3261:
+أعد ترتيب هذا الجزء كما فعلنا في المقال الاول للبدلية https://bichay-theo.github.io/bornbytheword-blog/creative-light-2-corinthians-4-6
+----------------------------------------
+Step 3273:
+اريد تغيير اسم المقال الي خالق النور
+----------------------------------------
+Step 3282:
+make a copy on the desktop of the implementation plan of the penal substitution the 10 article one
+----------------------------------------
+Step 3363:
+we had an implementation plan that has 10 articles - the one you copied to my desktop is only 3
+----------------------------------------
+Step 3382:
+اريدك ان تلخص الروح والفكر الذي علملنا به في هذه المحادثة الطويلة لنقلها لمحادثة جديدة
+----------------------------------------
+Step 3400:
+ما هو اسم هذه المحادثة التي نحن فيها
+----------------------------------------

@@ -30,8 +30,17 @@ interface MarkdownLayoutProps {
 
 import ImageZoom from './ImageZoom';
 import BackToTop from './BackToTop';
+import SocialShare from './SocialShare';
+import RelatedPosts from './RelatedPosts';
+import NewsletterForm from './NewsletterForm';
 
-export default function MarkdownLayout({ title, date, content, tocTitle = "محتويات المقال" }: MarkdownLayoutProps) {
+interface RelatedPost {
+  slug: string;
+  title: string;
+  published?: string;
+}
+
+export default function MarkdownLayout({ title, date, content, tocTitle = "محتويات المقال", relatedPosts }: MarkdownLayoutProps & { relatedPosts?: RelatedPost[] }) {
   const { processedHtml, toc } = processHtmlAndExtractTOC(content);
 
   return (
@@ -63,6 +72,20 @@ export default function MarkdownLayout({ title, date, content, tocTitle = "مح�
             dangerouslySetInnerHTML={{ __html: processedHtml }} 
           />
           
+          <div style={{ margin: '4rem 0 2rem 0' }}>
+            <SocialShare title={title} />
+          </div>
+
+          <div style={{ margin: '3rem 0' }}>
+            <NewsletterForm />
+          </div>
+
+          {relatedPosts && relatedPosts.length > 0 && (
+            <div style={{ margin: '3rem 0' }}>
+              <RelatedPosts posts={relatedPosts} />
+            </div>
+          )}
+
           <div style={{ textAlign: 'center', margin: '3rem 0', fontWeight: 'bold', display: 'flex', justifyContent: 'center', gap: '2rem' }}>
             <Link href="/" style={{ color: 'var(--primary)', textDecoration: 'none', fontSize: '1.1rem' }}>
               العودة للرئيسية 🏠

@@ -43,7 +43,8 @@ export default async function StaticPage({ params }: { params: Promise<{ slug: s
   return (
     <MarkdownLayout 
       content={page.content} 
-      tocTitle="محتويات الكتاب" 
+      tocTitle="محتويات الكتاب"
+      showToc={false}
     />
   );
 }

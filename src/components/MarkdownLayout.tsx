@@ -26,6 +26,7 @@ interface MarkdownLayoutProps {
   date?: string;
   content: string;
   tocTitle?: string;
+  showToc?: boolean;
 }
 
 import ImageZoom from './ImageZoom';
@@ -40,7 +41,7 @@ interface RelatedPost {
   published?: string;
 }
 
-export default function MarkdownLayout({ title, date, content, tocTitle = "محتويات المقال", relatedPosts }: MarkdownLayoutProps & { relatedPosts?: RelatedPost[] }) {
+export default function MarkdownLayout({ title, date, content, tocTitle = "محتويات المقال", showToc = true, relatedPosts }: MarkdownLayoutProps & { relatedPosts?: RelatedPost[] }) {
   const { processedHtml, toc } = processHtmlAndExtractTOC(content);
 
   return (
@@ -67,7 +68,7 @@ export default function MarkdownLayout({ title, date, content, tocTitle = "مح�
             </header>
           )}
 
-          {toc.length > 0 && (
+          {showToc && toc.length > 0 && (
             <aside id="toc" style={{ width: 'fit-content', minWidth: '300px', maxWidth: '100%', marginBottom: '2.5rem', background: 'var(--card-bg)', padding: '1.5rem', borderRadius: '8px', border: '1px solid var(--secondary)' }} className="toc-inline">
               <h3 style={{ marginBottom: '1rem', color: 'var(--primary)', borderBottom: '1px solid var(--secondary)', paddingBottom: '0.5rem' }}>
                 {tocTitle}

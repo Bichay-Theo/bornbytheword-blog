@@ -18,7 +18,16 @@ function processHtmlAndExtractTOC(html: string) {
   // Fix image paths for GitHub Pages subpath
   processedHtml = processedHtml.replace(/<img\s+([^>]*?)src="(\/[^"]+)"/gi, '<img $1src="/bornbytheword-blog$2"');
 
-  return { processedHtml, toc };
+  const firstH2Match = processedHtml.match(/<h2[^>]*id="heading-/i);
+  let htmlBeforeFirstH2 = processedHtml;
+  let htmlAfterFirstH2 = '';
+  
+  if (firstH2Match && firstH2Match.index !== undefined) {
+    htmlBeforeFirstH2 = processedHtml.substring(0, firstH2Match.index);
+    htmlAfterFirstH2 = processedHtml.substring(firstH2Match.index);
+  }
+
+  return { processedHtml, htmlBeforeFirstH2, htmlAfterFirstH2, toc };
 }
 
 interface MarkdownLayoutProps {
@@ -42,7 +51,7 @@ interface RelatedPost {
 }
 
 export default function MarkdownLayout({ title, date, content, tocTitle = "محتويات المقال", showToc = true, relatedPosts }: MarkdownLayoutProps & { relatedPosts?: RelatedPost[] }) {
-  const { processedHtml, toc } = processHtmlAndExtractTOC(content);
+  const { processedHtml, htmlBeforeFirstH2, htmlAfterFirstH2, toc } = processHtmlAndExtractTOC(content);
 
   return (
     <div style={{ display: 'flex', gap: '3rem', alignItems: 'flex-start' }}>
@@ -68,23 +77,31 @@ export default function MarkdownLayout({ title, date, content, tocTitle = "مح�
             </header>
           )}
 
+          {htmlBeforeFirstH2 && (
+            <div 
+              className="post-html"
+              dangerouslySetInnerHTML={{ __html: htmlBeforeFirstH2 }} 
+            />
+          )}
+
           {showToc && toc.length > 0 && (
-            <aside id="toc" style={{ width: 'fit-content', minWidth: '300px', maxWidth: '100%', marginBottom: '2.5rem', background: 'var(--card-bg)', padding: '1.5rem', borderRadius: '8px', border: '1px solid var(--secondary)' }} className="toc-inline">
-              <h3 style={{ marginBottom: '1rem', color: 'var(--primary)', borderBottom: '1px solid var(--secondary)', paddingBottom: '0.5rem' }}>
+            <aside id="toc" style={{ width: 'fit-content', minWidth: '250px', maxWidth: '100%', marginBottom: '2.5rem', background: 'var(--card-bg)', padding: '1.2rem', borderRadius: '8px', border: '1px solid var(--secondary)' }} className="toc-inline">
+              <h3 style={{ fontSize: '1.2rem', marginBottom: '0.75rem', color: 'var(--primary)', borderBottom: '1px solid var(--secondary)', paddingBottom: '0.5rem' }}>
                 {tocTitle}
               </h3>
               <ul style={{ listStyle: 'none', margin: 0, padding: 0 }}>
                 {toc.map(item => {
                   const isChapter = item.level === 2 && item.text.replace(/[\u0617-\u061A\u064B-\u0652]/g, '').includes('فصل');
                   return (
-                    <li key={item.id} style={{ marginBottom: '0.5rem', paddingRight: item.level === 3 ? '1.5rem' : '0' }}>
+                    <li key={item.id} style={{ marginBottom: '0.4rem', paddingRight: item.level === 3 ? '1rem' : '0' }}>
                       <a 
                         href={`#${item.id}`} 
                         className="toc-link" 
                         style={{ 
                           color: isChapter ? 'var(--primary)' : 'inherit', 
                           fontWeight: isChapter ? 'bold' : 'normal',
-                          display: 'block'
+                          display: 'block',
+                          fontSize: item.level === 3 ? '0.9rem' : '0.95rem'
                         }}
                       >
                         {item.text}
@@ -95,11 +112,13 @@ export default function MarkdownLayout({ title, date, content, tocTitle = "مح�
               </ul>
             </aside>
           )}
-          
-          <div 
-            className="post-html"
-            dangerouslySetInnerHTML={{ __html: processedHtml }} 
-          />
+
+          {htmlAfterFirstH2 && (
+            <div 
+              className="post-html"
+              dangerouslySetInnerHTML={{ __html: htmlAfterFirstH2 }} 
+            />
+          )}
           
           <div style={{ clear: 'both' }}></div>
 

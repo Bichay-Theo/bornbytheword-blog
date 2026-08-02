@@ -2,7 +2,7 @@
 title: "قوة الإنجيل والديناميت!"
 date: "2026-01-23T20:16:00.000-08:00"
 updated: "2026-02-18T16:36:34.494-08:00"
-slug: "blog-post_23"
+slug: "power-of-gospel-dynamis"
 labels: ["مغالطات تفسيرية"]
 ---
 

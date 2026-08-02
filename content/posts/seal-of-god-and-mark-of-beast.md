@@ -2,7 +2,7 @@
 title: "ختم الله وسمة الوحش"
 date: "2026-02-01T14:22:00.000-08:00"
 updated: "2026-02-18T16:32:23.367-08:00"
-slug: "blog-post_1"
+slug: "seal-of-god-and-mark-of-beast"
 labels: []
 ---
 

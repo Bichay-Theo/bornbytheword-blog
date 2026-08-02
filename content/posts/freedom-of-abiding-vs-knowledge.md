@@ -2,7 +2,7 @@
 title: "حرية الثبات أم حرية المعرفة؟"
 date: "2026-01-25T18:39:00.000-08:00"
 updated: "2026-02-18T16:34:13.615-08:00"
-slug: "blog-post_50"
+slug: "freedom-of-abiding-vs-knowledge"
 labels: ["مغالطات تفسيرية"]
 ---
 

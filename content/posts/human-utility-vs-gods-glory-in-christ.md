@@ -2,7 +2,7 @@
 title: "بين نفعية الإنسان ومجد الله في المسيح"
 date: "2026-01-25T14:42:10.030-08:00"
 updated: "2026-02-18T16:34:59.630-08:00"
-slug: "blog-post_523"
+slug: "human-utility-vs-gods-glory-in-christ"
 labels: ["دراسات"]
 ---
 

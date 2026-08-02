@@ -2,7 +2,7 @@
 title: " الفشل الإنساني وكفاية العهد الجديد"
 date: "2026-01-25T18:51:00.000-08:00"
 updated: "2026-02-18T16:33:24.938-08:00"
-slug: "blog-post_11"
+slug: "human-failure-and-new-covenant-sufficiency"
 labels: ["دراسات"]
 ---
 

@@ -2,7 +2,7 @@
 title: "التوافق بين كلمة الله المكتوبة والكلمة المتجسد"
 date: "2026-01-25T14:42:05.007-08:00"
 updated: "2026-02-18T16:35:19.616-08:00"
-slug: "blog-post_25"
+slug: "harmony-between-written-and-incarnate-word"
 labels: ["دراسات"]
 ---
 

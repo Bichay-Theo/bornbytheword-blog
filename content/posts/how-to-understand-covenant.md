@@ -2,7 +2,7 @@
 title: "كيف نفهم \"العهد\""
 date: "2026-01-25T18:49:00.000-08:00"
 updated: "2026-02-18T16:33:46.309-08:00"
-slug: "blog-post_20"
+slug: "how-to-understand-covenant"
 labels: ["دراسات"]
 ---
 

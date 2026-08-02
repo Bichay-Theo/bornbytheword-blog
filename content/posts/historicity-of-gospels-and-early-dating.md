@@ -2,7 +2,7 @@
 title: "تاريخية الأناجيل وبرهان التدوين المبكر"
 date: "2026-03-15T19:29:00.000-07:00"
 updated: "2026-03-15T19:36:14.468-07:00"
-slug: "blog-post_15"
+slug: "historicity-of-gospels-and-early-dating"
 labels: ["دراسات"]
 ---
 

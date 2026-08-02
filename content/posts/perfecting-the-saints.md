@@ -2,7 +2,7 @@
 title: "في تكميل المقدسين"
 date: "2026-01-25T18:53:00.000-08:00"
 updated: "2026-02-18T16:33:12.571-08:00"
-slug: "blog-post_10"
+slug: "perfecting-the-saints"
 labels: ["دراسات"]
 ---
 

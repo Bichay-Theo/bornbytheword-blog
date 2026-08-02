@@ -2,7 +2,7 @@
 title: "مغالطة «أداة التعريف»"
 date: "2026-01-23T21:35:00.000-08:00"
 updated: "2026-02-18T16:35:32.598-08:00"
-slug: "blog-post_98"
+slug: "definite-article-fallacy"
 labels: ["مغالطات تفسيرية"]
 ---
 

@@ -2,7 +2,7 @@
 title: "ضلالة الاكتفاء بالوثيقة عن صاحب العهد"
 date: "2026-01-25T18:56:00.000-08:00"
 updated: "2026-02-18T16:32:56.840-08:00"
-slug: "blog-post_38"
+slug: "document-vs-author-covenant-error"
 labels: ["دراسات"]
 ---
 

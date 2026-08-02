@@ -2,7 +2,7 @@
 title: "أغابي وفيليو"
 date: "2026-01-23T19:44:00.000-08:00"
 updated: "2026-02-18T16:36:45.232-08:00"
-slug: "blog-post"
+slug: "agape-and-phileo"
 labels: ["مغالطات تفسيرية"]
 ---
 

@@ -2,7 +2,7 @@
 title: "يسوع الكرمة الحقيقية"
 date: "2026-01-25T18:46:00.000-08:00"
 updated: "2026-02-18T16:34:01.159-08:00"
-slug: "blog-post_18"
+slug: "jesus-the-true-vine"
 labels: ["دراسات"]
 ---
 

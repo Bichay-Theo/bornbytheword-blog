@@ -2,7 +2,7 @@
 title: "تفتيت النص الكتابي"
 date: "2026-03-14T21:42:00.000-07:00"
 updated: "2026-03-14T21:42:55.692-07:00"
-slug: "blog-post_14"
+slug: "fragmenting-the-biblical-text"
 labels: ["دراسات"]
 ---
 

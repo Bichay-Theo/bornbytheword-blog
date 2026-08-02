@@ -337,29 +337,17 @@ p {
 
 
 .chapter-divider {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 2rem 0;
+  height: 1px;
+  background-color: var(--secondary);
+  border: none;
+  margin: 3rem auto;
+  max-width: 400px;
   opacity: 0.8;
 }
 .chapter-divider::before,
-.chapter-divider::after {
-  content: '';
-  flex-grow: 1;
-  max-width: 200px;
-  height: 2px;
-  background-color: var(--secondary);
-}
-.chapter-divider::before {
-  margin-left: 1.5rem;
-}
-.chapter-divider::after {
-  margin-right: 1.5rem;
-}
+.chapter-divider::after,
 .chapter-divider span {
-  font-size: 2rem;
-  color: var(--accent-color);
+  display: none;
 }
 
 /* Social Share */

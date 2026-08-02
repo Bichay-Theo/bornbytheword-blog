@@ -4,7 +4,7 @@ slug: "seeing-and-savoring-jesus"
 date: "2026-07-08T22:09:51.801Z"
 ---
 
-<div id="intro"><div style="text-align: center; margin: 4rem 0;"><h1 style="color: var(--primary); margin-bottom: 0.5rem; font-size: 2.5em;">رؤية يسوع المسيح والتمتع به</h1><p style="font-size: 1.2em; color: var(--secondary); font-weight: bold;">بقلم القس جون بايبر <span style="font-size: 0.8em; font-family: monospace;">Pastor John Piper</span></p></div></div>
+<div id="intro"><div style="text-align: center; margin: 4rem 0;"><h1 style="color: var(--primary); margin-bottom: 0.5rem; font-size: 2.5em;">رؤية يسوع المسيح والتمتع به</h1><p style="font-size: 1.2em; color: var(--foreground); font-weight: bold;">بقلم القس جون بايبر <span style="font-size: 0.8em; font-family: monospace;">Pastor John Piper</span></p></div></div>
 
 <div id="toc" style="margin-bottom: 3rem;">
 <h2 style="color: var(--primary); margin-bottom: 1.5rem; text-align: center;">الفهرس</h2>

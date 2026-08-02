@@ -10,8 +10,8 @@ date: "2026-07-08T22:09:51.761Z"
 <div class="chapter-divider"><span>✥</span></div>
 </div>
 
-<div id="toc" style="background: var(--card-bg); padding: 2rem; border-radius: 8px; border: 1px solid var(--secondary); margin-bottom: 3rem;">
-<h2 style="color: var(--primary-color); margin-bottom: 1.5rem; text-align: center;">الفهرس</h2>
+<div id="toc" style="margin-bottom: 3rem;">
+<h2 style="color: var(--primary); margin-bottom: 1.5rem; text-align: center;">الفهرس</h2>
 <ul style="list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
   <li style="margin-bottom: 0.8rem;"><a href="#intro" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">مُقَدِّمَةٌ</a></li>
   <li style="margin-bottom: 0.8rem;"><a href="#ch1" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الأَوَّلُ</a></li>

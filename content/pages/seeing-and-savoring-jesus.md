@@ -4,10 +4,10 @@ slug: "seeing-and-savoring-jesus"
 date: "2026-07-08T22:09:51.801Z"
 ---
 
-<div id="intro"><div style="text-align: center; margin: 4rem 0;"><h1 style="color: var(--primary-color); margin-bottom: 0.5rem; font-size: 2.5em;">رؤية يسوع المسيح والتمتع به</h1><p style="font-size: 1.2em; color: var(--secondary-color); font-weight: bold;">بقلم القس جون بايبر <span style="font-size: 0.8em; font-family: monospace;">Pastor John Piper</span></p></div></div>
+<div id="intro"><div style="text-align: center; margin: 4rem 0;"><h1 style="color: var(--primary); margin-bottom: 0.5rem; font-size: 2.5em;">رؤية يسوع المسيح والتمتع به</h1><p style="font-size: 1.2em; color: var(--secondary); font-weight: bold;">بقلم القس جون بايبر <span style="font-size: 0.8em; font-family: monospace;">Pastor John Piper</span></p></div></div>
 
-<div id="toc" style="background: var(--card-bg); padding: 2rem; border-radius: 8px; border: 1px solid var(--secondary); margin-bottom: 3rem;">
-<h2 style="color: var(--primary-color); margin-bottom: 1.5rem; text-align: center;">الفهرس</h2>
+<div id="toc" style="margin-bottom: 3rem;">
+<h2 style="color: var(--primary); margin-bottom: 1.5rem; text-align: center;">الفهرس</h2>
 <ul style="list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
   <li style="margin-bottom: 0.8rem;"><a href="#intro" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">كَلِمَةٌ إِلَى الْقَارِئِ</a></li>
   <li style="margin-bottom: 0.8rem;"><a href="#ch1" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الأَوَّلُ</a></li>
@@ -67,5 +67,5 @@ date: "2026-07-08T22:09:51.801Z"
 <p id="fn-5" style="margin-bottom: 1rem; border-top: 1px solid var(--secondary); padding-top: 1rem;"><a href="#ref-5" style="font-weight: bold; color: var(--primary); text-decoration: none;">[5] ↩</a> انظر الهامش رقم ٣.</p>
 </div></div>
 <div class="chapter-divider"><span>✥</span></div>
-<div id="dg"><div style="text-align: center; border: 2px solid var(--accent-color); padding: 50px;"><h2 style="color: var(--primary-color);">Desiring God</h2><p>الجميع يريد أن يكون سعيدًا. وُلد موقعنا الإلكتروني وبُني من أجل السعادة. نريد أن يفهم الناس في كل مكان ويقبلوا حقيقة أن الله يتمجد فينا أكثر عندما نتمتع به أكثر. لقد جمعنا أكثر من ثلاثين عامًا من عظات جون بايبر، بما في ذلك ترجمات إلى أكثر من أربعين لغة. كما نقدم تدفقًا يوميًا من الموارد المكتوبة والصوتية والمرئية الجديدة لمساعدتك في العثور على الحقيقة والغرض والرضا الذي لا ينتهي. وكل ذلك متاح مجانًا، بفضل كرم الأشخاص الذين تباركوا بهذه الخدمة.</p><p>إذا كنت ترغب في المزيد من الموارد للسعادة الحقيقية، أو إذا أردت معرفة المزيد عن عملنا في "Desiring God" ، ندعوك لزيارة موقعنا على:</p><a href="https://www.desiringGod.org" target="_blank" style="color: var(--primary-color); font-weight: bold; font-size: 1.4em;">www.desiringGod.org</a></div>
+<div id="dg"><div style="text-align: center; border: 2px solid var(--accent-color); padding: 50px;"><h2 style="color: var(--primary);">Desiring God</h2><p>الجميع يريد أن يكون سعيدًا. وُلد موقعنا الإلكتروني وبُني من أجل السعادة. نريد أن يفهم الناس في كل مكان ويقبلوا حقيقة أن الله يتمجد فينا أكثر عندما نتمتع به أكثر. لقد جمعنا أكثر من ثلاثين عامًا من عظات جون بايبر، بما في ذلك ترجمات إلى أكثر من أربعين لغة. كما نقدم تدفقًا يوميًا من الموارد المكتوبة والصوتية والمرئية الجديدة لمساعدتك في العثور على الحقيقة والغرض والرضا الذي لا ينتهي. وكل ذلك متاح مجانًا، بفضل كرم الأشخاص الذين تباركوا بهذه الخدمة.</p><p>إذا كنت ترغب في المزيد من الموارد للسعادة الحقيقية، أو إذا أردت معرفة المزيد عن عملنا في "Desiring God" ، ندعوك لزيارة موقعنا على:</p><a href="https://www.desiringGod.org" target="_blank" style="color: var(--primary); font-weight: bold; font-size: 1.4em;">www.desiringGod.org</a></div>
 </div>

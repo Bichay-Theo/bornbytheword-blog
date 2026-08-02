@@ -7,11 +7,11 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 ---
 
 <div class="chapter-divider"><span>✥</span></div>
-<div id="intro"><div style="text-align: center; margin: 4rem 0;"><h1 style="color: var(--primary-color); margin-bottom: 0.5rem; font-size: 2.5em;">تعال أيها الرب يسوع</h1><p style="font-size: 1.2em; color: var(--secondary-color); font-weight: bold;">بقلم<br><span style="font-size: 1.5em; color: white;">القس جون بايبر</span><br><span style="font-size: 0.8em; font-family: monospace;">Pastor John Piper</span></p></div></div>
+<div id="intro"><div style="text-align: center; margin: 4rem 0;"><h1 style="color: var(--primary-color); margin-bottom: 0.5rem; font-size: 2.5em;">تعال أيها الرب يسوع</h1><p style="font-size: 1.2em; color: var(--secondary-color); font-weight: bold;">بقلم القس جون بايبر <span style="font-size: 0.8em; font-family: monospace;">Pastor John Piper</span></p></div></div>
 
 <div id="toc" style="background: var(--card-bg); padding: 2rem; border-radius: 8px; border: 1px solid var(--secondary); margin-bottom: 3rem;">
 <h2 style="color: var(--primary-color); margin-bottom: 1.5rem; text-align: center;">الفهرس</h2>
-<ul style="list-style: none; padding: 0;">
+<ul style="list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
   <li style="margin-bottom: 0.8rem;"><a href="#ch1" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الأَوَّلُ</a></li>
   <li style="margin-bottom: 0.8rem;"><a href="#ch2" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّانِي</a></li>
   <li style="margin-bottom: 0.8rem;"><a href="#ch3" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّالِثُ</a></li>
@@ -39,7 +39,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch1">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الأَوَّلُ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizqxQOHRH-92wvVLfvzETwSgYnzRt8nICbZaCJlCrUMeZ0spZ_7pcGSp6g0MqGcbLgTAWu0IHPGCvvhW_9HuJEzixpqWj6R7GqdTavWYh6niNObJfOWlCPy8hzUNC_LxCnDttwnHw8WTS_DTuZjtxnK9Vg2LexqDDSHbxZpJgIfqqaB1H0CzfcNdp4NR8/s0/unnamed%20%281%29.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizqxQOHRH-92wvVLfvzETwSgYnzRt8nICbZaCJlCrUMeZ0spZ_7pcGSp6g0MqGcbLgTAWu0IHPGCvvhW_9HuJEzixpqWj6R7GqdTavWYh6niNObJfOWlCPy8hzUNC_LxCnDttwnHw8WTS_DTuZjtxnK9Vg2LexqDDSHbxZpJgIfqqaB1H0CzfcNdp4NR8/s0/unnamed%20%281%29.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -165,7 +164,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch2">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّانِي</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR_q5k851J7L8ZnFPG-gnvPX5ODwgZVSv0BgrQjy4GlxKQOgS5-7S-ap7_3qONJklVZ6G1WFzXgdi7wrc1HY3n-rBrA6ZrV_60t76_XPPUBs5Vao5dd9kpHbuRDZi3W5GN1SXleRv8MERCnT2I638VJerBAI-asPZrDKeWWKRujPNkI9f5VDNzdxsO4lE/s0/unnamed%20%2825%29.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR_q5k851J7L8ZnFPG-gnvPX5ODwgZVSv0BgrQjy4GlxKQOgS5-7S-ap7_3qONJklVZ6G1WFzXgdi7wrc1HY3n-rBrA6ZrV_60t76_XPPUBs5Vao5dd9kpHbuRDZi3W5GN1SXleRv8MERCnT2I638VJerBAI-asPZrDKeWWKRujPNkI9f5VDNzdxsO4lE/s0/unnamed%20%2825%29.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -276,7 +274,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch3">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّالِثُ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpomTzJpst66WIMPQsE8h-MAYTPGKGQfDsv371y6fBgzArBrejQZbiS0RWOakmFa12asoHu2kan3vIxJyuA_QOfgKz_F9mmmO6tpDFs8fakQXuGsPeoOBED2NgVyRJQ30tmZ2T-n_96GthLl0NUkg79VgNSldiJathrEFLsuWqI_aupC9U7k57h0dpM40/s0/%D8%AC%D9%88%D9%87%D8%B1_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D9%85%D8%AC%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpomTzJpst66WIMPQsE8h-MAYTPGKGQfDsv371y6fBgzArBrejQZbiS0RWOakmFa12asoHu2kan3vIxJyuA_QOfgKz_F9mmmO6tpDFs8fakQXuGsPeoOBED2NgVyRJQ30tmZ2T-n_96GthLl0NUkg79VgNSldiJathrEFLsuWqI_aupC9U7k57h0dpM40/s0/%D8%AC%D9%88%D9%87%D8%B1_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D9%85%D8%AC%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -391,7 +388,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch4">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الرَّابِعُ</h2>
 
 اختبار مجد المسيح ببهجة الاندهاش  
@@ -506,7 +502,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch5">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْخَامِسُ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9y0az-iBd5ujtD17MpaeiXGrTDHWDAwWdcWLvsiNKBe58xVUJa_tAnyXkX58LTpWlhZotWFlziKvRrWbQH-WVQ15yZYwIP_7zSxLh_IrCBzwfYYM8Iz7iw7iNDC2RLTXEEQ8GxUV-VI87Cb8HFT4Gr-GtcN6_K2gxx6ShIlSjEi9kG6ZAKZL_mMCBkvA/s0/%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A9_%D8%B9%D9%86%D8%AF_%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%86_%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%20%281%29.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9y0az-iBd5ujtD17MpaeiXGrTDHWDAwWdcWLvsiNKBe58xVUJa_tAnyXkX58LTpWlhZotWFlziKvRrWbQH-WVQ15yZYwIP_7zSxLh_IrCBzwfYYM8Iz7iw7iNDC2RLTXEEQ8GxUV-VI87Cb8HFT4Gr-GtcN6_K2gxx6ShIlSjEi9kG6ZAKZL_mMCBkvA/s0/%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A9_%D8%B9%D9%86%D8%AF_%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%86_%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%20%281%29.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -637,7 +632,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch6">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ السَّادِسُ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI9Xk1d_vhNwG7TA4GaI8SriaMfan25rP6UngZEgmDRPj8vZDR7l7GC75pBly12G51yMJMlLtQ_73_cNV_eT6e2ZvRTrMjc3MKluh8dsWbpTd0JuWNtcxvWKNTt6WWmuACXNY7CdigmstRYWqC_tpjN9PuudPDGu3l1UOMGo4TNWRdY60VaBQEh45b2Zc/s0/%D8%A8%D9%84%D8%A7_%D9%84%D9%88%D9%85_%D8%B9%D9%86%D8%AF_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI9Xk1d_vhNwG7TA4GaI8SriaMfan25rP6UngZEgmDRPj8vZDR7l7GC75pBly12G51yMJMlLtQ_73_cNV_eT6e2ZvRTrMjc3MKluh8dsWbpTd0JuWNtcxvWKNTt6WWmuACXNY7CdigmstRYWqC_tpjN9PuudPDGu3l1UOMGo4TNWRdY60VaBQEh45b2Zc/s0/%D8%A8%D9%84%D8%A7_%D9%84%D9%88%D9%85_%D8%B9%D9%86%D8%AF_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -818,7 +812,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch7">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ السَّابِعُ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7V8l03QMct4U_r5kDS-xsc4fJjK9lcpa9667ALZXqMipbQ7kAE-tn2WOO0Bv2c9BkAsg-FizkNXRbEVf7z7X_YdMGi1bKcuYyvMph2-u5jSjELhmP0hRs7eOl_Pz1Fe-K9uQfbp3qvvRBYOSELt2XbC_tci_6c1YXqS1ITvhpbHiKMcI67mSn38NCgNw/s0/%D8%AA%D9%85%D8%AC%D9%8A%D8%AF_%D9%83%D8%A7%D9%85%D9%84__%D8%B9%D9%82%D9%84%D8%A7%D9%8B_%D9%88%D9%82%D9%84%D8%A8%D9%8B%D8%A7_%D9%88%D8%AC%D8%B3%D8%AF%D9%8B%D8%A7.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7V8l03QMct4U_r5kDS-xsc4fJjK9lcpa9667ALZXqMipbQ7kAE-tn2WOO0Bv2c9BkAsg-FizkNXRbEVf7z7X_YdMGi1bKcuYyvMph2-u5jSjELhmP0hRs7eOl_Pz1Fe-K9uQfbp3qvvRBYOSELt2XbC_tci_6c1YXqS1ITvhpbHiKMcI67mSn38NCgNw/s0/%D8%AA%D9%85%D8%AC%D9%8A%D8%AF_%D9%83%D8%A7%D9%85%D9%84__%D8%B9%D9%82%D9%84%D8%A7%D9%8B_%D9%88%D9%82%D9%84%D8%A8%D9%8B%D8%A7_%D9%88%D8%AC%D8%B3%D8%AF%D9%8B%D8%A7.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -995,7 +988,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch8">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّامِنُ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVTIdVsddJpBOVnr9nvS_-8tSfp0cQSkQ4ovFVhhYtJoL8o55he44Pnc4dxrm9yccIvul5wvEqHrq0yn__FnbZ3XLneWYmGT8d5Kw60aOJH9Z2CRLnSDIxKfXNMkuIXEuU_8fzMU4sHPjEGvQ30vyVjisrPJ5X6IkuTmr5hqzQf0BPhTbIfPgWyS5w0Yw/s0/%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD__%D8%A7%D9%84%D8%AF%D9%8A%D8%A7%D9%86_%D9%88%D8%A7%D9%84%D9%85%D9%86%D9%82%D8%B0.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVTIdVsddJpBOVnr9nvS_-8tSfp0cQSkQ4ovFVhhYtJoL8o55he44Pnc4dxrm9yccIvul5wvEqHrq0yn__FnbZ3XLneWYmGT8d5Kw60aOJH9Z2CRLnSDIxKfXNMkuIXEuU_8fzMU4sHPjEGvQ30vyVjisrPJ5X6IkuTmr5hqzQf0BPhTbIfPgWyS5w0Yw/s0/%D9%8A%D8%B3%D9%88%D8%B9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD__%D8%A7%D9%84%D8%AF%D9%8A%D8%A7%D9%86_%D9%88%D8%A7%D9%84%D9%85%D9%86%D9%82%D8%B0.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -1146,7 +1138,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch9">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ التَّاسِعُ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifFKwNR6QQC3bKFiAKqeufafEjU6RWjVcJi2tlKtkOvAnJlDCaa7h0i0mxhH-WWjvnlTVFTEJ4ePjnfiX-4w0gIW8yVnLbWo8aGtdZwAn8iBExICiqtdaJnkZjqBXptoOCjnng_T8OlHS3fTiyVcoNErE9Zv_UXUsEf8MhLGHu6w7rYO8ZfTRa0Gb4UGw/s0/%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%A7%D9%84%D9%85%D8%B2%D8%AF%D9%88%D8%AC__%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%85_%D9%88%D8%A7%D9%84%D8%B1%D8%A7%D8%AD%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifFKwNR6QQC3bKFiAKqeufafEjU6RWjVcJi2tlKtkOvAnJlDCaa7h0i0mxhH-WWjvnlTVFTEJ4ePjnfiX-4w0gIW8yVnLbWo8aGtdZwAn8iBExICiqtdaJnkZjqBXptoOCjnng_T8OlHS3fTiyVcoNErE9Zv_UXUsEf8MhLGHu6w7rYO8ZfTRa0Gb4UGw/s0/%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%A7%D9%84%D9%85%D8%B2%D8%AF%D9%88%D8%AC__%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%85_%D9%88%D8%A7%D9%84%D8%B1%D8%A7%D8%AD%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -1311,7 +1302,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch10">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْعَاشِرُ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qgqo4eaBj1bA2LXCpQyjQVkVl8ZYV-MJMCjf1Oja9HgEiqC3ltiOpRQiCD3GOODn0fcBMeCZ8yAEACnZpBgIbO9PazTE5viMVYBz1MDNFCqOmVhGHa71VxDdrEuStmPurK3Y0nbvfde-0XHAr0yYgJyPtWg_x5RjMchfn6eUaxyJFYlo6MSmDzaJcTM/s0/%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%88%D9%86%D8%A9_%D9%88%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A3%D8%A9_%D9%88%D9%81%D9%87%D9%85_%D8%AF%D9%88%D8%B1_%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qgqo4eaBj1bA2LXCpQyjQVkVl8ZYV-MJMCjf1Oja9HgEiqC3ltiOpRQiCD3GOODn0fcBMeCZ8yAEACnZpBgIbO9PazTE5viMVYBz1MDNFCqOmVhGHa71VxDdrEuStmPurK3Y0nbvfde-0XHAr0yYgJyPtWg_x5RjMchfn6eUaxyJFYlo6MSmDzaJcTM/s0/%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%88%D9%86%D8%A9_%D9%88%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A3%D8%A9_%D9%88%D9%81%D9%87%D9%85_%D8%AF%D9%88%D8%B1_%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -1470,7 +1460,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch11">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْحَادِي عَشَرَ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9EKIqRbprr115ozmW912w3FfgXOQ0aT5OSAks49g7N1oIPChMim0RLhLPRWCpKc1UFKO_RHJ5fuLtHznATuoM1o9UZOPzULidTvR7dQregGyWHEZQGWZs0MNq97O_oxbzWRuk61mvaRl8XLs9J9cwGCwFzaZqTUzyrgIM46ITzPptO17l1PjrxtQ5GZs/s0/%D8%A3%D9%81%D8%B1%D8%A7%D8%AD_%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A2%D8%AA_%D8%B9%D9%86%D8%AF_%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9EKIqRbprr115ozmW912w3FfgXOQ0aT5OSAks49g7N1oIPChMim0RLhLPRWCpKc1UFKO_RHJ5fuLtHznATuoM1o9UZOPzULidTvR7dQregGyWHEZQGWZs0MNq97O_oxbzWRuk61mvaRl8XLs9J9cwGCwFzaZqTUzyrgIM46ITzPptO17l1PjrxtQ5GZs/s0/%D8%A3%D9%81%D8%B1%D8%A7%D8%AD_%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A2%D8%AA_%D8%B9%D9%86%D8%AF_%D8%B8%D9%87%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -1577,7 +1566,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch12">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّانِي عَشَرَ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzDtpyptfaHSD1rWYBlDvPyKO_MTMJD9NbRMwOJYRvLAP-_9RCWsSUDjxZMw63PycVMR0kQ-W-pLmKHLtf-e6rITtYEySwdWiGkBTkBJRacvHO7Dj4qQt98mRwG5xO0-WFvzeveBaOWgGvhuK5UuP1-9DXzak4SUVHWll32dyr-bEzF0lj2Gx0Rjt_u0/s0/%D8%A7%D9%84%D9%81%D8%B1%D8%AD_%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A_%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9_%D9%85%D8%B9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzDtpyptfaHSD1rWYBlDvPyKO_MTMJD9NbRMwOJYRvLAP-_9RCWsSUDjxZMw63PycVMR0kQ-W-pLmKHLtf-e6rITtYEySwdWiGkBTkBJRacvHO7Dj4qQt98mRwG5xO0-WFvzeveBaOWgGvhuK5UuP1-9DXzak4SUVHWll32dyr-bEzF0lj2Gx0Rjt_u0/s0/%D8%A7%D9%84%D9%81%D8%B1%D8%AD_%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A_%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9_%D9%85%D8%B9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -1732,7 +1720,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch13">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّالِثَ عَشَرَ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6TCFCpo-qHKeQ18hM8h4XdKSiPfvrxgLhyouxCTIIA8KzTLhgfptYF6GQVch9tgCaLN9sxpi-lnx5miIv51Vps8P8IO7a_pcQJN2aDN7EQhxbTYGfrLAuYu6Rg-vqAnoDKFAmCGHgb6QZCac9lV6BtVSvue93rpIqcDHHi60BA-qbz3tCzpwwCIjeYoQ/s0/%D9%85%D8%AA%D9%89_%D9%8A%D8%B9%D9%88%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D8%B1_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6TCFCpo-qHKeQ18hM8h4XdKSiPfvrxgLhyouxCTIIA8KzTLhgfptYF6GQVch9tgCaLN9sxpi-lnx5miIv51Vps8P8IO7a_pcQJN2aDN7EQhxbTYGfrLAuYu6Rg-vqAnoDKFAmCGHgb6QZCac9lV6BtVSvue93rpIqcDHHi60BA-qbz3tCzpwwCIjeYoQ/s0/%D9%85%D8%AA%D9%89_%D9%8A%D8%B9%D9%88%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D8%B1_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -1881,7 +1868,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch14">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الرَّابِعَ عَشَرَ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-2RAHvbW5c8Wmn8r44gLvDcbyldH2FyAWXnMALespwCDax6meibhphpoNGR-7siqMoh4dZ7qkEuhdYDnJ9YsbPXdhsP7e4aLVEpvIpHY0mdwAh2zjwrt5jLKWnDdt6McUlQibjbU-Cdz_71Cz5DO8osRT1Xgc4QhmkH1pFDB69QxkJL_K5wwa-PR4F2c/s0/%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF_%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9_%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%B3%D8%B1%D9%8A%D8%B9%D8%A7%D9%8B.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-2RAHvbW5c8Wmn8r44gLvDcbyldH2FyAWXnMALespwCDax6meibhphpoNGR-7siqMoh4dZ7qkEuhdYDnJ9YsbPXdhsP7e4aLVEpvIpHY0mdwAh2zjwrt5jLKWnDdt6McUlQibjbU-Cdz_71Cz5DO8osRT1Xgc4QhmkH1pFDB69QxkJL_K5wwa-PR4F2c/s0/%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF_%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9_%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD_%D8%B3%D8%B1%D9%8A%D8%B9%D8%A7%D9%8B.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -2008,7 +1994,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch15">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْخَامِسَ عَشَرَ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipIRSFiao37CxGmBlT1MbelYH5QusR5DKFBZE6v0tb76KZCuqwDUvyZ3bwdTT6ImyrfwzCckY0RPg1sDZ5nwWjOmUjs9bb3KQ8J1OxN5mXanKm3SgMLYy6Zad2_MkATqM8WrXNsVgyq-vBqnG-xM8g282dNXEtGuFcqiRw30Bmb0raWiTbQYtPRPCbfiM/s0/%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A__%D8%AD%D8%AF%D8%AB_%D8%A3%D9%85_%D8%AD%D8%AF%D8%AB%D8%A7%D9%86%D8%9F.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipIRSFiao37CxGmBlT1MbelYH5QusR5DKFBZE6v0tb76KZCuqwDUvyZ3bwdTT6ImyrfwzCckY0RPg1sDZ5nwWjOmUjs9bb3KQ8J1OxN5mXanKm3SgMLYy6Zad2_MkATqM8WrXNsVgyq-vBqnG-xM8g282dNXEtGuFcqiRw30Bmb0raWiTbQYtPRPCbfiM/s0/%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A__%D8%AD%D8%AF%D8%AB_%D8%A3%D9%85_%D8%AD%D8%AF%D8%AB%D8%A7%D9%86%D8%9F.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -2155,7 +2140,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch16">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ السَّادِسَ عَشَرَ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWD8s1sDgLT2BJ8R0ftTGcflVdvMpFjbice_dqkU1XinQGuFDIBbgfww2ADVxSjHrFgAZzfeYKTQ8nje2FN7naknI3Gl2S5HDqanBRuTlYU7KHKq65fRfjSnKAuFuqD6ltoHrxaFFd_65GukBbYYvd6cvwTkk0othVPnhUvcHfUV81YnYPphrZnDu-AIA/s0/%D8%B1%D8%A4%D9%8A%D8%A9_%D9%85%D9%88%D8%AD%D8%AF%D8%A9_%D9%84%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWD8s1sDgLT2BJ8R0ftTGcflVdvMpFjbice_dqkU1XinQGuFDIBbgfww2ADVxSjHrFgAZzfeYKTQ8nje2FN7naknI3Gl2S5HDqanBRuTlYU7KHKq65fRfjSnKAuFuqD6ltoHrxaFFd_65GukBbYYvd6cvwTkk0othVPnhUvcHfUV81YnYPphrZnDu-AIA/s0/%D8%B1%D8%A4%D9%8A%D8%A9_%D9%85%D9%88%D8%AD%D8%AF%D8%A9_%D9%84%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -2416,7 +2400,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch17">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ السَّابِعَ عَشَرَ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2AIK-nYOaIq1fDoATS0HI3K9it0XL1GeWrsUISiTOVaAWlPRUsltmtjZfYIFzGV9ToiL7-LYQ_bXz5q0hTRF9QrGo_QVWmqr__asZgckQTbKA3jDVbvfOPO2E35Vt5Tywd1fkn7VDsem5snT-iapEDLSS9itzWNAD5oqBFhrrxMLGffX8JV8GBpBOJ5Q/s0/%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA_%D9%85%D8%A7_%D9%82%D8%A8%D9%84_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2AIK-nYOaIq1fDoATS0HI3K9it0XL1GeWrsUISiTOVaAWlPRUsltmtjZfYIFzGV9ToiL7-LYQ_bXz5q0hTRF9QrGo_QVWmqr__asZgckQTbKA3jDVbvfOPO2E35Vt5Tywd1fkn7VDsem5snT-iapEDLSS9itzWNAD5oqBFhrrxMLGffX8JV8GBpBOJ5Q/s0/%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA_%D9%85%D8%A7_%D9%82%D8%A8%D9%84_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -2605,7 +2588,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch18">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّامِنَ عَشَرَ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieUB7bQtogyoqkoBUSiwstOZ851JfZb6x7RaHCT-uehfgFU1f1LnrwErcpkAhoQYsYQlMLcbKDgAXg1tF2ryQy0gkx5zw98dbOtfKLkd_UhINl4tUbnrjfOGIAWUHktA1Oes81U3nDT8CIihKG3_0soTIcQLtZLcnC22T7oRZboB5bxzy9PwxK-lQPIEA/s0/%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A6%D9%8A%D9%86__%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D9%8A%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieUB7bQtogyoqkoBUSiwstOZ851JfZb6x7RaHCT-uehfgFU1f1LnrwErcpkAhoQYsYQlMLcbKDgAXg1tF2ryQy0gkx5zw98dbOtfKLkd_UhINl4tUbnrjfOGIAWUHktA1Oes81U3nDT8CIihKG3_0soTIcQLtZLcnC22T7oRZboB5bxzy9PwxK-lQPIEA/s0/%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A6%D9%8A%D9%86__%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D9%8A%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -2723,7 +2705,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch19">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ التَّاسِعَ عَشَرَ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBnxLZKt_YKUdfQQKBOWQFkDf6o50cDyy0lI-35PWDcyagEZrqC0hlQrig9PxHjS4KngrJ3u1JJ1Sj74XoeA-8l7YtS45y9d8JJ-LsXhhzqN5d5Rt8OeRBud0cC-wSiOVDXivGEqWoX-8ecdbVn9GyOEo9maVNxF_UCT0z2MyCI3CNaFNpiAkfXaMBw68/s0/%D8%AF%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86_%D9%84%D9%84%D8%AB%D8%A8%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D9%8A%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBnxLZKt_YKUdfQQKBOWQFkDf6o50cDyy0lI-35PWDcyagEZrqC0hlQrig9PxHjS4KngrJ3u1JJ1Sj74XoeA-8l7YtS45y9d8JJ-LsXhhzqN5d5Rt8OeRBud0cC-wSiOVDXivGEqWoX-8ecdbVn9GyOEo9maVNxF_UCT0z2MyCI3CNaFNpiAkfXaMBw68/s0/%D8%AF%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86_%D9%84%D9%84%D8%AB%D8%A8%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D9%8A%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -2790,7 +2771,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch20">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْعِشْرُونَ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKHdBR2jz9OU-G1y8E-l09z-3YH4-LFA25OJ_7hNvmVN4xNL3yl2P2t4v_a754zANFADcf0amW1XH2QG2QjLNWG0YZEXQ8j3IwjpOIlbGxJXemTHsi_YEm2LvRp1MeSv8jsVcmrKNlD2okuQHJRFJ3Ta7QRay3qFuB8YJ3IsOZbIJAWOnxb08Isk1Fock/s0/%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKHdBR2jz9OU-G1y8E-l09z-3YH4-LFA25OJ_7hNvmVN4xNL3yl2P2t4v_a754zANFADcf0amW1XH2QG2QjLNWG0YZEXQ8j3IwjpOIlbGxJXemTHsi_YEm2LvRp1MeSv8jsVcmrKNlD2okuQHJRFJ3Ta7QRay3qFuB8YJ3IsOZbIJAWOnxb08Isk1Fock/s0/%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D9%88%D8%A7%D9%84%D8%B9%D9%8A%D8%B4_%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -2857,7 +2837,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch21">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الْحَادِي وَالْعِشْرُونَ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_0IKSzYGnvHHWjmdhdaeCGQjPsFh-6rIMIXWK1jpQ5kLXvactKCn9gUUdw9iw2SxuzaAH3oSUKkIYf683hA3WGDmCdF0bqBpG6nEZDDtwS_M2e6mA9X4OoFyAPWtdEYEIzuREUlNfjYgOzKP6QLE3kDMUHRS29RlT_VhWE4UjpQaHr6OCx25KS6OBwUQ/s0/%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D9%85%D9%84_%D9%88%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_0IKSzYGnvHHWjmdhdaeCGQjPsFh-6rIMIXWK1jpQ5kLXvactKCn9gUUdw9iw2SxuzaAH3oSUKkIYf683hA3WGDmCdF0bqBpG6nEZDDtwS_M2e6mA9X4OoFyAPWtdEYEIzuREUlNfjYgOzKP6QLE3kDMUHRS29RlT_VhWE4UjpQaHr6OCx25KS6OBwUQ/s0/%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D9%85%D9%84_%D9%88%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>
@@ -2958,7 +2937,6 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div class="chapter-divider"><span>✥</span></div>
 <div id="ch22">
-<p style="text-align: center; margin-bottom: 2rem; font-weight: bold;"><a href="#toc" style="text-decoration: none; color: var(--primary-color);">عودة إلى الفهرس ⬆️</a></p>
 <h2 style="text-align: center; color: var(--primary-color); margin: 3rem 0;">الْفَصْلُ الثَّانِي وَالْعِشْرُونَ</h2>
 <div style="text-align: center; margin: 2rem 0;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3JkOCd1bOUqGNIsClH5XfWTQIHLN1vn9z3CHZPFdP83_wLBNrwv9NlJQ9G8PxeZNQUY56CkGRtx0ThV4ntUH6jQYr5s-JptSJJYZImufHTjs5AXWyUfZKOoYP_lPPavfmSiH7Ygy-JzvSt5IdtkfVtgpFUX6muzwyCjwUIPomUWAkoGWqepsFWKgmzaI/s0/%D8%B5%D9%84%D8%A7%D8%A9_%D9%88%D9%82%D8%AA_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A5%D8%B1%D8%B3%D8%A7%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3JkOCd1bOUqGNIsClH5XfWTQIHLN1vn9z3CHZPFdP83_wLBNrwv9NlJQ9G8PxeZNQUY56CkGRtx0ThV4ntUH6jQYr5s-JptSJJYZImufHTjs5AXWyUfZKOoYP_lPPavfmSiH7Ygy-JzvSt5IdtkfVtgpFUX6muzwyCjwUIPomUWAkoGWqepsFWKgmzaI/s0/%D8%B5%D9%84%D8%A7%D8%A9_%D9%88%D9%82%D8%AA_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A5%D8%B1%D8%B3%D8%A7%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9.png" alt="" style="max-width: 100%; height: auto; margin: 2rem auto; display: block; border-radius: 8px;" /></a>

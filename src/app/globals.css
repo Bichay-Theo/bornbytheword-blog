@@ -539,3 +539,20 @@ p {
   font-weight: bold;
   border: 1px solid #25d366;
 }
+
+/* Back to TOC link in headings */
+.back-to-toc {
+  font-size: 0.7em;
+  text-decoration: none;
+  color: var(--text-muted);
+  opacity: 0.4;
+  margin-right: 0.75rem; /* Space between heading text and icon */
+  transition: opacity 0.2s, color 0.2s;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.back-to-toc:hover {
+  opacity: 1;
+  color: var(--primary);
+}

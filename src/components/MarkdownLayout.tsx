@@ -12,7 +12,7 @@ function processHtmlAndExtractTOC(html: string) {
     if (text) {
       toc.push({ id, text, level: tag.toLowerCase() === 'h2' ? 2 : 3 });
     }
-    return `<${tag} id="${id}"${attrs}>${content}</${tag}>`;
+    return `<${tag} id="${id}"${attrs}>${content} <a href="#toc" class="back-to-toc" title="العودة للفهرس">↩</a></${tag}>`;
   });
 
   // Fix image paths for GitHub Pages subpath

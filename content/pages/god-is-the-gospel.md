@@ -8,19 +8,19 @@ date: "2026-07-08T22:09:51.761Z"
 
 <div id="toc" style="margin-bottom: 3rem;">
 <h2 style="color: var(--primary); margin-bottom: 1.5rem; text-align: center;">الفهرس</h2>
-<ul style="list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+<ul style="list-style: none; padding: 0;  gap: 1rem;">
   <li style="margin-bottom: 0.8rem;"><a href="#intro" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">مُقَدِّمَةٌ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch1" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الأَوَّلُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch2" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّانِي</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch3" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّالِثُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch4" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الرَّابِعُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch5" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الْخَامِسُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch6" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ السَّادِسُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch7" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ السَّابِعُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch8" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّامِنُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch9" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ التَّاسِعُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch10" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الْعَاشِرُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch11" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الْحَادِي عَشَرَ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch1" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١. الْإِنْجِيلُ - الْكِرَازَةُ وَالتَّفْسِيرُ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch2" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٢. الْإِنْجِيلُ - النِّطَاقُ الْكِتَابِيُّ لِمَعْنَاهُ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch3" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٣. الْإِنْجِيلُ - «هُوَذَا إِلَهُكُمْ!»</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch4" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٤. الإنجيل — مَجْدُ الْمَسِيحِ، صُورَةُ اللهِ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch5" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٥. الإنجيل — مُؤيَّداً بِمَجْدِهِ، الشهادة الداخلية للروح القدس</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch6" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٦. الْإِنْجِيلُ — مَجْدُ الْمَسِيحِ فِي الْكِرَازَةِ وَالْإِرْسَالِيَّاتِ وَالتَّقْدِيسِ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch7" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٧. الْإِنْجِيلُ — مَجْدُ غِبْطَةِ أَوْ فَرَحِ اللهِ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch8" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٨. الإنجيل - مَجْدُ الْمَسِيحِ كَأَسَاسٍ لِلاِنْسِحَاقِ الَّذِي يُعَظِّمُ الْمَسِيحَ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch9" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٩. الْإِنْجِيلُ — عَطِيَّةُ اللهِ ذَاتِهِ فَوْقَ وَفِي كَافَّةِ عَطَايَاهُ الَّتِي تُخَلِّصُ وَالَّتِي تُؤْلِمُ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch10" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١٠. الْإِنْجِيلُ — عَطِيَّةُ اللهِ ذَاتِهِ فَوْقَ وَفِي كَافَّةِ عَطَايَاهُ السَّارَّةِ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch11" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١١. الْمَسِيحُ هُوَ النَّصِيبُ الَّذِي يُشْبِعُ النَّفْسَ</a></li>
   <li style="margin-bottom: 0.8rem;"><a href="#conc" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْخَاتِمَةُ</a></li>
 </ul>
 </div>

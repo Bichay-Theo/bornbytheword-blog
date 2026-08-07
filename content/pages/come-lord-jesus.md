@@ -10,29 +10,29 @@ coverImage: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w
 
 <div id="toc" style="margin-bottom: 3rem;">
 <h2 style="color: var(--primary); margin-bottom: 1.5rem; text-align: center;">الفهرس</h2>
-<ul style="list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
-  <li style="margin-bottom: 0.8rem;"><a href="#ch1" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الأَوَّلُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch2" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّانِي</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch3" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّالِثُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch4" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الرَّابِعُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch5" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الْخَامِسُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch6" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ السَّادِسُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch7" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ السَّابِعُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch8" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّامِنُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch9" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ التَّاسِعُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch10" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الْعَاشِرُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch11" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الْحَادِي عَشَرَ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch12" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّانِي عَشَرَ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch13" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّالِثَ عَشَرَ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch14" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الرَّابِعَ عَشَرَ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch15" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الْخَامِسَ عَشَرَ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch16" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ السَّادِسَ عَشَرَ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch17" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ السَّابِعَ عَشَرَ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch18" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّامِنَ عَشَرَ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch19" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ التَّاسِعَ عَشَرَ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch20" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الْعِشْرُونَ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch21" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الْحَادِي وَالْعِشْرُونَ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch22" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّانِي وَالْعِشْرُونَ</a></li>
+<ul style="list-style: none; padding: 0;  gap: 1rem;">
+  <li style="margin-bottom: 0.8rem;"><a href="#ch1" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١. تَمْهِيدٌ لِلْجُزْءِ الْأَوَّلِ: الْمُعْجِزَةُ الَّتِي نَرْجُوهَا: الْمَحَبَّةُ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch2" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٢. # مَحَبَّةُ ظُهُورِ الْمَسِيحِ هِيَ عَمَلُ الرُّوحِ الْقُدُسِ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch3" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٣. جَوْهَرُ الْأَمْرِ، الْجُزْءُ ١</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch4" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٤. # "اسْجُدْ لِي وَأَنَا أُعْطِيكَ كُلَّ الْمَمَالِكِ"</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch5" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٥. # وَصِيَّةٌ بِالرَّجَاءِ فِي النِّعْمَةِ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch6" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٦. # أَنْقِيَاءُ وَبِلَا لَوْمٍ لِيَوْمِ الْمَسِيحِ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch7" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٧. # كَيْفَ لِقِدِّيسِينَ مُعَاقِينَ عَاطِفِيّاً أَنْ يَتَعَجَّبُوا كَمَا يَنْبَغِي؟</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch8" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٨. # يَوْمُ الدَّيْنُونَةِ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch9" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٩. # الْغَضَبُ وَالْإِنْقَاذُ مَعاً</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch10" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١٠. # هَلْ يَنْبَغِي لَنَا أَنْ نَفْرَحَ أَمْ نَخَافَ؟</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch11" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١١. # ١. لَا دَيْنُونَةَ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch12" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١٢. # رَجَاؤُنَا فِي التَّمَتُّعِ بِالْمَسِيحِ بِتَمَتُّعِ اللَّهِ عَيْنِهِ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch13" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١٣. هَلْ عَلَّمَ يَسُوعُ بِأَنَّهُ سَيَرْجِعُ فِي غُضُونِ جِيلٍ وَاحِدٍ؟</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch14" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١٤. # قَرِيبٌ إِمْكَانِيّاً</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch15" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١٥. # مَا هُوَ الِاخْتِطَافُ؟</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch16" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١٦. # مَجِيءٌ وَاحِدٌ فِي رِسَالَتَيْ تَسَالُونِيكِي الْأُولَى وَالثَّانِيَةِ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch17" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١٧. # ارْتِدَادٌ آتٍ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch18" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١٨. # تَفَرُّدُ الْأَخْلَاقِيَّاتِ الْمَسِيحِيَّةِ: قَدْ حَدَثَ، وَلَيْسَ بَعْدُ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch19" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١٩. # الْخِدَاعُ وَالرَّمَقُ الْأَخِيرُ لِلشَّرِّ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch20" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٢٠. # الْحَتْمِيَّةُ الْأَخْلَاقِيَّةُ لِلدَّمَارِ الْكَوْنِيِّ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch21" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٢١. # الْهِسْتِيرِيَا وَالْبَطَالَةُ فِي تَسَالُونِيكِي</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch22" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٢٢. # "لِيَأْتِ مَلَكُوتُكَ"</a></li>
 </ul>
 </div>
 

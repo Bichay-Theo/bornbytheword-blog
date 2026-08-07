@@ -8,21 +8,21 @@ date: "2026-07-08T22:09:51.801Z"
 
 <div id="toc" style="margin-bottom: 3rem;">
 <h2 style="color: var(--primary); margin-bottom: 1.5rem; text-align: center;">الفهرس</h2>
-<ul style="list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
-  <li style="margin-bottom: 0.8rem;"><a href="#intro" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">كَلِمَةٌ إِلَى الْقَارِئِ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch1" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الأَوَّلُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch2" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّانِي</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch3" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّالِثُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch4" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الرَّابِعُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch5" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الْخَامِسُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch6" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ السَّادِسُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch7" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ السَّابِعُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch8" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّامِنُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch9" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ التَّاسِعُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch10" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الْعَاشِرُ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch11" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الْحَادِي عَشَرَ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch12" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّانِي عَشَرَ</a></li>
-  <li style="margin-bottom: 0.8rem;"><a href="#ch13" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْفَصْلُ الثَّالِثَ عَشَرَ</a></li>
+<ul style="list-style: none; padding: 0;  gap: 1rem;">
+  <li style="margin-bottom: 0.8rem;"><a href="#intro" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">كلمة إلى القارئ</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch1" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١. رؤية مجد الله والتمتع به</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch2" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٢. يسوع هو مجد الله</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch3" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٣. الأسد والخروف</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch4" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٤. فرحٌ أبديٌّ لا يُقهر</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch5" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٥. الموج والريح لا يزالان يعرفان صوته</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch6" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٦. هوذا أعظم من سليمان ههنا</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch7" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٧. الفقر المجيد للصيت السيء</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch8" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٨. الآلام التي لا تُضاهى</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch9" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">٩. مجد خلاص الخطاة، لا إبادة الشيطان</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch10" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١٠. غنى رحمة الله المتجسدة</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch11" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١١. جانب الشِدة</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch12" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١٢. قوة حياة لا تزول</a></li>
+  <li style="margin-bottom: 0.8rem;"><a href="#ch13" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">١٣. ظهور مجد إلهنا ومخلّصنا العظيم</a></li>
   <li style="margin-bottom: 0.8rem;"><a href="#conc" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">الْخَاتِمَةُ</a></li>
   <li style="margin-bottom: 0.8rem;"><a href="#dg" style="font-weight: bold; font-size: 1.1rem; text-decoration: none; color: var(--text-color);">Desiring God</a></li>
 </ul>

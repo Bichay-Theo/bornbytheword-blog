@@ -17,6 +17,9 @@ function processHtmlAndExtractTOC(html: string) {
 
   // Fix image paths for GitHub Pages subpath
   processedHtml = processedHtml.replace(/<img\s+([^>]*?)src="(\/[^"]+)"/gi, '<img $1src="/bornbytheword-blog$2"');
+  
+  // Fix internal links for GitHub Pages subpath (e.g. href="/penal-substitution")
+  processedHtml = processedHtml.replace(/href="(\/[^"]+)"/gi, 'href="/bornbytheword-blog$1"');
 
   const firstH2Match = processedHtml.match(/<h2[^>]*id="heading-/i);
   let htmlBeforeFirstH2 = processedHtml;

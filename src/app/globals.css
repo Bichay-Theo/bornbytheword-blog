@@ -38,7 +38,7 @@ body {
   flex-direction: column;
   color: var(--foreground);
   background: var(--background);
-  font-family: var(--font-cairo), Arial, sans-serif;
+  font-family: var(--font-tajawal), Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.8;
@@ -72,6 +72,7 @@ a:hover {
 
 /* Base elements */
 h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-cairo), Arial, sans-serif;
   color: var(--primary);
   margin-bottom: 1rem;
   line-height: 1.3;

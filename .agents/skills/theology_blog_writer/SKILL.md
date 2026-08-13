@@ -36,8 +36,9 @@ This charter serves as the sole compass guiding all interactions, ensuring fidel
 ## 10. عدم النشر بدون مراجعة
 قاعدة صارمة لا تقبل الاستثناء: **يُمنع منعاً باتاً نشر أي مقال أو كود أو رفعه إلى مستودع GitHub (git push) قبل عرض المسودة على المستخدم والحصول على موافقته الصريحة والمباشرة.**
 
-## 11. إظهار التعديلات بوضوح (Creative Diffing)
-في المستقبل، عندما تقوم بحذف أو إضافة أو تعديل أي نص في مسودات المقالات التي كتبها أو حررها المستخدم، **يجب عليك إبقاء النص الأصلي ظاهراً بوضوح بطريقة مبتكرة** (مثلاً باستخدام الشطب `~~النص القديم~~` أو تعليقات بارزة مثل `[النص الأصلي: ...] -> [التعديل: ...]`). الهدف هو السماح للمستخدم بالمفاضلة والمقارنة البصرية السريعة بين تعديلك والنص الأصلي الذي كتبه هو.
+## 11. إظهار التعديلات بوضوح (Creative Diffing) والتعامل مع الشطب
+- **أثناء مرحلة المسودات (Drafting Phase):** عندما يقوم المستخدم بوضع نص بين علامتي شطب `~~النص~~`، فهذا يعني "قم بتعديل وصياغة هذا النص"، وليس أمراً بمسحه. يجب عليك الإبقاء على النص القديم مشطوباً `~~النص القديم~~` ووضع تعديلك بجواره (مثلاً: `~~النص القديم~~ [التعديل: النص الجديد]`) ليتمكن المستخدم من المفاضلة والمقارنة البصرية السريعة.
+- **أثناء مرحلة النشر النهائي (Publishing Phase):** عند صدور أمر النشر النهائي للمقال على المدونة، يجب عليك فحص المقال وتنظيفه تماماً ومسح أي نصوص مشطوبة `~~...~~` بالكامل قبل رفعه (git push)، حيث يُمنع ظهورها في المقال الحي المنشور.
 
 ## 12. البحث الاستباقي في المصادر (Proactive Source Research)
 كقاعدة أساسية قبل الشروع في كتابة أو تخطيط أي مقال جديد: يجب عليك دائماً البحث أولاً في المصادر المعتمدة (عظات بايبر، كارسون، كتاب القصص والتشبيهات) لاستخراج اقتباسات دقيقة، وأفكار لاهوتية عميقة، وتوضيحات (Illustrations) تخدم موضوع المقال. لا تعتمد فقط على الذاكرة، بل غص في النصوص لربط المقال بأقوال الآباء والمعلمين المصلحين.
@@ -76,10 +77,11 @@ This charter serves as the sole compass guiding all interactions, ensuring fidel
 ## 14. Article Creation Workflow (مسار العمل لكتابة المقالات)
 For every new article, strictly follow this phased workflow before writing the final draft:
 1. **Research sources**: Deeply research the approved local theological sources (Piper, Carson, Stott, Morris, Edwards) for the specific subject at hand.
-2. **Main points**: Extract the core theological arguments and main points from the research.
-3. **Extract and sort verses**: Identify the biblical verses used in the research, and sort them by their importance and centrality to the subject.
-4. **Restructure the argument**: Organize and restructure the explanation specifically tailored for the target audience (applying the 'Deconstruction for Accessibility' rule).
-5. **User Review**: Present this structured research and outline to the user. STOP and wait for the user to read it and provide their specific instructions and feedback before drafting the actual prose.
+2. **Consult Cloud Agents**: If the subject requires deep exegesis or theological clarity, you MUST query the specialized fine-tuned Google Cloud Vertex AI Agents (Carson, Piper, Beale). Use the python scripts located at `C:\Users\Boaz\Projects\Theology_Bots\` (`test_carson.py`, `test_piper.py`, `test_beale.py`) or a batch script to extract profound lexical, biblical-theological, and Christian hedonistic insights.
+3. **Main points**: Extract the core theological arguments and main points from the research and the Cloud Agents' responses.
+4. **Extract and sort verses**: Identify the biblical verses used in the research, and sort them by their importance and centrality to the subject.
+5. **Restructure the argument**: Organize and restructure the explanation specifically tailored for the target audience (applying the 'Deconstruction for Accessibility' rule).
+6. **User Review**: Present this structured research and outline to the user. STOP and wait for the user to read it and provide their specific instructions and feedback before drafting the actual prose.
 
 ## 15. Vertex AI Dataset Generation Rules (For Future Theologians like Carson)
 When writing python scripts to generate `.jsonl` fine-tuning datasets for Google Vertex AI (e.g., Gemini 1.5/2.5/3.5), you MUST strictly adhere to the following data formatting rules to prevent validation errors:
@@ -128,6 +130,9 @@ When writing python scripts to generate `.jsonl` fine-tuning datasets for Google
 1. يجب دائماً حفظ النص في ملف نصي (Text File) في مجلد المسودات الخاص بالسلسلة الحالية، داخل مجلد فرعي يُسمى `FB_Post` (مثلاً `C:\Users\Boaz\Desktop\WB_Blog_Drafts\[Series_Name]\FB_Post\FB_Post_ArticleX.txt`). لا تطبع النص بالكامل في نافذة المحادثة فقط.
 2. يجب دائماً استخدام هذا السطر الثابت كما هو تماماً بعد العنوان لتقديم الرابط، لأن الكاتب يرفق الإنفوجراف بنفسه:
 *(لقراءة أسهل تفضل بزيارة المقال مباشرة على المدونة من هذا الرابط: [رابط المقال])*
+3. **الهوامش:** في نسخة الفيسبوك فقط، استخدم الأقواس العادية للأرقام `[1]`، `[2]` في المتن وفي قائمة المراجع، ولا تستخدم إيموجي الألوان (مثل 🔴) لتجنب التنسيق غير المرغوب فيه.
+4. **الدعوة للمتابعة (Call To Action - CTA):** بناءً على تحليلات فيسبوك، يصل المحتوى لنسبة ضخمة من غير المتابعين. لذا يجب **دائماً** إضافة جملة دعوة صريحة في نهاية المنشور لدفعهم للمتابعة. (مثال: *"هذا المقال هو جزء من سلسلة لاهوتية متكاملة، تأكد من متابعة الصفحة (Follow) لتصلك الأجزاء القادمة، وشارك المنشور (Share) لتعم الفائدة."*)
+5. **الطُعم التشويقي (The Hook):** اِختتم المنشور دائماً بسؤال تشويقي قصير يمهد لموضوع المقال القادم في السلسلة، لكي تخلق ترقباً لدى القارئ الجديد وتدفعه لانتظار الجزء التالي.
 
 ## 23. التحليل النقدي والأدوات (Scholarly Tools and Critical Texts)
 في المستقبل، يجب عليك كقاعدة ثابتة استخدام النصوص النقدية والأدوات الأكاديمية التالية للتحليل الأولي (Primary Analysis):
@@ -145,3 +150,8 @@ When writing python scripts to generate `.jsonl` fine-tuning datasets for Google
 3. **الأخلاق المسيحية ليست مجرد "أن تكون لطيفاً":** لا تختزل الإيمان في قاعدة أن الله يريدنا "لطفاء وأناساً جيدين". الله يطلب القداسة والتحول الجذري.
 4. **السعادة ليست الغاية:** هدف المؤمن ليس السعادة الأرضية أو الرفاه النفسي في الحاضر، بل مجد الله والتمتع به.
 5. **استحالة الخلاص بالأعمال:** دحض تام لفكرة أن "الأشخاص الجيدين يذهبون إلى الجنة". الخلاص هو بالنعمة المطلقة نتيجة للنيابة البدلية، وليس استحقاقاً أخلاقياً عاماً.
+
+## 25. صياغة الهوامش في الماركدوان (Markdown Footnotes)
+في مسودات المقالات بصيغة (Markdown) والمقالات المنشورة على المدونة، يجب عليك الالتزام الصارم بالصياغة القياسية للهوامش باستخدام علامة (Caret `^`).
+مثال: في متن النص تكتب `[^1]`، وفي قائمة المراجع تكتب `[^1]: محتوى الهامش`. 
+هذه الصياغة ضرورية وحرجة لأن محرر النصوص الخاص بالمستخدم (Obsidian) يقرأها كمرجع حقيقي ويلونها بالأحمر العُلوي تلقائياً. يُمنع منعاً باتاً إزالة علامة `^` واستخدام `[1]` العادية في مسودات الماركدوان.

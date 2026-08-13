@@ -149,7 +149,16 @@ p {
   font-size: 1.125rem;
   line-height: 1.8;
   color: var(--foreground);
-  /* display: flex removed to allow floating elements to work */
+  font-family: var(--font-tajawal), Arial, sans-serif;
+}
+
+.post-html * {
+  font-family: inherit; /* This helps override some basic inheritances, but might need !important if inline */
+}
+
+/* Force override inline fonts often injected by Blogger */
+.post-html [style*="font-family"] {
+  font-family: var(--font-tajawal), Arial, sans-serif !important;
 }
 
 .footnotes {
@@ -166,9 +175,22 @@ p {
 
 .post-html h1, 
 .post-html h2, 
-.post-html h3 {
+.post-html h3,
+.post-html h4,
+.post-html h5,
+.post-html h6 {
   margin-top: 2.5rem;
   margin-bottom: 1rem;
+  font-family: var(--font-cairo), Arial, sans-serif !important;
+}
+
+.post-html h1 *, 
+.post-html h2 *, 
+.post-html h3 *,
+.post-html h4 *,
+.post-html h5 *,
+.post-html h6 * {
+  font-family: var(--font-cairo), Arial, sans-serif !important;
 }
 
 .post-html p {

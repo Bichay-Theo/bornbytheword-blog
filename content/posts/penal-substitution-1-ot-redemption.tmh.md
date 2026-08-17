@@ -5,6 +5,9 @@ slug: "penal-substitution-1-ot-redemption"
 labels: ["الكفارة البدلية"]
 ---
 
+
+![Ufdu d-Asebbel dăɣ edăgg-năɣ](/images/posts/ot-redemption-tmh.png)
+
 26 Yulyu 2026
 
 «Măšan năkk, əssanăɣ a-s Ămaɣlas-in (Go'el) iddar, ad-ibdăd dăɣ-amăgaru făll-ăkall.» (Ayyub 19: 25).

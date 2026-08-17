@@ -5,6 +5,9 @@ slug: "penal-substitution-1-ot-redemption"
 labels: ["الكفارة البدلية"]
 ---
 
+
+![Esharunoto naitobir Enkai Nanyokie](/images/posts/ot-redemption-mas.png)
+
 26 July 2026
 
 «Ayiolo nanu aajo keishu Olsharunoni lai, naa ore te nkiting'oto keitashe ninye te shumata enkop» (Ayubu 19:25).

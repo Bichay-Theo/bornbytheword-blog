@@ -5,6 +5,9 @@ slug: "penal-substitution-1-ot-redemption"
 labels: ["الكفارة البدلية"]
 ---
 
+
+![Bab n ufdu: Lmeɛna n usebbel di Lɛahd Aqdim](/images/posts/ot-redemption-kab.png)
+
 26 Yulyu 2026
 
 « Ma d nekk ẓriɣ belli Bab n ufdu-inu yedder, yerna ɣer taggara ɣef lqaɛa ad ibedd » (Ayyub 19: 25).

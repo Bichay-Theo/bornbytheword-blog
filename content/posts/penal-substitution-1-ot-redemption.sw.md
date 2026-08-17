@@ -5,6 +5,9 @@ slug: "penal-substitution-1-ot-redemption"
 labels: ["الكفارة البدلية"]
 ---
 
+
+![Kristo: Ndugu Mkombozi Wetu wa Kweli](/images/posts/ot-redemption-sw.png)
+
 26 Julai 2026
 
 «Lakini mimi najua ya kuwa ndugu mkombozi wangu yu hai, Na ya kuwa hatimaye atasimama juu ya nchi» (Ayubu 19:25).

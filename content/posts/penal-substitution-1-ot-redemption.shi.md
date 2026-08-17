@@ -5,6 +5,9 @@ slug: "penal-substitution-1-ot-redemption"
 labels: ["الكفارة البدلية"]
 ---
 
+
+![Awali: Lmeɛna n Usfel n Ufdu](/images/posts/ot-redemption-shi.png)
+
 26 yulyu 2026
 
 «Macc nkki, ssnɣ is idder uwali-inu, d tigira ɣ iggi n wakal a ɣ ra ibidd» (Ayyub 19: 25).

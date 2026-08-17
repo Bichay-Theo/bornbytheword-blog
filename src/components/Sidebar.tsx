@@ -64,15 +64,23 @@ export default async function Sidebar({ lang = 'ar' }: { lang?: string }) {
       <h3 className="sidebar-title">{dict.sidebarTopics}</h3>
       <ul className="sidebar-list">
         <li>
-          <Link href={prefix === '' ? '/' : prefix} className="sidebar-link">{lang === 'ar' ? 'الكل' : 'All'}</Link>
+          <Link href={prefix === '' ? '/' : prefix} className="sidebar-link">{dict.sidebarAll}</Link>
         </li>
-        {uniqueLabels.map(label => (
-          <li key={label}>
-            <Link href={`${prefix === '' ? '/' : prefix}?topic=${encodeURIComponent(label)}`} className="sidebar-link">
-              {label}
-            </Link>
-          </li>
-        ))}
+        {uniqueLabels.map(label => {
+          // Display localized label if we have a match in the dictionary, otherwise fallback to raw label
+          let displayLabel = label;
+          if (label === 'الكفارة البدلية') {
+            displayLabel = dict.sidebarPenalSubstitution;
+          }
+
+          return (
+            <li key={label}>
+              <Link href={`${prefix === '' ? '/' : prefix}?topic=${encodeURIComponent(label)}`} className="sidebar-link">
+                {displayLabel}
+              </Link>
+            </li>
+          );
+        })}
       </ul>
     </div>
   );

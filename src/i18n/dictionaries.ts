@@ -13,7 +13,9 @@ export const dictionaries = {
     loading: 'جارٍ التحميل...',
     sidebarLanguages: 'اللغات (Languages)',
     sidebarBooks: 'الكتب الكاملة',
-    sidebarTopics: 'المواضيع (التصنيفات)'
+    sidebarTopics: 'المواضيع (التصنيفات)',
+    sidebarAll: 'الكل',
+    sidebarPenalSubstitution: 'الكفارة البدلية'
   },
   am: {
     siteName: 'በእውነት ቃል አስቦ ወለደን።', // Translated from James 1:18
@@ -27,7 +29,9 @@ export const dictionaries = {
     loading: 'በመጫን ላይ...',
     sidebarLanguages: 'Languages / ቋንቋዎች',
     sidebarBooks: 'Books / መጽሐፍት',
-    sidebarTopics: 'Topics / ርዕሶች'
+    sidebarTopics: 'Topics / ርዕሶች',
+    sidebarAll: 'All',
+    sidebarPenalSubstitution: 'Penal Substitution'
   },
   sw: {
     siteName: 'Kwa kupenda kwake mwenyewe alituzaa sisi kwa neno la kweli.',
@@ -41,7 +45,9 @@ export const dictionaries = {
     loading: 'Inapakia...',
     sidebarLanguages: 'Languages',
     sidebarBooks: 'Books',
-    sidebarTopics: 'Topics'
+    sidebarTopics: 'Topics',
+    sidebarAll: 'All',
+    sidebarPenalSubstitution: 'Penal Substitution'
   },
   shi: {
     siteName: 'S lqesd n lebɣi-ns, iskr aɣ-d talalit tamaynut s wawal n tideț.',
@@ -55,7 +61,9 @@ export const dictionaries = {
     loading: 'Ar itzgg...',
     sidebarLanguages: 'Languages',
     sidebarBooks: 'Books',
-    sidebarTopics: 'Topics'
+    sidebarTopics: 'Topics',
+    sidebarAll: 'All',
+    sidebarPenalSubstitution: 'Penal Substitution'
   },
   kab: {
     siteName: 'S lqesd n lebɣi-s, i ɣ-d-yefka talalit tajdit s wawal n tideț.',
@@ -69,7 +77,9 @@ export const dictionaries = {
     loading: 'Yetteddu...',
     sidebarLanguages: 'Languages',
     sidebarBooks: 'Books',
-    sidebarTopics: 'Topics'
+    sidebarTopics: 'Topics',
+    sidebarAll: 'All',
+    sidebarPenalSubstitution: 'Penal Substitution'
   },
   tmh: {
     siteName: 'S-lqesd n-lebɣi n-Măssinăɣ, ikf-anaɣ-d talalit taynayt s-awal n-tideṭ.',
@@ -83,7 +93,9 @@ export const dictionaries = {
     loading: 'Ar itzgg...',
     sidebarLanguages: 'Languages',
     sidebarBooks: 'Books',
-    sidebarTopics: 'Topics'
+    sidebarTopics: 'Topics',
+    sidebarAll: 'All',
+    sidebarPenalSubstitution: 'Penal Substitution'
   },
   mas: {
     siteName: 'Te nkaraki eyieunoto enye, etoiwuo Ninye iyiook to rorei loo sipat',
@@ -97,7 +109,9 @@ export const dictionaries = {
     loading: 'Loading...',
     sidebarLanguages: 'Languages',
     sidebarBooks: 'Books',
-    sidebarTopics: 'Topics'
+    sidebarTopics: 'Topics',
+    sidebarAll: 'All',
+    sidebarPenalSubstitution: 'Penal Substitution'
   }
 };
 

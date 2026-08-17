@@ -59,11 +59,11 @@ export const dictionaries = {
     toc: 'Umuɣ n umgrad',
     pageNotFound: 'Tasna ur tlli',
     loading: 'Ar itzgg...',
-    sidebarLanguages: 'Languages',
-    sidebarBooks: 'Books',
-    sidebarTopics: 'Topics',
-    sidebarAll: 'All',
-    sidebarPenalSubstitution: 'Penal Substitution'
+    sidebarLanguages: 'Tutlayin',
+    sidebarBooks: 'Arratn kmmlnin',
+    sidebarTopics: 'Isntal / Tiggayin',
+    sidebarAll: 'Kullu',
+    sidebarPenalSubstitution: 'Asfel n Ufdu ɣ wemkan-nneɣ'
   },
   kab: {
     siteName: 'S lqesd n lebɣi-s, i ɣ-d-yefka talalit tajdit s wawal n tideț.',

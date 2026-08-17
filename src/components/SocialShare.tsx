@@ -2,7 +2,7 @@
 
 import React, { useEffect, useState } from 'react';
 
-export default function SocialShare({ title }: { title?: string }) {
+export default function SocialShare({ title, shareText = 'شارك هذا المقال:' }: { title?: string, shareText?: string }) {
   const [url, setUrl] = useState('');
 
   useEffect(() => {
@@ -17,7 +17,7 @@ export default function SocialShare({ title }: { title?: string }) {
 
   return (
     <div className="social-share-container">
-      <h3 className="social-share-title">شارك هذا المقال:</h3>
+      <h3 className="social-share-title">{shareText}</h3>
       <div className="social-share-buttons">
         <a 
           href={`https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`} 

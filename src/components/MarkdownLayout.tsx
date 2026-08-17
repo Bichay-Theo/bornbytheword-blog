@@ -148,7 +148,7 @@ export default function MarkdownLayout({ title, date, content, tocTitle, showToc
           <div style={{ clear: 'both' }}></div>
 
           <div style={{ margin: '4rem 0 2rem 0' }}>
-            <SocialShare title={title} />
+            <SocialShare title={title} shareText={(dict as any).shareArticle || 'شارك هذا المقال:'} />
           </div>
 
           <div style={{ margin: '3rem 0' }}>

@@ -15,7 +15,8 @@ export const dictionaries = {
     sidebarBooks: 'الكتب الكاملة',
     sidebarTopics: 'المواضيع (التصنيفات)',
     sidebarAll: 'الكل',
-    sidebarPenalSubstitution: 'الكفارة البدلية'
+    sidebarPenalSubstitution: 'الكفارة البدلية',
+    shareArticle: 'شارك هذا المقال:'
   },
   am: {
     siteName: 'በእውነት ቃል አስቦ ወለደን።', // Translated from James 1:18
@@ -31,7 +32,8 @@ export const dictionaries = {
     sidebarBooks: 'ሙሉ መጻሕፍት',
     sidebarTopics: 'ርዕሶች / ምድቦች',
     sidebarAll: 'ሁሉም',
-    sidebarPenalSubstitution: 'የቅጣት ምትክነት ስርየት'
+    sidebarPenalSubstitution: 'የቅጣት ምትክነት ስርየት',
+    shareArticle: 'ይህን ጽሑፍ ያጋሩ:'
   },
   sw: {
     siteName: 'Kwa kupenda kwake mwenyewe alituzaa sisi kwa neno la kweli.',
@@ -47,7 +49,8 @@ export const dictionaries = {
     sidebarBooks: 'Vitabu Kamili',
     sidebarTopics: 'Mada / Kategoria',
     sidebarAll: 'Yote',
-    sidebarPenalSubstitution: 'Kafara ya Kiwakilishi'
+    sidebarPenalSubstitution: 'Kafara ya Kiwakilishi',
+    shareArticle: 'Shiriki makala haya:'
   },
   shi: {
     siteName: 'S lqesd n lebɣi-ns, iskr aɣ-d talalit tamaynut s wawal n tideț.',
@@ -63,7 +66,8 @@ export const dictionaries = {
     sidebarBooks: 'Arratn kmmlnin',
     sidebarTopics: 'Isntal / Tiggayin',
     sidebarAll: 'Kullu',
-    sidebarPenalSubstitution: 'Asfel n Ufdu ɣ wemkan-nneɣ'
+    sidebarPenalSubstitution: 'Asfel n Ufdu ɣ wemkan-nneɣ',
+    shareArticle: 'Bḍu amgrad ad:'
   },
   kab: {
     siteName: 'S lqesd n lebɣi-s, i ɣ-d-yefka talalit tajdit s wawal n tideț.',
@@ -79,7 +83,8 @@ export const dictionaries = {
     sidebarBooks: 'Tiktabin s lekmal-nsent',
     sidebarTopics: 'Isental / Taggayin',
     sidebarAll: 'Irkulli',
-    sidebarPenalSubstitution: 'Asebbel n lɛiqab deg wemkan-nneɣ'
+    sidebarPenalSubstitution: 'Asebbel n lɛiqab deg wemkan-nneɣ',
+    shareArticle: 'Bḍu amagrad-a:'
   },
   tmh: {
     siteName: 'S-lqesd n-lebɣi n-Măssinăɣ, ikf-anaɣ-d talalit taynayt s-awal n-tideṭ.',
@@ -95,7 +100,8 @@ export const dictionaries = {
     sidebarBooks: 'Ălkəttabăn imdanen',
     sidebarTopics: 'Isălan / Tiggayin',
     sidebarAll: 'Iket-năsăn',
-    sidebarPenalSubstitution: 'Afdu n-lĕʿiqab dăɣ edăgg-năɣ'
+    sidebarPenalSubstitution: 'Afdu n-lĕʿiqab dăɣ edăgg-năɣ',
+    shareArticle: 'Zăwwăḍ amagrad wa:'
   },
   mas: {
     siteName: 'Te nkaraki eyieunoto enye, etoiwuo Ninye iyiook to rorei loo sipat',
@@ -111,7 +117,8 @@ export const dictionaries = {
     sidebarBooks: 'Imbukui pooki',
     sidebarTopics: 'Imbaa',
     sidebarAll: 'Pooki',
-    sidebarPenalSubstitution: 'Esharunoto naitobir Enkai Nanyokie'
+    sidebarPenalSubstitution: 'Esharunoto naitobir Enkai Nanyokie',
+    shareArticle: 'Pala ena oros:'
   }
 };
 

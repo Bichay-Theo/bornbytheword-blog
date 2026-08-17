@@ -1,5 +1,5 @@
 ---
-title: "# Asebbel dăɣ edăgg-năɣ (1): Ufdu dăɣ-Ărkăwăl wa n-Zik.. Mi ămoos Go'el?"
+title: "Asebbel dăɣ edăgg-năɣ (1): Ufdu dăɣ-Ărkăwăl wa n-Zik.. Mi ămoos Go'el?"
 date: "2026-07-26T00:00:00Z"
 slug: "penal-substitution-1-ot-redemption"
 labels: ["الكفارة البدلية"]

@@ -11,6 +11,9 @@ export const dictionaries = {
     toc: 'محتويات المقال',
     pageNotFound: 'الصفحة غير موجودة',
     loading: 'جارٍ التحميل...',
+    sidebarLanguages: 'اللغات (Languages)',
+    sidebarBooks: 'الكتب الكاملة',
+    sidebarTopics: 'المواضيع (التصنيفات)'
   },
   am: {
     siteName: 'በእውነት ቃል አስቦ ወለደን።', // Translated from James 1:18
@@ -22,6 +25,9 @@ export const dictionaries = {
     toc: 'የጽሑፉ ማውጫ',
     pageNotFound: 'ገጹ አልተገኘም',
     loading: 'በመጫን ላይ...',
+    sidebarLanguages: 'Languages / ቋንቋዎች',
+    sidebarBooks: 'Books / መጽሐፍት',
+    sidebarTopics: 'Topics / ርዕሶች'
   },
   sw: {
     siteName: 'Kwa kupenda kwake mwenyewe alituzaa sisi kwa neno la kweli.',
@@ -33,6 +39,9 @@ export const dictionaries = {
     toc: 'Yaliyomo',
     pageNotFound: 'Ukurasa haupatikani',
     loading: 'Inapakia...',
+    sidebarLanguages: 'Languages',
+    sidebarBooks: 'Books',
+    sidebarTopics: 'Topics'
   },
   shi: {
     siteName: 'S lqesd n lebɣi-ns, iskr aɣ-d talalit tamaynut s wawal n tideț.',
@@ -44,6 +53,9 @@ export const dictionaries = {
     toc: 'Umuɣ n umgrad',
     pageNotFound: 'Tasna ur tlli',
     loading: 'Ar itzgg...',
+    sidebarLanguages: 'Languages',
+    sidebarBooks: 'Books',
+    sidebarTopics: 'Topics'
   },
   kab: {
     siteName: 'S lqesd n lebɣi-s, i ɣ-d-yefka talalit tajdit s wawal n tideț.',
@@ -55,6 +67,9 @@ export const dictionaries = {
     toc: 'Agbur',
     pageNotFound: 'Asebter ur yettwaf ara',
     loading: 'Yetteddu...',
+    sidebarLanguages: 'Languages',
+    sidebarBooks: 'Books',
+    sidebarTopics: 'Topics'
   },
   tmh: {
     siteName: 'S-lqesd n-lebɣi n-Măssinăɣ, ikf-anaɣ-d talalit taynayt s-awal n-tideṭ.',
@@ -66,6 +81,9 @@ export const dictionaries = {
     toc: 'Umuɣ n umgrad',
     pageNotFound: 'Tasna ur tlli',
     loading: 'Ar itzgg...',
+    sidebarLanguages: 'Languages',
+    sidebarBooks: 'Books',
+    sidebarTopics: 'Topics'
   },
   mas: {
     siteName: 'Te nkaraki eyieunoto enye, etoiwuo Ninye iyiook to rorei loo sipat',
@@ -77,6 +95,9 @@ export const dictionaries = {
     toc: 'Table of Contents',
     pageNotFound: 'Page not found',
     loading: 'Loading...',
+    sidebarLanguages: 'Languages',
+    sidebarBooks: 'Books',
+    sidebarTopics: 'Topics'
   }
 };
 

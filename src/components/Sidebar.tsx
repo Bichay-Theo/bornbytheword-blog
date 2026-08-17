@@ -18,7 +18,7 @@ export default async function Sidebar({ lang = 'ar' }: { lang?: string }) {
     <div className="sidebar">
       {/* Languages Section */}
       <div style={{ marginBottom: '2.5rem' }}>
-        <h3 className="sidebar-title">{lang === 'ar' ? 'اللغات (Languages)' : 'Languages / ቋንቋዎች'}</h3>
+        <h3 className="sidebar-title">{dict.sidebarLanguages}</h3>
         <ul className="sidebar-list">
           <li>
             <Link href="/" className="sidebar-link" style={{ fontWeight: lang === 'ar' ? 'bold' : 'normal' }}>📖 العربية</Link>
@@ -47,10 +47,10 @@ export default async function Sidebar({ lang = 'ar' }: { lang?: string }) {
       {/* Books Section */}
       {pages.length > 0 && (
         <div style={{ marginBottom: '2.5rem' }}>
-          <h3 className="sidebar-title">{lang === 'ar' ? 'الكتب الكاملة' : 'Books / መጽሐፍት'}</h3>
+          <h3 className="sidebar-title">{dict.sidebarBooks}</h3>
           <ul className="sidebar-list">
             {pages.map(page => (
-              <li key={page.id} style={{ marginBottom: '1rem' }}>
+              <li key={page.id}>
                 <Link href={`${prefix}/p/${page.slug}`} className="sidebar-link" style={{ fontWeight: 'bold', fontSize: '1.15rem' }}>
                   📖 {page.title}
                 </Link>
@@ -61,7 +61,7 @@ export default async function Sidebar({ lang = 'ar' }: { lang?: string }) {
       )}
 
       {/* Topics Section */}
-      <h3 className="sidebar-title">{lang === 'ar' ? 'المواضيع (التصنيفات)' : 'Topics / ርዕሶች'}</h3>
+      <h3 className="sidebar-title">{dict.sidebarTopics}</h3>
       <ul className="sidebar-list">
         <li>
           <Link href={prefix === '' ? '/' : prefix} className="sidebar-link">{lang === 'ar' ? 'الكل' : 'All'}</Link>

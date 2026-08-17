@@ -1,0 +1,489 @@
+{
+  "Tashelhit_Reformed_Glossary": {
+    "دليل_التدقيق_العقائدي_والأمانة_المصلحة": [],
+    "أبرز_التعديلات_الجوهرية_والتعليل_العقائدي_لها:": [],
+    "Covenants_Law": [
+      {
+        "english": "Covenant Theology",
+        "arabic": "لاهوت العهود",
+        "tashelhit": "Tasnillawit n Urkawal (أو Tasnillawit n Ukawal)"
+      },
+      {
+        "english": "Covenant of Works",
+        "arabic": "عهد الأعمال",
+        "tashelhit": "Arkawal n Twuriwin (أو Akawal n Twuriwin)"
+      },
+      {
+        "english": "Covenant of Grace",
+        "arabic": "عهد النعمة",
+        "tashelhit": "Arkawal n Lfeḍl (أو Arkawal n Taḥninit)"
+      },
+      {
+        "english": "Covenant of Redemption",
+        "arabic": "عهد الفداء",
+        "tashelhit": "Arkawal n Ufdu (أو Akawal n Ufdu)"
+      },
+      {
+        "english": "Mosaic Covenant",
+        "arabic": "العهد الموسوي",
+        "tashelhit": "Arkawal n Musa (أو Akawal n Musa)"
+      },
+      {
+        "english": "New Covenant",
+        "arabic": "العهد الجديد",
+        "tashelhit": "Arkawal Amaynu (أو Akawal Amaynu)"
+      },
+      {
+        "english": "Federal Headship",
+        "arabic": "الرئاسة الفيدرالية",
+        "tashelhit": "Uqerru n Urkawal (أو Uqerru n Ukawal)"
+      },
+      {
+        "english": "Covenant Children",
+        "arabic": "أطفال العهد",
+        "tashelhit": "Tarwa n Urkawal (أو Tarwa n Ukawal)"
+      },
+      {
+        "english": "Third Use of the Law",
+        "arabic": "الاستخدام الثالث للناموس",
+        "tashelhit": "Aseqdec wis kṛaḍ n Warratn imñlayn"
+      },
+      {
+        "english": "Antinomianism",
+        "arabic": "اللاناموسية",
+        "tashelhit": "Aga n Warratn imñlayn"
+      },
+      {
+        "english": "Legalism",
+        "arabic": "الشرعوية",
+        "tashelhit": "Aḍfaṛ n Warratn imñlayn s lḥerf"
+      }
+    ],
+    "Theology_Proper": [
+      {
+        "english": "God",
+        "arabic": "الله",
+        "tashelhit": "Akuc (أو Ṛebbi)"
+      },
+      {
+        "english": "Trinity",
+        "arabic": "الثالوث",
+        "tashelhit": "Kṛaḍ ɣ yan"
+      },
+      {
+        "english": "Father",
+        "arabic": "الآب",
+        "tashelhit": "Babaneɣ"
+      },
+      {
+        "english": "Son",
+        "arabic": "الابن",
+        "tashelhit": "Yiwis"
+      },
+      {
+        "english": "Holy Spirit",
+        "arabic": "الروح القدس",
+        "tashelhit": "Ṛṛuḥ Iqedsen n Rbbi (أو Ṛṛuḥ Iqedsen)"
+      },
+      {
+        "english": "Only Begotten",
+        "arabic": "الابن الوحيد",
+        "tashelhit": "Yiwis Awaḥdi"
+      },
+      {
+        "english": "Eternity",
+        "arabic": "الأزلية",
+        "tashelhit": "Bda (Labadan)"
+      },
+      {
+        "english": "Providence",
+        "arabic": "العناية الإلهية",
+        "tashelhit": "Aḥader n Yakuc (أو Aḥader n Ṛebbi)"
+      },
+      {
+        "english": "Sovereignty",
+        "arabic": "السيادة الإلهية",
+        "tashelhit": "Tanbaḍt n Yakuc (أو Tanbaḍt n Ṛebbi)"
+      },
+      {
+        "english": "Omnipotence",
+        "arabic": "القدرة المطلقة",
+        "tashelhit": "Tazmert f kra iga tt"
+      },
+      {
+        "english": "Omniscience",
+        "arabic": "العلم المطلق",
+        "tashelhit": "Tamusni n kra iga tt"
+      },
+      {
+        "english": "Omnipresence",
+        "arabic": "الحضور المطلق",
+        "tashelhit": "Illa ɣ kra iga tt amkan"
+      },
+      {
+        "english": "Image of God",
+        "arabic": "صورة الله",
+        "tashelhit": "Tawlaft n Yakuc (أو Tawlaft n Ṛebbi)"
+      },
+      {
+        "english": "Decree of God",
+        "arabic": "مراسيم الله",
+        "tashelhit": "Lqesd n Yakuc (أو Lqesd n Ṛebbi)"
+      },
+      {
+        "english": "Decretal Theology",
+        "arabic": "لاهوت المراسيم",
+        "tashelhit": "Tasnillawit n Lqesd"
+      },
+      {
+        "english": "Soli Deo Gloria",
+        "arabic": "لمجد الله وحده",
+        "tashelhit": "Tamanegt i Yakuc ka (أو Tamanegt i Ṛebbi ka)"
+      }
+    ],
+    "Christology": [
+      {
+        "english": "Incarnation",
+        "arabic": "التجسد",
+        "tashelhit": "Iggʷa aksum"
+      },
+      {
+        "english": "Hypostatic Union",
+        "arabic": "الاتحاد الأقنومي",
+        "tashelhit": "Amun n snat tgamiwin"
+      },
+      {
+        "english": "Virgin Birth",
+        "arabic": "الميلاد العذراوي",
+        "tashelhit": "Talalit zɣ taɛzrit"
+      },
+      {
+        "english": "Emmanuel",
+        "arabic": "عمانوئيل",
+        "tashelhit": "Amanuyl (Yakuc d neɣ) [أو (Ṛebbi d neɣ)]"
+      },
+      {
+        "english": "Solus Christus",
+        "arabic": "المسيح وحده",
+        "tashelhit": "Lmasiḥ ka"
+      },
+      {
+        "english": "Active Obedience of Christ",
+        "arabic": "الطاعة الفعّالة للمسيح",
+        "tashelhit": "Aḍfaṛ n Lmasiḥ s lfeɛl"
+      },
+      {
+        "english": "Passive Obedience of Christ",
+        "arabic": "الطاعة السلبية للمسيح",
+        "tashelhit": "Aḍfaṛ n Lmasiḥ ɣ leɛtab"
+      },
+      {
+        "english": "Substitutionary Atonement",
+        "arabic": "الكفارة البدلية",
+        "tashelhit": "Asfel n Ufdu ɣ wemkan-nneɣ"
+      },
+      {
+        "english": "Penal Substitution",
+        "arabic": "الفداء الجزائي",
+        "tashelhit": "Afdu n lɛiqab ɣ wemkan-nneɣ"
+      },
+      {
+        "english": "Second Coming",
+        "arabic": "المجيء الثاني",
+        "tashelhit": "Acal amaynu (Tuɣalin tis snat)"
+      },
+      {
+        "english": "Resurrection",
+        "arabic": "القيامة",
+        "tashelhit": "Nnker zɣ lmegtin"
+      }
+    ],
+    "TULIP": [
+      {
+        "english": "Total Depravity",
+        "arabic": "الفساد الكلي",
+        "tashelhit": "Axsar amutay"
+      },
+      {
+        "english": "Unconditional Election",
+        "arabic": "الاختيار غير المشروط",
+        "tashelhit": "Astay war ccuṛuḍ"
+      },
+      {
+        "english": "Limited Atonement",
+        "arabic": "الكفارة المحدودة",
+        "tashelhit": "Asfel n Ufdu ittustayen"
+      },
+      {
+        "english": "Irresistible Grace",
+        "arabic": "النعمة الفعّالة",
+        "tashelhit": "Lfeḍl ur a itteḥbas"
+      },
+      {
+        "english": "Perseverance of the Saints",
+        "arabic": "ثبات القديسين",
+        "tashelhit": "Aḥraz n imqedsen"
+      }
+    ],
+    "Soteriology": [
+      {
+        "english": "Predestination",
+        "arabic": "الاختيار المسبق",
+        "tashelhit": "Aheggi n zik"
+      },
+      {
+        "english": "Foreordination",
+        "arabic": "التقدير المسبق",
+        "tashelhit": "Aheggi qbel"
+      },
+      {
+        "english": "Double Predestination",
+        "arabic": "الاختيار المزدوج",
+        "tashelhit": "Aheggi n zik snat twal"
+      },
+      {
+        "english": "Reprobation",
+        "arabic": "الرفض",
+        "tashelhit": "Agi n wid ur ttwaxtaṛen"
+      },
+      {
+        "english": "Effectual Calling",
+        "arabic": "الدعوة الفعّالة",
+        "tashelhit": "Tiɣri ismden"
+      },
+      {
+        "english": "Regeneration",
+        "arabic": "التجديد",
+        "tashelhit": "Talalit tamaynut"
+      },
+      {
+        "english": "Conversion",
+        "arabic": "الاهتداء",
+        "tashelhit": "Tanebdalt n wul"
+      },
+      {
+        "english": "Justification",
+        "arabic": "التبرير",
+        "tashelhit": "Asisg n Uġaras n Lḥqq (أو Asisg n Lḥqq n Rbbi)"
+      },
+      {
+        "english": "Imputed Righteousness",
+        "arabic": "احتساب البر",
+        "tashelhit": "Aḥsab n Lḥqq n Lmasiḥ i wemdan"
+      },
+      {
+        "english": "Imputed Sin",
+        "arabic": "احتساب الخطية",
+        "tashelhit": "Aḥsab n ubkkaḍu i Lmasiḥ"
+      },
+      {
+        "english": "Original Sin",
+        "arabic": "الخطية الأصلية",
+        "tashelhit": "Abkkaḍu amezwaru (أو Abkkaḍu n laṣl)"
+      },
+      {
+        "english": "Bondage of the Will",
+        "arabic": "عبودية الإرادة",
+        "tashelhit": "Tilit n lebɣi ɣ lḥebs"
+      },
+      {
+        "english": "Sola Fide",
+        "arabic": "الإيمان وحده",
+        "tashelhit": "Taflest ka"
+      },
+      {
+        "english": "Sola Gratia",
+        "arabic": "النعمة وحدها",
+        "tashelhit": "Lfeḍl ka"
+      },
+      {
+        "english": "Adoption",
+        "arabic": "التبني",
+        "tashelhit": "Aḥsab zun d tarwa n Yakuc (أو n Ṛebbi)"
+      },
+      {
+        "english": "Sanctification",
+        "arabic": "التقديس",
+        "tashelhit": "Asqeds"
+      },
+      {
+        "english": "Glorification",
+        "arabic": "التمجيد",
+        "tashelhit": "Tamanegt"
+      },
+      {
+        "english": "Ordo Salutis",
+        "arabic": "ترتيب الخلاص",
+        "tashelhit": "Amezdi n leslak"
+      },
+      {
+        "english": "Union with Christ",
+        "arabic": "الاتحاد بالمسيح",
+        "tashelhit": "Amun d Lmasiḥ"
+      },
+      {
+        "english": "Assurance of Salvation",
+        "arabic": "ثقة الخلاص",
+        "tashelhit": "Ḍḍman n leslak"
+      },
+      {
+        "english": "Eternal Justification",
+        "arabic": "التبرير الأزلي",
+        "tashelhit": "Asisg n Uġaras n Lḥqq i bda"
+      },
+      {
+        "english": "Lordship Salvation",
+        "arabic": "خلاص الربوبية",
+        "tashelhit": "Leslak s Tenbaḍt n Sidi Lmasiḥ"
+      },
+      {
+        "english": "Free Offer of the Gospel",
+        "arabic": "العرض الحر للإنجيل",
+        "tashelhit": "Tigri n Linjil i kuyan"
+      },
+      {
+        "english": "Common Grace",
+        "arabic": "النعمة المشتركة",
+        "tashelhit": "Lfeḍl amutay"
+      }
+    ],
+    "Ecclesiology": [
+      {
+        "english": "Visible Church",
+        "arabic": "الكنيسة المنظورة",
+        "tashelhit": "Tajmaɛt ittwalin"
+      },
+      {
+        "english": "Invisible Church",
+        "arabic": "الكنيسة غير المنظورة",
+        "tashelhit": "Tajmaɛt ur ittwalin"
+      },
+      {
+        "english": "Regulative Principle",
+        "arabic": "مبدأ تنظيم العبادة",
+        "tashelhit": "Arratn imẓlayn n leɛbada"
+      },
+      {
+        "english": "Sacraments",
+        "arabic": "الأسرار",
+        "tashelhit": "Leɛwayed iqedsen n Arkawal"
+      },
+      {
+        "english": "Baptism",
+        "arabic": "المعمودية",
+        "tashelhit": "Asird n Arkawal (أو Aɣḍas)"
+      },
+      {
+        "english": "Paedobaptism",
+        "arabic": "معمودية الأطفال",
+        "tashelhit": "Asird n wazzanen n Arkawal"
+      },
+      {
+        "english": "Credobaptism",
+        "arabic": "معمودية المؤمنين",
+        "tashelhit": "Asird n wid ifelsen n Arkawal"
+      },
+      {
+        "english": "Lord's Supper",
+        "arabic": "عشاء الرب",
+        "tashelhit": "Imensi n Sidi"
+      },
+      {
+        "english": "Means of Grace",
+        "arabic": "وسائط النعمة",
+        "tashelhit": "Iberdan n Lfeḍl"
+      }
+    ],
+    "Scripture": [
+      {
+        "english": "Sola Scriptura",
+        "arabic": "الكتاب المقدس وحده",
+        "tashelhit": "Arratn imẓlayn n Rbbi ka"
+      },
+      {
+        "english": "Inspiration",
+        "arabic": "الإلهام",
+        "tashelhit": "Aweḥḥi n Ṛṛuḥ Iqedsen"
+      },
+      {
+        "english": "Inerrancy",
+        "arabic": "العصمة",
+        "tashelhit": "Ur gis lɣelṭat"
+      },
+      {
+        "english": "Sufficiency of Scripture",
+        "arabic": "كفاية الكتاب المقدس",
+        "tashelhit": "Arratn imẓlayn n Rbbi tqdd"
+      }
+    ],
+    "Puritanism": [
+      {
+        "english": "Experimental Religion",
+        "arabic": "الدين التجريبي",
+        "tashelhit": "Asgd n tirmit"
+      },
+      {
+        "english": "Heart Religion",
+        "arabic": "دين القلب",
+        "tashelhit": "Asgd n wul"
+      },
+      {
+        "english": "Spiritual Desertion",
+        "arabic": "الانفصال الروحي",
+        "tashelhit": "Abeɛɛed n Ṛṛuḥ"
+      },
+      {
+        "english": "Dark Night of the Soul",
+        "arabic": "ليلة الروح المظلمة",
+        "tashelhit": "Iḍ asggan n ṛṛuḥ"
+      },
+      {
+        "english": "Soul Trouble",
+        "arabic": "اضطراب النفس",
+        "tashelhit": "Aḥeyyer n ṛṛuḥ"
+      },
+      {
+        "english": "Closing with Christ",
+        "arabic": "الانغلاق بالمسيح",
+        "tashelhit": "Aṭṭef ɣ Lmasiḥ"
+      },
+      {
+        "english": "Sweetness of Christ",
+        "arabic": "حلاوة المسيح",
+        "tashelhit": "Zzḍid n Lmasiḥ"
+      },
+      {
+        "english": "Mortification of Sin",
+        "arabic": "إماتة الخطية",
+        "tashelhit": "Amettan n ubkkaḍu"
+      },
+      {
+        "english": "Vivification",
+        "arabic": "إحياء الروح",
+        "tashelhit": "Aseḥyu n Ṛṛuḥ"
+      },
+      {
+        "english": "Holy Violence",
+        "arabic": "العنف المقدس",
+        "tashelhit": "Lmejhud iqedsen"
+      },
+      {
+        "english": "Duty of Self-Denial",
+        "arabic": "واجب إنكار الذات",
+        "tashelhit": "Aweṣṣi n unkaṛ n yiman"
+      }
+    ],
+    "Eschatology": [
+      {
+        "english": "Final Judgment",
+        "arabic": "الدينونة الأخيرة",
+        "tashelhit": "Lḥisab ameggaru n Yakuc (أو n Ṛebbi)"
+      },
+      {
+        "english": "New Creation",
+        "arabic": "الخليقة الجديدة",
+        "tashelhit": "Axlq amaynu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 1,
+    "english": "God (Supreme Being)",
+    "arabic": "الله (الذات الإلهية)",
+    "maa": "Enkai",
+    "literal_meaning": "السماء، المطر، أو القوة المتسامية غير المادية",
+    "reformed_theology": "الوجود الذاتي، الأزلية، والوحدانية السيادية المطلقة الخالصة من أي إسقاط مادي أو تأنيث مادي، إله جامع لصفات الرحمة والغضب المقدس.",
+    "references": "تكوين 1:1، مزمور 90:2",
+    "citations": "Barron (2021b), Wikipedia: Maasai religion"
+  },
+  {
+    "id": 2,
+    "english": "God of Infinite Compassion",
+    "arabic": "إله الرحمة الفائقة / كلي الرحمة",
+    "maa": "Enkai pusishoke",
+    "literal_meaning": "الإله ذو البطن الأزرق (سحب المطر المحملة بالخير)",
+    "reformed_theology": "يرسخ التمايز الأنطولوجي الفائق؛ فالرحمة الإلهية فائقة ولا تضاهيها الرحمة البشرية (التي توصف بالبطن البيضاء).",
+    "references": "مزمور 103:8، رومية 9:15",
+    "citations": "Barron (2021b), Olkerempe le Nkai 40"
+  },
+  {
+    "id": 3,
+    "english": "Lord (Sovereign Master)",
+    "arabic": "الرب (السيد السيادي)",
+    "maa": "Olaitoriani",
+    "literal_meaning": "الحاكم، الآمر، ذو السلطة المطلقة",
+    "reformed_theology": "السيادة المطلقة والربوبية القضائية والفدائية التي تفرض الخضوع التام وتمنع أي نزعة استقلالية أخلاقية للخاطئ.",
+    "references": "رومية 10:9، 1 كورنثوس 12:3",
+    "citations": "Barron (2021b), MBS Bible: Luka 21"
+  },
+  {
+    "id": 4,
+    "english": "Covenant (Federal Union)",
+    "arabic": "العهد (الميثاق الاتحادي الوجودي)",
+    "maa": "Osotua",
+    "literal_meaning": "الحبل السري، علاقة الترابط والوحدة والسلام العضوي العميق",
+    "reformed_theology": "مفهوم العهد المصلح الفيدرالي (عهد الأعمال وعهد النعمة)؛ ارتباط عضوي حيوي مبادر به سيادياً من الله وليس تعاقداً تجارياً.",
+    "references": "لوقا 22:20، عبرانيين 8:6",
+    "citations": "Barron (2019), Barron (2015): Osotua"
+  },
+  {
+    "id": 5,
+    "english": "Old Covenant",
+    "arabic": "العهد العتيق (القديم)",
+    "maa": "Osotua Musana",
+    "literal_meaning": "الارتباط القديم / الحبل السري العتيق",
+    "reformed_theology": "عهد النعمة تحت التدبير الناموسي والظلال الموسوية الممهدة للمسيح.",
+    "references": "2 كورنثوس 3:14، عبرانيين 9:15",
+    "citations": "Barron (2015), MBS Bible: Enkiterunoto"
+  },
+  {
+    "id": 6,
+    "english": "New Covenant",
+    "arabic": "العهد الجديد",
+    "maa": "Osotua Ng'ejuk",
+    "literal_meaning": "الارتباط الجديد / الحبل السري المتجدد",
+    "reformed_theology": "تدبير عهد النعمة النهائي والمطلق في دم المسيح الموجه للأمم واليهود معاً.",
+    "references": "لوقا 22:20، عبرانيين 9:15",
+    "citations": "Barron (2015), MBS Bible: Luka 21"
+  },
+  {
+    "id": 7,
+    "english": "Kept Agreement / Treaty",
+    "arabic": "ميثاق التزام (بشري)",
+    "maa": "Olning'o",
+    "literal_meaning": "الاتفاق المسموع والمستجاب له بين البشر",
+    "reformed_theology": "الالتزام الخارجي البشري بالوفاء بالوعود، ويتباين مع Osotua بكون الأخير ارتباطاً حيوياً داخلياً.",
+    "references": "مزمور 15:4، مزمور 50:16",
+    "citations": "Barron (2015): Osotua"
+  },
+  {
+    "id": 8,
+    "english": "God of multifaceted wisdom (Many Colors)",
+    "arabic": "إله الحكمة المتنوعة (ذو الألوان الكثيرة)",
+    "maa": "Parmúàìn",
+    "literal_meaning": "الإله ذو الألوان الكثيرة (التحكم في الفصول والبركة والضيق)",
+    "reformed_theology": "الحكمة الإلهية متعددة الأوجه والقدر والسيادة المطلقة الموجهة لكل الظروف (الضراء والسراء) لخير المختارين.",
+    "references": "أفسس 3:10، رومية 8:28",
+    "citations": "Barron (2021b), Payne (2003)"
+  },
+  {
+    "id": 9,
+    "english": "Beginner of the Earth (Creator)",
+    "arabic": "خالق الأرض ومبتدئ الكون",
+    "maa": "Naɨtɛ́rʉkɔ́p",
+    "literal_meaning": "مبدئة الأرض / التي بدأت الأرض",
+    "reformed_theology": "الخالق بصفته المبدئ الفائق لكل الوجود المادي والروحي من العدم (Ex nihilo).",
+    "references": "تكوين 1:1، يوحنا 1:1",
+    "citations": "Barron (2021b), MBS Bible: Enkiterunoto"
+  },
+  {
+    "id": 10,
+    "english": "The Maker / Artificer",
+    "arabic": "الخالق الصانع للكون",
+    "maa": "ɔlÁɨt́ɔ́bɨŕani",
+    "literal_meaning": "الصانع، المصحح للكسر، المعمر",
+    "reformed_theology": "عمل الخالق في إعادة تكوين النفس وحفظ الطبيعة الإنسانية وعملية الإحياء المستمر.",
+    "references": "تكوين 2:7، مزمور 139:13",
+    "citations": "Barron (2021b), MBS Bible: Yona"
+  },
+  {
+    "id": 11,
+    "english": "The Shepherd (Sovereign)",
+    "arabic": "الراعي (السيادي القيّم)",
+    "maa": "ɔlÁrámátani",
+    "literal_meaning": "الشخص الذي يرعى الأنعام ويسوس شؤونها بكفاءة تامة",
+    "reformed_theology": "الرعاية الإلهية الفعالة والحفظ اللاهوتي للمختارين (Providential Care and Preservation) تحت سيادة المسيح.",
+    "references": "مزمور 23:1، يوحنا 10:11",
+    "citations": "Barron (2021b), MBS Bible: Olkerempe"
+  },
+  {
+    "id": 12,
+    "english": "The Loving One",
+    "arabic": "المحب (ذو المحبة العهدية الأبدية)",
+    "maa": "ɔlAnyɔ́rrani",
+    "literal_meaning": "المحب الذي يساند عملياً ولا يكتفي بالقول",
+    "reformed_theology": "المحبة الإلهية السيادية الفعالة المبشر بها في الفداء، محبة اختيارية أزلية للمفديين.",
+    "references": "1 يوحنا 4:8، رومية 5:8",
+    "citations": "Barron (2021b)"
+  },
+  {
+    "id": 13,
+    "english": "The Benevolent (Black God)",
+    "arabic": "الرحيم المعطي (الله في رضاه وبركته)",
+    "maa": "Enkai Narok",
+    "literal_meaning": "الإله الأسود (السماء الداكنة المحملة بالمطر)",
+    "reformed_theology": "الرضا الإلهي، والنعمة الفائقة الغامرة المنسكبة ببركة المطر الروحي والبركات العهدية.",
+    "references": "تثنية 11:14، يعقوب 1:17",
+    "citations": "Wikipedia: Maasai religion, Barron (2021b)"
+  },
+  {
+    "id": 14,
+    "english": "The Wrathful (Red God)",
+    "arabic": "الديان الغيور (الله في غضبه وقدسته)",
+    "maa": "Enkai Nanyokie",
+    "literal_meaning": "الإله الأحمر (البرق، الجفاف، الموت والدم)",
+    "reformed_theology": "الغضب الإلهي المقدس والغيور العادل ضد الخطيئة والتمرّد، وإعلانات الدينونة والعدالة.",
+    "references": "رومية 1:18، عبرانيين 12:29",
+    "citations": "Wikipedia: Maasai religion, Barron (2021b)"
+  },
+  {
+    "id": 15,
+    "english": "Jesus the Messiah (The Anointed One)",
+    "arabic": "يسوع المسيح (مسيح الله الممسوح)",
+    "maa": "Yesu Oloyelieki le Enkai",
+    "literal_meaning": "يسوع الممسوح بالزيت لأجل التكريس والتبني",
+    "reformed_theology": "الخريستولوجيا العهدية؛ يسوع المفرز والمكرس بمسحة الروح القدس كنبي وكاهن وملك لإتمام مقاصد العهد.",
+    "references": "أعمال 10:38، عبرانيين 1:9",
+    "citations": "Barron (2021a), Nicaea at 1700"
+  },
+  {
+    "id": 16,
+    "english": "Trinity (Triune God)",
+    "arabic": "الثالوث القدوس",
+    "maa": "Enkai unoto okuni",
+    "literal_meaning": "الذات الإلهية الواحدة المتوحدة ثلاثياً",
+    "reformed_theology": "وحدانية الذات الإلهية مع التمايز الأقنومي لثلاثة أقانيم (الآب والابن والروح القدس) متساوين في الجوهر والقدر والمجد.",
+    "references": "متى 28:19، 2 كورنثوس 13:14",
+    "citations": "Nicaea at 1700 (Tertullian/Athanasius context)"
+  },
+  {
+    "id": 17,
+    "english": "God the Father",
+    "arabic": "الله الآب",
+    "maa": "Papa Enkai",
+    "literal_meaning": "الأب الخالق المستقر في السماوات",
+    "reformed_theology": "الأقنوم الأول في الثالوث، المصدر السيادي للمبادرة العهدية والاختيار الأزلي والتبني الروحي للمختارين.",
+    "references": "أفسس 1:3، يوحنا 17:1",
+    "citations": "Barron (2021b), Barron (2023)"
+  },
+  {
+    "id": 18,
+    "english": "God the Son (Incarnate Word)",
+    "arabic": "الله الابن (الكلمة المتجسد)",
+    "maa": "Enkerai e Enkai / Olngejuk le Nkai",
+    "literal_meaning": "ابن الله / كلمة الله الجديد",
+    "reformed_theology": "الأقنوم الثاني، بهاء مجد الآب ورسم جوهره، المتجسد إنساناً كاملاً لفداء الكنيسة وإعلان الآب.",
+    "references": "يوحنا 1:14، كولوسي 1:15",
+    "citations": "Nicaea at 1700, Bediako (1998)"
+  },
+  {
+    "id": 19,
+    "english": "Holy Spirit",
+    "arabic": "الروح القدس",
+    "maa": "Enkiyang'et Sinyati",
+    "literal_meaning": "النفحة المقدسة / النفخة الإلهية المطهرة",
+    "reformed_theology": "الأقنوم الثالث في الثالوث، الرب والمحيي، الفعال في تجديد قلوب الخطاة وتطبيق الفداء وتبكيت الضمائر.",
+    "references": "يوحنا 14:26، أفسس 1:13",
+    "citations": "Barron (2021b), MBS Bible: Luka 21"
+  },
+  {
+    "id": 20,
+    "english": "Sovereignty of God",
+    "arabic": "السيادة الإلهية المطلقة",
+    "maa": "Enkitoria e Enkai pooki ntokitin",
+    "literal_meaning": "السلطة الحاكمة لله على كل شيء مطلقاً",
+    "reformed_theology": "الرئاسة اللاهوتية الكلية على الطبيعة والتاريخ والضمائر البشرية لإنفاذ مشيئته الأزلية الصالحة.",
+    "references": "مزمور 115:3، دانيال 4:35",
+    "citations": "MBS Bible: Yona, Barron (2021b)"
+  },
+  {
+    "id": 21,
+    "english": "Decree of God",
+    "arabic": "المرسوم الإلهي الأزلي",
+    "maa": "Enkitoria natisiraki apa Enkai te shumata",
+    "literal_meaning": "أمر الله المكتوب مسبقاً في السماء",
+    "reformed_theology": "المقاصد الأزلية التي رتبها الخالق لإنفاذ كل حدث وفق مشيئته السيادية.",
+    "references": "مزمور 115:3، رومية 1:18",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 22,
+    "english": "Divine Providence",
+    "arabic": "العناية الإلهية الحافظة",
+    "maa": "Eramatare e Enkai",
+    "literal_meaning": "الرعاية الرعوية والتدبير والوصاية الإلهية للأرض",
+    "reformed_theology": "الحفظ الإلهي الفعال الحاكم لكل المخلوقات والموجه لها لبلوغ غاياتها المرسومة.",
+    "references": "أفسس 1:5، كولوسي 1:16",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 23,
+    "english": "Sovereign Grace",
+    "arabic": "النعمة السيادية",
+    "maa": "Emayianata nemeata esile",
+    "literal_meaning": "البركة المجانية الخالية من الديون",
+    "reformed_theology": "مبادرة الله خلاصية المجانية والفعالة الموجهة للخطاة دون استحقاق أو قيد.",
+    "references": "مزمور 115:3، رومية 1:18",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 24,
+    "english": "Common Grace",
+    "arabic": "النعمة المشتركة المانعة",
+    "maa": "Emayianata oo ltung'anak pooki",
+    "literal_meaning": "البركة الممنوحة للجميع دون تمييز",
+    "reformed_theology": "اللطف الإلهي غير الخلاصي الذي يحد من الفساد البشري ويحفظ الحياة الاجتماعية ويمنح الخيرات العامة للجميع.",
+    "references": "أفسس 1:5، كولوسي 1:16",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 25,
+    "english": "Prevenient Grace",
+    "arabic": "النعمة الممهدة المستبقة",
+    "maa": "Enkiyang'et dukuya enkirukoto",
+    "literal_meaning": "النفحة الروحية السابقة للإيمان",
+    "reformed_theology": "النعمة الإلهية غير المستحقة التي تسبق وتؤهل المختار للاستجابة لإعلان الكلمة بالإيمان.",
+    "references": "مزمور 115:3، رومية 1:18",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 26,
+    "english": "Atonement",
+    "arabic": "الفداء والكفارة",
+    "maa": "Esharunoto te ndukuya e Yesu",
+    "literal_meaning": "الافتداد بدم يسوع الفادي",
+    "reformed_theology": "العمل النيابي البديل الكامل للمسيح على الصليب لإرضاء العدالة الإلهية وغفران خطايا المختارين.",
+    "references": "أفسس 1:5، كولوسي 1:16",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 27,
+    "english": "Active Obedience of Christ",
+    "arabic": "الطاعة الإيجابية للمسيح",
+    "maa": "Enias supati pooki e Yesu",
+    "literal_meaning": "الأعمال الصالحة الكاملة ليسوع",
+    "reformed_theology": "التزام المسيح الكامل والنشط بالناموس الإلهي طوال حياته لتوفير بر يحسب قضائياً للمؤمنين.",
+    "references": "مزمور 115:3، رومية 1:18",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 28,
+    "english": "Passive Obedience of Christ",
+    "arabic": "الطاعة السلبية للمسيح",
+    "maa": "Eninkoko e Yesu te ndukeya e keeya",
+    "literal_meaning": "خضوع يسوع للموت طاعة للآب",
+    "reformed_theology": "تسليم المسيح نفسه للموت والآلام على الصليب نائباً عن شعبه ليحمل العقوبة القضائية المستحقة.",
+    "references": "أفسس 1:5، كولوسي 1:16",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 29,
+    "english": "Ex Nihilo Creation",
+    "arabic": "الخلق من العدم",
+    "maa": "Enkitobirunoto e nkop nemetaa entoki apa",
+    "literal_meaning": "بدء خلق الأرض من لا شيء",
+    "reformed_theology": "تأسيس الخالق للكون الفسيح من غير مادة سابقة بأمر كلمته الأسمى وقدرته المطلقة.",
+    "references": "مزمور 115:3، رومية 1:18",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 30,
+    "english": "Holiness of God",
+    "arabic": "القداسة الإلهية الفائقة",
+    "maa": "Esupatisho e Enkai naaitame ng'ok",
+    "literal_meaning": "البر والكمال الإلهي الخالص والأصيل",
+    "reformed_theology": "التمايز الأنطولوجي والأخلاقي التام للخالق عن مخلوقاته وبعده الكامل عن أي ظل للفساد.",
+    "references": "أفسس 1:5، كولوسي 1:16",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 31,
+    "english": "Immutability of God",
+    "arabic": "عدم التغير الإلهي",
+    "maa": "Nemelekenya Enkai katukul",
+    "literal_meaning": "الله الذي لا يتبدل أو يتغير إطلاقاً",
+    "reformed_theology": "الثبات الأنطولوجي المطلق للذات الإلهية في صفاتها ومقاصدها وعهودها أزلأ وأبداً.",
+    "references": "مزمور 115:3، رومية 1:18",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 32,
+    "english": "Omnipresence",
+    "arabic": "الحضور الإلهي الكلي",
+    "maa": "Enkai natii pooki wueji te nebo",
+    "literal_meaning": "الإله الحاضر في كل الأماكن معاً",
+    "reformed_theology": "الحضور غير المحدود للذات الروحية الإلهية في كل سياق من الوجود المادي والروحي دون مجانسة.",
+    "references": "أفسس 1:5، كولوسي 1:16",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 33,
+    "english": "Omniscience",
+    "arabic": "العلم الإلهي الكلي",
+    "maa": "Enkai nayiolo pooki ntokitin",
+    "literal_meaning": "الإله العليم بكل الأمور سلفاً",
+    "reformed_theology": "إدراك الله الكامل والمطلق والشامل لجميع الحقائق والوقائع الماضية والحاضرة والمستقبلة والممكنة.",
+    "references": "مزمور 115:3، رومية 1:18",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 34,
+    "english": "Omnipotence",
+    "arabic": "القدرة الإلهية الكلية",
+    "maa": "Enkai naaidim pooki ntokitin",
+    "literal_meaning": "الإله القدير على كل المقاصد",
+    "reformed_theology": "سلطان الله وقدرته المطلقة واللانهاية لتنفيذ كل ما يتوافق مع طبيعته المقدسة وقداسة إرادته.",
+    "references": "أفسس 1:5، كولوسي 1:16",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 35,
+    "english": "God's Justice",
+    "arabic": "العدل الإلهي المطلق",
+    "maa": "Esupatisho e Enkai naaitame ng'ok",
+    "literal_meaning": "بر الله الذي يدين ويعاقب الشرور",
+    "reformed_theology": "المعيار القضائي الإلهي الذي يقتص للحق ويعاقب الخطيئة وفق معيار قداسته التامة.",
+    "references": "مزمور 115:3، رومية 1:18",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 36,
+    "english": "Love of God",
+    "arabic": "المحبة الإلهية العهدية",
+    "maa": "Enyorrata e Enkai",
+    "literal_meaning": "المحبة الصادقة والفاعلة التي تمنح البركة",
+    "reformed_theology": "العاطفة الإلهية العهدية الموجهة للمؤمنين كعطية أبدية تشكل أساس الأمان والترابط العضوي.",
+    "references": "أفسس 1:5، كولوسي 1:16",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 37,
+    "english": "Mercy of God",
+    "arabic": "الرحمة الإلهية الشاملة",
+    "maa": "Olng'ur le Enkai",
+    "literal_meaning": "تعاطف الخالق والخير المنسكب للمحتاجين",
+    "reformed_theology": "التعاطف الإلهي السيادي الذي يمنع العقوبة المستحقة ويرفع وطأة البؤس والمشقة عن التائبين.",
+    "references": "مزمور 115:3، رومية 1:18",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 38,
+    "english": "Glory of God",
+    "arabic": "المجد الإلهي الفائق",
+    "maa": "Enkisisa Sapuk e Enkai",
+    "literal_meaning": "التسبيح والرفعة والتاج والكرامة السامية لله",
+    "reformed_theology": "الإعلان البهي والساطع للذات الإلهية وكمال صفاتها الذي يستحق السجود والحمد من كل الخليقة.",
+    "references": "أفسس 1:5، كولوسي 1:16",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 39,
+    "english": "Faith (Sola Fide)",
+    "arabic": "الإيمان المبرر (الثقة والاستسلام الميثاقي)",
+    "maa": "Enkirukoto",
+    "literal_meaning": "القبول المطلق، الالتزام القلبي، الاتكال والموافقة المستجيبة",
+    "reformed_theology": "الإيمان المصلح الفعال (Pistis)؛ هبة إلهية سيادية تسلّم المؤمن بالكامل لوعد الكلمة وتتبرر به القضية الخلاصية.",
+    "references": "تكوين 15:6، روما 10:17",
+    "citations": "MBS Bible: Enkiterunoto, ترجمات بلغة Maa"
+  },
+  {
+    "id": 40,
+    "english": "Salvation / Regeneration",
+    "arabic": "الولادة الجديدة / الخلاص والتجديد الباطني",
+    "maa": "Enjeunoto / Enjeun",
+    "literal_meaning": "العبور التام والنجاة الروحية والانتقال من الموت للعيش الروحي",
+    "reformed_theology": "التجديد الروحي الفعال (Regeneration) بفعل السيادة الإلهية، التحول من موت الخطيئة إلى حيوية النعمة والتبني.",
+    "references": "يوحنا 3:3، تيتوس 3:5",
+    "citations": "REV.BEN NKOWUA: ENJEUNOTO, Mary Sinigi (2024)"
+  },
+  {
+    "id": 41,
+    "english": "Redemption / Ransom",
+    "arabic": "الفداء النيابي البديل / الافتداء الموضوعي",
+    "maa": "Esharunoto",
+    "literal_meaning": "الافتداء المادي أو الإنقاذ الجسدي من خطر وشيك مهدد للحياة",
+    "reformed_theology": "البُعد الموضوعي الخارجي للفداء النيابي البديل؛ حيث يقدم الفدية القضائية التامة لإطلاق سراح الخاطئ من دينونة الموت الأبدي.",
+    "references": "مارقس 10:45، أفسس 1:7",
+    "citations": "MBS Bible: Luka 21, MBS Bible: Olkerempe 40"
+  },
+  {
+    "id": 42,
+    "english": "Forensic Wages / Penalty",
+    "arabic": "الأجرة القضائية المستحقة (أجرة الخطيئة)",
+    "maa": "Olekoisiayio loo ng'ok",
+    "literal_meaning": "التعويض أو المقابل المالي القضائي المستحق على العمل البشري",
+    "reformed_theology": "المنظور القضائي الكالفيني للخطيئة بصفتها جالبة لاستحقاق الموت الأبدي بموجب العدالة الإلهية الصارمة.",
+    "references": "رومية 6:23",
+    "citations": "ترجمات بلغة Maa (Forensic Soteriology)"
+  },
+  {
+    "id": 43,
+    "english": "True Convert / Covenant Adoptee",
+    "arabic": "المهتدي الحقيقي (المتبنى الممسوح بالعهد)",
+    "maa": "Oloyelieki e ilata",
+    "literal_meaning": "الشخص الذي دهن فعلياً بالزيت إعلاناً لتبنيه العائلي العابر للثقافات",
+    "reformed_theology": "الاهتداء والتبني الروحي الذي يمنح المؤمن مركزاً شرعياً في عهد النعمة مع الاحتفاظ بهويته الثقافية والوطنية النقية دون تهجين.",
+    "references": "رومية 8:15، غلاطية 4:5",
+    "citations": "Barron (2021a), Yenko (2021)"
+  },
+  {
+    "id": 44,
+    "english": "Proselyte / External Conformist",
+    "arabic": "الدخيل الطقسي / التابع التوفيقي المستعير للثقافة",
+    "maa": "Olmeeki / Ormeeki",
+    "literal_meaning": "الأجنبي المحتقر أو الغريب عن الميثاق العهدي الداخلي للقبيلة",
+    "reformed_theology": "الامتثال الخارجي الشكلي المستند لأعمال الناموس وتبني الثقافات الأجنبية كشرط خلاصي ناموسي تجاري مرفوض عقائدياً.",
+    "references": "أعمال 15:1، غلاطية 2:14",
+    "citations": "Barron (2021a), Hodgson (2011)"
+  },
+  {
+    "id": 45,
+    "english": "Solemn Denunciation / May it never be!",
+    "arabic": "حاشا للنعمة أن تتهاون! / الرفض الأخلاقي القاطع",
+    "maa": "Taba meing'uang'a!",
+    "literal_meaning": "ليُحرم هذا تماماً، ليس الآن، ولا في أي وقت، ولا إلى الأبد!",
+    "reformed_theology": "الرفض الأخلاقي القاطع والحاسم (Me genoito) لردع التأويل الرخيص للنعمة، وتأسيس عقيدة التقديس العملي الصارم.",
+    "references": "رومية 6:2، رومية 6:15",
+    "citations": "Barron (2013): Mme ninye"
+  },
+  {
+    "id": 46,
+    "english": "Sola Fide (Faith Alone)",
+    "arabic": "بالإيمان وحده",
+    "maa": "Enkirukoto ake",
+    "literal_meaning": "القبول والثقة والاتكال وحده",
+    "reformed_theology": "الخلاص المبرر ينال بأداة الإيمان القلبي الفعال بوعود المسيح الفدائية، وبمعزل عن استحقاقات الأعمال الناموسية البشريّة.",
+    "references": "رومية 3:28، غلاطية 2:16",
+    "citations": "WCC Reformation Anniversary (Tanzania, 2017)"
+  },
+  {
+    "id": 47,
+    "english": "Sola Gratia (Grace Alone)",
+    "arabic": "بالنعمة وحدها",
+    "maa": "Emayianata e Enkai ake / Osotua ake",
+    "literal_meaning": "عطية وبركة الله الخالصة وحدها",
+    "reformed_theology": "الخلاص من البدء إلى المنتهى هو مبادرة خلاصية فائقة ومجانية من الله كلي السيادة تجاه بشر هالِكين لا يستحقون شيئاً.",
+    "references": "أفسس 2:8، تيموثاوس الثانية 1:9",
+    "citations": "WCC Reformation Anniversary (Tanzania, 2017)"
+  },
+  {
+    "id": 48,
+    "english": "Solus Christus (Christ Alone)",
+    "arabic": "بالمسيح وحده",
+    "maa": "Yesu Kristo ake",
+    "literal_meaning": "يسوع المسيح وحده دون غيره",
+    "reformed_theology": "المسيح هو الوسيط الوحيد والكامل والنهائي لعهد النعمة، وبموته وقيامته وحده تم إنجاز الفداء والتبرير لشعبه.",
+    "references": "يوحنا 14:6، 1 تيموثاوس 2:5",
+    "citations": "WCC Reformation Anniversary (Tanzania, 2017)"
+  },
+  {
+    "id": 49,
+    "english": "Sola Scriptura (Scripture Alone)",
+    "arabic": "بالكتاب وحده",
+    "maa": "Ororei le Nkai ake",
+    "literal_meaning": "كلمة الله المكتوبة وحدها",
+    "reformed_theology": "كلمة الله المكتوبة هي السلطة الإلهية الأسمى والمكتملة والمعصومة الحاكمة لجميع شؤون العقيدة والتقوى الكنسية والعملية.",
+    "references": "2 تيموثاوس 3:16، مزمور 119:105",
+    "citations": "WCC Reformation Anniversary (Tanzania, 2017)"
+  },
+  {
+    "id": 50,
+    "english": "Soli Deo Gloria (Glory to God Alone)",
+    "arabic": "المجد لله وحده",
+    "maa": "Enkisisa Sapuk e Enkai ake",
+    "literal_meaning": "تسبيح وتعظيم الله السامي وحده",
+    "reformed_theology": "الهدف الأسمى لخلق الكون وتدبير الفداء هو إعلان كمال وبهاء مجد الله الخالق وحده دون أي تفاخر بشري.",
+    "references": "رومية 11:36، 1 كورنثوس 10:31",
+    "citations": "WCC Reformation Anniversary (Tanzania, 2017)"
+  },
+  {
+    "id": 51,
+    "english": "Total Depravity",
+    "arabic": "الفساد الكلي البشري",
+    "maa": "Enkitonoto e ng'ok te pooki sirit e tung'ani",
+    "literal_meaning": "السقوط والتمرد التام لكل سرية البشر",
+    "reformed_theology": "عجز الإنسانية الكامل بعد السقوط عن فعل أي بر روحي خلاصي، وفساد جميع قواها الذهنية والقلبية.",
+    "references": "يوحنا 3:3، رومية 8:15",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 52,
+    "english": "Unconditional Election",
+    "arabic": "الاختيار الأزلي غير المشروط",
+    "maa": "Enkipoyiota Enkai nemeata esile",
+    "literal_meaning": "اختيار وفرز الله الخالي من شروط الديون والناموس",
+    "reformed_theology": "انتخاب الله السيادي للمختارين للحصول على الخلاص قبل تأسيس العالم بناءً على مشيئته الصالحة دون أي استحقاق متوقع.",
+    "references": "أفسس 2:8، رومية 3:24",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 53,
+    "english": "Particular Redemption",
+    "arabic": "الفداء المحدود / الكفارة الخاصة",
+    "maa": "Esharunoto oo ltasujak ake",
+    "literal_meaning": "فداء المختارين والتلاميذ المفرزين وحدهم",
+    "reformed_theology": "موت المسيح النيابي الفعال والمخصص حصراً لخلاص وفداء كنيسته ومختاريه لإتمام تبريرهم يقيناً.",
+    "references": "يوحنا 3:3، رومية 8:15",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 54,
+    "english": "Irresistible Grace",
+    "arabic": "النعمة الفعالة التي لا تقاوم",
+    "maa": "Enkiyang'et sapuk nemedidimayu aitoki",
+    "literal_meaning": "النفحة الإلهية القوية التي لا يمكن ردها",
+    "reformed_theology": "العمل الفوق طبيعي للروح القدس الذي يجدد المشيئة الميتة ويجذب المؤمن بقوة وحنو ليستجيب طوعاً للنداء الخلاصي.",
+    "references": "أفسس 2:8، رومية 3:24",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 55,
+    "english": "Perseverance of the Saints",
+    "arabic": "مثابرة القديسين وثباتهم",
+    "maa": "Enteleku tiatua enyorata e Enkai",
+    "literal_meaning": "البقاء والثبات في محبة وعهد الله الدائم",
+    "reformed_theology": "حفظ الله للمختارين بقوة نعمته الحافظة بحيث يستمرون في الإيمان والقداسة والتقديس إلى النهاية السعيدة في المجد.",
+    "references": "يوحنا 3:3، رومية 8:15",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 56,
+    "english": "Justification",
+    "arabic": "التبرير القضائي الإلهي",
+    "maa": "Esupatisho e Enkai tiatua enkoisiayio",
+    "literal_meaning": "حسبان الله للخاطئ باراً في دائرة القضاء والتعويض",
+    "reformed_theology": "إعلان إلهي خلاصي بمقتضاه يغفر خطايا المؤمن ويحتسب بر المسيح كاملاً ومجاناً له بالإيمان وحده.",
+    "references": "أفسس 2:8، رومية 3:24",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 57,
+    "english": "Imputation of Righteousness",
+    "arabic": "احتساب البر الخارجي للمسيح",
+    "maa": "Enkirukoto e Abraham netisiraki anaa esupatisho",
+    "literal_meaning": "إيمان إبراهيم الذي قُيّد واحتُسب له براً شرعياً",
+    "reformed_theology": "نسب وتقييد بر المسيح الإيجابي التام لحساب المؤمن قضائياً كقاعدة وحيدة لقبوله الغافر والتام أمام العرش.",
+    "references": "يوحنا 3:3، رومية 8:15",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 58,
+    "english": "Regeneration (New Birth)",
+    "arabic": "التجديد والولادة من فوق",
+    "maa": "Etotiwuo ng'ejuk te nkiyang'et",
+    "literal_meaning": "الولادة الجديدة بفعل النفحة الروحية",
+    "reformed_theology": "الإحياء الروحي المبدئي الفوري الذي يجريه الروح القدس في الخاطئ الميت ليمنحه قلباً حياً مستجيباً لله.",
+    "references": "أفسس 2:8، رومية 3:24",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 59,
+    "english": "Repentance unto Life",
+    "arabic": "التوبة الحقيقية المفضية للحياة",
+    "maa": "Enkibelekenyata oo ltau te ntonoto",
+    "literal_meaning": "تحويل وتغيير القلب وترك السقوط للخارج",
+    "reformed_theology": "الحزن المقدس الحقيقي على الخطيئة والتحول المطلق والفعال عنها بالإيمان التائب للمسيح طاعة وولاءً.",
+    "references": "يوحنا 3:3، رومية 8:15",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 60,
+    "english": "Adoption (Covenantal)",
+    "arabic": "التبني العهدي الإلهي",
+    "maa": "Enkiyieleta e mpere le Kristo",
+    "literal_meaning": "مسحة التبني والفرز العهدي العابر للقبيلة بالمسيح",
+    "reformed_theology": "المركز الشرعي السامي الذي يحصل عليه المؤمن المبرر ليصبح ابناً وارثاً لملكوت الله ووعوده الثمينة.",
+    "references": "أفسس 2:8، رومية 3:24",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 61,
+    "english": "Sanctification (Progressive)",
+    "arabic": "التقديس العملي المتنامي",
+    "maa": "Enkitasotata te supatisho e Enkai",
+    "literal_meaning": "الارتباط والنمو في حياة البر الإلهية",
+    "reformed_theology": "العمل التدريجي المشترك للروح القدس والمؤمن المميت لقوة الخطيئة والنامي في الفضائل المسيحية.",
+    "references": "يوحنا 3:3، رومية 8:15",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 62,
+    "english": "Mortification of Sin",
+    "arabic": "إماتة الخطيئة اليومية",
+    "maa": "Etaaroto e ntorrok oo ng'ok tiatua",
+    "literal_meaning": "قتل وإبادة الشرور والخطايا في الداخل",
+    "reformed_theology": "السعي العملي الصارم لإخضاع الجسد وإماتة الشهوات الباطلة بالاستعانة الفعالة بقوة الروح القدس الحليف.",
+    "references": "أفسس 2:8، رومية 3:24",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 63,
+    "english": "Vivification of Spirit",
+    "arabic": "إحياء وحيوية الروح الجديدة",
+    "maa": "Enkishui ng'ejuk e nkiyang'et",
+    "literal_meaning": "إشعال وازدهار الحياة الروحية بالروح القدس",
+    "reformed_theology": "التنامي اليومي النشط في الفضائل والبر تحت توجيه وقوة النعمة الإلهية المجددة والمحفزة لمقاصد الإيمان.",
+    "references": "يوحنا 3:3، رومية 8:15",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 64,
+    "english": "Assurance of Salvation",
+    "arabic": "اليقين الروحي بالخلاص",
+    "maa": "Enkisiligata nasipa te njeunoto",
+    "literal_meaning": "الرجاء والثقة الحقيقية بالنجاة والعبور",
+    "reformed_theology": "الثقة القلبية اليقينية التي يمنحها الروح القدس للمؤمن بأنه ابن حقيقي ومختار لله ومحفوظ للأبد.",
+    "references": "أفسس 2:8، رومية 3:24",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 65,
+    "english": "Unio Mystica (Union with Christ)",
+    "arabic": "الاتحاد السري بالمسيح",
+    "maa": "Enkitasotata te Kristo te nebo",
+    "literal_meaning": "الترابط العضوي والاتحاد بالمسيح كالحبل السري",
+    "reformed_theology": "الاتحاد الروحي السري والوثيق بين المؤمن ورأسه الفادي (المسيح)، مصدر الحياة المشتركة والشركة الفعالة.",
+    "references": "يوحنا 3:3، رومية 8:15",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 66,
+    "english": "The Mediator",
+    "arabic": "الوسيط لعهد النعمة",
+    "maa": "Olautaroni le osotua ng'ejuk",
+    "literal_meaning": "المرشد الحافظ لعهد النعمة الجديد",
+    "reformed_theology": "المسيح يسوع في صفته وسيطاً شرعياً ووحيداً للتصالح التام وإقرار عهد النعمة بين الآب والخطاة المختارين.",
+    "references": "أفسس 2:8، رومية 3:24",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 67,
+    "english": "Propitiation",
+    "arabic": "استرضاء الغضب الإلهي العادل",
+    "maa": "Esharunoto naitobir Enkai Nanyokie",
+    "literal_meaning": "الفداء والذبيحة التي ترضي وتصالح الغضب الأحمر",
+    "reformed_theology": "الذبيحة الفدائية الكاملة للمسيح التي امتصت وصالحت الغضب المقدس للآب (الله الأحمر) وصنعت الرضا التام الكفاري.",
+    "references": "يوحنا 3:3، رومية 8:15",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 68,
+    "english": "Definite Redemption",
+    "arabic": "الفداء الحاسم والمتحقق يقيناً",
+    "maa": "Esharunoto naitajeu lelo pooki",
+    "literal_meaning": "الفداء التام الذي ينقذ الموعودين يقيناً",
+    "reformed_theology": "فعالية الموت التكفاري للمسيح في إتمام وتحقيق وشفاء كرامة وسلامة وخلاص المفديين المضمونين قضائياً سلفاً.",
+    "references": "أفسس 2:8، رومية 3:24",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 77,
+    "english": "The Church (Cohort of Christ)",
+    "arabic": "الكنيسة (سرية المسيح الروحية)",
+    "maa": "eSírít / eSírít e Kristo",
+    "literal_meaning": "الفوج، الكتيبة، أو السرية المتضامنة للشباب والمحاربين",
+    "reformed_theology": "المنظور الإيكليسيولوجي الكالفيني؛ الكنيسة بوصفها كتيبة المسيح الروحية التي تتقاسم الحياة والميراث بروح الإنجيل والمشاركة والالتزام التام.",
+    "references": "أفسس 3:21، كولوسي 1:18",
+    "citations": "Barron (2021b), Benson (1971)"
+  },
+  {
+    "id": 78,
+    "english": "Christ the Head (Wisdom Counselor)",
+    "arabic": "رأس الكنيسة (المتحدث والمستشار الأسمى للسرية)",
+    "maa": "olAigúɛ́nani le Sirit",
+    "literal_meaning": "المستشار الحكيم، والمتحدث باسم الفوج أو السرية الذي يدير церемонії والعدل",
+    "reformed_theology": "ربوبية وسيادة المسيح ورئاسته المطلقة لكنيسته؛ المرشد الروحي والناصح الأوحد العابر للأجيال لسرية المسيح الروحية.",
+    "references": "أفسس 1:22، أفسس 5:23",
+    "citations": "Barron (2021b), Benson (1971)"
+  },
+  {
+    "id": 79,
+    "english": "Mutual Submission (Ephesians 5:21)",
+    "arabic": "الخضوع المتبادل / المهابة الروحية المشتركة",
+    "maa": "Enkanyit e sirit te nebo",
+    "literal_meaning": "الاحترام والمهابة والوقار العائلي والقبلي المتبادل",
+    "reformed_theology": "الخضوع المتبادل في مخافة الرب (Ephesians 5:21)؛ مهابة روحية تعزز من الكرامة العهدية المشتركة وتنهي استغلال الخضوع أحادي الجانب.",
+    "references": "أفسس 5:21، رومية 12:10",
+    "citations": "Barron (2021): Mutual Submission"
+  },
+  {
+    "id": 80,
+    "english": "Covenantal Table Fellowship",
+    "arabic": "العشاء الرباني ميثاقياً (مائدة العهد المشتركة)",
+    "maa": "endaa emusho / enkoshoke naata osotua",
+    "literal_meaning": "البطن أو المعدة هي التي تمتلك وتجمع الحبل السري والعهد",
+    "reformed_theology": "ممارسة كسر الخبز وتناول الكأس كشركة حيوية عهدية تربط المؤمنين برأس العهد (المسيح) والترابط التام ببعضهم البعض.",
+    "references": "1 كورنثوس 11:24، لوقا 22:19",
+    "citations": "Barron (2015), s.s. ole Sankan (1971)"
+  },
+  {
+    "id": 81,
+    "english": "Ecclesiology",
+    "arabic": "لاهوت الكنيسة وأنظمتها",
+    "maa": "Enkiteng'enata e sirit e Enkai",
+    "literal_meaning": "تعاليم ودراسة سرية وفوج الله",
+    "reformed_theology": "دراسة لاهوتية لطبيعة الكنيسة، ونظامها، وسلطتها، ورسالتها كأداة للملكوت.",
+    "references": "1 كورنثوس 11:26، أفسس 5:22",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 82,
+    "english": "Sacrament (Sacred Sign)",
+    "arabic": "السر الروحي (العلامة العهدية)",
+    "maa": "Enkisainoto Sinyati e Osotua",
+    "literal_meaning": "الوسم والفرز المقدس للعهد",
+    "reformed_theology": "العلامات والوجوه الخارجية المحددة من المسيح كأختام وضمانات عهدية لتأكيد مقاصد النعمة الباطنية.",
+    "references": "مزمور 119:11، رومية 11:33",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 83,
+    "english": "Covenant Baptism",
+    "arabic": "المعمودية العهدية (علامة الدخول)",
+    "maa": "Enkibatisa e osotua te nebo",
+    "literal_meaning": "الصبغ والدهن العهدي للفرز والتطهير",
+    "reformed_theology": "العلامة السرائرية لعهد النعمة للتطهير الروحي والتبني والاتحاد بجسد المسيح المحلي والكوني.",
+    "references": "1 كورنثوس 11:26، أفسس 5:22",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 84,
+    "english": "Divine Inbreathing / Inspiration",
+    "arabic": "الوحي الإلهي اللفظي والأسمى",
+    "maa": "Ilkigerot pooki naa Enkai nayang'ua",
+    "literal_meaning": "كل المكتوبات تنفّس بها الله وخرجت من روحه",
+    "reformed_theology": "عمل الروح القدس في إلهام الكتبة البشريين لكتابة أسفار معصومة ومثمرة للتعليم والقضاء الروحي.",
+    "references": "مزمور 119:11، رومية 11:33",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 85,
+    "english": "Illumination of Holy Spirit",
+    "arabic": "الاستنارة الروحية لقراءة الكلمة",
+    "maa": "Enkibulunoto oo ltau te Ororei",
+    "literal_meaning": "فتح واستنارة القلب لفهم كلمة الله وجني ثمرها",
+    "reformed_theology": "العمل الباطني للروح القدس لتمكين المؤمن من فهم الكلمة المكتوبة وتطبيقها سياقياً وروحيّاً.",
+    "references": "1 كورنثوس 11:26، أفسس 5:22",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 86,
+    "english": "Cow/Herd Hermeneutics",
+    "arabic": "الهيرمنيوطيقا الرعوية العهدية",
+    "maa": "Enkiteng Hermeneutics",
+    "literal_meaning": "منهج فحص واجترار الكلمة على مثال البقرة الصالحة",
+    "reformed_theology": "المنهج التفسيري السياقي الرعوي الذي يوظف الاجترار ورموز ديمومة الحياة لتعميق فهم الكلمة وتجسيدها.",
+    "references": "مزمور 119:11، رومية 11:33",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 87,
+    "english": "Oral Proclamation",
+    "arabic": "الإعلان والتناقل الشفهي للحق",
+    "maa": "Elikioroto e Ororei le Nkai",
+    "literal_meaning": "إسماع وقراءة ونشر الأخبار الصالحة لشبه الرحل",
+    "reformed_theology": "الوعظ والإعلان العقائدي المسموع المتوافق مع الطبيعة الشفهية للمجتمع لبناء الكنائس وتثبيتها.",
+    "references": "1 كورنثوس 11:26، أفسس 5:22",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 88,
+    "english": "Eschatological Separation",
+    "arabic": "الدينونة والأفراز الأخروي الحاسم",
+    "maa": "Enkiguenata sapuk e Enkai te pooki sirit",
+    "literal_meaning": "دينونة وفصل وفحص الله الأخير لجميع السرايا",
+    "reformed_theology": "الفحص الإلهي والقضاء العادل الأخير لفرز الأشرار (المطاردين للضباع) عن الأبرار المفديين.",
+    "references": "مزمور 119:11، رومية 11:33",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 89,
+    "english": "Eschatology (New Creation)",
+    "arabic": "الأخرويات الفائقة والخليقة المتجددة",
+    "maa": "Enkop ng'ejuk oo keper ng'ejuk",
+    "literal_meaning": "الأرض والسماء الجديدة الفائقة في الخصوبة والبركة",
+    "reformed_theology": "اكتمال تاريخ الفداء بإقامة الموتى، وتجديد الخليقة، وسيادة ملكوت الله الأبدي الشامل.",
+    "references": "1 كورنثوس 11:26، أفسس 5:22",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 90,
+    "english": "Eucharistic Real Presence",
+    "arabic": "حضور المسيح الروحي الحقيقي",
+    "maa": "Enkiree e Yesu tiatua endaa emusho",
+    "literal_meaning": "وجود وحضور يسوع الروحي الفعال في مائدة الشركة",
+    "reformed_theology": "حضور المسيح الحقيقي بلاهوته وفعاليته الروحية في قلوب متناولي الخبز والكأس بالإيمان.",
+    "references": "مزمور 119:11، رومية 11:33",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 91,
+    "english": "Practical Puritan Piety",
+    "arabic": "التقوى البوريتانية العملية الملتزمة",
+    "maa": "Enoto e supatisho nasipa te nkias",
+    "literal_meaning": "تطبيق وعيش حياة البر بقداسة عملية ظاهرة",
+    "reformed_theology": "العيش بقداسة عملية صارمة وإخضاع كل مناحي الحياة اليومية والعائلية لمجد الله وسيادة شريعته.",
+    "references": "1 كورنثوس 11:26، أفسس 5:22",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 92,
+    "english": "Eldership (Presbyterian)",
+    "arabic": "نظام الشيوخ الرعوي المصلح",
+    "maa": "Inkirorot oo lpayiani le sirit",
+    "literal_meaning": "إدارة وتدبير شيوخ الفوج العمرائي لشؤون الكنيسة",
+    "reformed_theology": "نظام القيادة الجماعي التعددي شيوخياً (Presbytery) المنسجم مع مجلس الشيوخ التقليدي لإرشاد وتدريس وفحص الجماعة الكنسية.",
+    "references": "مزمور 119:11، رومية 11:33",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 93,
+    "english": "Excommunication (Censure)",
+    "arabic": "الحظر والفرز الكنسي التأديبي",
+    "maa": "Enkitame e sirit te nkaraki torrok",
+    "literal_meaning": "إقصاء وطرد المتمرد من سرية وفوج المؤمنين",
+    "reformed_theology": "الإنقاذ والإبعاد القضائي لعضو فوج المؤمنين التائب حماية لنقاء وسرية الفوج والحد من تسرب الفساد اليها.",
+    "references": "1 كورنثوس 11:26، أفسس 5:22",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 94,
+    "english": "Covenantal Family",
+    "arabic": "الأسرة العهدية المصلحة",
+    "maa": "Enkaji e osotua te nebo Enkai",
+    "literal_meaning": "المنزل الحافظ للعهد الروحي والمهابة",
+    "reformed_theology": "البيت المنظم وفق ميثاق النعمة حيث يلتزم الزوج والزوجة بالاحترام المتبادل وتربية الأولاد بالكلمة.",
+    "references": "مزمور 119:11، رومية 11:33",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 95,
+    "english": "Christian Liberty",
+    "arabic": "الحرية الروحية للمؤمنين",
+    "maa": "Enkotunoto nasipa tiatua Kristo",
+    "literal_meaning": "التحرر الكامل والحقيقي في المسيح من القيود العبودية",
+    "reformed_theology": "التحرير الخلاصي من عبودية الخطيئة والناموس الطقسي للتعبد لله طواعية ومحبة دون عبودية لتعاليم البشر.",
+    "references": "1 كورنثوس 11:26، أفسس 5:22",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 96,
+    "english": "The World (Grace-Resisting)",
+    "arabic": "العالم (المقاوم والجاحد للنعمة)",
+    "maa": "Enkop nemeyiol Enkai / Ilmeek",
+    "literal_meaning": "الأرض والجموع البعيدة والجاحدة لميثاق عهد الله",
+    "reformed_theology": "الكيان الإنساني المقاوم لسيادة النعمة والرازح تحت سلطان التمرد والفساد الطبيعي.",
+    "references": "مزمور 119:11، رومية 11:33",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 97,
+    "english": "Eschatological Sanctuary",
+    "arabic": "المأوى والأرض الخلاصية للأبد",
+    "maa": "Enkop e pasinai oo ltung'anak le Enkai",
+    "literal_meaning": "أرض وجبل معاهدة الله الحافظة للأبرار للأبد",
+    "reformed_theology": "الراحة النهائية والمسكن الأبدي للمفديين في مأوى السيادة والملكوت الفائق.",
+    "references": "1 كورنثوس 11:26، أفسس 5:22",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 98,
+    "english": "Final Imputed Justification",
+    "arabic": "التبرير الأخير في يوم الدينونة",
+    "maa": "Esupatisho e pooki tung'ani te ndukuya e Enkai",
+    "literal_meaning": "البر القضائي الأخير والنهائي أمام العرش الفائق",
+    "reformed_theology": "الحكم الإلهي الحاسم في نهاية التاريخ لتبرير المختارين تبريراً أبدياً معلناً وعلنيّاً بناءً على استحقاق دم الفادي وحده.",
+    "references": "مزمور 119:11، رومية 11:33",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 99,
+    "english": "Original Sin",
+    "arabic": "الخطيئة الجدية والفساد الموروث",
+    "maa": "Ng'ok apa natii te Adam",
+    "literal_meaning": "التمرّد والسقوط المتوارث من جيل آدم الأول",
+    "reformed_theology": "الذنب القضائي والفساد الطبيعي الموروث من آدم المنسحب على كل نسله الطبيعي.",
+    "references": "رومية 5:12، أفسس 1:4",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 100,
+    "english": "Imputation of Sin",
+    "arabic": "احتساب خطيئة آدم للبشر",
+    "maa": "Ng'ok e Adam netisiraki to pooki tung'ani",
+    "literal_meaning": "تقييد وحساب ذنب آدم لكل إنسان طبيعي",
+    "reformed_theology": "النسبة القضائية لذنب آدم الفيدرالي لجميع نسله الطبيعيين، مما يجعلهم تحت دينونة عادلة.",
+    "references": "عبرانيين 11:1، يوحنا 6:37",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 101,
+    "english": "Providential Preservation",
+    "arabic": "الحفظ الإلهي للكون والنعم",
+    "maa": "Eramatare e Enkai te pooki ntokitin",
+    "literal_meaning": "صيانة وتدبير الخالق الدائم لكل الموجودات",
+    "reformed_theology": "الرعاية الإلهية المستمرة التي تحفظ الطبيعة والخليقة من السقوط والانهيار التام.",
+    "references": "رومية 5:12، أفسس 1:4",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 102,
+    "english": "Sovereign Call",
+    "arabic": "الدعوة الخلاصية الإلهية الفعالة",
+    "maa": "Enkipototo nasipa e Enkai",
+    "literal_meaning": "نداء الله الأسمى المفرز لضمير الخاطئ",
+    "reformed_theology": "النداء الروحي الفعال الذي يوجهه الله للمختارين للإيمان عبر تبكيت الضمير بالكلمة.",
+    "references": "عبرانيين 11:1، يوحنا 6:37",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 103,
+    "english": "Regenerative Enlightenment",
+    "arabic": "الاستنارة المجددة للقلب",
+    "maa": "Enkibulunoto oo ltau te nkiyang'et",
+    "literal_meaning": "إنارة وشفاء البصيرة الروحية بالروح القدس",
+    "reformed_theology": "فتح البصيرة الروحية للخطاة ليروا ويدركوا ويسلكوا في حق النعمة وعظمة الإنجيل.",
+    "references": "رومية 5:12، أفسس 1:4",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 104,
+    "english": "Double Predestination",
+    "arabic": "القضاء الإلهي المزدوج المصلح",
+    "maa": "Enkiguanata oo lelo ooyelaki o lelo oomeing'uang'a",
+    "literal_meaning": "قضاء الاختيار والتسليم المزدوج من الخالق للخلائق",
+    "reformed_theology": "المرسوم الإلهي الأزلي بالاختيار الخلاصي لبعض البشر (التبني) وترك الآخرين لعدله القضائي العادل.",
+    "references": "عبرانيين 11:1، يوحنا 6:37",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 105,
+    "english": "Covenant of Works",
+    "arabic": "عهد الأعمال الموسوي الطبيعي",
+    "maa": "Osotua oo lkias musana",
+    "literal_meaning": "عهد الارتباط المتوقف على إتمام الأعمال الصالحة",
+    "reformed_theology": "العهد الذي قطعه الله مع آدم ممثلاً فيدرالياً للبشرية، واعداً بالحياة مقابل الطاعة الكاملة والموت عقوبة العصيان.",
+    "references": "رومية 5:12، أفسس 1:4",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 106,
+    "english": "Faith Working by Love",
+    "arabic": "الإيمان العامل بالمحبة المسيحية",
+    "maa": "Enkirukoto naisias te nyorrata",
+    "literal_meaning": "الإيمان النابض بالحيوية والممتد برعوية المحبة",
+    "reformed_theology": "الطبيعة اللاهوتية للإيمان التبريري كقوة روحية تثمر قداسة وعلاقات محبة فاعلة مع الله والقريب.",
+    "references": "عبرانيين 11:1، يوحنا 6:37",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 107,
+    "english": "Eschatological Resurrection",
+    "arabic": "القيامة الجسدية الأخيرة للمختارين",
+    "maa": "Empiunoto e sesen ng'ejuk te nkolong'i e Enkai",
+    "literal_meaning": "إحياء ونهوض الأجساد الحقيقي من القبور دون فناء",
+    "reformed_theology": "الإحياء الجسدي المعجزي للأموات بنهاية الزمان، حيث يلبس الفاسد عدم فساد وتتحد الأجساد بالأرواح للأبد.",
+    "references": "رومية 5:12، أفسس 1:4",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 108,
+    "english": "Sola Gratia in Sanctification",
+    "arabic": "النعمة وحدها في التقديس والتأهيل",
+    "maa": "Emayianata e Enkai ake te supatisho",
+    "literal_meaning": "عمل النعمة الإلهية المفردة في حفظ الكرامة والبر",
+    "reformed_theology": "كون النعمة الإلهية هي المصدر والدافع الفعال الوحيد لتقدم المؤمن اليومي في حياة القداسة والنمو.",
+    "references": "عبرانيين 11:1، يوحنا 6:37",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 109,
+    "english": "Ecclesiastical Discipline",
+    "arabic": "التأديب الكنسي العهدي المصلح",
+    "maa": "Enkitame nasipa e sirit",
+    "literal_meaning": "نظام تقويم وتوجيه سرية المؤمنين بوقار",
+    "reformed_theology": "الجهد الجماعي الكنسي لحفظ نقاء الجماعة وصيانة قداسة اسم المسيح واستعادة العضو الساقط بالتأديب.",
+    "references": "رومية 5:12، أفسس 1:4",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 110,
+    "english": "Apostolic Succession (Doctrinal)",
+    "arabic": "التتابع اللاهوتي والعقائدي الرسولي",
+    "maa": "Enoto oo lmon pooki too ltomoni apa",
+    "literal_meaning": "توارد ونقل الكلمة الصادقة من جيل الرسل الأوائل",
+    "reformed_theology": "الحفظ التاريخي والعقائدي لأمانة التعليم الرسولي واللاهوت القويم جيلاً بعد جيل في الكنيسة.",
+    "references": "عبرانيين 11:1، يوحنا 6:37",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 111,
+    "english": "Infant Baptism",
+    "arabic": "معمودية الأطفال (أولاد العهد)",
+    "maa": "Enkibatisa oo nkerai le sirit",
+    "literal_meaning": "صبغ وتكريس أطفال العائلة العهدية المقدسة",
+    "reformed_theology": "تطبيق علامة وختم عهد النعمة على أطفال المؤمنين كأعضاء شرعيين في سرية الله ورعاية كنيسته.",
+    "references": "رومية 5:12، أفسس 1:4",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 112,
+    "english": "Sacrament of the Lord's Supper",
+    "arabic": "سر العشاء المقدّس (المائدة الروحية)",
+    "maa": "Endaa emusho e osotua ng'ejuk",
+    "literal_meaning": "المأدبة الختامية والعهدية الفعالة للمؤمنين",
+    "reformed_theology": "الفريضة العهدية لكسر الخبز وسكب الخمر لإتمام التواصل الروحي والشركة الفعالة بجسد ودم الرب.",
+    "references": "عبرانيين 11:1، يوحنا 6:37",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 113,
+    "english": "Final Preservation in Holiness",
+    "arabic": "الحفظ النهائي في القداسة والمجد",
+    "maa": "Etorripoto nasipa e Enkai te pooki nkolong'i",
+    "literal_meaning": "صيانة وحفظ الله التام للمختارين حتى النهاية الفائقة",
+    "reformed_theology": "العمل الإلهي النهائي المعزز لحفظ كمال وضمير وبر المؤمنين التام إلى يوم مجيئه المجيد.",
+    "references": "رومية 5:12، أفسس 1:4",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 114,
+    "english": "Eternal Punishment",
+    "arabic": "العقاب والألم الأبدي للأشرار",
+    "maa": "Keeya nemetonie katukul",
+    "literal_meaning": "الموت الأبدي الذي لا ينقطع أو يزول",
+    "reformed_theology": "العقوبة القضائية العادلة للأشرار غير التائبين والجاحدين للعهد بتركهم للخراب والعذاب الأبدي.",
+    "references": "عبرانيين 11:1، يوحنا 6:37",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 115,
+    "english": "Grace of Adoption",
+    "arabic": "نعمة التبني الأبوي العهدية",
+    "maa": "Emayianata oo ltoiwuo dukuya e Enkai",
+    "literal_meaning": "البركة والدهن والفرز الخالص كولد حقيقي للآب",
+    "reformed_theology": "الهبة الإلهية المجانية التي تنقل المؤمن المبرر إلى حظيرة البنين وتمنحه حقوق الميراث الكامل للملكوت.",
+    "references": "رومية 5:12، أفسس 1:4",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 116,
+    "english": "Covenant of Grace",
+    "arabic": "عهد النعمة المصلح الفعال",
+    "maa": "Osotua le Neema nemeata sile",
+    "literal_meaning": "عهد الترابط والرحمة الخالي من الناموسية التجارية",
+    "reformed_theology": "الميثاق الروحي الذي أقامه الخالق لمختاريه لإنقاذهم وتبريرهم بدم المسيح وبمعزل عن استحقاق الأعمال.",
+    "references": "عبرانيين 11:1، يوحنا 6:37",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 117,
+    "english": "Infallibility of Scripture",
+    "arabic": "عصمة ومصداقية الأسفار المطلقة",
+    "maa": "Ororei le Nkai nemedidimayu esul katukul",
+    "literal_meaning": "كلمة الله الصادقة التي لا تسقط أو تتراجع أبداً",
+    "reformed_theology": "الصفة العقائدية للكتاب المقدس بكونه حقاً مطلقاً ومعصوماً لا يأتيه الباطل لأنه صادر من الروح القدس.",
+    "references": "رومية 5:12، أفسس 1:4",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 118,
+    "english": "Forensic Justification",
+    "arabic": "التبرير القضائي الغافر",
+    "maa": "Esupatisho te koti e Enkai",
+    "literal_meaning": "الحكم الإلهي السامي بالبراءة والبر في مجلس القضاء",
+    "reformed_theology": "الإعلان القضائي الإلهي الغافر لخطايا المؤمن والمثبت لحسابه بر المسيح كأرضية وحيدة للبراءة والبر.",
+    "references": "عبرانيين 11:1، يوحنا 6:37",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 119,
+    "english": "The Church Invisible",
+    "arabic": "الكنيسة غير المنظورة للمختارين",
+    "maa": "eSírít e Enkai nemetadolo iltung'anak",
+    "literal_meaning": "السرية الإلهية الفعالة وغير المرئية للبشر",
+    "reformed_theology": "الجامعة الكاملة والروحية لجميع المؤمنين المختارين عبر العصور الذين لا يعرفهم يقيناً سوى الخالق وحده.",
+    "references": "رومية 5:12، أفسس 1:4",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 120,
+    "english": "The Church Visible",
+    "arabic": "الكنيسة المنظورة التاريخية",
+    "maa": "eSírít e Enkai nadolayu to pooki sirit",
+    "literal_meaning": "الفوج الكنسي المرئي والظاهر في الساحة الاجتماعية",
+    "reformed_theology": "الهيكل والمؤسسة التاريخية المرئية للكنيسة على الأرض والتي تضم المعترفين بالإيمان الحقيقي وأولادهم عهدياً.",
+    "references": "عبرانيين 11:1، يوحنا 6:37",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 121,
+    "english": "Saving Repentance",
+    "arabic": "التوبة الحقيقية المانحة للحياة",
+    "maa": "Enkibelekenyata oo ltau nasipa",
+    "literal_meaning": "التحول الصادق والداخلي التائب والمحزون للقلب",
+    "reformed_theology": "الحزن الروحي الحقيقي على عصيان مشيئة الخالق والترك الحاسم للخطايا مع التوجه المخلص للمسيح طاعة.",
+    "references": "رومية 5:12، أفسس 1:4",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  },
+  {
+    "id": 122,
+    "english": "Glorification (Final)",
+    "arabic": "المجد والكمال الأخروي الأخير",
+    "maa": "Enkisisa Sapuk e pooki nkolong'i te shumata",
+    "literal_meaning": "التاج والكرامة السامية والأبدية في ملكوت السماء",
+    "reformed_theology": "المرحلة الختامية لتدبير الفداء حيث يتكلل المؤمنون بالقداسة الكاملة والخلود والعيش البهيج في الحضور الإلهي.",
+    "references": "عبرانيين 11:1، يوحنا 6:37",
+    "citations": "ترجمات الكتاب المقدس بلغة Maa: التفاعل السيميائي الرعوي"
+  }
+]

@@ -1,0 +1,115 @@
+{
+  "Kabyle_Reformed_Glossary": {
+    "Covenants_and_Law": [
+      {"english": "Covenant Theology", "arabic": "لاهوت العهود", "kabyle": "Tasnillawit n Lɛahd"},
+      {"english": "Covenant of Works", "arabic": "عهد الأعمال", "kabyle": "Lɛahd n Lecɣal"},
+      {"english": "Covenant of Grace", "arabic": "عهد النعمة", "kabyle": "Lɛahd n Ṛṛeḥma"},
+      {"english": "Covenant of Redemption", "arabic": "عهد الفداء", "kabyle": "Lɛahd n Ufdu"},
+      {"english": "Mosaic Covenant", "arabic": "العهد الموسوي", "kabyle": "Lɛahd n Musa"},
+      {"english": "New Covenant", "arabic": "العهد الجديد", "kabyle": "Lɛahd Ajdid"},
+      {"english": "Federal Headship", "arabic": "الرئاسة الفيدرالية", "kabyle": "Uqerru n Lɛahd"},
+      {"english": "Covenant Children", "arabic": "أطفال العهد", "kabyle": "Arrac n Lɛahd"},
+      {"english": "Third Use of the Law", "arabic": "الاستخدام الثالث للناموس", "kabyle": "Aseqdec wis tlata n Lqanun"},
+      {"english": "Antinomianism", "arabic": "اللاناموسية", "kabyle": "Aɛdaw n Lqanun"},
+      {"english": "Legalism", "arabic": "الشرعوية", "kabyle": "Atebeɛ n Lqanun s lḥerf"}
+    ],
+    "Theology_Proper": [
+      {"english": "God", "arabic": "الله", "kabyle": "Ṛebbi"},
+      {"english": "Trinity", "arabic": "الثالوث", "kabyle": "Trinité (Tlata deg yiwen)"},
+      {"english": "Father", "arabic": "الآب", "kabyle": "Baba Ṛebbi"},
+      {"english": "Son", "arabic": "الابن", "kabyle": "Mmi-s"},
+      {"english": "Holy Spirit", "arabic": "الروح القدس", "kabyle": "Ṛṛuḥ Iqedsen"},
+      {"english": "Only Begotten", "arabic": "الابن الوحيد", "kabyle": "Mmi-s awḥid"},
+      {"english": "Eternity", "arabic": "الأزلية", "kabyle": "Lebda (Ldawam)"},
+      {"english": "Providence", "arabic": "العناية الإلهية", "kabyle": "Aḥader n Ṛebbi"},
+      {"english": "Sovereignty", "arabic": "السيادة الإلهية", "kabyle": "Lḥekma n Ṛebbi"},
+      {"english": "Omnipotence", "arabic": "القدرة المطلقة", "kabyle": "Tazmert ɣef kulci"},
+      {"english": "Omniscience", "arabic": "العلم المطلق", "kabyle": "Tamusni n kulci"},
+      {"english": "Omnipresence", "arabic": "الحضور المطلق", "kabyle": "Tilin deg mkul amkan"},
+      {"english": "Image of God", "arabic": "صورة الله", "kabyle": "Lmeṣnaɛ n Ṛebbi"},
+      {"english": "Decree of God", "arabic": "مراسيم الله", "kabyle": "Lqesd n Ṛebbi"},
+      {"english": "Decretal Theology", "arabic": "لاهوت المراسيم", "kabyle": "Tasnillawit n Lqesd"},
+      {"english": "Soli Deo Gloria", "arabic": "لمجد الله وحده", "kabyle": "Tamanegt i Ṛebbi kan"}
+    ],
+    "Christology": [
+      {"english": "Incarnation", "arabic": "التجسد", "kabyle": "Tuɣalin d amdan (Tuɣalin d aksum)"},
+      {"english": "Hypostatic Union", "arabic": "الاتحاد الأقنومي", "kabyle": "Ddukel n sin igamiyen"},
+      {"english": "Virgin Birth", "arabic": "الميلاد العذراوي", "kabyle": "Talalit sɣur taɛzrit"},
+      {"english": "Emmanuel", "arabic": "عمانوئيل", "kabyle": "Amanuyl (Ṛebbi yid-neɣ)"},
+      {"english": "Solus Christus", "arabic": "المسيح وحده", "kabyle": "Lmasiḥ kan"},
+      {"english": "Active Obedience of Christ", "arabic": "الطاعة الفعّالة للمسيح", "kabyle": "Aṭuɛ n Lmasiḥ s lfeɛl"},
+      {"english": "Passive Obedience of Christ", "arabic": "الطاعة السلبية للمسيح", "kabyle": "Aṭuɛ n Lmasiḥ deg leɛtab"},
+      {"english": "Substitutionary Atonement", "arabic": "الكفارة البدلية", "kabyle": "Asfel n Ufdu deg wemkan-nneɣ"},
+      {"english": "Penal Substitution", "arabic": "الفداء الجزائي", "kabyle": "Afdu n lɛiqab deg wemkan-nneɣ"},
+      {"english": "Second Coming", "arabic": "المجيء الثاني", "kabyle": "Tuɣalin tis snat"},
+      {"english": "Resurrection", "arabic": "القيامة", "kabyle": "Ḥeggu n lmegtin"}
+    ],
+    "Salvation_TULIP": [
+      {"english": "Total Depravity", "arabic": "الفساد الكلي", "kabyle": "Axsar amatut (Lfesd amatut)"},
+      {"english": "Unconditional Election", "arabic": "الاختيار غير المشروط", "kabyle": "Axtiri war ccuṛuḍ"},
+      {"english": "Limited Atonement", "arabic": "الكفارة المحدودة", "kabyle": "Asfel yettwagedlen (i wid yettwaxtaṛen kan)"},
+      {"english": "Irresistible Grace", "arabic": "النعمة الفعّالة", "kabyle": "Ṛṛeḥma ur netteḥbas"},
+      {"english": "Perseverance of the Saints", "arabic": "ثبات القديسين", "kabyle": "Lḥerz n imqedsen"}
+    ],
+    "Soteriology": [
+      {"english": "Predestination", "arabic": "الاختيار المسبق", "kabyle": "Aheggi n zik"},
+      {"english": "Foreordination", "arabic": "التقدير المسبق", "kabyle": "Aheggi uqbel"},
+      {"english": "Double Predestination", "arabic": "الاختيار المزدوج", "kabyle": "Aheggi n zik snat tikwal"},
+      {"english": "Reprobation", "arabic": "الرفض", "kabyle": "Agi n wid ur nettwaxtaṛ ara"},
+      {"english": "Effectual Calling", "arabic": "الدعوة الفعّالة", "kabyle": "Tiɣri yesɛan lfeɛl"},
+      {"english": "Regeneration", "arabic": "التجديد", "kabyle": "Talalit tajdit"},
+      {"english": "Conversion", "arabic": "الاهتداء", "kabyle": "Tanebdalt n wul (Tuɣalin ɣer Ṛebbi)"},
+      {"english": "Justification", "arabic": "التبرير", "kabyle": "Aḥsab d aḥeqqi (Tuɣalin d aḥeqqi)"},
+      {"english": "Imputed Righteousness", "arabic": "احتساب البر", "kabyle": "Aḥsab n lḥeqq n Lmasiḥ i wemdan"},
+      {"english": "Imputed Sin", "arabic": "احتساب الخطية", "kabyle": "Aḥsab n lxeṭya i Lmasiḥ"},
+      {"english": "Original Sin", "arabic": "الخطية الأصلية", "kabyle": "Ddnub amezwaru"},
+      {"english": "Bondage of the Will", "arabic": "عبودية الإرادة", "kabyle": "Takmamt n lebɣi (Akraf n lebɣi)"},
+      {"english": "Sola Fide", "arabic": "الإيمان وحده", "kabyle": "Liman kan"},
+      {"english": "Sola Gratia", "arabic": "النعمة وحدها", "kabyle": "Ṛṛeḥma kan"},
+      {"english": "Adoption", "arabic": "التبني", "kabyle": "Tuɣalin d arrac n Ṛebbi"},
+      {"english": "Sanctification", "arabic": "التقديس", "kabyle": "Taqedsit"},
+      {"english": "Glorification", "arabic": "التمجيد", "kabyle": "Tamanegt"},
+      {"english": "Ordo Salutis", "arabic": "ترتيب الخلاص", "kabyle": "Amezdi n leslak"},
+      {"english": "Union with Christ", "arabic": "الاتحاد بالمسيح", "kabyle": "Ddukel akk d Lmasiḥ"},
+      {"english": "Assurance of Salvation", "arabic": "ثقة الخلاص", "kabyle": "Ḍḍman n leslak"},
+      {"english": "Eternal Justification", "arabic": "التبرير الأزلي", "kabyle": "Aḥsab d aḥeqqi i lebda"},
+      {"english": "Lordship Salvation", "arabic": "خلاص الربوبية", "kabyle": "Leslak s Lḥekma n Sidi Lmasiḥ"},
+      {"english": "Free Offer of the Gospel", "arabic": "العرض الحر للإنجيل", "kabyle": "Aweṣṣi n Wawal n Ṛebbi i medden akk"},
+      {"english": "Common Grace", "arabic": "النعمة المشتركة", "kabyle": "Ṛṛeḥma tamatut"}
+    ],
+    "Ecclesiology": [
+      {"english": "Visible Church", "arabic": "الكنيسة المنظورة", "kabyle": "Taglizt yettwalin (Tajmaɛt yettwalin)"},
+      {"english": "Invisible Church", "arabic": "الكنيسة غير المنظورة", "kabyle": "Taglizt ur nettwali ara"},
+      {"english": "Regulative Principle", "arabic": "مبدأ تنظيم العبادة", "kabyle": "Lqanun n leɛbada"},
+      {"english": "Sacraments", "arabic": "الأسرار", "kabyle": "Iserruyen iqedsen (Leɛwayed iqedsen)"},
+      {"english": "Baptism", "arabic": "المعمودية", "kabyle": "Aɣḍas"},
+      {"english": "Paedobaptism", "arabic": "معمودية الأطفال", "kabyle": "Aɣḍas n warrac imecṭaḥ"},
+      {"english": "Credobaptism", "arabic": "معمودية المؤمنين", "kabyle": "Aɣḍas n wid yumnen"},
+      {"english": "Lord's Supper", "arabic": "عشاء الرب", "kabyle": "Imensi n Sidi (Imensi n Ṛebbi)"},
+      {"english": "Means of Grace", "arabic": "وسائط النعمة", "kabyle": "Iberdan n Ṛṛeḥma"}
+    ],
+    "Scripture": [
+      {"english": "Sola Scriptura", "arabic": "الكتاب المقدس وحده", "kabyle": "Tira Iqedsen kan"},
+      {"english": "Inspiration", "arabic": "الإلهام", "kabyle": "Aweḥḥi n Ṛṛuḥ Iqedsen"},
+      {"english": "Inerrancy", "arabic": "العصمة", "kabyle": "Ur tesɛi ara lɣelṭat"},
+      {"english": "Sufficiency of Scripture", "arabic": "كفاية الكتاب المقدس", "kabyle": "Tira Iqedsen teččuṛ (tqadd)"}
+    ],
+    "Puritanism": [
+      {"english": "Experimental Religion", "arabic": "الدين التجريبي", "kabyle": "Ddin n tejṛiba"},
+      {"english": "Heart Religion", "arabic": "دين القلب", "kabyle": "Ddin n wul"},
+      {"english": "Spiritual Desertion", "arabic": "الانفصال الروحي", "kabyle": "Abeɛɛed n Ṛṛuḥ"},
+      {"english": "Dark Night of the Soul", "arabic": "ليلة الروح المظلمة", "kabyle": "Iḍ aberkan n ṛṛuḥ"},
+      {"english": "Soul Trouble", "arabic": "اضطراب النفس", "kabyle": "Aḥeyyer n ṛṛuḥ"},
+      {"english": "Closing with Christ", "arabic": "الانغلاق بالمسيح", "kabyle": "Aṭṭef deg Lmasiḥ"},
+      {"english": "Sweetness of Christ", "arabic": "حلاوة المسيح", "kabyle": "Zzḍid n Lmasiḥ"},
+      {"english": "Mortification of Sin", "arabic": "إماتة الخطية", "kabyle": "Timɣiwt n lxeṭya (Amettan n ddnub)"},
+      {"english": "Vivification", "arabic": "إحياء الروح", "kabyle": "Aseḥyu n Ṛṛuḥ"},
+      {"english": "Holy Violence", "arabic": "العنف المقدس", "kabyle": "Aḥareb iqedsen (Lmejhud iqedsen)"},
+      {"english": "Duty of Self-Denial", "arabic": "واجب إنكار الذات", "kabyle": "Aweṣṣi n unkaṛ n yiman"}
+    ],
+    "Eschatology": [
+      {"english": "Final Judgment", "arabic": "الدينونة الأخيرة", "kabyle": "Lḥisab anewgar (Lḥisab aneggaru)"},
+      {"english": "New Creation", "arabic": "الخليقة الجديدة", "kabyle": "Axlaq ajdid"}
+    ]
+  }
+}

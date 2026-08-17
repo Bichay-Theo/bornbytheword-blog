@@ -1,0 +1,966 @@
+{
+  "metadata": {
+    "title": "Amharic Reformed Theological Glossary",
+    "version": "Audited Standard v1.2 (Corrected & Enhanced)",
+    "date": "August 2026",
+    "status": "Approved as Reference Standard for Translation Teams"
+  },
+  "glossary": {
+    "1. Covenants & Law": [
+      {
+        "english_term": "English Term",
+        "arabic_standard": "Arabic Standard",
+        "amharic_corrected": "Amharic Corrected",
+        "original_amharic_prior": "Original Amharic (Prior)",
+        "original_arabic_prior": "Original Arabic (Prior)",
+        "justification_notes": "Justification & Notes (توجيهات للمترجمين)"
+      },
+      {
+        "english_term": "Covenant Theology",
+        "arabic_standard": "لاهوت العهود",
+        "amharic_corrected": "የኪዳን ነገረ መለኮት",
+        "original_amharic_prior": "የኪዳን ነገረ መለኮት",
+        "original_arabic_prior": "لاهوت العهود",
+        "justification_notes": "صحيح ومعياري لاهوتياً. يعبر عن نظام عهد الأعمال وعهد النعمة وعهد الفداء كأساس لفهم وحدة الكتاب المقدس وسياق تاريخ الخلاص التدريجي."
+      },
+      {
+        "english_term": "Covenant of Works",
+        "arabic_standard": "عهد الأعمال",
+        "amharic_corrected": "የሥራ ኪዳን",
+        "original_amharic_prior": "የሥራ ኪዳን",
+        "original_arabic_prior": "عهد الأعمال",
+        "justification_notes": "صحيح ومعياري. يعبر عن العهد الأول الذي أقامه الله مع آدم كشخص وممثل فيدرالي للبشرية قبل السقوط، المشروط بالطاعة الكاملة والشخصية."
+      },
+      {
+        "english_term": "Covenant of Grace",
+        "arabic_standard": "عهد النعمة",
+        "amharic_corrected": "የጸጋ ኪዳን",
+        "original_amharic_prior": "የጸጋ ኪዳን",
+        "original_arabic_prior": "عهد النعمة",
+        "justification_notes": "صحيح ومعياري لاهوتياً. يعبر عن ترتيب عهد الله لإنقاذ المختارين ببر وفداء يسوع المسيح وتلقيه بالإيمان وحده المجاني الخالي من الأعمال."
+      },
+      {
+        "english_term": "Covenant of Redemption",
+        "arabic_standard": "عهد الفداء",
+        "amharic_corrected": "የቤዛነት ኪዳን",
+        "original_amharic_prior": "የቤዛነት ኪዳን",
+        "original_arabic_prior": "عهد الفداء",
+        "justification_notes": "صحيح ومعياري لاهوتياً. يعبر عن الاتفاق الفيدرالي الأزلي بين أقانيم الثالوث (الآب والابن) قبل تأسيس العالم لخلاص المختارين كفارياً."
+      },
+      {
+        "english_term": "Mosaic Covenant",
+        "arabic_standard": "العهد الموسوي",
+        "amharic_corrected": "የሙሴ ኪዳን",
+        "original_amharic_prior": "የሙሴ ኪዳን",
+        "original_arabic_prior": "العهد الموسوي",
+        "justification_notes": "صحيح ومعياري. التعبير التاريخي العهدي لناموس الله مع بني إسرائيل لتأمين انضباطهم وإرشادهم لكفاية فداء المسيح المنتظر."
+      },
+      {
+        "english_term": "New Covenant",
+        "arabic_standard": "العهد الجديد",
+        "amharic_corrected": "አዲስ ኪዳን",
+        "original_amharic_prior": "አዲስ ኪዳን",
+        "original_arabic_prior": "العهد الجديد",
+        "justification_notes": "صحيح ومعياري. الاستعلان النهائي والكامل لعهد النعمة المبرم بدم يسوع المسيح وكتابة الشريعة الإلهية على قلوب المؤمنين بفعالية."
+      },
+      {
+        "english_term": "Federal Headship",
+        "arabic_standard": "الرئاسة الفيدرالية",
+        "amharic_corrected": "የኪዳን ራስነት",
+        "original_amharic_prior": "የውክልና ራስነት",
+        "original_arabic_prior": "الرئاسة الفيدرالية",
+        "justification_notes": "رائع وبليغ. تم اعتماد 'የኪዳን ራስነት' (رئاسة العهد) لترسيخ البعد العهدي لآدم والمسيح بتمثيل نسلهما أمام محكمة الله الشرعية."
+      },
+      {
+        "english_term": "Covenant Children",
+        "arabic_standard": "أطفال العهد",
+        "amharic_corrected": "የኪዳን ልጆች",
+        "original_amharic_prior": "የኪዳን ልጆች",
+        "original_arabic_prior": "أعضاء العهد الصغار",
+        "justification_notes": "معياري وصحيح. يشير إلى أطفال المؤمنين المشمولين خارجياً بوعود عهد النعمة والذين ينالون علامته الخارجية المتمثلة في المعمودية."
+      },
+      {
+        "english_term": "Covenantal Discipline",
+        "arabic_standard": "التأديب (الأبوي العهدي)",
+        "amharic_corrected": "የኪዳን ተግሣጽ (የአባትነት ተግሣጽ)",
+        "original_amharic_prior": "የአባትነት ቅጣት",
+        "original_arabic_prior": "العقوبة الأبوية",
+        "justification_notes": "تصحيح لاهوتي. تم استخدام 'የኪዳን ተግሣጽ' (التأديب العهدي) بدلاً من 'ቅጣት' (العقوبة الجنائية) للتعبير عن رعاية آب العهد الحانية والتربوية لشعبه."
+      },
+      {
+        "english_term": "Third Use of the Law",
+        "arabic_standard": "الاستخدام الثالث للناموس",
+        "amharic_corrected": "ሦስተኛው የሕግ አጠቃቀም",
+        "original_amharic_prior": "ሦስተኛው የሕግ አጠቃቀም",
+        "original_arabic_prior": "الاستخدام الثالث للشريعة",
+        "justification_notes": "معياري ومصلح وصحيح. يشير لناموس الله كقاعدة حياة ومرشد روحي وسلوكي لتقديس المؤمن المبرر مجاناً والمحرر كلياً من لعنة القانون."
+      },
+      {
+        "english_term": "Antinomianism",
+        "arabic_standard": "اللاناموسية",
+        "amharic_corrected": "ፀረ-ሕግነት",
+        "original_amharic_prior": "ፀረ-ሕግነት",
+        "original_arabic_prior": "اللاناموسية",
+        "justification_notes": "معياري وصحيح. الانحراف اللاهوتي الذي يدعي سقط ورفض الناموس الأخلاقي وعدم إلزاميته كمرشد للحياة التقية للمؤمنين بعد تبريرهم."
+      },
+      {
+        "english_term": "Legalism",
+        "arabic_standard": "الشرعوية",
+        "amharic_corrected": "ሕግጋዊነት (በሕግ መጽደቅን መፈለግ)",
+        "original_amharic_prior": "ሕጋዊነት",
+        "original_arabic_prior": "الشرعوية",
+        "justification_notes": "تصحيح لغوي حاسم. تم استبدال 'ሕጋዊነት' (والتي تعني الشرعية القانونية الإيجابية) بـ 'ሕግጋዊነት' أو 'በሕግ መጽደቅን መፈለግ' (طلب التبرير بالناموس) لمنع الخلط."
+      }
+    ],
+    "2. Theology Proper": [
+      {
+        "english_term": "English Term",
+        "arabic_standard": "Arabic Standard",
+        "amharic_corrected": "Amharic Corrected",
+        "original_amharic_prior": "Original Amharic (Prior)",
+        "original_arabic_prior": "Original Arabic (Prior)",
+        "justification_notes": "Justification & Notes (توجيهات للمترجمين)"
+      },
+      {
+        "english_term": "God",
+        "arabic_standard": "الله",
+        "amharic_corrected": "እግዚአብሔር",
+        "original_amharic_prior": "እግዚአብሔር",
+        "original_arabic_prior": "الله",
+        "justification_notes": "الذات الإلهية، اللفظ التاريخي السامي المعبر عن الإله الحقيقي الواحد الخالق والمستقل والسيادي المطلق في مجده وسلطانه."
+      },
+      {
+        "english_term": "Trinity",
+        "arabic_standard": "الثالوث",
+        "amharic_corrected": "ሥላሴ",
+        "original_amharic_prior": "ሥላሴ",
+        "original_arabic_prior": "الثالوث",
+        "justification_notes": "معياري وتاريخي. يشير إلى وحدانية جوهر الإله الحقيقي المتمايز في ثلاثة أقانيم متساوية في المجد والسيادة والأزلية (الآب والابن والروح القدس)."
+      },
+      {
+        "english_term": "Father",
+        "arabic_standard": "الآب",
+        "amharic_corrected": "አብ",
+        "original_amharic_prior": "አብ",
+        "original_arabic_prior": "الآب",
+        "justification_notes": "تاريخي ومعياري. الأقنوم الأول في الثالوث، المخطط للأزل والمصدر الفيدرالي لعهد النعمة وأب المؤمنين بالتبني القضائي المجاني."
+      },
+      {
+        "english_term": "Son",
+        "arabic_standard": "الابن",
+        "amharic_corrected": "ወልድ",
+        "original_amharic_prior": "ወልድ",
+        "original_arabic_prior": "الابن",
+        "justification_notes": "تاريخي ومعياري. الأقنوم الثاني المولود أزلياً من الآب، الفادي المتجسد، ووسيط عهد النعمة الكفاري الوحيد."
+      },
+      {
+        "english_term": "Holy Spirit",
+        "arabic_standard": "الروح القدس",
+        "amharic_corrected": "መንፈስ ቅዱስ",
+        "original_amharic_prior": "መንፈስ ቅዱስ",
+        "original_arabic_prior": "الروح القدس",
+        "justification_notes": "تاريخي ومعياري. الأقنوم الثالث المنبثق من الآب والابن، المجدد الفعال، ضامن ميراثنا، ومقدس الكنيسة وباني إيمانها."
+      },
+      {
+        "english_term": "Only Begotten",
+        "arabic_standard": "الابن الوحيد",
+        "amharic_corrected": "አንድያ ልጅ",
+        "original_amharic_prior": "አንድያ ልጅ",
+        "original_arabic_prior": "الابن الوحيد",
+        "justification_notes": "بليغ ومعياري كتابي. يعبر عن البنوة الأزلية والفريدة ليسوع المسيح من ذات جوهر الآب الإلهي دون أي بداية زمنية أو خلق."
+      },
+      {
+        "english_term": "Eternity",
+        "arabic_standard": "الأزلية",
+        "amharic_corrected": "ዘላለማዊነት",
+        "original_amharic_prior": "ዘላለማዊነት",
+        "original_arabic_prior": "الأزلية والخلود",
+        "justification_notes": "معياري وصحيح. صفة الله المطلقة بالوجود الأزلي والأبدي المتعالي عن حدود الزمن والمكان والتغير والصيرورة."
+      },
+      {
+        "english_term": "Providence",
+        "arabic_standard": "العناية الإلهية",
+        "amharic_corrected": "መለኮታዊ መጋቢነት",
+        "original_amharic_prior": "መለኮታዊ ጥበቃ",
+        "original_arabic_prior": "العناية الإلهية",
+        "justification_notes": "تصحيح لاهوتي عظيم. تم استبدال 'ጥበቃ' (الحماية الجسدية المحدودة) بـ 'መጋቢነት' (الوكالة/التدبير الشامل) للتعبير عن سيادة الله وتوجيهه لجميع الخلائق وأعمالها."
+      },
+      {
+        "english_term": "Sovereignty",
+        "arabic_standard": "السيادة الإلهية",
+        "amharic_corrected": "ሉዓላዊነት (የእግዚአብሔር ሉዓላዊነት)",
+        "original_amharic_prior": "ሉዓላዊነት",
+        "original_arabic_prior": "السيادة الإلهية",
+        "justification_notes": "معياري وبليغ. يشير إلى حكم الله المطلق وسلطانه الفعال وحريته الكاملة في تسيير الأكوان وتقرير الخلاص بموجب مشيئته وحدها."
+      },
+      {
+        "english_term": "Omnipotence",
+        "arabic_standard": "القدرة المطلقة",
+        "amharic_corrected": "ሁሉን ቻይነት",
+        "original_amharic_prior": "ሁሉን ቻይነት",
+        "original_arabic_prior": "القدرة المطلقة",
+        "justification_notes": "معياري وتاريخي. صفة الله القادر على تفعيل وتنفيذ كامل مشيئته ومقاصده الأزلية دون عائق بقوته غير المحدودة اللامتناهية."
+      },
+      {
+        "english_term": "Omniscience",
+        "arabic_standard": "العلم المطلق",
+        "amharic_corrected": "ሁሉን አዋቂነት",
+        "original_amharic_prior": "ሁሉን አዋቂነት",
+        "original_arabic_prior": "العلم المطلق",
+        "justification_notes": "معياري وتاريخي. معرفة الله الشاملة والدقيقة والأزلية لكل الكائنات والأحداث والأفكار (الماضية والحاضرة والمستقبلة) بصورة فورية."
+      },
+      {
+        "english_term": "Omnipresence",
+        "arabic_standard": "الحضور المطلق",
+        "amharic_corrected": "በሁሉ ስፍራ መገኘት",
+        "original_amharic_prior": "በሁሉ ስፍራ መገኘት",
+        "original_arabic_prior": "الحضور الكلي",
+        "justification_notes": "معياري وصحيح. حضور الله بذاته وجوهره غير المحدود في كل مكان بالكون وفي كل لحظة بفاعلية وسلطان دون اندماج مادي بالخلق."
+      },
+      {
+        "english_term": "Image of God",
+        "arabic_standard": "صورة الله",
+        "amharic_corrected": "የእግዚአብሔር መልክ",
+        "original_amharic_prior": "የእግዚአብሔር መልክ",
+        "original_arabic_prior": "صورة الله",
+        "justification_notes": "معياري وتاريخي. الصفات الأخلاقية والعقلية والروحية المعطاة للإنسان ليمثل الخالق في الخليقة، والتي شوهها السقوط كلياً ويعاد بناؤها بالمسيح."
+      },
+      {
+        "english_term": "Decree of God",
+        "arabic_standard": "مراسيم الله",
+        "amharic_corrected": "የእግዚአብሔር ድንጋጌ (ውሳኔ)",
+        "original_amharic_prior": "የእግዚአብሔር ውሳኔ",
+        "original_arabic_prior": "مراسيم الله الأزلية",
+        "justification_notes": "معياري وصحيح. يشير إلى قضاء ومراسيم الله الأزلية السيادية بمقتضى مشيئته لتقرير كل ما سيجري في الزمان لمجده الخاص وحده."
+      },
+      {
+        "english_term": "Decretal Theology",
+        "arabic_standard": "لاهوت المراسيم",
+        "amharic_corrected": "የድንጋጌ ነገረ መለኮት",
+        "original_amharic_prior": "የውሳኔ ነገረ መለኮት",
+        "original_arabic_prior": "لاهوت المراسيم",
+        "justification_notes": "معياري ودقيق. التركيز على قرارات ومراسيم الله الأزلية المستقلة كأساس لفهم كافة أعمال الخلق وتدابير الخلاص التدريجية."
+      },
+      {
+        "english_term": "Soli Deo Gloria",
+        "arabic_standard": "لمجد الله وحده",
+        "amharic_corrected": "ክብር ለእግዚአብሔር ብቻ ይሁን",
+        "original_amharic_prior": "ክብር ለእግዚአብሔር ብቻ",
+        "original_arabic_prior": "لمجد الله وحده",
+        "justification_notes": "بليغ ومعياري. المبدأ الإصلاحي العظيم الذي يؤكد أن الغاية الأسمى والوحيدة من الخلق والفداء هي استعلان مجد الله وتعبيده وحده للأبد."
+      }
+    ],
+    "3. Christology": [
+      {
+        "english_term": "English Term",
+        "arabic_standard": "Arabic Standard",
+        "amharic_corrected": "Amharic Corrected",
+        "original_amharic_prior": "Original Amharic (Prior)",
+        "original_arabic_prior": "Original Arabic (Prior)",
+        "justification_notes": "Justification & Notes (توجيهات للمترجمين)"
+      },
+      {
+        "english_term": "Incarnation",
+        "arabic_standard": "التجسد",
+        "amharic_corrected": "ሥጋዌ (ሥጋ መሆን)",
+        "original_amharic_prior": "ሥጋ መሆን",
+        "original_arabic_prior": "التجسد",
+        "justification_notes": "لفظ لاهوتي بليغ وتاريخي من اللغة الجعزية والأمهرية الكنسية للتعبير عن أخذ الابن الأزلي جسداً بشرياً حقيقياً ونفساً عاقلة لفدائنا."
+      },
+      {
+        "english_term": "Hypostatic Union",
+        "arabic_standard": "الاتحاد الأقنومي",
+        "amharic_corrected": "አካላዊ ተዋሕዶ",
+        "original_amharic_prior": "አካላዊ ተዋሕዶ",
+        "original_arabic_prior": "الاتحاد الأقنومي",
+        "justification_notes": "قمة في البلاغة والدقة. التعبير الكنسي التاريخي المعتمد لبيان اتحاد الطبيعة الإلهية الكاملة والبشرية الكاملة في أقنوم المسيح بلا امتزاج ولا تغيير."
+      },
+      {
+        "english_term": "Virgin Birth",
+        "arabic_standard": "الميلاد العذراوي",
+        "amharic_corrected": "ከድንግል መወለድ",
+        "original_amharic_prior": "ከድንግል መወለድ",
+        "original_arabic_prior": "الميلاد العذراوي",
+        "justification_notes": "معياري وتاريخي. ولادة المخلص بالجسد من مريم العذراء بقوة وتظليل الروح القدس دون زرع بشر، لضمان قداسة ناسوته وخلوه من الذنب الموروث."
+      },
+      {
+        "english_term": "Emmanuel",
+        "arabic_standard": "عمانوئيل",
+        "amharic_corrected": "አማኑኤል",
+        "original_amharic_prior": "አማኑኤል",
+        "original_arabic_prior": "عمانوئيل",
+        "justification_notes": "تاريخي وكتابي معتمد. يعني حرفياً 'الله معنا'، تجسد الابن الأزلي وعضويته في عهد النعمة ليكون وسيطاً وممثلاً كفارياً لشعبه المختار."
+      },
+      {
+        "english_term": "Solus Christus",
+        "arabic_standard": "المسيح وحده",
+        "amharic_corrected": "ክርስቶስ ብቻ",
+        "original_amharic_prior": "ክርስቶስ ብቻ",
+        "original_arabic_prior": "المسيح وحده",
+        "justification_notes": "معياري ودقيق. المبدأ الإصلاحي العظيم الذي يحصر شؤون الكفارة والوساطة والشفاعة الخلاصية في شخص يسوع المسيح وحده وهدم الوساطات الكنسية الأخرى."
+      },
+      {
+        "english_term": "Active Obedience of Christ",
+        "arabic_standard": "الطاعة الفعّالة للمسيح",
+        "amharic_corrected": "የክርስቶስ ተግባራዊ መታዘዝ (የክርስቶስ ሕጋዊ መታዘዝ)",
+        "original_amharic_prior": "የክርስቶስ ንቁ መታዘዝ",
+        "original_arabic_prior": "الطاعة الفعّالة للمسيح",
+        "justification_notes": "تصحيح لغوي لاهوتي. تم استخدام 'ተግባራዊ መታዘዝ' (الطاعة العملية) أو 'ሕጋዊ መታዘዝ' (طاعة الناموس) لتجنب اللفظ غير المنضبط 'ንቁ' (نشيط/يقظ)."
+      },
+      {
+        "english_term": "Passive Obedience of Christ",
+        "arabic_standard": "الطاعة السلبية للمسيح",
+        "amharic_corrected": "የክርስቶስ ተገዢ መታዘዝ (መከራን መቀበል)",
+        "original_amharic_prior": "የክርስቶስ ተገዢ መታዘዝ",
+        "original_arabic_prior": "الطاعة السلبية للمسيح",
+        "justification_notes": "معياري لاهوتياً. خضوع المسيح الاختياري للآلام الرهيبة والموت النيابي على الصليب لامتصاص ورفع كامل غضب الله القضائي العادل تجاه خطايانا."
+      },
+      {
+        "english_term": "Substitutionary Atonement",
+        "arabic_standard": "الكفارة البدلية",
+        "amharic_corrected": "ምትካዊ ስርየት",
+        "original_amharic_prior": "የውክልና ስርየት",
+        "original_arabic_prior": "الكفارة البدلية",
+        "justification_notes": "تصحيح لاهوتي حرج. تم استبدال 'የውክልና' (التمثيل بالوكالة) بـ 'ምትካዊ' (البديل المباشر المباشر) لتأكيد وقوف المسيح كبديل حقيقي مباشر لنا على الصليب."
+      },
+      {
+        "english_term": "Penal Substitution",
+        "arabic_standard": "الفداء الجزائي",
+        "amharic_corrected": "የቅጣት ምትክነት ስርየት",
+        "original_amharic_prior": "የውክልና ቅጣት ስርየት",
+        "original_arabic_prior": "الفداء الجزائي",
+        "justification_notes": "تصحيح لاهوتي. تم تعديل الصياغة لتعبر بوضوح وقوة عن حمل المسيح الفعلي والمباشر للعقوبة القانونية (Penal Penalty) التي نستحقها كبديل قضائي تبريراً لنا."
+      },
+      {
+        "english_term": "Second Coming",
+        "arabic_standard": "المجيء الثاني",
+        "amharic_corrected": "ዳግም ምጽዓት",
+        "original_amharic_prior": "ዳግም ምጽዓት",
+        "original_arabic_prior": "المجيء الثاني",
+        "justification_notes": "تاريخي بليغ ومعياري. رجوع يسوع المسيح الظاهر بالمجد والقوة لإتمام غلبة ملكه ودينونة المسكونة وتأسيس ملكوته الأخروي النهائي الخالد."
+      },
+      {
+        "english_term": "Resurrection",
+        "arabic_standard": "القيامة",
+        "amharic_corrected": "ትንሣኤ",
+        "original_amharic_prior": "ትንሣኤ",
+        "original_arabic_prior": "القيامة",
+        "justification_notes": "معياري وتاريخي بليغ. قيامة يسوع المسيح الجسدية التاريخية من بين الأموات كعربون وضمان أكيد لقيامة أجساد المختارين في المجد باليوم الأخير."
+      }
+    ],
+    "4. Salvation & TULIP": [
+      {
+        "english_term": "English Term",
+        "arabic_standard": "Arabic Standard",
+        "amharic_corrected": "Amharic Corrected",
+        "original_amharic_prior": "Original Amharic (Prior)",
+        "original_arabic_prior": "Original Arabic (Prior)",
+        "justification_notes": "Justification & Notes (توجيهات للمترجمين)"
+      },
+      {
+        "english_term": "Total Depravity",
+        "arabic_standard": "الفساد الكلي",
+        "amharic_corrected": "ፍጹም ሙስና (ፍጹም ብልሹነት)",
+        "original_amharic_prior": "ፍጹም ብልሹነት",
+        "original_arabic_prior": "الفساد الكلي",
+        "justification_notes": "ترشيد لاهوتي. تم دمج اللفظ الكنسي الأقوى 'ፍጹም ሙስና' (تلف وانحلال الطبيعة الروحية والأخلاقية كلياً) لتوضيح عجز الإنسان عن تفعيل خلاصه."
+      },
+      {
+        "english_term": "Unconditional Election",
+        "arabic_standard": "الاختيار غير المشروط",
+        "amharic_corrected": "ቅድመ-ሁኔታ የሌለው ምርጫ",
+        "original_amharic_prior": "ቅድመ-ሁኔታ የሌለው ምርጫ",
+        "original_arabic_prior": "الاختيار غير المشروط",
+        "justification_notes": "معياري ودقيق لاهوتياً. قضاء الله الأزلي بانتخاب بعض الخطاة الفاسدين للخلاص مجاناً بناءً على مسرته ونعمته السيادية دون شروط بشرية مستبقة."
+      },
+      {
+        "english_term": "Limited Atonement",
+        "arabic_standard": "الكفارة المحدودة",
+        "amharic_corrected": "የተወሰነ ስርየት",
+        "original_amharic_prior": "የተወሰነ ስርየት",
+        "original_arabic_prior": "الكفارة المحدودة",
+        "justification_notes": "معياري ودقيق. توضح أن فاعلية وقصد موت المسيح الكفاري مصمم وموجه خصيصاً للمختارين فقط لضمان خلاصهم الفعلي الأكيد والكامل على الصليب."
+      },
+      {
+        "english_term": "Irresistible Grace",
+        "arabic_standard": "النعمة الفعّالة",
+        "amharic_corrected": "የማይቋቋሙት ጸጋ (ውጤታማ ጸጋ)",
+        "original_amharic_prior": "የማይቋቋሙት ጸጋ",
+        "original_arabic_prior": "النعمة التي لا تقاوم",
+        "justification_notes": "معياري وبليغ. عمل الروح القدس الداخلي الفعال الذي يغلب عناد الخاطئ المختار ويولده ولادة ثانية فيجعله يركض تائباً وقابلاً بالإنجيل طواعية."
+      },
+      {
+        "english_term": "Perseverance of the Saints",
+        "arabic_standard": "ثبات القديسين",
+        "amharic_corrected": "የቅዱሳን ጽናት",
+        "original_amharic_prior": "የቅዱሳን ጽናት",
+        "original_arabic_prior": "ثبات القديسين",
+        "justification_notes": "معياري وصحيح. يؤكد أن حفظ الله المطلق والفعال للمؤمنين الحقيقيين يضمن استمراريتهم وثباتهم في النعمة والإيمان للنهائية دون هلاك."
+      },
+      {
+        "english_term": "Predestination",
+        "arabic_standard": "الاختيار المسبق",
+        "amharic_corrected": "ቅድመ ውሳኔ",
+        "original_amharic_prior": "ቅድመ ውሳኔ",
+        "original_arabic_prior": "الاختيار المسبق",
+        "justification_notes": "معياري وصحيح لاهوتياً. قضاء ومشورات الله الأزلية السيادية التي حددت واختارت مصير الأشخاص والخطاة بالخلاص في المسيح."
+      },
+      {
+        "english_term": "Foreordination",
+        "arabic_standard": "التقدير المسبق",
+        "amharic_corrected": "ቅድመ ድንጋጌ",
+        "original_amharic_prior": "ቅድመ ድንጋጌ",
+        "original_arabic_prior": "التعيين السابق",
+        "justification_notes": "معياري ودقيق. يشير إلى تدبير وتقدير الله المطلق والأزلي لكل حادثة وقرار في التاريخ والخليقة بمقتضى مشيئته وحكمته الفائقة."
+      },
+      {
+        "english_term": "Double Predestination",
+        "arabic_standard": "الاختيار المزدوج",
+        "amharic_corrected": "ድርብ ቅድመ ውሳኔ",
+        "original_amharic_prior": "ድርብ ቅድመ ውሳኔ",
+        "original_arabic_prior": "التقدير المزدوج",
+        "justification_notes": "معياري ومصلح وصحيح. يشير لقرارات الله الثنائية الأزلية باختيار البعض نعمياً للحياة وترك غير المختارين لعدالته في عقوبة خطاياهم (الرفض)."
+      },
+      {
+        "english_term": "Reprobation",
+        "arabic_standard": "الرفض",
+        "amharic_corrected": "መጣል (ውድቅ ማድረግ)",
+        "original_amharic_prior": "መጣል",
+        "original_arabic_prior": "الرفض والترك",
+        "justification_notes": "معياري وصحيح. قضاء الله السيادي العادل بترك الخطاة غير المختارين في فسادهم وتجاوزهم وعدم تجديد قلوبهم كعمل لسيادة عدالته المطلقة."
+      },
+      {
+        "english_term": "Supralapsarianism",
+        "arabic_standard": "الفوق-سقوطية",
+        "amharic_corrected": "ከውድቀት በፊት (ሱፕራላፕሳሪያኒዝም)",
+        "original_amharic_prior": "-",
+        "original_arabic_prior": "اللاهوت الفوق سقوطي",
+        "justification_notes": "مصطلح نظامي مصلح. المنظور العقائدي الذي يرتب مراسيم الله الأزلية بوضع مرسوم الاختيار والرفض منطقياً قبل مرسوم السماح بسقوط الإنسان."
+      },
+      {
+        "english_term": "Infralapsarianism",
+        "arabic_standard": "التحت-سقوطية",
+        "amharic_corrected": "ከውድቀት በኋላ (ኢንፍራላፕሳሪያኒዝም)",
+        "original_amharic_prior": "-",
+        "original_arabic_prior": "اللاهوت التحت سقوطي",
+        "justification_notes": "مصطلح نظامي مصلح. المنظور العقائدي الذي يرتب مراسيم الله بوضع مرسوم السماح بالسقوط منطقياً قبل مرسوم اختيار البعض نعمياً وترك الآخرين."
+      }
+    ],
+    "5. Soteriology": [
+      {
+        "english_term": "English Term",
+        "arabic_standard": "Arabic Standard",
+        "amharic_corrected": "Amharic Corrected",
+        "original_amharic_prior": "Original Amharic (Prior)",
+        "original_arabic_prior": "Original Arabic (Prior)",
+        "justification_notes": "Justification & Notes (توجيهات للمترجمين)"
+      },
+      {
+        "english_term": "Effectual Calling",
+        "arabic_standard": "الدعوة الفعّالة",
+        "amharic_corrected": "ውጤታማ ጥሪ",
+        "original_amharic_prior": "ውጤታማ ጥሪ",
+        "original_arabic_prior": "الدعوة الفعالة",
+        "justification_notes": "معياري ودقيق. الاستدعاء الباطني الفعال الذي يجريه الروح القدس في قلوب المختارين بالكلمة فيحييهم ويجذبهم تائبين للمسيح."
+      },
+      {
+        "english_term": "Regeneration",
+        "arabic_standard": "التجديد",
+        "amharic_corrected": "ዳግም ልደት (አዲስ ልደት)",
+        "original_amharic_prior": "ዳግም ልደት",
+        "original_arabic_prior": "التجديد",
+        "justification_notes": "معياري وتاريخي بليغ. العمل الإلهي الأحادي الصرف للروح القدس الذي يبث الحياة الفائقة الروحية فوراً في قلب الخاطئ الميت روحياً لتأهيله للإيمان."
+      },
+      {
+        "english_term": "Conversion",
+        "arabic_standard": "الاهتداء",
+        "amharic_corrected": "መመለስ (ንስሐና እምነት)",
+        "original_amharic_prior": "መመለስ",
+        "original_arabic_prior": "الارتداد والرجوع لله",
+        "justification_notes": "معياري ودقيق لاهوتياً. الرجوع القلبي والعملي الفعلي للخاطئ المجدد بالإيمان والتوبة الصادقة كأول ثمرة ظاهرة للحياة الجديدة."
+      },
+      {
+        "english_term": "Justification",
+        "arabic_standard": "التبرير",
+        "amharic_corrected": "መጽደቅ",
+        "original_amharic_prior": "መጽደቅ",
+        "original_arabic_prior": "التبرير",
+        "justification_notes": "معياري بليغ وتاريخي. الإعلان القضائي الإلهي ببراءة الخاطئ التائب وقبوله باراً أمام محكمة الله الشرعية بناءً على بر المسيح المنسوب له بالإيمان وحده."
+      },
+      {
+        "english_term": "Imputed Righteousness",
+        "arabic_standard": "احتساب البر",
+        "amharic_corrected": "ጽድቅን መቁጠር",
+        "original_amharic_prior": "ጽድቅን መቁጠር",
+        "original_arabic_prior": "احتساب البر",
+        "justification_notes": "بليغ ودقيق. نسب وحساب كامل بر وطاعة يسوع المسيح نيابة عنا للمؤمن الخاطئ تبرئة لحسابه وتلبية لمطالب عدالة الله."
+      },
+      {
+        "english_term": "Imputed Sin",
+        "arabic_standard": "احتساب الخطية",
+        "amharic_corrected": "ኃጢአትን መቁጠር",
+        "original_amharic_prior": "ኃጢአትን መቁጠር",
+        "original_arabic_prior": "احتساب الخطية",
+        "justification_notes": "دقيق ومعياري. نسب خطية آدم الفيدرالية لجنسه الطبيعي، وكذلك نسب ووضع خطايانا كفارياً لشخص المسيح على الصليب ليحمل عقابنا."
+      },
+      {
+        "english_term": "Original Sin",
+        "arabic_standard": "الخطية الأصلية",
+        "amharic_corrected": "የውርስ ኃጢአት (የመጀመሪያ ኃጢአት)",
+        "original_amharic_prior": "የውርስ ኃጢአት",
+        "original_arabic_prior": "الخطية الأصلية",
+        "justification_notes": "تاريخي وبليغ. يشير إلى الفساد والذنب الموروث الذي يولد به كل إنسان طبيعي بعد سقوط آدم وحساب خطيته الفيدرالية لنسله."
+      },
+      {
+        "english_term": "Bondage of the Will",
+        "arabic_standard": "عبودية الإرادة",
+        "amharic_corrected": "የፈቃድ ባርነት",
+        "original_amharic_prior": "የፈቃድ ባርነት",
+        "original_arabic_prior": "عبودية الإرادة",
+        "justification_notes": "دقيق ومعياري مصلح. عجز إرادة الخاطئ الطبيعي وعبوديتها المطلقة للخطية والفساد وعدم قدرتها على اختيار أي خير روحي ما لم يجددها الروح القدس."
+      },
+      {
+        "english_term": "Sola Fide",
+        "arabic_standard": "الإيمان وحده",
+        "amharic_corrected": "በእምነት ብቻ",
+        "original_amharic_prior": "በእምነት ብቻ",
+        "original_arabic_prior": "الإيمان وحده",
+        "justification_notes": "معياري وبليغ. المبدأ الإصلاحي العظيم الذي يؤكد أن الإيمان (كقناة استقبال واتكال وثقة) هو الوسيلة الوحيدة لنيل التبرير وبر المسيح دون الأعمال."
+      },
+      {
+        "english_term": "Sola Gratia",
+        "arabic_standard": "النعمة وحدها",
+        "amharic_corrected": "በጸጋ ብቻ",
+        "original_amharic_prior": "በጸጋ ብቻ",
+        "original_arabic_prior": "النعمة وحدها",
+        "justification_notes": "معياري وبليغ. المبدأ الإصلاحي العظيم الذي يحصر دافع ومصدر خلاصنا في نعمة الله الحرة والسيادية والمجانية كلياً دون أي ميزة أو مجهود بشري."
+      },
+      {
+        "english_term": "Adoption",
+        "arabic_standard": "التبني",
+        "amharic_corrected": "የልጅነት ሥልጣን (ጉዲፈቻ)",
+        "original_amharic_prior": "የልጅነት መንፈስ (ጉዲፈቻ)",
+        "original_arabic_prior": "التبني",
+        "justification_notes": "تصحيح لاهوتي حاسم. تم ترفيع الصياغة بإضافة 'የልጅነት ሥልጣን' (حق وسلطان البنوة الشرعي - يوحنا 1: 12) لتعزيز البعد القانوني القضائي للتبني الإلهي."
+      },
+      {
+        "english_term": "Sanctification",
+        "arabic_standard": "التقديس",
+        "amharic_corrected": "መቀደስ",
+        "original_amharic_prior": "መቀደስ",
+        "original_arabic_prior": "التقديس",
+        "justification_notes": "معياري وتاريخي. العملية المتدرجة المشتركة بالروح القدس التي تقود المؤمن المبرر لموت وإماتة الخطية ونمو البر العملي المتوافق مع صورة المسيح."
+      },
+      {
+        "english_term": "Glorification",
+        "arabic_standard": "التمجيد",
+        "amharic_corrected": "መክበር",
+        "original_amharic_prior": "መክበር",
+        "original_arabic_prior": "التمجيد",
+        "justification_notes": "معياري وتاريخي. المرحلة الختامية والنهائية للخلاص حيث يتحرر المؤمن كلياً من حضور الخطية والفساد ويلبس جسداً ممجداً لا يفنى."
+      },
+      {
+        "english_term": "Ordo Salutis",
+        "arabic_standard": "ترتيب الخلاص",
+        "amharic_corrected": "የድነት ቅደም ተከተል",
+        "original_amharic_prior": "የድነት ቅደም ተከተል",
+        "original_arabic_prior": "ترتيب الخلاص",
+        "justification_notes": "معياري وصحيح نظامياً. يعبر عن الترتيب المنطقي والعقائدي لتطبيق نعم ومستحقات خلاص المسيح الفعال على المؤمن بواسطة الروح القدس."
+      },
+      {
+        "english_term": "Union with Christ",
+        "arabic_standard": "الاتحاد بالمسيح",
+        "amharic_corrected": "ከክርስቶስ ጋር አንድ መሆን (ከክርስቶስ ጋር መዋሐድ)",
+        "original_amharic_prior": "ከክርስቶስ ጋር መተባበር",
+        "original_arabic_prior": "الاتحاد بالمسيح",
+        "justification_notes": "تصحيح لاهوتي حاسم. تم استبدال 'መተባበር' (التعاون اليومي) بـ 'አንድ መሆን' (الصيرورة واحداً) للتعبير عن الاتحاد العضوي والحيوي السري بالمسيح بالإيمان."
+      },
+      {
+        "english_term": "Assurance of Salvation",
+        "arabic_standard": "ثقة الخلاص",
+        "amharic_corrected": "የድነት ማረጋገጫ",
+        "original_amharic_prior": "የድነት ማረጋገጫ",
+        "original_arabic_prior": "اليقين الخلاصي الثابت",
+        "justification_notes": "معياري وصحيح. اليقين الروحي القلبي الثابت والارتكاز الواثق على أمانة عهود ومواعيد الله وعمله الفعال الخلاصي غير القابل للتراجع."
+      },
+      {
+        "english_term": "Eternal Justification",
+        "arabic_standard": "التبرير الأزلي",
+        "amharic_corrected": "ዘላለማዊ መጽደቅ",
+        "original_amharic_prior": "ዘላለማዊ መጽደቅ",
+        "original_arabic_prior": "التبرير الأزلي",
+        "justification_notes": "معياري ودقيق لاهوتياً. قضاء الله بتبرير المختارين في عهده الفيدرالي الأزلي مع الابن، والذي يتفعل زمنياً في حياتهم عند نوالهم الإيمان الفعال."
+      },
+      {
+        "english_term": "Lordship Salvation",
+        "arabic_standard": "خلاص الربوبية",
+        "amharic_corrected": "የጌትነት ድነት",
+        "original_amharic_prior": "የጌትነት ድነት",
+        "original_arabic_prior": "خلاص الربوبية",
+        "justification_notes": "معياري ودقيق. يؤكد أن قبول يسوع مخلصاً وفادياً يقتضي بالضرورة الخضوع المطلق له كرب وسيد ومطاع في سائر مناحي الحياة والتقديس."
+      },
+      {
+        "english_term": "Free Offer of the Gospel",
+        "arabic_standard": "العرض الحر للإنجيل",
+        "amharic_corrected": "ነፃ የወንጌል ጥሪ",
+        "original_amharic_prior": "ነፃ የወንጌል ጥሪ",
+        "original_arabic_prior": "البشارة المجانية العامة",
+        "justification_notes": "معياري ومصلح دقيق. المناداة والبشارة المجانية الموجهة لجميع الخطاة والمسكونة بالتوبة والإيمان بالإنجيل دون قيود أو شروط عرقية أو ناموسية."
+      },
+      {
+        "english_term": "Common Grace",
+        "arabic_standard": "النعمة المشتركة",
+        "amharic_corrected": "የጋራ ጸጋ",
+        "original_amharic_prior": "የጋራ ጸጋ",
+        "original_arabic_prior": "النعمة العامة",
+        "justification_notes": "معياري ودقيق. البركات والتدابير الإلهية العامة غير المخلصة الممنوحة للبشرية والكون لحفظ البنيان وكبح الشر وصيانة الحياة الاجتماعية."
+      },
+      {
+        "english_term": "Reconciliation",
+        "arabic_standard": "المصالحة (الثمرة العلائقية)",
+        "amharic_corrected": "ማስታረቅ",
+        "original_amharic_prior": "ማስታረቅ",
+        "original_arabic_prior": "المصالحة",
+        "justification_notes": "معياري وتاريخي بليغ. عمل فداء المسيح الكفاري الذي قضى تماماً على عداوة وقطيعة الخاطئ تبريراً ونقله لشركة عائلية خلاصية مع الآب."
+      },
+      {
+        "english_term": "Ministry of Reconciliation",
+        "arabic_standard": "خدمة المصالحة (الوكالة الرسولية)",
+        "amharic_corrected": "የማስታረቅ አገልግሎት",
+        "original_amharic_prior": "የማስታረቅ አገልግሎት",
+        "original_arabic_prior": "وكالة المصالحة الرسولية",
+        "justification_notes": "بليغ وصحيح. التفويض الإلهي والوكالة الرسولية المعطاة للكنيسة لنشر وإعلان إنجيل النعمة والصلح وتطبيق عهد النعمة كرازياً."
+      }
+    ],
+    "6. Ecclesiology & Sacraments": [
+      {
+        "english_term": "English Term",
+        "arabic_standard": "Arabic Standard",
+        "amharic_corrected": "Amharic Corrected",
+        "original_amharic_prior": "Original Amharic (Prior)",
+        "original_arabic_prior": "Original Arabic (Prior)",
+        "justification_notes": "Justification & Notes (توجيهات للمترجمين)"
+      },
+      {
+        "english_term": "Visible Church",
+        "arabic_standard": "الكنيسة المنظورة",
+        "amharic_corrected": "የምትታየው ቤተክርስتيያን",
+        "original_amharic_prior": "የምትታየው ቤተክርስتيያን",
+        "original_arabic_prior": "الكنيسة المنظورة",
+        "justification_notes": "معياري وصحيح. المؤسسة والمنظومة الخارجية العلنية لكل الذين يعترفون بالإيمان المسيحي القويم برفقة أولادهم المشمولين بالعهد."
+      },
+      {
+        "english_term": "Invisible Church",
+        "arabic_standard": "الكنيسة غير المنظورة",
+        "amharic_corrected": "የማትታየው ቤተክርስتيያን",
+        "original_amharic_prior": "የማትታየው ቤተክርስتيያን",
+        "original_arabic_prior": "الكنيسة غير المنظورة",
+        "justification_notes": "معياري وصحيح. البنيان والجسد السري الروحي الجامع لكافة المختارين الذين اتحدوا حيوياً برأسهم المسيح في الماضي والحاضر والمستقبل."
+      },
+      {
+        "english_term": "Regulative Principle",
+        "arabic_standard": "مبدأ تنظيم العبادة",
+        "amharic_corrected": "የአምልኮ መመሪያ መርህ",
+        "original_amharic_prior": "የአምልኮ መመሪያ መርህ",
+        "original_arabic_prior": "مبدأ تنظيم العبادة",
+        "justification_notes": "معياري وصحيح مصلح. الضابط الإرشادي الذي يحظر تفعيل أو إدخال أي ممارسة عبادية كنسية ما لم تأمر بها كلمة الله المكتوبة صراحة."
+      },
+      {
+        "english_term": "Sacraments",
+        "arabic_standard": "الأسرار",
+        "amharic_corrected": "የኪዳን ምልክቶችና ማኅተሞች (ምሥጢራት)",
+        "original_amharic_prior": "ሥርዓተ ቤተክርስتيያን (ምሥጢራት)",
+        "original_arabic_prior": "الأسرار المقدسة",
+        "justification_notes": "تصحيح لاهوتي عظيم. تم ترفيع الصياغة بإضافة 'የኪዳን ምልክቶችና ማኅተሞች' (علامات العهد وأختامه) لتأكيد الطابع العهدي والرمزي للأسرار (البروتستانتية المصلحة)."
+      },
+      {
+        "english_term": "Baptism",
+        "arabic_standard": "المعمودية",
+        "amharic_corrected": "ጥምቀት",
+        "original_amharic_prior": "ጥምቀት",
+        "original_arabic_prior": "المعمودية",
+        "justification_notes": "معياري وتاريخي بليغ. علامة وختم عهد النعمة الخارجي التي ترمز لغسل الخطايا بالدم الكفاري والاتحاد العضوي بموت المسيح وقيامته."
+      },
+      {
+        "english_term": "Paedobaptism",
+        "arabic_standard": "معمودية الأطفال",
+        "amharic_corrected": "የሕፃናት ጥምቀት",
+        "original_amharic_prior": "የሕፃናት ጥምቀት",
+        "original_arabic_prior": "معمودية الأطفال",
+        "justification_notes": "معياري وصحيح. ممارسة إعطاء علامة العهد وعضوية الكنيسة المنظورة لأولاد المؤمنين استناداً لشمولية وتضامن وعود عهد النعمة الإلهي."
+      },
+      {
+        "english_term": "Credobaptism",
+        "arabic_standard": "معمودية المؤمنين",
+        "amharic_corrected": "የአማኞች ጥምቀት",
+        "original_amharic_prior": "የአማኞች ጥምቀት",
+        "original_arabic_prior": "معمودية المؤمنين البالغين",
+        "justification_notes": "معياري ودقيق. ممارسة حصر تقديم علامة المعمودية والعضوية على من يقدم اعترافاً وقبولاً ذاتياً واعي الإيمان والصادق بالرب يسوع."
+      },
+      {
+        "english_term": "Lord's Supper",
+        "arabic_standard": "عشاء الرب",
+        "amharic_corrected": "የጌታ እራት",
+        "original_amharic_prior": "የጌታ እራት",
+        "original_arabic_prior": "عشاء الرب",
+        "justification_notes": "معياري وكتابي بليغ. السر والعلامة العهدية والختم المرئي لتذكر وكسر جسد المسيح وسكب دمه لفدائنا وتلقي روحه القديمة المعزية بالإيمان."
+      },
+      {
+        "english_term": "Means of Grace",
+        "arabic_standard": "وسائط النعمة",
+        "amharic_corrected": "የጸጋ መንገዶች",
+        "original_amharic_prior": "የጸጋ መንገዶች",
+        "original_arabic_prior": "وسائط النعمة",
+        "justification_notes": "معياري ودقيق لاهوتياً. القنوات التي عينها وأمر بها الله كأدوات رسمية لتقوية إيمان المبررين وبنائهم تقوياً (الكلمة، الأسرار، الصلاة)."
+      },
+      {
+        "english_term": "Seal of the Covenant",
+        "arabic_standard": "ختم العهد / الختم",
+        "amharic_corrected": "የኪዳን ማኅተም",
+        "original_amharic_prior": "የኪዳን ማኅተም",
+        "original_arabic_prior": "ختم العهد",
+        "justification_notes": "معياري لاهوتي دقيق (رومية 4: 11). الأسرار المقدسة كضمانات وعلامات ملكية لا تتغير تؤكد للشخص المتحد حيوياً فاعلية وعود عهد النعمة."
+      }
+    ],
+    "7. Scripture": [
+      {
+        "english_term": "English Term",
+        "arabic_standard": "Arabic Standard",
+        "amharic_corrected": "Amharic Corrected",
+        "original_amharic_prior": "Original Amharic (Prior)",
+        "original_arabic_prior": "Original Arabic (Prior)",
+        "justification_notes": "Justification & Notes (توجيهات للمترجمين)"
+      },
+      {
+        "english_term": "Sola Scriptura",
+        "arabic_standard": "الكتاب المقدس وحده",
+        "amharic_corrected": "መጽሐፍ ቅዱስ ብቻ",
+        "original_amharic_prior": "ቅዱስ ቃሉ ብቻ (መጽሐፍ ቅዱስ ብቻ)",
+        "original_arabic_prior": "الكتاب المقدس وحده",
+        "justification_notes": "معياري ودقيق. المبدأ الإصلاحي العظيم الذي يحصر المرجعية العليا والمعصومة المكتوبة الوحيدة للإيمان والعمل والعبادة والسلوك في الكلمة المقدسة."
+      },
+      {
+        "english_term": "Inspiration",
+        "arabic_standard": "الإلهام",
+        "amharic_corrected": "እስትንፋሰ እግዚአብሔር",
+        "original_amharic_prior": "መንፈስ አነሳሽነት",
+        "original_arabic_prior": "الإلهام والوحي الإلهي",
+        "justification_notes": "بليغ وتاريخي وقمة الدقة اللاهوتية. تم استبعاد اللفظ البروتستانتي الحديث 'መንፈስ አነሳሽነት' واستخدام اللفظ الجعزي التاريخي 'እስትንፋሰ እግዚአብሔር' (أنفاس الله) المطابق حرفياً لليوناني (2 تيموثاوس 3: 16)."
+      },
+      {
+        "english_term": "Inerrancy",
+        "arabic_standard": "العصمة",
+        "amharic_corrected": "ስህተት አልባነት",
+        "original_amharic_prior": "ስህተት አልባነት",
+        "original_arabic_prior": "عصمة الكتاب من الخطأ",
+        "justification_notes": "معياري ودقيق. يؤكد خلو كامل الأسفار المقدسة في أصولها المكتوبة من أي خطأ تاريخي أو علمي أو لاهوتي لصدورها المباشر من فم الله المعصوم."
+      },
+      {
+        "english_term": "Sufficiency of Scripture",
+        "arabic_standard": "كفاية الكتاب المقدس",
+        "amharic_corrected": "የመጽሐፍ ቅዱስ በቂነት",
+        "original_amharic_prior": "የመጽሐፍ ቅዱስ በቂነት",
+        "original_arabic_prior": "كفاية الكتاب المقدس",
+        "justification_notes": "معياري وصحيح. يؤكد كفاية واحتواء الكلمة المكتوبة على كامل ما يحتاجه المؤمن لخلاصه وسلوكه وإيمانه وعبادته ومواجهة المعتقدات المستحدثة."
+      },
+      {
+        "english_term": "Revelation / Apocalypse",
+        "arabic_standard": "الرؤيا / الإعلان الإلهي",
+        "amharic_corrected": "መገለጥ (የእግዚአብሔር መገለጥ)",
+        "original_amharic_prior": "ራዕይ",
+        "original_arabic_prior": "الإعلان الإلهي والوحي",
+        "justification_notes": "تصحيح لاهوتي. تم استخدام 'መገለጥ' (الاستعلان الفعلي لإرادة الله) بدلاً من اللفظ العامي الحلمي 'ራዕይ' لضمان الدقة اللاهوتية للوحي السيادي."
+      },
+      {
+        "english_term": "Mystery of Godliness",
+        "arabic_standard": "سر التقوى / سر الإيمان",
+        "amharic_corrected": "የፍርሃተ እግزيአብሔር ምስጢር",
+        "original_amharic_prior": "የአምልኮ ምስጢር",
+        "original_arabic_prior": "سر التقوى",
+        "justification_notes": "تصحيح كتابي دقيق (1 تيموثاوس 3: 16). تم استبدال 'የአምልኮ ምስጢር' (سر العبادة الطقسية) بـ 'የፍርሃተ እግزيአብሔር ምስጢር' (سر مخافة الرب والتقوى الخلاصية المعاشة)."
+      }
+    ],
+    "8. Puritan Piety": [
+      {
+        "english_term": "English Term",
+        "arabic_standard": "Arabic Standard",
+        "amharic_corrected": "Amharic Corrected",
+        "original_amharic_prior": "Original Amharic (Prior)",
+        "original_arabic_prior": "Original Arabic (Prior)",
+        "justification_notes": "Justification & Notes (توجيهات للمترجمين)"
+      },
+      {
+        "english_term": "Experimental Religion",
+        "arabic_standard": "الدين التجريبي",
+        "amharic_corrected": "ልምምዳዊ እምነት / ልምምዳዊ ሃይማኖት",
+        "original_amharic_prior": "የሕይወት ልምምድ ሃይማኖት",
+        "original_arabic_prior": "الدين التجريبي",
+        "justification_notes": "تصحيح لاهوتي عظيم. تم استبعاد دلالات المختبر العلمي وتعميم 'ልምምዳዊ እምነት' للتعبير عن طبيعة التقوى التطهيرية الاختبارية المجرية والحي في وجدان المؤمن بالروح."
+      },
+      {
+        "english_term": "Heart Religion",
+        "arabic_standard": "دين القلب",
+        "amharic_corrected": "የልብ ሃይማኖት",
+        "original_amharic_prior": "የልብ ሃይማኖት",
+        "original_arabic_prior": "دين القلب التقوي",
+        "justification_notes": "معياري وصحيح. يشير لموضع التقوى الداخلية الصادقة المبررة بنعمة المسيح وتأثير روحه في تجديد ونبض كامل أفكار وكيانات المؤمن الداخلي."
+      },
+      {
+        "english_term": "Spiritual Desertion",
+        "arabic_standard": "الانفصال الروحي",
+        "amharic_corrected": "መንፈሳዊ መተው (መንፈሳዊ መራቅ)",
+        "original_amharic_prior": "መንፈሳዊ መተው",
+        "original_arabic_prior": "الانفصال والترك الروحي المؤقت",
+        "justification_notes": "معياري ودقيق لاهوتياً. التراجع المؤقت للحضور الإلهي المعزي المعاش في قلب المؤمن لامتحان وتقوية أمانته ودفعه للسعي الحار للشركة."
+      },
+      {
+        "english_term": "Dark Night of the Soul",
+        "arabic_standard": "ليلة الروح المظلمة",
+        "amharic_corrected": "የነፍስ ጨለማ ሌሊት",
+        "original_amharic_prior": "የነፍስ ጨለማ ሌሊት",
+        "original_arabic_prior": "ليلة النفس المظلمة",
+        "justification_notes": "معياري وتاريخي. فترات الامتحان والظلمة والجفاف الروحي العصيب التي يقود الله المبرر عبرها لتنقية تقواه وقتل الكبرياء والاتكال الذاتي."
+      },
+      {
+        "english_term": "Soul Trouble",
+        "arabic_standard": "اضطراب النفس",
+        "amharic_corrected": "የነፍስ ጭንቀት",
+        "original_amharic_prior": "የነፍስ ጭንቀት",
+        "original_arabic_prior": "اضطراب الوجدان الروحي",
+        "justification_notes": "معياري وصحيح. القلق والمعاناة الروحية الداخلية الصادقة التي تجري في وجدان المؤمن تقديساً لمواجهة الكسل أو الشعور بثقل السقوط والخطية."
+      },
+      {
+        "english_term": "Closing with Christ",
+        "arabic_standard": "القبول الخلاصي للمسيح",
+        "amharic_corrected": "ከክርስቶስ ጋር መጣበቅ",
+        "original_amharic_prior": "ከክርስቶስ ጋር መጣበቅ",
+        "original_arabic_prior": "القبول الخلاصي الحميم للمسيح",
+        "justification_notes": "تصحيح حاسم لخطأ الترجمة العربي الجسيم. المصطلح التطهري لا يعني 'الانغلاق بالمسيح' بل الالتصاق والارتماء الخلاصي الحميم بالإيمان، وهو ما يعبر عنه الأمهري 'መጣበቅ' بدقة."
+      },
+      {
+        "english_term": "Sweetness of Christ",
+        "arabic_standard": "حلاوة المسيح",
+        "amharic_corrected": "የክርስቶስ ጣዕም (የክርስቶስ ውበት)",
+        "original_amharic_prior": "የክርስቶስ ጣዕም",
+        "original_arabic_prior": "عذوبة وحلاوة المسيح الروحية",
+        "justification_notes": "تاريخي وبليغ. التعبير البيوريتاني التقوي الصرف عن الحميمية والشركة والتلذذ بمحبة وجمال شخص الفادي يسوع المسيح المعاشة وجدانياً للقلب التائب."
+      },
+      {
+        "english_term": "Mortification of Sin",
+        "arabic_standard": "إماتة الخطية",
+        "amharic_corrected": "ኃጢአትን መግደል (የሥጋን ሥራ መግደል)",
+        "original_amharic_prior": "ኃጢአትን መግደል",
+        "original_arabic_prior": "إماتة الخطية المستمرة",
+        "justification_notes": "معياري وصحيح ومصلح. العمل الدائم بالروح القدس لصلب الطبيعة الساقطة المتمردة وإماتة وكسر فاعلية وشهوات الجسد الساقط (ሥጋ)."
+      },
+      {
+        "english_term": "Vivification",
+        "arabic_standard": "إحياء الروح",
+        "amharic_corrected": "መንፈሳዊ ሕይወትን ማነቃቃት",
+        "original_amharic_prior": "መንፈሳዊ ሕይወትን ማነቃቃት",
+        "original_arabic_prior": "إحياء الروح الإيجابي",
+        "justification_notes": "معياري وصحيح. الجانب الإيجابي للتقديس اليومي؛ نمو وبث فاعلية ونبض ونشاط الكيان الروحي الجديد للعيش في طاعة الإيمان لعهد النعمة."
+      },
+      {
+        "english_term": "Holy Violence",
+        "arabic_standard": "العنف المقدس",
+        "amharic_corrected": "ቅዱስ ዓመፅ (መንፈሳዊ ትጋት)",
+        "original_amharic_prior": "ቅዱስ ዓመፅ",
+        "original_arabic_prior": "العنف والجهاد المقدس الروحي",
+        "justification_notes": "تصحيح وتوجيه. السعي والجهاد الحثيث والغيرة الروحية والتقية لاقتناص بركات ملكوت الله والتقديس دون تداخل اللفظ مع العنف المادي الجسدي اليومي."
+      },
+      {
+        "english_term": "Duty of Self-Denial",
+        "arabic_standard": "واجب إنكار الذات",
+        "amharic_corrected": "ራስን የመካድ ግዴታ",
+        "original_amharic_prior": "ራስን የመካድ ግዴታ",
+        "original_arabic_prior": "واجب إنكار الذات لاهوتياً",
+        "justification_notes": "معياري وصحيح. إخضاع وتنازل المؤمن المستمر عن إرادته الذاتية ورغباته وشهوات الجسد وخضوعه المطلق لسيادة ووصايا يسوع كجزء من تقديسه."
+      }
+    ],
+    "9. Eschatology": [
+      {
+        "english_term": "English Term",
+        "arabic_standard": "Arabic Standard",
+        "amharic_corrected": "Amharic Corrected",
+        "original_amharic_prior": "Original Amharic (Prior)",
+        "original_arabic_prior": "Original Arabic (Prior)",
+        "justification_notes": "Justification & Notes (توجيهات للمترجمين)"
+      },
+      {
+        "english_term": "Final Judgment",
+        "arabic_standard": "الدينونة الأخيرة",
+        "amharic_corrected": "المጨረሻው ፍርድ",
+        "original_amharic_prior": "የመጨረሻው ፍርድ",
+        "original_arabic_prior": "الدينونة والفرز الأخير",
+        "justification_notes": "معياري وتاريخي بليغ. استعلان وحكم وسيادة الله القضائية والعدالة المطلقة والنهائية في منتهى الدهر والزمان لمكافأة شعبه وإدانة غير المختارين بالعدل."
+      },
+      {
+        "english_term": "New Creation",
+        "arabic_standard": "الخليقة الجديدة",
+        "amharic_corrected": "አዲስ ፍጥረት",
+        "original_amharic_prior": "አዲስ ፍጥረት",
+        "original_arabic_prior": "الخليقة الجديدة الشاملة",
+        "justification_notes": "بليغ ومعياري ومصلح. يجمع بين التجديد والتبني الروحي الحالي للمؤمن المتحد حيوياً بالمسيح ومستقبل وإتمام تجديد كامل الكون المادي والأثيري للأبد."
+      }
+    ]
+  },
+  "comparison_matrix": [
+    {
+      "concept_ar": "المفهوم العقائدي (Doctrinal Concept)",
+      "amharic_term": "الصياغة الأمهرية المصلحة",
+      "orthodox_understanding": "الصياغة التقليدية (EOTC)",
+      "reformed_correction": "الدلالة الأرثوذكسية والخلط الشعبي المتوارث",
+      "theological_justification": "العمق العقائدي المصلح والتوجيه الدقيق (Reformed Corrective)"
+    },
+    {
+      "concept_ar": "العهد (Covenant)",
+      "amharic_term": "የጸጋ ኪዳን / የሥራ ኪዳን\n(عهد النعمة / عهد الأعمال)",
+      "orthodox_understanding": "ኪዳን (Kidan)\n(مثل ኪዳነ ምሕረት)",
+      "reformed_correction": "يرتبط في أذهان الناس بصلوات العهد الطقسية وعهود الشفاعة مع مريم العذراء والملائكة والرهبان، وبحسية التابوت المادية في المذبح الكنسي.",
+      "theological_justification": "يعيد الفكر المصلح الكلمة إلى جوهرها الروحي والخلاصي بتمثيل المسيح الفيدرالي في عهد النعمة (የጸጋ ኪዳን) بعيداً عن الشفاعات البشرية والماديات الطقسية."
+    },
+    {
+      "concept_ar": "السيادة والتدبير (Sovereignty & Providence)",
+      "amharic_term": "የእግዚአብሔር ሉዓላዊነት / መለኮታዊ መጋቢነት\n(السيادة المطلقة والتدبير الإلهي)",
+      "orthodox_understanding": "እድል / ዕጣ ፈንታ (Idil)\n(القدر الأعمى أو النصيب الجسدي)",
+      "reformed_correction": "ينظر العامة لتدبير الكون بنوع من القدرية السلبية أو الاقتصار على الحماية المادية للجسد 'መለኮታዊ ጥበቃ' مع الخضوع للأعمال البشرية لنيل النعمة.",
+      "theological_justification": "يثبت التدبير الشامل والسيادة المطلقة للآب الأزلي 'መጋቢነት' كأساس لتدبير الأكوان، وحصر خلاص المؤمن بسيادة إرادة الله الأحادية (Monergism) وحدها."
+    },
+    {
+      "concept_ar": "التبرير (Justification)",
+      "amharic_term": "መጽደቅ / ጽድቅን መቁጠር\n(التبرير القضائي باحتساب البر)",
+      "orthodox_understanding": "ማጽደቅ / በበጎ ሥራ መጽደቅ\n(التزكية عبر ممارسات النسك والوصايا)",
+      "reformed_correction": "يخلط اللاهوت الكنسي بين التبرير والتقديس، ويرسم التبرير كعملية تطهير ذاتي أخلاقي ونسكي ناموسي مستمر ومربوط بالأسرار كقنوات استحقاق لاهوتية.",
+      "theological_justification": "يصيغ التبرير كإعلان قضائي فوري وتبرئة حساب الخاطئ العاجز عن طريق احتساب ونسب بر المسيح الخارجي الكامل له (ጽድቅን መቁጠር) وتلقيه بالإيمان وحده."
+    },
+    {
+      "concept_ar": "الوساطة والشفاعة (Intercession & Mediation)",
+      "amharic_term": "በክርስቶس ብቻ / አማላጅነት\n(المسيح وحده شفيعاً وسيطاً)",
+      "orthodox_understanding": "ታማላጅነት / የቅዱሳን አማላጅነት\n(وساطة مريم العذراء، الملائكة والرهبان)",
+      "reformed_correction": "توزع الشفاعات والوساطات الخلاصية والعلائقية على مريم العذراء ورؤساء الملائكة والأبرار الأحياء والأموات لبلوغ رضا الله ونيل مغفرته وصعود الصلوات.",
+      "theological_justification": "هدم كامل للوساطات وحصر الشفاعة الكفارية والمصالحة العلائقية القضائية في كفاية وعمل شخص الرب يسوع المسيح الكاهن الأعظم الأبدي وحده (ክርስቶስ ብቻ)."
+    },
+    {
+      "concept_ar": "التناول دون استحقاق (Unworthily in 1 Cor 11:27)",
+      "amharic_term": "በማይገባ ሁኔታ / አግባብ ባልሆነ መንገድ\n(بشكل غير لائق / بطريقة خاطئة)",
+      "orthodox_understanding": "ሳይገባው (Sayigebaw)\n(شخص غير مستحق / غير مؤهل ذاتياً)",
+      "reformed_correction": "تم ترحيل الظرف اليوناني لصفة فردية ذاتية، فربط الناس تناول عشاء الرب بطهارة ذاتية وقوانين ناموسية جسدية صارمة، فامتنع السواد الأعظم خوفاً من الموت والبلية.",
+      "theological_justification": "تصحيح اللفظ ليكون ظرفاً يصف 'طريقة التناول برعونة دون وقار الجسد' وليس استحقاق الشخص، لأن بر المسيح المحتسب بالإيمان هو استحقاق المؤمن الأوحد والكامل."
+    },
+    {
+      "concept_ar": "النعمة المجانية (Sola Gratia)",
+      "amharic_term": "በጸጋ ብቻ\n(النعمة وحدها دون أي مساهمة أعمال)",
+      "orthodox_understanding": "ጸጋ / ይቅርታ (Tsega / Yiqirta)\n(النعمة التعاونية الممنوحة عبر الأسرار)",
+      "reformed_correction": "ترتبط الكلمة أحياناً بـ 'المغفرة العامة' أو الطاقة الإلهية المنسكبة التي تساعد الإنسان وتؤهله للقيام بالأعمال الصالحة والطقوس لينال الخلاص التآزري.",
+      "theological_justification": "تأكيد أن النعمة هي المصدر الإلهي الأحادي الخالص لإنقاذ الخاطئ الميت روحياً، وأنها مجانية بالكامل ومستقلة تماماً عن أي ميزة أو استحقاق أو سعي بشري."
+    },
+    {
+      "concept_ar": "الأعمال والتقديس (Works & Sanctification)",
+      "amharic_term": "መቀደስ / የእምነት ፍሬ\n(التقديس كأثر وثمر طاعة الإيمان)",
+      "orthodox_understanding": "በጎ ሥራ / ጾምና ጸሎት\n(الأعمال الصالحة كمستحقات خلاصة)",
+      "reformed_correction": "تعتبر الأعمال الصالحة والأصوام والصلوات الطقسية من المستحقات الحتمية المكملة للخلاص والتي بدون تفعيلها الذاتي يفقد الشخص رجاءه الخلاصي.",
+      "theological_justification": "تصنيف الأعمال والتقديس كـ 'ثمار حتمية وإيجابية لطاعة الإيمان الناتجة عن تجديد الروح' وليست أوراق اعتماد أو كفارات نساهم بها لنيل رضا الله."
+    }
+  ]
+}

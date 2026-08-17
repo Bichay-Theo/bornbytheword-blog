@@ -1,0 +1,4218 @@
+{
+  "title": "Multilingual Reformed Theology Glossary (Kabyle, Tamasheq, Maa)",
+  "title_ar": "القاموس اللاهوتي المصلح متعدد اللغات (القبائلية، التماشق، الما)",
+  "description": "A comprehensive database aligning Reformed Covenantal theological terms across Kabyle, Tamasheq (Tuareg), and Maa (Maasai) languages, audited for doctrinal precision.",
+  "version": "1.0.0",
+  "last_updated": "2026-08-16",
+  "glossary": [
+    {
+      "id_unified": 1,
+      "category_en": "Christology",
+      "category_ar": "الكريستولوجيا وشخص الفادي",
+      "english": "Active Obedience of Christ",
+      "arabic": "الطاعة الفعّالة للمسيح",
+      "kabyle": "Aṭuɛ n Lmasiḥ s lfeɛl",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Aḍfăr n-Ălmasex s-imaḥalan",
+        "tifinagh": "ⴰⴹⴼⴰⵔ ⵏ-ⴰⵍⵎⴰⵙⴻⵅ ⵙ-ⵉⵎⴰⵀⴰⵍⴰⵏ",
+        "arabic_script": "أَضْفَارْ نْ-أَلْمَاسَخْ سْ-إِيمَاهَالَانْ",
+        "old_latin": "Aḍfaṛ n Lmasiḥ s lfeɛl",
+        "justification": "طاعة المسيح الإيجابية التامة لناموس الله وشريعته طوال حياته لتُحتسب للمؤمنين برّاً عهدياً كاملاً. تم توظيف 'Ălmasex' للتعبير الإنجيلي الصحيح، و'imaḥalan' للأعمال المفروضة عهدياً."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 2,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Adoption",
+      "arabic": "التبني",
+      "kabyle": "Tuɣalin d arrac n Sidi Ṛebbi (Asgenter)",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري. يعبر عن نيل المؤمن للمركز القضائي والعهدي التام كابن ووارث مع المسيح (Huiothesia).",
+      "tamasheq": {
+        "revised_latin": "Ăsĕgĕntĕr dăɣ bararan n-Măssinăɣ",
+        "tifinagh": "ⴰⵙⴻⴳⴻⵏⵜⴻⵔ ⴷⴰⵖ ⴱⴰⵔⴰⵔⴰⵏ ⵏ-ⵎⴰⵙⵙⵉⵏⴰⵖ",
+        "arabic_script": "أَسَكَنْتَرْ دَاغْ بَارَارَانْ نْ-مَاسِّينَاغْ",
+        "old_latin": "Aḥsab zun d bararan n Yilu",
+        "justification": "تم إحياء اللفظ الأمازيغي الفيلولوجي القديم والأصيل 'Ăsĕgĕntĕr' (الذي يعني إعطاء المركز والمقام القضائي والشرعي للابن الغريب ليكون وارثاً) وتطهيره من المعاني المدنية العادية، ليمثل التبني القضائي العهدي (Huiothesia) كابن ووارث مع المسيح."
+      },
+      "maa": {
+        "id_maa": 60,
+        "english_maa": "Adoption (Covenantal)",
+        "maa_term": "Enkiyieleta e mpere le Kristo",
+        "cultural_meaning": "مسحة التبني والفرز العهدي العابر للقبيلة بالمسيح",
+        "theological_meaning": "المركز الشرعي السامي الذي يحصل عليه المؤمن المبرر ليصبح ابناً وارثاً لملكوت الله ووعوده الثمينة. (المرجع: أفسس 2:8، رومية 3:24)"
+      }
+    },
+    {
+      "id_unified": 3,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Ages of Ages (Eternity Future)",
+      "arabic": "الدهور والخلود",
+      "kabyle": "Lebda n lebda",
+      "dogmatic_guidance_kabyle": "العبرانيين ١: ٨. تعبير يعطي امتداداً زمنياً لا نهائياً لسيادة ملك المسيح العهدي وكهنته.",
+      "tamasheq": {
+        "revised_latin": "Lebda n-lebda",
+        "tifinagh": "ⵍⴻⴱⴷⴰ ⵏ-ⵍⴻⴱⴷⴰ",
+        "arabic_script": "لَبْدَا نْ-لَبْدَا",
+        "old_latin": "Lebda n lebda",
+        "justification": "التعبير الإنجيلي الأصيل للديمومة المستقبلية المطلقة والخلود في ملك المسيح وسيادته العهدية، متطابقاً مع الشاهد اللغوي لرسالة العبرانيين ١: ٨."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 4,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Anathema (Accursed)",
+      "arabic": "أناثما / مفرز / ملعون",
+      "kabyle": "Ad yili d amergum",
+      "dogmatic_guidance_kabyle": "غلاطية ١: ٨. يعبر عن القطع التام واللعنة القضائية المطبقة على من يحرف إنجيل النعمة والبر المجاني.",
+      "tamasheq": {
+        "revised_latin": "Ămĕrgum",
+        "tifinagh": "ⴰⵎⴻⵔⴳⵓⵎ",
+        "arabic_script": "أَمَرْكُومْ",
+        "old_latin": "Ad yili d amergum",
+        "justification": "القطع الميثاقي التام واللعنة القضائية المطبقة على من يحرف إنجيل النعمة المجانية؛ مطابقة مع الشاهد اللغوي لرسالة غلاطية ١: ٨ لمنع الانحراف التوفيقي."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 5,
+      "category_en": "Covenants_and_Law",
+      "category_ar": "العهود والناموس",
+      "english": "Antinomianism",
+      "arabic": "اللاناموسية",
+      "kabyle": "Aɛdaw n Lqanun",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Aga n-Usaḍuf",
+        "tifinagh": "ⴰⴳⴰ ⵏ-ⵓⵙⴰⴹⵓⴼ",
+        "arabic_script": "أَكَا نْ-ⵓⵙⴰⴹⵓⴼ",
+        "old_latin": "Aga n Usaḍuf",
+        "justification": "رفض شريعة الله كمعيار للأخلاق والقداسة؛ التعبير دقيق ويعني حرفياً إسقاط الناموس والشريعة الإلهية."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 6,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Assurance of Salvation",
+      "arabic": "ثقة الخلاص / يقين الخلاص",
+      "kabyle": "Ḍḍman n leslak (Lettkal n tudert)",
+      "dogmatic_guidance_kabyle": "دمج التعبيرين لضمان اليقين والارتكاز القلبي.",
+      "tamasheq": {
+        "revised_latin": "Lettkal n-leslak",
+        "tifinagh": "ⵍⴻⵜⵜⴽⴰⵍ ⵏ-ⵍⴻⵙⵍⴰⴽ",
+        "arabic_script": "لَتَّكَالْ نْ-لَسْلَاكْ",
+        "old_latin": "Ḍḍman n leslak",
+        "justification": "الارتكاز واليقين القلبي الثابت والراسخ في تمام كفاية عمل الفادي على الصليب وضمان حفظه للمؤمنين."
+      },
+      "maa": {
+        "id_maa": 64,
+        "english_maa": "Assurance of Salvation",
+        "maa_term": "Enkisiligata nasipa te njeunoto",
+        "cultural_meaning": "الرجاء والثقة الحقيقية بالنجاة والعبور",
+        "theological_meaning": "الثقة القلبية اليقينية التي يمنحها الروح القدس للمؤمن بأنه ابن حقيقي ومختار لله ومحفوظ للأبد. (المرجع: أفسس 2:8، رومية 3:24)"
+      }
+    },
+    {
+      "id_unified": 7,
+      "category_en": "Ecclesiology",
+      "category_ar": "اللاهوت الكنسي والأسرار",
+      "english": "Baptism",
+      "arabic": "المعمودية",
+      "kabyle": "Aɣḍas",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري ويعني التغطيس/الصبغ.",
+      "tamasheq": {
+        "revised_latin": "Asird n-Ărkăwăl",
+        "tifinagh": "ⴰⵙⵉⵔⴷ ⵏ-ⴰⵔⴽⴰⵡⴰⵍ",
+        "arabic_script": "أَسِيرْدْ نْ-أَرْكَاوَالْ",
+        "old_latin": "Asird n Tmeqqunt",
+        "justification": "استخدام 'Ărkăwăl' (الميثاق المغلظ بالقسم) مع 'Asird' (الغسل) لبيان أن المعمودية هي علامة وختم قانوني للميثاق العهدي وليس مجرد غسيل مادي."
+      },
+      "maa": {
+        "id_maa": 83,
+        "english_maa": "Covenant Baptism",
+        "maa_term": "Enkibatisa e osotua te nebo",
+        "cultural_meaning": "الصبغ والدهن العهدي للفرز والتطهير",
+        "theological_meaning": "العلامة السرائرية لعهد النعمة للتطهير الروحي والتبني والاتحاد بجسد المسيح المحلي والكوني. (المرجع: 1 كورنثوس 11:26، أفسس 5:22)"
+      }
+    },
+    {
+      "id_unified": 8,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Bondage of the Will",
+      "arabic": "عبودية الإرادة",
+      "kabyle": "Takmamt n lebɣi (Akraf n lebɣi)",
+      "dogmatic_guidance_kabyle": "صحيح ويعني حرفياً كمام أو كبح الإرادة عن فعل أي خير روحي.",
+      "tamasheq": {
+        "revised_latin": "Tilit n-lebɣi dăɣ-lḥebs",
+        "tifinagh": "ⵜⵉⵍⵉⵜ ⵏ-ⵍⴻⴱⵖⵉ ⴷⴰⵖ-ⵍⵃⴻⴱⵙ",
+        "arabic_script": "ⵜⵉⵍⵉⵜ (تِيلِيتْ) نْ-لَبْغِي دَاغْ-لْحَبْسْ",
+        "old_latin": "Tilit n lebɣi ɣ lḥebs",
+        "justification": "فقدان الإرادة الساقطة للحرية الروحية والأخلاقية وعجزها الكامل عن عمل أي صلاح روحي قبل التجديد، بحيث تكون أسيرة بالكامل للخطية."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 9,
+      "category_en": "Puritanism",
+      "category_ar": "اللاهوت التقوي والعملي",
+      "english": "Closing with Christ",
+      "arabic": "الالتحام بالمسيح / الالتصاق الوجداني بالفادي",
+      "kabyle": "Aṭṭef deg Lmasiḥ (Amezdi s Lmasiḥ)",
+      "dogmatic_guidance_kabyle": "تم تعزيزها بـ 'Aṭṭef' (التمسك والالتصاق القلبي بالمسيح).",
+      "tamasheq": {
+        "revised_latin": "Aṭṭef dăɣ-Ălmasex",
+        "tifinagh": "ⴰⵟⵟⴻⴼ ⴷⴰⵖ-ⴰⵍⵎⴰⵙⴻⵅ",
+        "arabic_script": "أَطَّفْ دَاغْ-أَلْمَاسَخْ",
+        "old_latin": "Amun d Lmasiḥ",
+        "justification": "التشبث والالتصاق القلبي الصادق والالتجاء الكامل بكفاية شخص المسيح؛ تم استخدام 'Aṭṭef' بدلاً من اللفظ المبتذل 'Amun' (الجمع أو المرافقة البسيطة)."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 10,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Common Grace",
+      "arabic": "النعمة المشتركة",
+      "kabyle": "Tmella tamatut",
+      "dogmatic_guidance_kabyle": "تم تصحيحها من 'Ṛṛeḥma tamatut' باستخدام اللفظ الأمازيغي الأصيل للنعمة.",
+      "tamasheq": {
+        "revised_latin": "Tăhanint tamatut",
+        "tifinagh": "ⵜⴰⵀⴰⵏⵉⵏⵜ ⵜⴰⵎⴰⵜⵓⵜ",
+        "arabic_script": "تَهَانِينْتْ تَمَاتُوتْ",
+        "old_latin": "Arraz ka",
+        "justification": "النعمة والإحسان الإلهي الشامل لجميع البشر في حفظ الخليقة؛ تم تطهير المصطلح من كلمة 'Arraz' التي تعني الأجر أو المكافأة باتباع أعمال بشرية."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 11,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Conversion",
+      "arabic": "الاهتداء / توبة الرجوع والتحول",
+      "kabyle": "Tanebdalt n wul (Tuɣalin ɣer Ṛebbi)",
+      "dogmatic_guidance_kabyle": "صحيح ويعبر عن تغيير القلب الكلي والرجوع الفعلي للرب.",
+      "tamasheq": {
+        "revised_latin": "Tanebdalt n-wul",
+        "tifinagh": "ⵜⴰⵏⴻⴱⴷⴰⵍⵜ ⵏ-ⵡⵓⵍ",
+        "arabic_script": "تَانَبْدَالْتْ نْ-وُولْ",
+        "old_latin": "Tanebdalt n wul",
+        "justification": "تغيير القلب الكلي والتحول الصادق والرجوع الفعلي للرب، وتعني حرفياً انقلاب وتحول القلب بمبادرة النعمة."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 12,
+      "category_en": "Covenants_and_Law",
+      "category_ar": "العهود والناموس",
+      "english": "Covenant Children",
+      "arabic": "أطفال العهد / أطفال الميثاق",
+      "kabyle": "Arrac n Lɛahd",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Bararan n-Ărkăwăl",
+        "tifinagh": "ⴱⴰⵔⴰⵔⴰⵏ ⵏ-ⴰⵔⴽⴰⵡⴰⵍ",
+        "arabic_script": "ⴱⴰⵔⴰⵔⴰⵏ (بَارَارَانْ) نْ-أَرْكَاوَالْ",
+        "old_latin": "Bararan n Tmeqqunt",
+        "justification": "أطفال المؤمنين المنتمون للوعود الإلهية وعلامات ميثاق النعمة المنظور، تم تصحيح 'Tmeqqunt' الشمالية إلى 'Ărkăwăl' الجنوبية."
+      },
+      "maa": {
+        "id_maa": 94,
+        "english_maa": "Covenantal Family",
+        "maa_term": "Enkaji e osotua te nebo Enkai",
+        "cultural_meaning": "المنزل الحافظ للعهد الروحي والمهابة",
+        "theological_meaning": "البيت المنظم وفق ميثاق النعمة حيث يلتزم الزوج والزوجة بالاحترام المتبادل وتربية الأولاد بالكلمة. (المرجع: مزمور 119:11، رومية 11:33)"
+      }
+    },
+    {
+      "id_unified": 13,
+      "category_en": "Covenants_and_Law",
+      "category_ar": "العهود والناموس",
+      "english": "Covenant of Grace",
+      "arabic": "عهد النعمة",
+      "kabyle": "Lɛahd n Tmella",
+      "dogmatic_guidance_kabyle": "تم تصحيحها من 'Ṛṛeḥma'. لفظة 'Tmella' الأمازيغية تعبر عن النعمة السيادية المجانية والكاملة، متجنبة الحمولة الناموسية للرحمة الشائعة.",
+      "tamasheq": {
+        "revised_latin": "Ărkăwăl n-Tăhanint",
+        "tifinagh": "ⴰⵔⴽⴰⵡⴰⵍ ⵏ-ⵜⴰⵀⴰⵏⵉⵏⵜ",
+        "arabic_script": "أَرْكَاوَالْ نْ-تَهَانِينْتْ",
+        "old_latin": "Tameqqunt n Urraz",
+        "justification": "عهد النعمة السيادي المجاني؛ تم استبعاد الألفاظ الناموسية مثل 'Urraz' (الأجر المستحق بالعمل) وربطه بـ'Tăhanint' (النعمة المجانية الحانية المنسكبة من لدن المانح لغير المستحق)."
+      },
+      "maa": {
+        "id_maa": 116,
+        "english_maa": "Covenant of Grace",
+        "maa_term": "Osotua le Neema nemeata sile",
+        "cultural_meaning": "عهد الترابط والرحمة الخالي من الناموسية التجارية",
+        "theological_meaning": "الميثاق الروحي الذي أقامه الخالق لمختاريه لإنقاذهم وتبريرهم بدم المسيح وبمعزل عن استحقاق الأعمال. (المرجع: عبرانيين 11:1، يوحنا 6:37)"
+      }
+    },
+    {
+      "id_unified": 14,
+      "category_en": "Covenants_and_Law",
+      "category_ar": "العهود والناموس",
+      "english": "Covenant of Redemption",
+      "arabic": "عهد الفداء",
+      "kabyle": "Lɛahd n Ufdu",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Ărkăwăl n-Ufdu",
+        "tifinagh": "ⴰⵔⴽⴰⵡⴰⵍ ⵏ-ⵓⴼⴷⵓ",
+        "arabic_script": "أَرْكَاوَالْ نْ-ⵓⴼⴷⵓ (أُوفْدُو)",
+        "old_latin": "Tameqqunt n Ufdu",
+        "justification": "الميثاق القانوني والاجتماعي المغلظ الأزلي بين الأقانيم لاهوتياً لفداء المختارين؛ تم استخدام 'Ărkăwăl' مع الفداء القضائي الأصيل 'Ufdu'."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 15,
+      "category_en": "Covenants_and_Law",
+      "category_ar": "العهود والناموس",
+      "english": "Covenant of Works",
+      "arabic": "عهد الأعمال",
+      "kabyle": "Lɛahd n Lecɣal",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Ărkăwăl n-Imahalan",
+        "tifinagh": "ⴰⵔⴽⴰⵡⴰⵍ ⵏ-ⵉⵎⴰⵀⴰⵍⴰⵏ",
+        "arabic_script": "أَرْكَاوَالْ نْ-إِيمَاهَالَانْ",
+        "old_latin": "Tameqqunt n Imahalan",
+        "justification": "الميثاق المفروض على آدم كفرد فيدرالي لتمثيل البشرية بالكامل طاعة للشريعة؛ تم تصحيح المصطلح باستخدام 'Ărkăwăl' و 'Imahalan' لـالأعمال المفروضة."
+      },
+      "maa": {
+        "id_maa": 105,
+        "english_maa": "Covenant of Works",
+        "maa_term": "Osotua oo lkias musana",
+        "cultural_meaning": "عهد الارتباط المتوقف على إتمام الأعمال الصالحة",
+        "theological_meaning": "العهد الذي قطعه الله مع آدم ممثلاً فيدرالياً للبشرية، واعداً بالحياة مقابل الطاعة الكاملة والموت عقوبة العصيان. (المرجع: رومية 5:12، أفسس 1:4)"
+      }
+    },
+    {
+      "id_unified": 16,
+      "category_en": "Covenants_and_Law",
+      "category_ar": "العهود والناموس",
+      "english": "Covenant Theology",
+      "arabic": "لاهوت العهد",
+      "kabyle": "Tasnillawit n Lɛahd",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Tasnillawit n-Ărkăwăl",
+        "tifinagh": "ⵜⴰⵙⵏⵉⵍⵍⴰⵡⵉⵜ ⵏ-ⴰⵔⴽⴰⵡⴰⵍ",
+        "arabic_script": "تَاسْنِيلَّاوِيتْ نْ-أَرْكَاوَالْ",
+        "old_latin": "Tasnillawit n Tmeqqunt",
+        "justification": "علم لاهوت العهود الفيدرالي الشامل؛ تم استبدال الكلمة الشمالية 'Tmeqqunt' بـ'Ărkăwăl' وهو الميثاق المغلظ بالقسم للأحرار في لغة التماشق."
+      },
+      "maa": {
+        "id_maa": 4,
+        "english_maa": "Covenant (Federal Union)",
+        "maa_term": "Osotua",
+        "cultural_meaning": "الحبل السري، علاقة الترابط والوحدة والسلام العضوي العميق",
+        "theological_meaning": "مفهوم العهد المصلح الفيدرالي (عهد الأعمال وعهد النعمة)؛ ارتباط عضوي حيوي مبادر به سيادياً من الله وليس تعاقداً تجارياً. (المرجع: لوقا 22:20، عبرانيين 8:6)"
+      }
+    },
+    {
+      "id_unified": 17,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Covenantal Discipline",
+      "arabic": "التأديب العهدي / الرعاية الأبوية المقومة",
+      "kabyle": "Ttarbya n Sidi Ṛebbi / Asguri",
+      "dogmatic_guidance_kabyle": "العبرانيين ١٢: ٥. يتجنب لفظ الانتقام أو العقاب الجنائي، ويرسخ الرعاية الأبوية الحامية لآب العهد.",
+      "tamasheq": {
+        "revised_latin": "Ttarbya n-Măssinăɣ",
+        "tifinagh": "ⵜⵜⴰⵔⴱⵢⴰ ⵏ-ⵎⴰⵙⵙⵉⵏⴰⵖ",
+        "arabic_script": "تَّارْبْيَا نْ-مَاسِّينَاغْ",
+        "old_latin": "Ttarbya n Sidi Ṛebbi / Asguri",
+        "justification": "رعاية الآب وتأديبه الحاني والمقوم لأولاد العهد دون غضب دينونة جنائي؛ متطابقاً مع الشاهد اللغوي لرسالة العبرانيين ١٢: ٥."
+      },
+      "maa": {
+        "id_maa": 109,
+        "english_maa": "Ecclesiastical Discipline",
+        "maa_term": "Enkitame nasipa e sirit",
+        "cultural_meaning": "نظام تقويم وتوجيه سرية المؤمنين بوقار",
+        "theological_meaning": "الجهد الجماعي الكنسي لحفظ نقاء الجماعة وصيانة قداسة اسم المسيح واستعادة العضو الساقط بالتأديب. (المرجع: رومية 5:12، أفسس 1:4)"
+      }
+    },
+    {
+      "id_unified": 18,
+      "category_en": "Ecclesiology",
+      "category_ar": "اللاهوت الكنسي والأسرار",
+      "english": "Credobaptism",
+      "arabic": "معمودية المؤمنين / معمودية التائبين",
+      "kabyle": "Aɣḍas n wid yumnen",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Asird n-wi əkfănen iman-năsăn",
+        "tifinagh": "ⴰⵙⵉⵔⴷ ⵏ-ⵡⵉ ⴰⴽⴼⴰⵏⴻⵏ ⵉⵎⴰⵏ-ⵏⴰⵙⴰⵏ",
+        "arabic_script": "أَسِيرْدْ نْ-وِي أَكْفَانَنْ إِيمَانْ-نَسَانْ",
+        "old_latin": "Aɣḍas n wid yumnen",
+        "justification": "معمودية المؤمنين التائبين؛ تم تصحيح الصياغة لغوياً لتتطابق مع لسان التماشق بدلاً من القبائلية الشمالية المعربة."
+      },
+      "maa": {
+        "id_maa": 83,
+        "english_maa": "Covenant Baptism",
+        "maa_term": "Enkibatisa e osotua te nebo",
+        "cultural_meaning": "الصبغ والدهن العهدي للفرز والتطهير",
+        "theological_meaning": "العلامة السرائرية لعهد النعمة للتطهير الروحي والتبني والاتحاد بجسد المسيح المحلي والكوني. (المرجع: 1 كورنثوس 11:26، أفسس 5:22)"
+      }
+    },
+    {
+      "id_unified": 19,
+      "category_en": "Puritanism",
+      "category_ar": "اللاهوت التقوي والعملي",
+      "english": "Dark Night of the Soul",
+      "arabic": "ليلة النفس المظلمة / ليلة الروح الحالكة",
+      "kabyle": "Iḍ aberkan n ṛṛuḥ",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Iḍ wa n-aqlim n-unfas",
+        "tifinagh": "ⵉⴹ ⵡⴰ ⵏ-ⴰⵇⵍⵉⵎ ⵏ-ⵓⵏⴼⴰⵙ",
+        "arabic_script": "إِضْ وَا نْ-أَقْلِيمْ نْ-أُنْفَاسْ",
+        "old_latin": "Iḍ aberkan n ṛṛuḥ",
+        "justification": "اختبار المؤمن للحجب الروحي المؤقت للتأديب والنمو؛ تم استخدام 'aqlim' للأشد سواداً وظلمة و 'unfas' للنسمة الإنسانية الداخلية."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 20,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "Decree of God",
+      "arabic": "مرسوم الله الأزلي / قضاء الله",
+      "kabyle": "Lqesd n Ṛebbi",
+      "dogmatic_guidance_kabyle": "صحيح ويعبر لاهوتياً عن مشيئة الله ومقاصده الأزلية.",
+      "tamasheq": {
+        "revised_latin": "Lqesd n-Măssinăɣ",
+        "tifinagh": "ⵍⵇⴻⵙⴷ ⵏ-ⵎⴰⵙⵙⵉⵏⴰⵖ",
+        "arabic_script": "لْقَسْدْ نْ-مَاسِّينَاغْ",
+        "old_latin": "Lqesd n Yilu",
+        "justification": "مقاصد وقضاء مسيناغ الأزلي الذي بموجبه قضى بكل ما سيحدث تسييداً لمجده ونعمته الحرة."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 21,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "Decretal Theology",
+      "arabic": "لاهوت المراسيم / اللاهوت الأزلي للمقاصد",
+      "kabyle": "Tasnillawit n Lqesd",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Tasnillawit n-Lqesd",
+        "tifinagh": "ⵜⴰⵙⵏⵉⵍⵍⴰⵡⵉⵜ ⵏ-ⵍⵇⴻⵙⴷ",
+        "arabic_script": "تَاسْنِيلَّاوِيتْ نْ-لْقَسْدْ",
+        "old_latin": "Tasnillawit n Lqesd",
+        "justification": "ربط اللاهوت العقائدي المصلح بمقاصد المراسيم السيادية الثابتة."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 22,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Double Predestination",
+      "arabic": "الاختيار والرفض المزدوج الأزلي",
+      "kabyle": "Aheggi n zik snat tikwal",
+      "dogmatic_guidance_kabyle": "صحيح ويشير إلى قضاء الله الثنائي للاختيار والرفض.",
+      "tamasheq": {
+        "revised_latin": "Aheggi n-zik snat tikwal",
+        "tifinagh": "ⴰⵀⴻⴳⴳⵉ ⵏ-ⵣⵉⴽ ⵙⵏⴰⵜ ⵜⵉⴽⵡⴰⵍ",
+        "arabic_script": "أَهَكِّي نْ-زِيكْ سْنَاتْ تِيكْوَالْ",
+        "old_latin": "Aheggi n zik snat tikwal",
+        "justification": "القضاء الثنائي المزدوج بالاصطفاء للأقوياء والترك للمحكومين بالدينونة إظهاراً لعدالته ونعمته السيادية."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 23,
+      "category_en": "Puritanism",
+      "category_ar": "اللاهوت التقوي والعملي",
+      "english": "Duty of Self-Denial",
+      "arabic": "واجب إنكار الذات / التزام كسر الأنا",
+      "kabyle": "Aweṣṣi n unkaṛ n yiman",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Tafugna n-unkar n-yiman",
+        "tifinagh": "ⵜⴰⴼⵓⴳⵏⴰ ⵏ-ⵓⵏⴽⴰⵔ ⵏ-ⵢⵉⵎⴰⵏ",
+        "arabic_script": "تَافُوكْنَا نْ-ⵓⵏⴽⴰⵔ (أُنْكَارْ) نْ-يِيمَانْ",
+        "old_latin": "Aweṣṣi n unkaṛ n yiman",
+        "justification": "الفريضة الأخلاقية والالتزام القانوني الصارم لكسر الإرادة الساقطة والخضوع لسيادة الفادي؛ تم استخدام 'Tafugna' للواجب القاطع."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 24,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Effectual Calling",
+      "arabic": "الدعوة الفعّالة للروح / النداء الباطني المولد ثانية",
+      "kabyle": "Ssiwel yesɛan lfeɛl (Tiɣri yesɛan lfeɛl)",
+      "dogmatic_guidance_kabyle": "تم دمج 'Ssiwel' (النداء/الاستدعاء) كمعادل أدقيق للاستدعاء الباطني الفعال للروح القدس.",
+      "tamasheq": {
+        "revised_latin": "Tiɣri ismden",
+        "tifinagh": "ⵜⵉⵟⵔⵉ ⵉⵙⵎⴻⴷⴻⵏ",
+        "arabic_script": "تِيغْرِي إِيسْمَدَنْ",
+        "old_latin": "Tiɣri ismden",
+        "justification": "النداء الباطني الفعال للروح القدس الذي يولد الإيمان الحي والتجديد كأثر روحي مباشر وحتمي."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 25,
+      "category_en": "Christology",
+      "category_ar": "الكريستولوجيا وشخص الفادي",
+      "english": "Emmanuel",
+      "arabic": "عمانوئيل",
+      "kabyle": "Amanuyl (Ṛebbi yid-neɣ)",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Amanuyl (Măssinăɣ d-neɣ)",
+        "tifinagh": "ⴰⵎⴰⵏⵓⵢⵍ (ⵎⴰⵙⵙⵉⵏⴰⵖ ⴷ-ⵏⴻⵖ)",
+        "arabic_script": "أَمَانُويْلْ (مَاسِّينَاغْ دْ-نَغْ)",
+        "old_latin": "Amanuyl (Ilu d neɣ)",
+        "justification": "ربط الاسم النبوي الفدائي بالذات الإلهية العهدية مسسيناغ مباشرة 'Măssinăɣ d-neɣ' (سيدنا معنا) لحمايته من التخريج التوفيقي."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 26,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Eternal Justification",
+      "arabic": "التبرير الأزلي / مرسوم براءة المختارين الأزلي",
+      "kabyle": "Uzki n lebda (Aḥsab d aḥeqqi i lebda)",
+      "dogmatic_guidance_kabyle": "تم تصحيحها تماشياً مع مصطلح 'Uzki'.",
+      "tamasheq": {
+        "revised_latin": "Ăsĕtbat n-iqqud wa n-Amăɣlol",
+        "tifinagh": "ⴰⵙⴻⵜⴱⴰⵜ ⵏ-ⵉⵇⵇⵓⴷ ⵡⴰ ⵏ-ⴰⵎⴰⵟⵍⵓⵍ",
+        "arabic_script": "أَسَتْبَاتْ نْ-إِقُّودْ وَا نْ-أَمَاغْلُولْ",
+        "old_latin": "Uzki n lebda",
+        "justification": "إعلان براءة المختارين وربطه بالقضاء الأزلي للألوهية قبل تأسيس العالم؛ تم صياغته بـ'Ăsĕtbat n-iqqud' مع 'Amăɣlol' للأزلية."
+      },
+      "maa": {
+        "id_maa": 98,
+        "english_maa": "Final Imputed Justification",
+        "maa_term": "Esupatisho e pooki tung'ani te ndukuya e Enkai",
+        "cultural_meaning": "البر القضائي الأخير والنهائي أمام العرش الفائق",
+        "theological_meaning": "الحكم الإلهي الحاسم في نهاية التاريخ لتبرير المختارين تبريراً أبدياً معلناً وعلنيّاً بناءً على استحقاق دم الفادي وحده. (المرجع: مزمور 119:11، رومية 11:33)"
+      }
+    },
+    {
+      "id_unified": 27,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Eternal Times (Eternity Past)",
+      "arabic": "الأزمنة الأزلية (الأزل السحيق)",
+      "kabyle": "Si zik n zik",
+      "dogmatic_guidance_kabyle": "رومية ١٦: ٢٥. صياغة قبائلية فريدة وجليلة تفيد ما قبل الدهور والزمان، لتأكيد الاختيار الأزلي.",
+      "tamasheq": {
+        "revised_latin": "Si zik wa n-zik",
+        "tifinagh": "ⵙⵉ ⵣⵉⴽ ⵡⴰ ⵏ-ⵣⵉⴽ",
+        "arabic_script": "سِي زِيكْ وَا نْ-زِيكْ",
+        "old_latin": "Si zik n zik",
+        "justification": "الأزل المطلق السابق للزمان ولتأسيس العالم؛ مطابقة تامة للشاهد اللغوي لرسالة رومية ١٦: ٢٥ لتأكيد الاختيار الأزلي."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 28,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "Eternity",
+      "arabic": "الأزلية / الخلود المطلق",
+      "kabyle": "Lebda (Ldawam)",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Amăɣlol",
+        "tifinagh": "ⴰⵎⴰⵟⵍⵓⵍ",
+        "arabic_script": "أَمَاغْلُولْ",
+        "old_latin": "Iɣil (Abadan)",
+        "justification": "الأزلية والديمومة الذاتية والاستغناء الكامل عن الأسباب في الذات الإلهية؛ تم استخدام 'Amăɣlol' لـصيانة عقيدة الوجود الذاتي (Aseity)."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 29,
+      "category_en": "Puritanism",
+      "category_ar": "اللاهوت التقوي والعملي",
+      "english": "Experimental Religion",
+      "arabic": "الدين التجريبي / التقوى الاختبارية الحقيقية",
+      "kabyle": "Ddin n tejṛiba",
+      "dogmatic_guidance_kabyle": "صحيح ويعني دين التقوى الاختبارية.",
+      "tamasheq": {
+        "revised_latin": "Tasgda n-turmit",
+        "tifinagh": "ⵜⴰⵙⴳⴷⴰ ⵏ-ⵜⵓⵔⵎⵉⵜ",
+        "arabic_script": "تَاسْكْدَا نْ-تُورْمِيتْ",
+        "old_latin": "Asgd n tirmit",
+        "justification": "الدين والتقوى العملية والوجدانية المبنية على تذوق عمل النعمة وقوة الروح في القلب؛ تم استخدام 'Tasgda' للعبادة الروحية و'turmit' للاختبار الوجداني الحقيقي."
+      },
+      "maa": {
+        "id_maa": 91,
+        "english_maa": "Practical Puritan Piety",
+        "maa_term": "Enoto e supatisho nasipa te nkias",
+        "cultural_meaning": "تطبيق وعيش حياة البر بقداسة عملية ظاهرة",
+        "theological_meaning": "العيش بقداسة عملية صارمة وإخضاع كل مناحي الحياة اليومية والعائلية لمجد الله وسيادة شريعته. (المرجع: 1 كورنثوس 11:26، أفسس 5:22)"
+      }
+    },
+    {
+      "id_unified": 30,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "Father",
+      "arabic": "الآب",
+      "kabyle": "Ababat",
+      "dogmatic_guidance_kabyle": "تم تصحيحها من 'Baba Ṛebbi'. لفظة 'Ababat' صيغة فيلولوجية مكثفة تعبر عن الأبوة الإلهية الحانية والسيادية، متجاوزة الاستخدام العائلي لكلمة 'Baba'.",
+      "tamasheq": {
+        "revised_latin": "Abba",
+        "tifinagh": "ⴰⴱⴱⴰ",
+        "arabic_script": "أَبَّا (أو أَبَانَا للنسبة)",
+        "old_latin": "Abana",
+        "justification": "الصيغة الإنجيلية المعتمدة لـالآب في العهد الجديد للتماشق للتعبير عن الأبوة الإيمانية والعهدية المطلقة."
+      },
+      "maa": {
+        "id_maa": 17,
+        "english_maa": "God the Father",
+        "maa_term": "Papa Enkai",
+        "cultural_meaning": "الأب الخالق المستقر في السماوات",
+        "theological_meaning": "الأقنوم الأول في الثالوث، المصدر السيادي للمبادرة العهدية والاختيار الأزلي والتبني الروحي للمختارين. (المرجع: أفسس 1:3، يوحنا 17:1)"
+      }
+    },
+    {
+      "id_unified": 31,
+      "category_en": "Covenants_and_Law",
+      "category_ar": "العهود والناموس",
+      "english": "Federal Headship",
+      "arabic": "الرئاسة الفيدرالية / العهدية",
+      "kabyle": "Uqerru n Lɛahd",
+      "dogmatic_guidance_kabyle": "صحيح ويعني حرفياً 'رأس العهد'.",
+      "tamasheq": {
+        "revised_latin": "Aɣella n-Ărkăwăl",
+        "tifinagh": "ⴰⵟⴻⵍⵍⴰ ⵏ-ⴰⵔⴽⴰⵡⴰⵍ",
+        "arabic_script": "أَغَلَّا نْ-أَرْكَاوَالْ",
+        "old_latin": "Aɣella n Tmeqqunt",
+        "justification": "الرئاسة الفيدرالية العهدية التمثيلية حيث يمثل الرأس (آدم أو المسيح) كل المنضوين تحته بموجب العهد والميثاق 'Ărkăwăl'."
+      },
+      "maa": {
+        "id_maa": 4,
+        "english_maa": "Covenant (Federal Union)",
+        "maa_term": "Osotua",
+        "cultural_meaning": "الحبل السري، علاقة الترابط والوحدة والسلام العضوي العميق",
+        "theological_meaning": "مفهوم العهد المصلح الفيدرالي (عهد الأعمال وعهد النعمة)؛ ارتباط عضوي حيوي مبادر به سيادياً من الله وليس تعاقداً تجارياً. (المرجع: لوقا 22:20، عبرانيين 8:6)"
+      }
+    },
+    {
+      "id_unified": 32,
+      "category_en": "Eschatology",
+      "category_ar": "اللاهوت الأخروي",
+      "english": "Final Judgment",
+      "arabic": "الدينونة الأخيرة",
+      "kabyle": "Lḥisab aneggaru",
+      "dogmatic_guidance_kabyle": "تم تصحيح الخطأ الإملائي 'anewgar' إلى 'aneggaru' (الأخير).",
+      "tamasheq": {
+        "revised_latin": "Lḥisab ameggaru n-Măssinăɣ",
+        "tifinagh": "ⵍⵃⵉⵙⴰⴱ ⴰⵎⴻⴳⴳⴰⵔⵓ ⵏ-ⵎⴰⵙⵙⵉⵏⴰⵖ",
+        "arabic_script": "لْحِيسَابْ أَمَكَّارُو نْ-مَاسِّينَاغْ",
+        "old_latin": "Lḥisab ameggaru n Yilu",
+        "justification": "الدينونة الأخيرة العادلة التي سيجريها مسيناغ لإنهاء التاريخ وإعلان مجده وعدله التام."
+      },
+      "maa": {
+        "id_maa": 88,
+        "english_maa": "Eschatological Separation",
+        "maa_term": "Enkiguenata sapuk e Enkai te pooki sirit",
+        "cultural_meaning": "دينونة وفصل وفحص الله الأخير لجميع السرايا",
+        "theological_meaning": "الفحص الإلهي والقضاء العادل الأخير لفرز الأشرار (المطاردين للضباع) عن الأبرار المفديين. (المرجع: مزمور 119:11، رومية 11:33)"
+      }
+    },
+    {
+      "id_unified": 33,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Flesh (Ethical/Sinful Nature)",
+      "arabic": "الجسد / الطبيعة الساقطة",
+      "kabyle": "Amanun",
+      "dogmatic_guidance_kabyle": "رومية ٨: ٤. لغوياً يتجنب اللفظ المادي العضوي للبدن (Aksum) ويصور صراع المؤمن بين الروح والطبيعة البشرية المتمردة.",
+      "tamasheq": {
+        "revised_latin": "Amanun",
+        "tifinagh": "ⴰⵎⴰⵏⵓⵏ",
+        "arabic_script": "أَمَانُونْ",
+        "old_latin": "Amanun",
+        "justification": "الجسد كطبيعة ساقطة متمردة على شريعة الله؛ يتجنب اللفظ المادي العضوي (aksum/أكصوم) ويصور الصراع الأخلاقي والروحي في رومية ٨: ٤."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 34,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Foreordination",
+      "arabic": "التقدير المسبق الأزلي",
+      "kabyle": "Aheggi uqbel",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Aheggi n-zik wa n-uqbel",
+        "tifinagh": "ⴰⵀⴻⴳⴳⵉ ⵏ-ⵣⵉⴽ ⵡⴰ ⵏ-ⵓⵇⴱⴻⵍ",
+        "arabic_script": "أَهَكِّي نْ-زِيكْ وَا نْ-أُقْبَلْ",
+        "old_latin": "Aheggi uqbel",
+        "justification": "التعيين والإعداد الأزلي القديم لكافة الأحداث والخليقة لتتحقق مشيئته السيادية في التاريخ."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 35,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Four Living Creatures",
+      "arabic": "المخلوقات الأربعة الحية",
+      "kabyle": "Rebɛa n lxeleq yesɛan tudert",
+      "dogmatic_guidance_kabyle": "الرؤيا ٤: ٦. يتجنب اللفظ المعرب الدوني 'الحيوانات'، ويبرز صفتهم اللاهوتية كخلق سماوي حي مجيد.",
+      "tamasheq": {
+        "revised_latin": "Okkuẓ n-lxeleq win tămudre",
+        "tifinagh": "ⵓⴽⴽⵓⵥ ⵏ-ⵍⵅⴻⵍⴻⵇ ⵡⵉⵏ ⵜⴰⵎⵓⴷⵔⴻ",
+        "arabic_script": "ⵓⴽⴽⵓⵥ (أُوكُّوظْ) نْ-لْخَلَقْ وِينْ تَمُودْرِي",
+        "old_latin": "Rebɛa n lxeleq yesɛan tudert",
+        "justification": "يتجنب اللفظ المعرب والدوني 'الحيوانات'، ويصيغها بـ'Okkuẓ' (أربعة) و 'win tămudre' (الحية/السماوية) مطابقة لـرؤيا ٤: ٦."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 36,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Free Offer of the Gospel",
+      "arabic": "العرض الحر للإنجيل",
+      "kabyle": "Abeccer n Lexbar n Lxiṛ baṭel i medden akk",
+      "dogmatic_guidance_kabyle": "تمت صياغتها بعبارة تعبر بدقة عن البشارة المجانية بالخلاص لجميع الأمم دون تمييز.",
+      "tamasheq": {
+        "revised_latin": "Tiɣri n-Ălǝnžil i-kuyan",
+        "tifinagh": "ⵜⵉⵟⵔⵉ ⵏ-ⴰⵍⴻⵏⵣⵉⵍ ⵉ-ⴽⵓⵢⴰⵏ",
+        "arabic_script": "تِيغْرِي نْ-أَلَنْجِيلْ إِي-كُويَانْ",
+        "old_latin": "Tigri n Linjil i kuyan",
+        "justification": "النداء البشاري العام والمجاني بالخلاص لجميع الناس ودعوتهم للتوبة؛ تم استخدام 'Ălǝnžil' للتوافق مع المسمى المعتمد."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 37,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Glorification",
+      "arabic": "التمجيد",
+      "kabyle": "Tamanegt",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Tamanegt",
+        "tifinagh": "ⵜⴰⵎⴰⵏⴻⴳⵜ",
+        "arabic_script": "تَمَانَكْتْ",
+        "old_latin": "Tamanegt",
+        "justification": "الحالة النهائية للمؤمن المخلص بإعطائه المجد والبهاء والقداسة الكاملة والخلو من دنس الخطية للأبد."
+      },
+      "maa": {
+        "id_maa": 122,
+        "english_maa": "Glorification (Final)",
+        "maa_term": "Enkisisa Sapuk e pooki nkolong'i te shumata",
+        "cultural_meaning": "التاج والكرامة السامية والأبدية في ملكوت السماء",
+        "theological_meaning": "المرحلة الختامية لتدبير الفداء حيث يتكلل المؤمنون بالقداسة الكاملة والخلود والعيش البهيج في الحضور الإلهي. (المرجع: عبرانيين 11:1، يوحنا 6:37)"
+      }
+    },
+    {
+      "id_unified": 38,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Glorious Appearing",
+      "arabic": "الظهور المجيد للمخلص",
+      "kabyle": "Asbeggen n tmanegt",
+      "dogmatic_guidance_kabyle": "تيطس ٢: ١٣. يعبر بدقة عن التجلي الروحي والظهور العلني الملكي لسيادة المسيح بمجيئه الثاني.",
+      "tamasheq": {
+        "revised_latin": "Asbeggen n-tamanegt",
+        "tifinagh": "ⴰⵙⴱⴻⴳⴳⴻⵏ ⵏ-ⵜⴰⵎⴰⵏⴻⴳⵜ",
+        "arabic_script": "أَسْبَكَّنْ نْ-تَمَانَكْتْ",
+        "old_latin": "Asbeggen n tmanegt",
+        "justification": "التجلي والظهور الملكي العلني لرب المجد في مجيئه الثاني؛ مطابقة تامة للشاهد اللغوي لرسالة تيطس ٢: ١٣."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 39,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "God",
+      "arabic": "الله / الخالق",
+      "kabyle": "Sidi Ṛebbi / Illu",
+      "dogmatic_guidance_kabyle": "تم تفعيل 'Sidi Ṛebbi / Illu' بدلاً من 'Ṛebbi' المجردة لبناء هوية إيمانية مسيحية متمايزة عن المحيط الناموسي، كما أن 'Illu' لفظة أمازيغية قديمة تفيد الإله.",
+      "tamasheq": {
+        "revised_latin": "Măssinăɣ",
+        "tifinagh": "ⵎⴰⵙⵙⵉⵏⴰⵖ",
+        "arabic_script": "مَاسِّينَاغْ",
+        "old_latin": "Ilu (أو Amesi)",
+        "justification": "الذات الإلهية عهدياً؛ إحياء الاسم الأصيل 'Măssinăɣ' (السيد المهيمن عهدياً على أولاده) لقطع الطريق على دلالات الأرواحية وعزلة الخالق في الإسلام الشعبي."
+      },
+      "maa": {
+        "id_maa": 1,
+        "english_maa": "God (Supreme Being)",
+        "maa_term": "Enkai",
+        "cultural_meaning": "السماء، المطر، أو القوة المتسامية غير المادية",
+        "theological_meaning": "الوجود الذاتي، الأزلية، والوحدانية السيادية المطلقة الخالصة من أي إسقاط مادي أو تأنيث مادي، إله جامع لصفات الرحمة والغضب المقدس. (المرجع: تكوين 1:1، مزمور 90:2)"
+      }
+    },
+    {
+      "id_unified": 40,
+      "category_en": "Puritanism",
+      "category_ar": "اللاهوت التقوي والعملي",
+      "english": "Heart Religion",
+      "arabic": "دين القلب / التقوى القلبيّة والوجدانية",
+      "kabyle": "Ddin n wul",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Tasgda n-wul",
+        "tifinagh": "ⵜⴰⵙⴳⴷⴰ ⵏ-ⵡⵓⵍ",
+        "arabic_script": "تَاسْكْدَا نْ-وُولْ",
+        "old_latin": "Asgd n wul",
+        "justification": "التقوى الحقيقية النابعة من الضمير والوجدان الداخلي المجدد للقلب بقوة النعمة الفعالة."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 41,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Heavenly Places",
+      "arabic": "السماويات / المواضع الروحية الإلهية",
+      "kabyle": "Imkanen ijenwanen",
+      "dogmatic_guidance_kabyle": "أفسس ١: ٣. يستدعي موضع البركات الفائقة الطبيعة والعهود الروحية المذخرة للمؤمنين المتحدين بالمسيح.",
+      "tamasheq": {
+        "revised_latin": "Edăggăn win alzannat",
+        "tifinagh": "ⴻⴷⴰⵟⵟⴰⵏ ⵡⵉⵏ ⴰⵍⵣⴰⵏⵏⴰⵜ",
+        "arabic_script": "أَدَكَّانْ وِينْ أَلْزَنَّاتْ",
+        "old_latin": "Imkanen ijenwanen",
+        "justification": "موضع البركات الفوق طبيعية والعهدية الروحية؛ تم ربطها بالشواهد الإنجيلية لأفسس ١: ٣ بدلالتها المتسامية."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 42,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "Holy Spirit",
+      "arabic": "الروح القدس",
+      "kabyle": "Ṛṛuḥ Iqedsen",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري ويحافظ على الطابع الأقنومي للروح القدس.",
+      "tamasheq": {
+        "revised_latin": "Unfas Šăddijăn",
+        "tifinagh": "ⵓⵏⴼⴰⵙ ⵛⴰⴷⴷⵉⵊⴰⵏ",
+        "arabic_script": "أُنْفَاسْ شَدِّيجَنْ (أو أُنْفَاسْ شَدْ)",
+        "old_latin": "Aruḥ wa Iqqedsen",
+        "justification": "الأقنوم الثالث القدوس؛ تم استبعاد التعريب المعرض للخلط مع الأرواح المحلية والجن، وتثبيت 'Unfas Šăddijăn' (النسمة الإلهية الكلية القداسة والفرز الإلهي المتسامي)."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 43,
+      "category_en": "Puritanism",
+      "category_ar": "اللاهوت التقوي والعملي",
+      "english": "Holy Violence",
+      "arabic": "العنف المقدس / الجهاد الروحي لطلب ملكوت الله",
+      "kabyle": "Lmejhud iqedsen (Aḥareb iqedsen)",
+      "dogmatic_guidance_kabyle": "تم تفضيل 'Lmejhud' (الجهاد/السعي الحثيث الروحي) لعدم تداخل اللفظ مع العنف المادي اليومي.",
+      "tamasheq": {
+        "revised_latin": "Lmejhud wa šăddijăn",
+        "tifinagh": "ⵍⵎⴻⵊⵀⵓⴷ ⵡⴰ ⵛⴰⴷⴷⵉⵊⴰⵏ",
+        "arabic_script": "لْمَجْهُودْ وَا شَدِّيجَنْ",
+        "old_latin": "Lmejhud iqedsen",
+        "justification": "السعي والجهاد الروحي الحثيث والصلب في حياة التقوى؛ تم استخدام 'šăddijăn' للقداسة المتسامية لربطها بالجهاد الإيماني الحقيقي."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 44,
+      "category_en": "Christology",
+      "category_ar": "الكريستولوجيا وشخص الفادي",
+      "english": "Hypostatic Union",
+      "arabic": "الاتحاد الأقنومي للطبيعتين",
+      "kabyle": "Ddukel n sin igamiyen",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري ويعني اتحاد الطبيعتين.",
+      "tamasheq": {
+        "revised_latin": "Amun n-snat tgamiwin",
+        "tifinagh": "ⴰⵎⵓⵏ ⵏ-ⵙⵏⴰⵜ ⵜⴳⴰⵎⵉⵡⵉⵏ",
+        "arabic_script": "أَمُونْ نْ-سْنَاتْ تْكَامِيوِينْ",
+        "old_latin": "Amun n snat tgamiwin",
+        "justification": "اتحاد الطبيعتين الإلهية الكاملة والبشرية الكاملة في الأقنوم الواحد الفريد للمخلص دون اختلاط أو تلاشٍ."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 45,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "Image of God",
+      "arabic": "صورة الله / الشبه الإلهي الأخلاقي",
+      "kabyle": "Lmeṣnaɛ n Ṛebbi",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Tawlaft n-Măssinăɣ",
+        "tifinagh": "ⵜⴰⵡⵍⴰⴼⵜ ⵏ-ⵎⴰⵙⵙⵉⵏⴰⵖ",
+        "arabic_script": "تَاوْلَافْتْ نْ-مَاسِّينَاغْ",
+        "old_latin": "Tawlaft n Yilu",
+        "justification": "شبه الله الأخلاقي والروحي في كمال العدل والقداسة الأصيلين اللذين شوههما السقوط في الإنسان."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 46,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Imputed Righteousness",
+      "arabic": "احتساب البر / عزو بر المسيح القضائي للمؤمن",
+      "kabyle": "Aḥsab n lḥeqq n Lmasiḥ i wemdan",
+      "dogmatic_guidance_kabyle": "صحيح ودقيق جداً لاهوتياً (نسب بر المسيح).",
+      "tamasheq": {
+        "revised_latin": "Aḥsab n-iqqud n-Ălmasex i-wăwadəm",
+        "tifinagh": "ⴰⵃⵙⴰⴱ ⵏ-ⵉⵇⵇⵓⴷ ⵏ-ⴰⵍⵎⴰⵙⴻⵅ ⵉ-ⵡⴰⵡⴰⴷⴻⵎ",
+        "arabic_script": "أَحْسَابْ نْ-إِقُّودْ نْ-أَلْمَاسَخْ إِي-وَاوَادَمْ",
+        "old_latin": "Aḥsab n Lḥeqq n Lmasiḥ i wemdan",
+        "justification": "نسب وعزو طاعة المسيح الكاملة والبر الخارجي للمؤمن العاجز؛ تم استخدام 'iqqud' للبر و'Ălmasex' و 'wăwadəm' للآدمي بلغة التماشق."
+      },
+      "maa": {
+        "id_maa": 57,
+        "english_maa": "Imputation of Righteousness",
+        "maa_term": "Enkirukoto e Abraham netisiraki anaa esupatisho",
+        "cultural_meaning": "إيمان إبراهيم الذي قُيّد واحتُسب له براً شرعياً",
+        "theological_meaning": "نسب وتقييد بر المسيح الإيجابي التام لحساب المؤمن قضائياً كقاعدة وحيدة لقبوله الغافر والتام أمام العرش. (المرجع: يوحنا 3:3، رومية 8:15)"
+      }
+    },
+    {
+      "id_unified": 47,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Imputed Righteousness (Biblical)",
+      "arabic": "يُحسب له برّاً / الاحتساب القضائي المجاني",
+      "kabyle": "Yettwaḥseb-as d lḥeqq",
+      "dogmatic_guidance_kabyle": "رومية ٤: ٣. يرسخ المفهوم الكالفيني للبر القضائي الخارجي المنسوب كعملية ائتمانية كاملة في حساب المؤمن العاجز.",
+      "tamasheq": {
+        "revised_latin": "Yettwaḥseb-as d-iqqud",
+        "tifinagh": "ⵢⴻⵜⵜⵡⴰⵃⵙⴻⴱ-ⴰⵙ ⴷ-ⵉⵇⵇⵓⴷ",
+        "arabic_script": "يَتَّوَاحْسَبْ-أَسْ دْ-إِقُّودْ",
+        "old_latin": "Yettwaḥseb-as d lḥeqq",
+        "justification": "الاحتساب القضائي المجاني دون أي استحقاق ذاتي؛ مطابقة تامة للشاهد اللغوي لرسالة رومية ٤: ٣."
+      },
+      "maa": {
+        "id_maa": 57,
+        "english_maa": "Imputation of Righteousness",
+        "maa_term": "Enkirukoto e Abraham netisiraki anaa esupatisho",
+        "cultural_meaning": "إيمان إبراهيم الذي قُيّد واحتُسب له براً شرعياً",
+        "theological_meaning": "نسب وتقييد بر المسيح الإيجابي التام لحساب المؤمن قضائياً كقاعدة وحيدة لقبوله الغافر والتام أمام العرش. (المرجع: يوحنا 3:3، رومية 8:15)"
+      }
+    },
+    {
+      "id_unified": 48,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Imputed Sin",
+      "arabic": "احتساب الخطية / نقل ذنب المختارين للمسيح",
+      "kabyle": "Aḥsab n lxeṭya i Lmasiḥ",
+      "dogmatic_guidance_kabyle": "صحيح ودقيق (نسب خطايانا للمسيح على الصليب).",
+      "tamasheq": {
+        "revised_latin": "Aḥsab n-ubăkkaḍ i-Ălmasex",
+        "tifinagh": "ⴰⵃⵙⴰⴱ ⵏ-ⵓⴱⴰⴽⴽⴰⴹ ⵉ-ⴰⵍⵎⴰⵙⴻⵅ",
+        "arabic_script": "أَحْسَابْ نْ-ⵓⴱⴰⴽⴽⴰⴹ (أُوبَكَّاضْ) إِي-أَلْمَاسَخْ",
+        "old_latin": "Aḥsab n ubkkaḍu i Lmasiḥ",
+        "justification": "عزو ونقل خطايا وعقاب شعب الله عهدياً وقضائياً إلى شخص المسيح على الصليب؛ تصحيح لفظ الخطية إلى 'abăkkaḍ' تماشقياً."
+      },
+      "maa": {
+        "id_maa": 100,
+        "english_maa": "Imputation of Sin",
+        "maa_term": "Ng'ok e Adam netisiraki to pooki tung'ani",
+        "cultural_meaning": "تقييد وحساب ذنب آدم لكل إنسان طبيعي",
+        "theological_meaning": "النسبة القضائية لذنب آدم الفيدرالي لجميع نسله الطبيعيين، مما يجعلهم تحت دينونة عادلة. (المرجع: عبرانيين 11:1، يوحنا 6:37)"
+      }
+    },
+    {
+      "id_unified": 49,
+      "category_en": "Christology",
+      "category_ar": "الكريستولوجيا وشخص الفادي",
+      "english": "Incarnation",
+      "arabic": "التجسد / حلول الأقنوم الثاني بالجسد",
+      "kabyle": "Tuɣalin d amdan (Tuɣalin d aksum)",
+      "dogmatic_guidance_kabyle": "صحيح ويعني حرفياً الصيرورة إنساناً أو جسداً.",
+      "tamasheq": {
+        "revised_latin": "Iqqal d ăwadəm",
+        "tifinagh": "ⵉⵇⵇⴰⵍ ⴷ ⴰⵡⴰⴷⴻⵎ",
+        "arabic_script": "إِقَّالْ دْ أَوَادَمْ",
+        "old_latin": "Iqqal d ales",
+        "justification": "صيرورة الأقنوم الثاني جسداً بشرياً كاملاً بلا خطية؛ تم استخدام 'ăwadəm' (آدمي) ليعبر بدقة عن أخذ الطبيعة البشرية."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 50,
+      "category_en": "Scripture",
+      "category_ar": "الوحي وسلطان الكتاب",
+      "english": "Inerrancy",
+      "arabic": "العصمة / خلو الكتاب من الخطأ",
+      "kabyle": "Ur nesɛi ara lɣelṭat",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Wăr n-ila lɣĕlṭat",
+        "tifinagh": "ⵡⴰⵔ ⵏ-ⵉⵍⴰ ⵍⵟⴻⵍⵟⴰⵜ",
+        "arabic_script": "وَرْ نْ-إِيلَا لْغَلْطَاتْ (أو أَكَا نْ-لْغَلْطَاتْ)",
+        "old_latin": "Ur gis lɣelṭat",
+        "justification": "العصمة الكاملة للكتاب المقدس وخلوه المطلق من الخطأ كحقيقة إلهية حامية للوحي والتعليم المستقيم."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 51,
+      "category_en": "Scripture",
+      "category_ar": "الوحي وسلطان الكتاب",
+      "english": "Inspiration",
+      "arabic": "الإلهام / التنسيم الإلهي لأسفار الكتاب",
+      "kabyle": "Aweḥḥi n Ṛṛuḥ Iqedsen",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Aweḥḥi n-Unfas Šăddijăn",
+        "tifinagh": "ⴰⵡⴻⵃⵃⵉ ⵏ-ⵓⵏⴼⴰⵙ ⵛⴰⴷⴷⵉⵊⴰⵏ",
+        "arabic_script": "أَوَحِّي نْ-أُنْفَاسْ شَدِّيجَنْ",
+        "old_latin": "Aweḥḥi n Ṛṛuḥ Iqedsen",
+        "justification": "التنسيم الإلهي لأسفار الكتاب المقدس بقوة الروح القدس الفعالة لإظهار الحق الإلهي كاملاً."
+      },
+      "maa": {
+        "id_maa": 84,
+        "english_maa": "Divine Inbreathing / Inspiration",
+        "maa_term": "Ilkigerot pooki naa Enkai nayang'ua",
+        "cultural_meaning": "كل المكتوبات تنفّس بها الله وخرجت من روحه",
+        "theological_meaning": "عمل الروح القدس في إلهام الكتبة البشريين لكتابة أسفار معصومة ومثمرة للتعليم والقضاء الروحي. (المرجع: مزمور 119:11، رومية 11:33)"
+      }
+    },
+    {
+      "id_unified": 52,
+      "category_en": "Ecclesiology",
+      "category_ar": "اللاهوت الكنسي والأسرار",
+      "english": "Invisible Church",
+      "arabic": "الكنيسة غير المنظورة",
+      "kabyle": "Taglizt ur nettwali ara",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Tanejmutt ta wăr n-ittwalin",
+        "tifinagh": "ⵜⴰⵏⴻⵊⵎⵓⵜⵜ ⵜⴰ ⵡⴰⵔ ⵏ-ⵉⵜⵜⵡⴰⵍⵉⵏ",
+        "arabic_script": "تَانَجْمُوتّْ تَا وَرْ نْ-إِتُّوَالِينْ",
+        "old_latin": "Tanejmutt ur ittwalin",
+        "justification": "شعب الله المختار الحقيقي غير المنظور للبشر والمعروف كلياً لله وحده بموجب عهد الفداء."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 53,
+      "category_en": "Salvation_TULIP",
+      "category_ar": "عقائد النعمة الكالفينية الخمس",
+      "english": "Irresistible Grace",
+      "arabic": "النعمة الفعّالة (غير المقاومة)",
+      "kabyle": "Tmella ur netteḥbas",
+      "dogmatic_guidance_kabyle": "تم تصحيحها من 'Ṛṛeḥma ur netteḥbas'. استخدام اللفظ الأمازيغي الأصيل 'Tmella' يمنع تداخل اللاهوت الناموسي للرحمة المعربة ويشير إلى نعمة الله السيادية الجاذبة والفعالة بالكامل.",
+      "tamasheq": {
+        "revised_latin": "Tăhanint ta n-wăr n-ila a-tăt-isgədlăn",
+        "tifinagh": "ⵜⴰⵀⴰⵏⵉⵏⵜ ⵜⴰ ⵏ-ⵡⴰⵔ ⵏ-ⵉⵍⴰ ⴰ-ⵜⴰⵜ-ⵉⵙⴳⴻⴷⵍⴰⵏ",
+        "arabic_script": "تَهَانِينْتْ تَا نْ-وَرْ نْ-إِيلَا أَ-تَتْ-إِيسْكَدْلَنْ",
+        "old_latin": "Arraz ur a itteḥbas",
+        "justification": "النعمة الفعالة والجذابة أحادياً التي تذيب الإرادة المتمردة وتولد الإيمان؛ تم تطهيرها من لفظ 'Arraz' وتثبيت 'Tăhanint' (النعمة المجانية الحانية)."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 54,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Justification",
+      "arabic": "التبرير القضائي",
+      "kabyle": "Uzki / Zeki (Aḥsab d aḥeqqi)",
+      "dogmatic_guidance_kabyle": "تم تعديلها بتقديم 'Uzki / Zeki' (التزكية القضائية وإعلان البراءة الشرعية) على 'Aḥsab d aḥeqqi' للتأكيد على الطابع الشرعي الخارجي للتبرير (Forensic Justification).",
+      "tamasheq": {
+        "revised_latin": "Ăsĕtbat n-iqqud",
+        "tifinagh": "ⴰⵙⴻⵜⴱⴰⵜ ⵏ-ⵉⵇⵇⵓⴷ",
+        "arabic_script": "أَسَتْبَاتْ نْ-إِقُّودْ",
+        "old_latin": "Asisg n Tideṭ",
+        "justification": "جوهر اللاهوت القضائي المصلح؛ التبرير القضائي الخارجي (Forensic) حيث يُثبت ويُقرر القاضي السماوي بر المؤمن باحتساب بر المسيح له."
+      },
+      "maa": {
+        "id_maa": 56,
+        "english_maa": "Justification",
+        "maa_term": "Esupatisho e Enkai tiatua enkoisiayio",
+        "cultural_meaning": "حسبان الله للخاطئ باراً في دائرة القضاء والتعويض",
+        "theological_meaning": "إعلان إلهي خلاصي بمقتضاه يغفر خطايا المؤمن ويحتسب بر المسيح كاملاً ومجاناً له بالإيمان وحده. (المرجع: أفسس 2:8، رومية 3:24)"
+      }
+    },
+    {
+      "id_unified": 55,
+      "category_en": "Covenants_and_Law",
+      "category_ar": "العهود والناموس",
+      "english": "Legalism",
+      "arabic": "الشرعوية / الناموسية لطلب البر الذاتي",
+      "kabyle": "Atebeɛ n Lqanun s lḥerf",
+      "dogmatic_guidance_kabyle": "صحيح ويعبر عن الاتباع الحرفي للناموس.",
+      "tamasheq": {
+        "revised_latin": "Aḍfăr n-Usaḍuf s-lḥerf",
+        "tifinagh": "ⴰⴹⴼⴰⵔ ⵏ-ⵓⵙⴰⴹⵓⴼ ⵙ-ⵍⵃⴻⵔⴼ",
+        "arabic_script": "أَضْفَارْ نْ-ⵓⵙⴰⴹⵓⴼ ⵙْ-لْحَرْفْ",
+        "old_latin": "Aḍfaṛ n Usaḍuf s lḥerf",
+        "justification": "السعي الناموسي لنيل رضا الله وإيجاد بر شخصي ذاتي عبر التمسك الصارم بحرف الشريعة؛ تم ضبط علامات الصوت والحركات."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 56,
+      "category_en": "Salvation_TULIP",
+      "category_ar": "عقائد النعمة الكالفينية الخمس",
+      "english": "Limited Atonement",
+      "arabic": "الكفارة المحدودة (الخاصة)",
+      "kabyle": "Asebbel s wuzal n ddem-is iqedsen (i wid yettwaxtaṛen kan)",
+      "dogmatic_guidance_kabyle": "تم تصحيحها من 'Asfel yettwagedlen'. لاهوتياً، 'الكفارة المحدودة' أو 'الفداء الخاص' يُصاغ بالقبائلية بالارتكاز على القيمة المطلقة والفعالة للدم الثمين المسكوب للمختارين فقط.",
+      "tamasheq": {
+        "revised_latin": "Asebbel ittustayen",
+        "tifinagh": "ⴰⵙⴻⴱⴱⴻⵍ ⵉⵜⵜⵓⵙⵜⴰⵢⴻⵏ",
+        "arabic_script": "أَسَبَّلْ إِتُّوسْتَايَنْ",
+        "old_latin": "Asebbel ittustayen",
+        "justification": "الكفارة الفعالة والخاصة الموجهة قضائياً وفدائياً من أجل المختارين الذين أعطاهم الآب للابن بموجب عهد الفداء الأزلي."
+      },
+      "maa": {
+        "id_maa": 53,
+        "english_maa": "Particular Redemption",
+        "maa_term": "Esharunoto oo ltasujak ake",
+        "cultural_meaning": "فداء المختارين والتلاميذ المفرزين وحدهم",
+        "theological_meaning": "موت المسيح النيابي الفعال والمخصص حصراً لخلاص وفداء كنيسته ومختاريه لإتمام تبريرهم يقيناً. (المرجع: يوحنا 3:3، رومية 8:15)"
+      }
+    },
+    {
+      "id_unified": 57,
+      "category_en": "Ecclesiology",
+      "category_ar": "اللاهوت الكنسي والأسرار",
+      "english": "Lord's Supper",
+      "arabic": "عشاء الرب / سر الشكر والمائدة المقدسة",
+      "kabyle": "Imensi n Sidi (Imensi n Ṛebbi)",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Imensi n-Emăli",
+        "tifinagh": "ⵉⵎⴻⵏⵙⵉ ⵏ-ⴻⵎⴰⵍⵉ",
+        "arabic_script": "إِيمَنْسِي نْ-أَمَالِي",
+        "old_latin": "Imensi n Amesi",
+        "justification": "سر الشكر والمائدة المقدسة التي تجمع شعب العهد حول جسد ودم الفادي؛ تم استخدام 'Emăli' لـتأكيد الربوبية والسيادة المطلقة."
+      },
+      "maa": {
+        "id_maa": 112,
+        "english_maa": "Sacrament of the Lord's Supper",
+        "maa_term": "Endaa emusho e osotua ng'ejuk",
+        "cultural_meaning": "المأدبة الختامية والعهدية الفعالة للمؤمنين",
+        "theological_meaning": "الفريضة العهدية لكسر الخبز وسكب الخمر لإتمام التواصل الروحي والشركة الفعالة بجسد ودم الرب. (المرجع: عبرانيين 11:1، يوحنا 6:37)"
+      }
+    },
+    {
+      "id_unified": 58,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Lordship Salvation",
+      "arabic": "خلاص الربوبية / وجوب الخضوع العملي لربوبية الفادي",
+      "kabyle": "Leslak s Lḥekma n Sidi Lmasiḥ",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Leslak s-Emăli",
+        "tifinagh": "ⵍⴻⵙⵍⴰⴽ ⵙ-ⴻⵎⴰⵍⵉ",
+        "arabic_script": "لَسْلَاكْ سْ-أَمَالِي",
+        "old_latin": "Leslak s Lḥekma n Sidi Lmasiḥ",
+        "justification": "وجوب الخضوع الفعلي والعملي لربوبية الفادي وسيادته كجزء لا يتجزأ من الإيمان الحي المبرر."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 59,
+      "category_en": "Ecclesiology",
+      "category_ar": "اللاهوت الكنسي والأسرار",
+      "english": "Means of Grace",
+      "arabic": "وسائط النعمة / قنوات حضور الله الإنجيلية",
+      "kabyle": "Iberdan n Tmella",
+      "dogmatic_guidance_kabyle": "تم تصحيحها من 'Iberdan n Ṛṛeḥma' باستخدام لفظ 'Tmella' الأمازيغي للنعمة السيادية.",
+      "tamasheq": {
+        "revised_latin": "Iberdan n-Tăhanint",
+        "tifinagh": "ⵉⴱⴻⵔⴷⴰⵏ ⵏ-ⵜⴰⵀⴰⵏⵉⵏⵜ",
+        "arabic_script": "إِيبَرْدَانْ نْ-تَهَانِينْتْ",
+        "old_latin": "Iberdan n Ṛṛeḥma",
+        "justification": "وسائط النعمة التي تضخ الإحسان والنمو الروحي لشعب مسسيناغ؛ تم تطهيرها من لفظ 'Ṛṛeḥma' المقترضة واستبدالها بـ'Tăhanint'."
+      },
+      "maa": {
+        "id_maa": 116,
+        "english_maa": "Covenant of Grace",
+        "maa_term": "Osotua le Neema nemeata sile",
+        "cultural_meaning": "عهد الترابط والرحمة الخالي من الناموسية التجارية",
+        "theological_meaning": "الميثاق الروحي الذي أقامه الخالق لمختاريه لإنقاذهم وتبريرهم بدم المسيح وبمعزل عن استحقاق الأعمال. (المرجع: عبرانيين 11:1، يوحنا 6:37)"
+      }
+    },
+    {
+      "id_unified": 60,
+      "category_en": "Reconciliation_and_Adoption",
+      "category_ar": "المصالحة والتبني العهدي",
+      "english": "Ministry of Reconciliation",
+      "arabic": "خدمة المصالحة / الوكالة الإنجيلية للمصالحة",
+      "kabyle": "Taqeddact n usemlil",
+      "dogmatic_guidance_kabyle": "تم ترفيعها وتصحيحها من اللفظ الركيك cceɣl (شغل مادي) إلى اللفظ اللاهوتي الوقور Taqeddact (خدمة تعبدية مقدسة).",
+      "tamasheq": {
+        "revised_latin": "Taqeddact n-asĕmlil",
+        "tifinagh": "ⵜⴰⵇⴻⴷⴷⴰⵛⵜ ⵏ-ⴰⵙⴻⵎⵍⵉⵍ",
+        "arabic_script": "تَقَدَّاشْتْ نْ-أَسَمْلِيلْ",
+        "old_latin": "Taqeddact n usemlil",
+        "justification": "خدمة المصالحة التعبدية الممنوحة للرسل والكنيسة لإعلان بشارة الائتلاف مع الآب بدم الفادي."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 61,
+      "category_en": "Puritanism",
+      "category_ar": "اللاهوت التقوي والعملي",
+      "english": "Mortification of Sin",
+      "arabic": "إماتة الخطية",
+      "kabyle": "Asmettan n lxeṭya (Amettan n ddnub)",
+      "dogmatic_guidance_kabyle": "تم تصحيح الخطأ اللاهوتي واللغوي الكارثي 'Timɣiwt n lxeṭya'. فكلمة 'Timɣiwt' تعني النمو والإنبات (من الفعل mɣi) وهو نقيض الإماتة والصلب الكالفيني للخطية! تم استبدالها بـ 'Asmettan' (الإماتة والصلب الفعلي للخطية).",
+      "tamasheq": {
+        "revised_latin": "Ămĕttan n-ubăkkaḍ",
+        "tifinagh": "ⴰⵎⴻⵜⵜⴰⵏ ⵏ-ⵓⴱⴰⴽⴽⴰⴹ",
+        "arabic_script": "أَمَتَّانْ نْ-ⵓⴱⴰⴽⴽⴰⴹ (أُوبَكَّاضْ)",
+        "old_latin": "Amettan n ubkkaḍu",
+        "justification": "الإماتة والصلب الفعلي اليومي للخطية وإضعاف الطبيعة الساقطة بقوة الروح القدس؛ تعبير صامد وقاطع عقائدياً."
+      },
+      "maa": {
+        "id_maa": 62,
+        "english_maa": "Mortification of Sin",
+        "maa_term": "Etaaroto e ntorrok oo ng'ok tiatua",
+        "cultural_meaning": "قتل وإبادة الشرور والخطايا في الداخل",
+        "theological_meaning": "السعي العملي الصارم لإخضاع الجسد وإماتة الشهوات الباطلة بالاستعانة الفعالة بقوة الروح القدس الحليف. (المرجع: أفسس 2:8، رومية 3:24)"
+      }
+    },
+    {
+      "id_unified": 62,
+      "category_en": "Covenants_and_Law",
+      "category_ar": "العهود والناموس",
+      "english": "Mosaic Covenant",
+      "arabic": "العهد الموسوي",
+      "kabyle": "Lɛahd n Musa",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Ărkăwăl n-Musa",
+        "tifinagh": "ⴰⵔⴽⴰⵡⴰⵍ ⵏ-ⵎⵓⵙⴰ",
+        "arabic_script": "أَرْكَاوَالْ نْ-مُوسَا",
+        "old_latin": "Tameqqunt n Musa",
+        "justification": "العهد الموسوي المرتبط إيجابياً بعهد النعمة لتبيان الناموس كمرشد للمؤمنين؛ تم صياغته بـ'Ărkăwăl'."
+      },
+      "maa": {
+        "id_maa": 5,
+        "english_maa": "Old Covenant",
+        "maa_term": "Osotua Musana",
+        "cultural_meaning": "الارتباط القديم / الحبل السري العتيق",
+        "theological_meaning": "عهد النعمة تحت التدبير الناموسي والظلال الموسوية الممهدة للمسيح. (المرجع: 2 كورنثوس 3:14، عبرانيين 9:15)"
+      }
+    },
+    {
+      "id_unified": 63,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Mystery of Godliness",
+      "arabic": "سر التقوى / إعلان سر القداسة التعبدية",
+      "kabyle": "Lbaḍen n tudert iqedsen",
+      "dogmatic_guidance_kabyle": "١ تيموثاوس ٣: ١٦. كشف السر المكتوم بالوحي ليربط التقوى الحقيقية بفداء وتجسد شخص يسوع المسيح الظاهر بالجسد.",
+      "tamasheq": {
+        "revised_latin": "Lbaḍĕn n-tămudre ta šăddijănăt",
+        "tifinagh": "ⵍⴱⴰⴹⴻⵏ ⵏ-ⵜⴰⵎⵓⴷⵔⴻ ⵜⴰ ⵛⴰⴷⴷⵉⵊⴰⵏⴰⵜ",
+        "arabic_script": "لْبَاضَنْ نْ-تَمُودْرِي تَا شَدِّيجَنَاتْ",
+        "old_latin": "Lbaḍen n tudert iqedsen",
+        "justification": "إعلان سر التقوى والقداسة التعبدية في تجسد وفداء شخص الفادي يسوع المسيح؛ مطابقة تامة لـ١ تيموثاوس ٣: ١٦."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 64,
+      "category_en": "Covenants_and_Law",
+      "category_ar": "العهود والناموس",
+      "english": "New Covenant",
+      "arabic": "العهد الجديد",
+      "kabyle": "Lɛahd Ajdid",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Ărkăwăl n-tassaɣt wa ăynayăn",
+        "tifinagh": "ⴰⵔⴽⴰⵡⴰⵍ ⵏ-ⵜⴰⵙⵙⴰⵟⵜ ⵡⴰ ⴰⵢⵏⴰⵢⴰⵏ",
+        "arabic_script": "أَرْكَاوَالْ نْ-تَاسَّاغْتْ وَا أَيْنَايَنْ (أو أَرْكَاوَالْ وَا أَيْنَايَنْ)",
+        "old_latin": "Tameqqunt Taynayt",
+        "justification": "العهد الجديد ميثاق الرابطة الفدائية الجديدة الصادر بدم المسيح؛ مطابقة تامة للشاهد اللغوي لرسالة كورنثوس الثانية ٣: ٦."
+      },
+      "maa": {
+        "id_maa": 6,
+        "english_maa": "New Covenant",
+        "maa_term": "Osotua Ng'ejuk",
+        "cultural_meaning": "الارتباط الجديد / الحبل السري المتجدد",
+        "theological_meaning": "تدبير عهد النعمة النهائي والمطلق في دم المسيح الموجه للأمم واليهود معاً. (المرجع: لوقا 22:20، عبرانيين 9:15)"
+      }
+    },
+    {
+      "id_unified": 65,
+      "category_en": "Eschatology",
+      "category_ar": "اللاهوت الأخروي",
+      "english": "New Creation",
+      "arabic": "الخليقة الجديدة",
+      "kabyle": "Lxelq ajdid (Akhalaq ajdid)",
+      "dogmatic_guidance_kabyle": "تمت صياغتها بـ 'Lxelq ajdid' بدلاً من اللفظة العربية المشوشة 'Axlaq' (والتي تعني مكارم الأخلاق Morals بالجمع العربي، وليس الخلق والخليقة).",
+      "tamasheq": {
+        "revised_latin": "Axlĕq wa ăynayăn",
+        "tifinagh": "ⴰⵅⵍⴻⵇ ⵡⴰ ⴰⵢⵏⴰⵢⴰⵏ",
+        "arabic_script": "أَخْلَقْ وَا أَيْنَايَنْ",
+        "old_latin": "Axlq aynay",
+        "justification": "الخليقة والوجود الفدائي الجديد الذي يصنعه الفادي بقيامته وحلوله بقوة الروح القدس لتجديد التاريخ."
+      },
+      "maa": {
+        "id_maa": 89,
+        "english_maa": "Eschatology (New Creation)",
+        "maa_term": "Enkop ng'ejuk oo keper ng'ejuk",
+        "cultural_meaning": "الأرض والسماء الجديدة الفائقة في الخصوبة والبركة",
+        "theological_meaning": "اكتمال تاريخ الفداء بإقامة الموتى، وتجديد الخليقة، وسيادة ملكوت الله الأبدي الشامل. (المرجع: 1 كورنثوس 11:26، أفسس 5:22)"
+      }
+    },
+    {
+      "id_unified": 66,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Obedience of Faith",
+      "arabic": "طاعة الإيمان / الخضوع الواثق لعهد النعمة",
+      "kabyle": "Aṭuɛ (aṭuɛ n lettkal)",
+      "dogmatic_guidance_kabyle": "رومية ١: ٥. خضوع واثق وارتكاز مطيع بالكامل لوعود عهد النعمة السيادي.",
+      "tamasheq": {
+        "revised_latin": "Aḍfăr n-immun",
+        "tifinagh": "ⴰ⵪ⴼⴰⵔ ⵏ-ⵉⵎⵎⵓⵏ",
+        "arabic_script": "أَضْفَارْ نْ-إِيمُّونْ (أو أَضْفَارْ نْ-تَفْلَسْتْ)",
+        "old_latin": "Aṭuɛ (aṭuɛ n lettkal)",
+        "justification": "الخضوع الواثق والطاعة المتأصلة من الاتكاء والارتكاز التام على وعود العهد الإلهي؛ مطابقة تامة للشاهد اللغوي لرومية ١: ٥."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 67,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Old Man / Old Self",
+      "arabic": "الإنسان العتيق / الطبيعة الساقطة المصلوبة",
+      "kabyle": "Amdan-nneɣ aqdim",
+      "dogmatic_guidance_kabyle": "رومية ٦: ٦. يربط القارئ فوراً بمفهوم صلب الطبيعة الساقطة القديمة قانونياً وكيانياً مع المسيح.",
+      "tamasheq": {
+        "revised_latin": "Ăwadəm n-aqorad",
+        "tifinagh": "ⴰⵡⴰⴷⴻⵎ ⵏ-ⴰⵇⵓⵔⴰⴷ",
+        "arabic_script": "أَوَادَمْ نْ-أَقُورَادْ",
+        "old_latin": "Amdan-nneɣ aqdim",
+        "justification": "الإنسان العتيق والطبيعة الساقطة المصلوبة قانونياً وقضائياً مع الفادي على الصليب؛ مطابقة تامة للشاهد اللغوي لرسالة رومية ٦: ٦."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 68,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "Omnipotence",
+      "arabic": "القدرة المطلقة للخالق",
+      "kabyle": "Tazmert ɣef kulci (Anezmer)",
+      "dogmatic_guidance_kabyle": "تم دمج 'Anezmer' (القدير) كصفة تطلق على الإله القدير صاحب السلطان والقدرة المطلقة.",
+      "tamasheq": {
+        "revised_latin": "Tazmert făل hărăt fuk",
+        "tifinagh": "ⵜⴰⵣⵎⴻⵔⵜ ⴼⴰⵍ ⵀⴰⵔⴰⵜ ⴼⵓⴽ",
+        "arabic_script": "تَازْمَرْتْ فَلْ هَرَاتْ فُوكْ",
+        "old_latin": "Tazmert f ketta",
+        "justification": "القدرة والفاعلية الإلهية المطلقة والكونية للكون والخليقة؛ تم استبعاد اللفظ القبائلي وتصحيحه بالتعبير الأصيل للتماشق الجنوبية."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 69,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "Omnipresence",
+      "arabic": "الحضور الإلهي المطلق في كل مكان",
+      "kabyle": "Tilin deg mkul amkan",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Tilit dăɣ edăggăn fuk",
+        "tifinagh": "ⵜⵉⵍⵉⵜ ⴷⴰⵖ ⴻⴷⴰⵟⵟⴰⵏ ⴼⵓⴽ",
+        "arabic_script": "تِيلِيتْ دَاغْ أَدَكَّانْ فُوكْ",
+        "old_latin": "Illa ɣ ketta edig",
+        "justification": "الوجود والحضور الإلهي الفعال والروحي الشامل في كل مكان دون حدود أو قيود مادية أو جغرافية."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 70,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "Omniscience",
+      "arabic": "العلم المطلق الشامل للخالق",
+      "kabyle": "Tamusni n kulci",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Tamusni făل hărăt fuk",
+        "tifinagh": "ⵜⴰⵎⵓⵙⵏⵉ ⴼⴰⵍ ⵀⴰⵔⴰⵜ ⴼⵓⴽ",
+        "arabic_script": "تَامُوسْنِي فَلْ هَرَاتْ فُوكْ",
+        "old_latin": "Tamusni n ketta",
+        "justification": "العلم والمحيط المعرفي المطلق للذات الإلهية بكافة وقائع التاريخ والقلوب وتفاصيل الغيب قبل حدوثها."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 71,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "Only Begotten",
+      "arabic": "الابن الوحيد الفريد",
+      "kabyle": "Mmi-s awḥid",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Rur wa n-iyyan",
+        "tifinagh": "ⵔⵓⵔ ⵡⴰ ⵏ-ⵉⵢⵢⴰⵏ",
+        "arabic_script": "رُورْ وَا نْ-إِيَّانْ (أو إِيوِيسْ وَا نْ-إِيَّانْ)",
+        "old_latin": "Iwis Awaḥdi",
+        "justification": "الابن الوحيد الفريد في تمثيل البنوة الإلهية الأزلية؛ مطابقة تامة للشواهد الإنجيلية العريقة في يوحنا ٣: ١٦."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 72,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Ordo Salutis",
+      "arabic": "ترتيب الخلاص / البنية المنهجية لتطبيق الفداء",
+      "kabyle": "Amezdi n leslak",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Amezdi n-leslak",
+        "tifinagh": "ⴰⵎⴻⵣⴷⵉ ⵏ-ⵍⴻⵙⵍⴰⴽ",
+        "arabic_script": "أَمَزْدِي نْ-لَسْلَاكْ",
+        "old_latin": "Amezdi n leslak",
+        "justification": "الترتيب والمسار العقائدي المنظم لتطبيق خلاص الفداء وتدفقه في المؤمنين مجاناً بقوة الروح القدس."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 73,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Original Sin",
+      "arabic": "الخطية الأصلية الموروثة",
+      "kabyle": "Ddnub amezwaru",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Abăkkaḍ amezwaru",
+        "tifinagh": "ⴰⴱⴰⴽⴽⴰⴹ ⴰⵎⴻⵣⵡⴰⵔⵓ",
+        "arabic_script": "ⵓⴱⴰⴽⴽⴰⴹ (أُوبَكَّاضْ) أَمَزْوَارُو",
+        "old_latin": "Abkkaḍu amezwaru",
+        "justification": "الذنب الموروث والفساد الفيدرالي الأصيل القائم في كل مولود من آدم الفيدرالي الأول."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 74,
+      "category_en": "Ecclesiology",
+      "category_ar": "اللاهوت الكنسي والأسرار",
+      "english": "Paedobaptism",
+      "arabic": "معمودية الأطفال",
+      "kabyle": "Aɣḍas n warrac imecṭaḥ",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Asird n-bararan",
+        "tifinagh": "ⴰⵙⵉⵔⴷ ⵏ-ⴱⴰⵔⴰⵔⴰⵏ",
+        "arabic_script": "أَسِيرْدْ نْ-بَارَارَانْ (أو أَسِيرْدْ نْ-بَارَارَانْ مَشْطَاحَنْ)",
+        "old_latin": "Aɣḍas n warrac imecṭaḥ",
+        "justification": "معمودية أطفال العهد المنضوين تحت علامة وختم الميثاق كوعود عهدية خارجية ومسؤولية تربية أبوية عهدية."
+      },
+      "maa": {
+        "id_maa": 111,
+        "english_maa": "Infant Baptism",
+        "maa_term": "Enkibatisa oo nkerai le sirit",
+        "cultural_meaning": "صبغ وتكريس أطفال العائلة العهدية المقدسة",
+        "theological_meaning": "تطبيق علامة وختم عهد النعمة على أطفال المؤمنين كأعضاء شرعيين في سرية الله ورعاية كنيسته. (المرجع: رومية 5:12، أفسس 1:4)"
+      }
+    },
+    {
+      "id_unified": 75,
+      "category_en": "Christology",
+      "category_ar": "الكريستولوجيا وشخص الفادي",
+      "english": "Passive Obedience of Christ",
+      "arabic": "الطاعة السلبية للمسيح / خضوعه للموت والآلام النيابية",
+      "kabyle": "Aṭuɛ n Lmasiḥ deg leɛtab",
+      "dogmatic_guidance_kabyle": "صحيح ويعني طاعته في احتماله الآلام.",
+      "tamasheq": {
+        "revised_latin": "Aḍfăr n-Ălmasex dăɣ-lĕʿtab",
+        "tifinagh": "ⴰ⵪ⴼⴰⵔ ⵏ-ⴰⵍⵎⴰⵙⴻⵅ ⴷⴰⵖ-ⵍⴻⵄⵜⴰⴱ",
+        "arabic_script": "أَضْفَارْ نْ-أَلْمَاسَخْ دَاغْ-لَعْتَابْ (أو دَاغْ-لَعْذَابْ)",
+        "old_latin": "Aḍfaṛ n Lmasiḥ ɣ leɛtab",
+        "justification": "خضوع المسيح الفدائي الاختياري للموت والآلام وامتصاصه دينونة الآب النيابية لامتصاص غضب الله العادل وإنجاز العدالة."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 76,
+      "category_en": "Christology",
+      "category_ar": "الكريستولوجيا وشخص الفادي",
+      "english": "Penal Substitution",
+      "arabic": "الفداء النيابي العقابي / الكفارة البدلية القضائية",
+      "kabyle": "Asebbel n lɛiqab deg wemkan-nneɣ",
+      "dogmatic_guidance_kabyle": "تم تصحيحها اتساقاً مع مصطلح 'Asebbel' الكفاري، ليعني حمل العقوبة بالنيابة الكاملة.",
+      "tamasheq": {
+        "revised_latin": "Afdu n-lĕʿiqab dăɣ edăgg-năɣ",
+        "tifinagh": "ⴰⴼⴷⵓ ⵏ-ⵍⴻⵄⵉⵇⴰⴱ ⴷⴰⵖ ⴻⴷⴰⵟⵟ-ⵏⴰⵟ",
+        "arabic_script": "أُوفْدُو نْ-لَعِيقَابْ دَاغْ أَدَكْ-نَغْ",
+        "old_latin": "Afdu n lɛiqab ɣ edig-nana",
+        "justification": "جوهر لاهوت الفداء؛ تحمل المخلص للفداء النيابي والعقوبة الشرعية المترتبة على الخطية بدلاً عن شعبه لإيفاء عدل مسسيناغ."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 77,
+      "category_en": "Salvation_TULIP",
+      "category_ar": "عقائد النعمة الكالفينية الخمس",
+      "english": "Perseverance of the Saints",
+      "arabic": "ثبات وحفظ القديسين للأبد",
+      "kabyle": "Lḥerz n imqedsen",
+      "dogmatic_guidance_kabyle": "صحيح ويعني الحفظ الإلهي الفعال للمقدسين ضد الارتداد النهائي.",
+      "tamasheq": {
+        "revised_latin": "Aḥraz n-imqedsen",
+        "tifinagh": "ⴰⵃⵔⴰⵣ ⵏ-ⵉⵎⵇⴻⴷⵙⴻⵏ",
+        "arabic_script": "أَحْرَازْ نْ-إِيمْقَدْسَنْ",
+        "old_latin": "Aḥraz n imqedsen",
+        "justification": "حفظ الله الأمين والفعال للقديسين الذين بررهم بدم ابنه، فلا يمكن أن يسقطوا نهائياً أو يهلكوا تحت قوة الخطية."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 78,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Predestination",
+      "arabic": "التعيين المسبق الأزلي / الاختيار الأزلي المكتوب",
+      "kabyle": "Aheggi n zik (Sovereign Election: Win i gextaṛ seg tazwara)",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Aheggi n-zik",
+        "tifinagh": "ⴰⵀⴻⴳﮕⵉ ⵏ-ⵣⵉⴽ",
+        "arabic_script": "أَهَكِّي نْ-زِيكْ",
+        "old_latin": "Aheggi n zik",
+        "justification": "التعيين والاصطفاء المسبق قبل تأسيس العالم؛ التعبير التماشقي الجنوبي فائق الجودة والوضوح ليعبر عن السيادة المطلقة."
+      },
+      "maa": {
+        "id_maa": 104,
+        "english_maa": "Double Predestination",
+        "maa_term": "Enkiguanata oo lelo ooyelaki o lelo oomeing'uang'a",
+        "cultural_meaning": "قضاء الاختيار والتسليم المزدوج من الخالق للخلائق",
+        "theological_meaning": "المرسوم الإلهي الأزلي بالاختيار الخلاصي لبعض البشر (التبني) وترك الآخرين لعدله القضائي العادل. (المرجع: عبرانيين 11:1، يوحنا 6:37)"
+      }
+    },
+    {
+      "id_unified": 79,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "Providence",
+      "arabic": "العناية الإلهية الفعّالة",
+      "kabyle": "Aḥader n Ṛebbi",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Aḥader n-Măssinăɣ",
+        "tifinagh": "ⴰⵃⴰⴷⴻⵔ ⵏ-ⵎⴰⵙⵙⵉⵏⴰⵖ",
+        "arabic_script": "أَحَادَرْ نْ-مَاسِّينَاغْ",
+        "old_latin": "Aḥader n Yilu",
+        "justification": "رعاية وحفظ مسسيناغ النشط والفعال للكون والخليقة وتسييد مقاصده لمجده الخاص."
+      },
+      "maa": {
+        "id_maa": 22,
+        "english_maa": "Divine Providence",
+        "maa_term": "Eramatare e Enkai",
+        "cultural_meaning": "الرعاية الرعوية والتدبير والوصاية الإلهية للأرض",
+        "theological_meaning": "الحفظ الإلهي الفعال الحاكم لكل المخلوقات والموجه لها لبلوغ غاياتها المرسومة. (المرجع: أفسس 1:5، كولوسي 1:16)"
+      }
+    },
+    {
+      "id_unified": 80,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Purpose of His Will",
+      "arabic": "قصد مشيئته السيادية المطلقة",
+      "kabyle": "S lqesd n lebɣi-s",
+      "dogmatic_guidance_kabyle": "أفسس ١: ١١. يثبت بوضوح مذهل أن كل تدابير الخلاص والكون تجري بموجب السيادة والمشيئة المطلقة لله وحده.",
+      "tamasheq": {
+        "revised_latin": "S-lqesd n-lebɣi n-Măssinăɣ",
+        "tifinagh": "ⵙ-ⵍⵇⴻⵙⴷ ⵏ-ⵍⴻⴱⵖⵉ ⵏ-ⵎⴰⵙⵙⵉⵏⴰⵖ",
+        "arabic_script": "سْ-لْقَسْدْ نْ-لَبْغِي نْ-مَاسِّينَاغْ (أو سْ-لْقَسْدْ نْ-لَبْغِي-سْ)",
+        "old_latin": "S lqesd n lebɣi-s",
+        "justification": "أزلية وسلطان مشيئة الله المطلقة في الخلاص والكون؛ مطابقة تامة للشاهد اللغوي لرسالة أفسس ١: ١١."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 81,
+      "category_en": "Reconciliation_and_Adoption",
+      "category_ar": "المصالحة والتبني العهدي",
+      "english": "Reconciliation",
+      "arabic": "المصالحة الفدائية / ائتلاف الخاطئ مع الآب",
+      "kabyle": "Asemlil",
+      "dogmatic_guidance_kabyle": "من الفعل الأصيل semlil (جمع وصالح كلياً). تشير إلى انتقال الخاطئ التائب من العداوة إلى البنوة والشركة.",
+      "tamasheq": {
+        "revised_latin": "Asĕmlil",
+        "tifinagh": "ⴰⵙⴻⵎⵍⵉⵍ",
+        "arabic_script": "أَسَمْلِيلْ (أو أَسَمْلِيلْ نْ-تِدَطْ)",
+        "old_latin": "Asisg n Lḥeqq",
+        "justification": "المصالحة والائتلاف القضائي الفعال الذي ينتقل بالخاطئ عهدياً من العداوة إلى البنوة والشركة مع الآب بدم الفادي."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 82,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Regeneration",
+      "arabic": "التجديد / الولادة الثانية الإعجازية",
+      "kabyle": "Talalit tajdit (Talalit si Ṛṛuḥ)",
+      "dogmatic_guidance_kabyle": "تم تعزيزها بـ 'الولادة من الروح' لبيان البعد السيادي الأحادي للتجديد.",
+      "tamasheq": {
+        "revised_latin": "Talalit taynayt",
+        "tifinagh": "ⵜⴰⵍⴰⵍⵉⵜ ⵜⴰⵢⵏⴰⵢⵜ",
+        "arabic_script": "تَلَالِيتْ تَايْنَايْتْ",
+        "old_latin": "Talalit taynayt",
+        "justification": "الولادة الجديدة والخليقة الإعجازية الأحادية (Monergistic) التي يصنعها الروح القدس في قلب الميت روحياً ليعطيه حياة."
+      },
+      "maa": {
+        "id_maa": 58,
+        "english_maa": "Regeneration (New Birth)",
+        "maa_term": "Etotiwuo ng'ejuk te nkiyang'et",
+        "cultural_meaning": "الولادة الجديدة بفعل النفحة الروحية",
+        "theological_meaning": "الإحياء الروحي المبدئي الفوري الذي يجريه الروح القدس في الخاطئ الميت ليمنحه قلباً حياً مستجيباً لله. (المرجع: أفسس 2:8، رومية 3:24)"
+      }
+    },
+    {
+      "id_unified": 83,
+      "category_en": "Ecclesiology",
+      "category_ar": "اللاهوت الكنسي والأسرار",
+      "english": "Regulative Principle of Worship",
+      "arabic": "مبدأ تنظيم العبادة المصلح",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "Asaḍuf n-leʿbada",
+        "tifinagh": "ⴰⵙⴰⴹⵓⴼ ⵏ-ⵍⴻⵄⴱⴰⴷⴰ",
+        "arabic_script": "ⵓⵙⴰⴹⵓⴼ (أُوصَادُوفْ) نْ-لَعْبَادَا",
+        "old_latin": "Asaḍuf n leɛbada",
+        "justification": "مبدأ تنظيم العبادة المصلح؛ وجوب تقييد العبادة الكنسية بما أمر به الكتاب المقدس حصراً دون زيادات بشرية."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 84,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Repentance",
+      "arabic": "التوبة الصادقة والرجوع الجذري",
+      "kabyle": "Tubbya n tideț",
+      "dogmatic_guidance_kabyle": "أعمال ٢: ٣٨. صياغة مشتقة من الفعل الأصيل tub تمنع خلط المفهوم بـ الندامة الشفهية الخالية من التغيير الجذري.",
+      "tamasheq": {
+        "revised_latin": "Tubbya n-tideṭ",
+        "tifinagh": "ⵜⵓⴱⴱⵢⴰ ⵏ-ⵜⵉⴷⴻⵟ",
+        "arabic_script": "تُوبْيَا نْ-تِدَطْ",
+        "old_latin": "Tubbya n tideț",
+        "justification": "التوبة الجدية والرجوع الصادق القلبي؛ تعبير مستمد من الشواهد الإنجيلية لأعمال ٢: ٣٨ ليعكس فاعلية الإيمان."
+      },
+      "maa": {
+        "id_maa": 59,
+        "english_maa": "Repentance unto Life",
+        "maa_term": "Enkibelekenyata oo ltau te ntonoto",
+        "cultural_meaning": "تحويل وتغيير القلب وترك السقوط للخارج",
+        "theological_meaning": "الحزن المقدس الحقيقي على الخطيئة والتحول المطلق والفعال عنها بالإيمان التائب للمسيح طاعة وولاءً. (المرجع: يوحنا 3:3، رومية 8:15)"
+      }
+    },
+    {
+      "id_unified": 85,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Reprobation",
+      "arabic": "الرفض القضائي الإلهي / عدم الاختيار الأزلي",
+      "kabyle": "Agi n wid ur nettwaxtaṛ ara",
+      "dogmatic_guidance_kabyle": "صحيح ويعني عدم اختيار غير المختارين وتركهم لعدالة الله.",
+      "tamasheq": {
+        "revised_latin": "Agi n-wi wăr n-ittwastayen",
+        "tifinagh": "ⴰⴳⵉ ⵏ-ⵡⵉ ⵡⴰⵔ ⵏ-ⵉⵜⵜⵡⴰⵙⵜⴰⵢⴻⵏ",
+        "arabic_script": "أَكِي نْ-وِي وَرْ نْ-إِتُّوَاسْتَايَنْ",
+        "old_latin": "Agi n wid ur nettwaxtaṛ ara",
+        "justification": "الرفض القضائي وعدم اصطفاء غير المختارين وتركهم لعدالة الله وجريرة خطاياهم لمجده وعدله المطلق."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 86,
+      "category_en": "Christology",
+      "category_ar": "الكريستولوجيا وشخص الفادي",
+      "english": "Resurrection",
+      "arabic": "قيامة الجسد الإعجازية",
+      "kabyle": "Ḥeggu n lmegtin",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري ويعني إحياء الأموات.",
+      "tamasheq": {
+        "revised_latin": "Tnekra zɣ lmeggătin",
+        "tifinagh": "ⵜⵏⴻⴽⵔⴰ ⵣⵘ ⵍⵎⴻⴳⴳⴰⵜⵉⵏ",
+        "arabic_script": "تْنِكْرَا زْغْ لْمَكَّاتِينْ",
+        "old_latin": "Tnekra zɣ lmegtin",
+        "justification": "قيامة المسيح الجسدية المظفرة وقيامة المؤمنين النهائية لانتصار الخلاص وبدء الخليقة الفدائية الجديدة."
+      },
+      "maa": {
+        "id_maa": 107,
+        "english_maa": "Eschatological Resurrection",
+        "maa_term": "Empiunoto e sesen ng'ejuk te nkolong'i e Enkai",
+        "cultural_meaning": "إحياء ونهوض الأجساد الحقيقي من القبور دون فناء",
+        "theological_meaning": "الإحياء الجسدي المعجزي للأموات بنهاية الزمان، حيث يلبس الفاسد عدم فساد وتتحد الأجساد بالأرواح للأبد. (المرجع: رومية 5:12، أفسس 1:4)"
+      }
+    },
+    {
+      "id_unified": 87,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Revelation / Apocalypse",
+      "arabic": "الإعلان الإلهي المكتوب / كشف سر الوحي",
+      "kabyle": "Aweḥḥi",
+      "dogmatic_guidance_kabyle": "الرؤيا ١: ١. يستدعي البعد الإلهي لرفع الغطاء عن مقاصد الله السيادية الحاكمة للتاريخ والخليقة.",
+      "tamasheq": {
+        "revised_latin": "Aweḥḥi",
+        "tifinagh": "ⴰⵡⴻⵃⵃⵉ",
+        "arabic_script": "أَوَحِّي",
+        "old_latin": "Aweḥḥi",
+        "justification": "رفع الغطاء وإعلان مقاصد الله وأسراره الخلاصية بواسطة الروح القدس؛ مطابقة للشاهد اللغوي لرؤيا ١: ١."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 88,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Righteousness of God",
+      "arabic": "بر الله القضائي الخارجي المنسوب لنا",
+      "kabyle": "Lḥeqq n Sidi Ṛebbi",
+      "dogmatic_guidance_kabyle": "رومية ١: ١٧. بر الله القضائي الخارجي المنسوب لنا بالإيمان تبرئة لحساب الخاطئ أمام العدالة الإلهية.",
+      "tamasheq": {
+        "revised_latin": "Iqqud n-Măssinăɣ",
+        "tifinagh": "ⵉⵇⵇⵓⴷ ⵏ-ⵎⴰⵙⵙⵉⵏⴰⵖ",
+        "arabic_script": "إِقُّودْ نْ-مَاسِّينَاغْ",
+        "old_latin": "Lḥeqq n Sidi Ṛebbi",
+        "justification": "بر الله القضائي الخارجي والمطلق المنسوب للمؤمن؛ مطابقة تامة للشاهد اللغوي لرسالة رومية ١: ١٧."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 89,
+      "category_en": "Ecclesiology",
+      "category_ar": "اللاهوت الكنسي والأسرار",
+      "english": "Sacraments",
+      "arabic": "الأسرار المقدسة / علامات وأختام ميثاق النعمة",
+      "kabyle": "Iserruyen iqedsen (Leɛwayed iqedsen)",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Lĕʿwayed šăddijănin n-Ărkăwăl",
+        "tifinagh": "ⵍⴻⵄⵡⴰⵢⴻⴷ ⵛⴰⴷⴷⵉⵊⴰⵏⵉⵏ ⵏ-ⴰⵔⴽⴰⵡⴰⵍ",
+        "arabic_script": "لَعْوَايَدْ شَدِّيجَانِينْ نْ-أَرْكَاوَالْ",
+        "old_latin": "Leɛwayed iqedsen n Tmeqqunt",
+        "justification": "الأسرار المقدسة كعلامات وأختام لميثاق النعمة؛ تم استخدام 'šăddijănin' (المقدسة المتسامية) لربطها بالبعد العهدي 'Ărkăwăl'."
+      },
+      "maa": {
+        "id_maa": 82,
+        "english_maa": "Sacrament (Sacred Sign)",
+        "maa_term": "Enkisainoto Sinyati e Osotua",
+        "cultural_meaning": "الوسم والفرز المقدس للعهد",
+        "theological_meaning": "العلامات والوجوه الخارجية المحددة من المسيح كأختام وضمانات عهدية لتأكيد مقاصد النعمة الباطنية. (المرجع: مزمور 119:11، رومية 11:33)"
+      }
+    },
+    {
+      "id_unified": 90,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Sanctification",
+      "arabic": "التقديس / تنمية حياة الصلاح الداخلي بقوة الروح",
+      "kabyle": "Taqedsit",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Asqĕdds",
+        "tifinagh": "ⴰⵙⵇⴻⴷⴷⵙ",
+        "arabic_script": "أَسْقَدْسْ (أو أَسْقَدَّسْ)",
+        "old_latin": "Asqeds",
+        "justification": "العمل التدريجي لتقديس المؤمن وتنمية حياة الصلاح والقداسة العملية لـإعلان شكر الخلاص."
+      },
+      "maa": {
+        "id_maa": 61,
+        "english_maa": "Sanctification (Progressive)",
+        "maa_term": "Enkitasotata te supatisho e Enkai",
+        "cultural_meaning": "الارتباط والنمو في حياة البر الإلهية",
+        "theological_meaning": "العمل التدريجي المشترك للروح القدس والمؤمن المميت لقوة الخطيئة والنامي في الفضائل المسيحية. (المرجع: يوحنا 3:3، رومية 8:15)"
+      }
+    },
+    {
+      "id_unified": 91,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Seal of the Covenant",
+      "arabic": "ختم العهد / الختم الملكي للوعود الإلهية",
+      "kabyle": "Ṭṭabeɛ n Lɛahd",
+      "dogmatic_guidance_kabyle": "رومية ٤: ١١. الأسرار المقدسة كعلامات وأختام ملكية لوعود العهد الإلهي التي لا تتغير.",
+      "tamasheq": {
+        "revised_latin": "Ṭṭabĕʿ n-Ărkăwăl",
+        "tifinagh": "ⵟⵟⴰⴱⴻⵄ ⵏ-ⴰⵔⴽⴰⵡⴰⵍ",
+        "arabic_script": "طَّابَعْ نْ-أَرْكَاوَالْ",
+        "old_latin": "Ṭṭabeɛ n Lɛahd",
+        "justification": "الختم والضمان الإلهي الحارس لثبات مواثيق عهد النعمة؛ مطابقة تامة للشاهد اللغوي لرومية ٤: ١١."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 92,
+      "category_en": "Christology",
+      "category_ar": "الكريستولوجيا وشخص الفادي",
+      "english": "Second Coming",
+      "arabic": "المجيء الثاني المجيد للملك",
+      "kabyle": "Tuɣalin tis snat",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Tuɣalin tis-snat",
+        "tifinagh": "ⵜⵓⵟⴰⵍⵉⵏ ⵜⵉⵙ-ⵙⵏⴰⵜ",
+        "arabic_script": "تُوغَالِينْ تِيسْ-سْنَاتْ",
+        "old_latin": "Tuɣalin tis snat",
+        "justification": "الرجوع والظهور المجيد للملك الفادي لإنهاء التاريخ وإعلان نصرة وسيادة ملكه العهدي."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 93,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Sola Fide",
+      "arabic": "الإيمان وحده",
+      "kabyle": "Lettkal n tideț kan",
+      "dogmatic_guidance_kabyle": "تم تصحيحها من 'Liman kan'. 'Liman' المعرب يرتبط ناموسياً بالاستحقاق البشري، بينما 'Lettkal n tideț' (الاتكال الصادق والارتكاز الكلي) يعبر بدقة عن طبيعة الإيمان المخلص الخالي من الاستحقاق الذاتي.",
+      "tamasheq": {
+        "revised_latin": "Immun ka",
+        "tifinagh": "ⵉⵎⵎⵓⵏ ⴽⴰ",
+        "arabic_script": "إِيمُّونْ كَا",
+        "old_latin": "Taflest ka",
+        "justification": "عقيدة الخلاص بالإيمان وحده؛ تم استبعاد 'Taflest' (التصديق التاريخي البارد) وإحلال 'Immun' (الاتكاء والالتجاء القلبي الحصري والفعال لقوة الفادي)."
+      },
+      "maa": {
+        "id_maa": 46,
+        "english_maa": "Sola Fide (Faith Alone)",
+        "maa_term": "Enkirukoto ake",
+        "cultural_meaning": "القبول والثقة والاتكال وحده",
+        "theological_meaning": "الخلاص المبرر ينال بأداة الإيمان القلبي الفعال بوعود المسيح الفدائية، وبمعزل عن استحقاقات الأعمال الناموسية البشريّة. (المرجع: رومية 3:28، غلاطية 2:16)"
+      }
+    },
+    {
+      "id_unified": 94,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Sola Gratia",
+      "arabic": "النعمة وحدها",
+      "kabyle": "Tmella kan",
+      "dogmatic_guidance_kabyle": "تم تصحيحها من 'Ṛṛeḥma kan' لنفس السبب اللغوي واللاهوتي المتعلق بنقاء الدلالة.",
+      "tamasheq": {
+        "revised_latin": "Tăhanint ka",
+        "tifinagh": "ⵜⴰⵀⴰⵏⵉⵏⵜ ⴽⴰ",
+        "arabic_script": "تَهَانِينْتْ كَا",
+        "old_latin": "Arraz ka",
+        "justification": "الخلاص بالنعمة الإلهية وحدها؛ تم استبعاد اللفظ الناموسي 'Arraz' (الذي يعني لغوياً المكافأة المستحقة بالعمل) وإحلال 'Tăhanint' (النعمة الحانية)."
+      },
+      "maa": {
+        "id_maa": 47,
+        "english_maa": "Sola Gratia (Grace Alone)",
+        "maa_term": "Emayianata e Enkai ake / Osotua ake",
+        "cultural_meaning": "عطية وبركة الله الخالصة وحدها",
+        "theological_meaning": "الخلاص من البدء إلى المنتهى هو مبادرة خلاصية فائقة ومجانية من الله كلي السيادة تجاه بشر هالِكين لا يستحقون شيئاً. (المرجع: أفسس 2:8، تيموثاوس الثانية 1:9)"
+      }
+    },
+    {
+      "id_unified": 95,
+      "category_en": "Scripture",
+      "category_ar": "الوحي وسلطان الكتاب",
+      "english": "Sola Scriptura",
+      "arabic": "الكتاب المقدس وحده كمرجع وحيد معصوم",
+      "kabyle": "Tira Iqedsen kan",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Tira Šăddijănin ka",
+        "tifinagh": "ⵜⵉⵔⴰ ⵛⴰⴷⴷⵉⵊⴰⵏⵉⵏ ⴽⴰ",
+        "arabic_script": "تِيرَا شَدِّيجَانِينْ كَا",
+        "old_latin": "Tira Tiqedsenin ka",
+        "justification": "سلطان الكتاب المقدس وحده المعصوم كدستور وحيد ومطلق للإيمان والعبادة دون غيره."
+      },
+      "maa": {
+        "id_maa": 49,
+        "english_maa": "Sola Scriptura (Scripture Alone)",
+        "maa_term": "Ororei le Nkai ake",
+        "cultural_meaning": "كلمة الله المكتوبة وحدها",
+        "theological_meaning": "كلمة الله المكتوبة هي السلطة الإلهية الأسمى والمكتملة والمعصومة الحاكمة لجميع شؤون العقيدة والتقوى الكنسية والعملية. (المرجع: 2 تيموثاوس 3:16، مزمور 119:105)"
+      }
+    },
+    {
+      "id_unified": 96,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "Soli Deo Gloria",
+      "arabic": "لمجد الله وحده",
+      "kabyle": "Tamanegt i Sidi Ṛebbi kan",
+      "dogmatic_guidance_kabyle": "معياري دقيق.",
+      "tamasheq": {
+        "revised_latin": "Tamanegt i-Măssinăɣ ka",
+        "tifinagh": "ⵜⴰⵎⴰⵏⴻⴳⵜ ⵉ-ⵎⴰⵙⵙⵉⵏⴰⵖ ⴽⴰ",
+        "arabic_script": "تَمَانَكْتْ إِي-مَاسِّينَاغْ كَا",
+        "old_latin": "Tamanegt i Yilu ka",
+        "justification": "المجد والسيادة المطلقة لمسيناغ وحده دون أي مساهمة من الأعمال البشرية أو بر المؤمنين الذاتي."
+      },
+      "maa": {
+        "id_maa": 50,
+        "english_maa": "Soli Deo Gloria (Glory to God Alone)",
+        "maa_term": "Enkisisa Sapuk e Enkai ake",
+        "cultural_meaning": "تسبيح وتعظيم الله السامي وحده",
+        "theological_meaning": "الهدف الأسمى لخلق الكون وتدبير الفداء هو إعلان كمال وبهاء مجد الله الخالق وحده دون أي تفاخر بشري. (المرجع: رومية 11:36، 1 كورنثوس 10:31)"
+      }
+    },
+    {
+      "id_unified": 97,
+      "category_en": "Christology",
+      "category_ar": "الكريستولوجيا وشخص الفادي",
+      "english": "Solus Christus",
+      "arabic": "المسيح وحده كفادٍ ووسيط وحيد",
+      "kabyle": "Lmasiḥ kan",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Ălmasex ka",
+        "tifinagh": "ⴰⵍⵎⴰⵙⴻⵅ ⴽⴰ",
+        "arabic_script": "أَلْمَاسَخْ كَا (أو Ɣisa Ălmasex ka)",
+        "old_latin": "Lmasiḥ ka",
+        "justification": "المسيح وحده كالوسيط والفادي الأوحد لخلاص المختارين؛ تم استخدام اللفظ الأصيل للتماشق 'Ălmasex'."
+      },
+      "maa": {
+        "id_maa": 48,
+        "english_maa": "Solus Christus (Christ Alone)",
+        "maa_term": "Yesu Kristo ake",
+        "cultural_meaning": "يسوع المسيح وحده دون غيره",
+        "theological_meaning": "المسيح هو الوسيط الوحيد والكامل والنهائي لعهد النعمة، وبموته وقيامته وحده تم إنجاز الفداء والتبرير لشعبه. (المرجع: يوحنا 14:6، 1 تيموثاوس 2:5)"
+      }
+    },
+    {
+      "id_unified": 98,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "Son",
+      "arabic": "الابن / الأقنوم الثاني الأزلي",
+      "kabyle": "Mmi-s",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Rur",
+        "tifinagh": "ⵔⵓⵔ",
+        "arabic_script": "رُورْ (أو إِيوِيسْ)",
+        "old_latin": "Iwis",
+        "justification": "الأقنوم الثاني الأزلي ابن مسسيناغ؛ تم تفضيل 'Rur' للتوافق مع النصوص القانونية لرسائل العهد الجديد للتماشق."
+      },
+      "maa": {
+        "id_maa": 18,
+        "english_maa": "God the Son (Incarnate Word)",
+        "maa_term": "Enkerai e Enkai / Olngejuk le Nkai",
+        "cultural_meaning": "ابن الله / كلمة الله الجديد",
+        "theological_meaning": "الأقنوم الثاني، بهاء مجد الآب ورسم جوهره، المتجسد إنساناً كاملاً لفداء الكنيسة وإعلان الآب. (المرجع: يوحنا 1:14، كولوسي 1:15)"
+      }
+    },
+    {
+      "id_unified": 99,
+      "category_en": "Puritanism",
+      "category_ar": "اللاهوت التقوي والعملي",
+      "english": "Soul Trouble",
+      "arabic": "اضطراب النفس / القلق الروحي المؤدي للتوبة",
+      "kabyle": "Aḥeyyer n ṛṛuḥ",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Aḥeyyer n-unfas",
+        "tifinagh": "ⴰⵃⴻⵢⵢⴻⵔ ⵏ-ⵓⵏⴼⴰⵙ",
+        "arabic_script": "أَحَيَّرْ نْ-أُنْفَاسْ",
+        "old_latin": "Aḥeyyer n ṛṛuḥ",
+        "justification": "القلق والاضطراب الروحي الباطني الاختباري الذي يسبق التوبة الحقيقية ويترافق مع فاعلية النعمة."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 100,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "Sovereignty",
+      "arabic": "السيادة الإلهية المطلقة",
+      "kabyle": "Lḥekma n Ṛebbi / Leḥkem n Sidi Ṛebbi",
+      "dogmatic_guidance_kabyle": "تم تعزيزها بإضافة 'Leḥkem n Sidi Ṛebbi' لتأكيد سلطانه وحكومته السيادية المطلقة على التاريخ والخليقة.",
+      "tamasheq": {
+        "revised_latin": "Tanbaḍt n-Măssinăɣ",
+        "tifinagh": "ⵜⴰⵏⴱⴰⴹⵜ ⵏ-ⵎⴰⵙⵙⵉⵏⴰⵖ",
+        "arabic_script": "تَانْبَاضْتْ نْ-مَاسِّينَاغْ",
+        "old_latin": "Tanbaḍt n Yilu",
+        "justification": "السيادة والسلطة والحكومة الإلهية المطلقة والفعالة لمسيناغ على التاريخ والخليقة."
+      },
+      "maa": {
+        "id_maa": 20,
+        "english_maa": "Sovereignty of God",
+        "maa_term": "Enkitoria e Enkai pooki ntokitin",
+        "cultural_meaning": "السلطة الحاكمة لله على كل شيء مطلقاً",
+        "theological_meaning": "الرئاسة اللاهوتية الكلية على الطبيعة والتاريخ والضمائر البشرية لإنفاذ مشيئته الأزلية الصالحة. (المرجع: مزمور 115:3، دانيال 4:35)"
+      }
+    },
+    {
+      "id_unified": 101,
+      "category_en": "Puritanism",
+      "category_ar": "اللاهوت التقوي والعملي",
+      "english": "Spiritual Desertion",
+      "arabic": "الانفصال الروحي الاختباري / التخلي الإلهي المؤقت",
+      "kabyle": "Abeɛɛed n Ṛṛuḥ",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Abeɛɛed n-Unfas",
+        "tifinagh": "ⴰⴱⴻⵄⵄⴻⴷ ⵏ-ⵓⵏⴼⴰⵙ",
+        "arabic_script": "أَبَعَّدْ نْ-أُنْفَاسْ (أو أَبَعَّدْ نْ-تَمُودْرِي)",
+        "old_latin": "Abeɛɛed n Ṛṛuḥ",
+        "justification": "التخلي الروحي والتباعد الاختباري المؤقت للنعمة لتربية المؤمن وتثبيت إيمانه وتأصيله في الفقر الروحي."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 102,
+      "category_en": "Christology",
+      "category_ar": "الكريستولوجيا وشخص الفادي",
+      "english": "Substitutionary Atonement",
+      "arabic": "الكفارة البدلية التامة",
+      "kabyle": "Asebbel deg wemkan-nneɣ",
+      "dogmatic_guidance_kabyle": "تم تصحيحها من 'Asfel n Ufdu'. مصطلح 'Asebbel' هو الاصطلاح الفيلولوجي واللاهوتي الأصيل للبذل والتضحية الاستبدالية الكاملة بالذات لفداء الآخرين، بينما 'Asfel' ذو دلالة وثنية و 'Afdu' معرب.",
+      "tamasheq": {
+        "revised_latin": "Asebbel dăɣ edăgg-năɣ",
+        "tifinagh": "ⴰⵙⴻⴱⴱⴻⵍ ⴷⴰⵖ ⴻⴷⴰⵟⵟ-ⵏⴰⵟ",
+        "arabic_script": "أَسَبَّلْ دَاغْ أَدَكْ-نَغْ (أو أَدَكْ-نَانَا)",
+        "old_latin": "Asebbel ɣ edig-nana",
+        "justification": "الكفارة البدلية التامة؛ تم توظيف اللفظ الأصيل للبذل والتقديم 'Asebbel' وربطه بقواعد الجر والحركات الصوتية لتصحيح الدلالة."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 103,
+      "category_en": "Scripture",
+      "category_ar": "الوحي وسلطان الكتاب",
+      "english": "Sufficiency of Scripture",
+      "arabic": "كفاية الكتاب المقدس المطلقة",
+      "kabyle": "Tira Iqedsen teččuṛ (tqadd)",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Tira Šăddijănin tĕččuṛ",
+        "tifinagh": "ⵜⵉⵔⴰ ⵛⴰⴷⴷⵉⵊⴰⵏⵉⵏ ⵜⴻⵛⵛⵓⵔ",
+        "arabic_script": "تِيرَا شَدِّيجَانِينْ تَشُّورْ (أو تَقَدْ)",
+        "old_latin": "Tira Iqedsen teččuṛ",
+        "justification": "كفاية الكتاب المقدس الكاملة والمطلقة لإيفاء احتياجات المؤمن الكلية في الإيمان والعمل والتقديس الشكري."
+      },
+      "maa": {
+        "id_maa": 117,
+        "english_maa": "Infallibility of Scripture",
+        "maa_term": "Ororei le Nkai nemedidimayu esul katukul",
+        "cultural_meaning": "كلمة الله الصادقة التي لا تسقط أو تتراجع أبداً",
+        "theological_meaning": "الصفة العقائدية للكتاب المقدس بكونه حقاً مطلقاً ومعصوماً لا يأتيه الباطل لأنه صادر من الروح القدس. (المرجع: رومية 5:12، أفسس 1:4)"
+      }
+    },
+    {
+      "id_unified": 104,
+      "category_en": "Puritanism",
+      "category_ar": "اللاهوت التقوي والعملي",
+      "english": "Sweetness of Christ",
+      "arabic": "حلاوة وعذوبة شخص الفادي",
+      "kabyle": "Tizḍt n Lmasiḥ (Ẓid n Lmasiḥ)",
+      "dogmatic_guidance_kabyle": "تم تصحيح الخطأ المطبعي واللغوي الفادح 'Zzḍid' إلى 'Tizḍt' (أو 'Ẓid') التي تعني العذوبة والحلاوة الفعلية.",
+      "tamasheq": {
+        "revised_latin": "Tizḍt n-Ălmasex",
+        "tifinagh": "ⵜⵉⵣⴹⵜ ⵏ-ⴰⵍⵎⴰⵙⴻⵅ",
+        "arabic_script": "تِيزْضْتْ نْ-أَلْمَاسَخْ (أو تِيزْضْ)",
+        "old_latin": "Tizḍt n Lmasiḥ",
+        "justification": "العذوبة والحلاوة الروحية لشخص الفادي المسيح التي يتذوقها المؤمن عهدياً؛ تم ضبط الرسم الصوتي اللاتيني للتماشق."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 105,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "The Elect / Chosen",
+      "arabic": "المختارون / شعب الاصطفاء الأزلي",
+      "kabyle": "Wid yettwaxtaṛen",
+      "dogmatic_guidance_kabyle": "رومية ٨: ٣٣. الأساس الخلاصي الأكيد لعقيدة الاختيار غير المشروط وأمانة حفظ القديسين للأبد.",
+      "tamasheq": {
+        "revised_latin": "Wi ttwastaynen",
+        "tifinagh": "ⵡⵉ ⵜⵜⵡⴰⵙⵜⴰⵢⵏⴻⵏ",
+        "arabic_script": "وِي تُّوَاسْتَايْنَنْ",
+        "old_latin": "Wid yettwaxtaṛen",
+        "justification": "المختارون والمعينون أزلياً بموجب مقاصد مسسيناغ السيادية؛ مطابقة للشواهد اللاهوتية لرسالة رومية ٨: ٣٣."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 106,
+      "category_en": "Covenants_and_Law",
+      "category_ar": "العهود والناموس",
+      "english": "Third Use of the Law",
+      "arabic": "الاستخدام الثالث للناموس",
+      "kabyle": "Aseqdec wis tlata n Lqanun",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Aseqqĕdec wis-kaṛaḍ n-Usaḍuf",
+        "tifinagh": "ⴰⵙⴻⵇⵇⴻⴷⴻⵛ ⵡⵉⵙ-ⴽⴰⵔⴰⴹ ⵏ-ⵓⵙⴰⴹⵓⴼ",
+        "arabic_script": "أَسَقَّدَشْ وِيسْ-كَارَاضْ نْ-ⵓⵙⴰⴹⵓⴼ",
+        "old_latin": "Aseqdec wis kaṛaḍ n Usaḍuf",
+        "justification": "الناموس كمعيار ومرشد للمؤمن المدفوع بالحب لتطبيق التقاسة والشكر؛ تم ضبط الرسم الفونولوجي الدقيق للتعبير."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 107,
+      "category_en": "Biblical_Resonance_v4",
+      "category_ar": "الرنين الروحي والكتابي",
+      "english": "Throne of Grace",
+      "arabic": "عرش النعمة / السيادة الإلهية الحانية",
+      "kabyle": "Akursi n lḥekma n Tmella",
+      "dogmatic_guidance_kabyle": "العبرانيين ٤: ١٦. يجمع بليغاً بين السيادة والحكم الملكي (Akursi n lḥekma) والنعمة المجانية السيادية (Tmella).",
+      "tamasheq": {
+        "revised_latin": "Akursi n-tanbaḍt n-Tăhanint",
+        "tifinagh": "ⴰⴽⵓⵔⵙⵉ ⵏ-ⵜⴰⵏⴱⴰⴹⵜ ⵏ-ⵜⴰⵀⴰⵏⵉⵏⵜ",
+        "arabic_script": "أَكُورْسِي نْ-تَانْبَاضْتْ نْ-تَهَانِينْتْ",
+        "old_latin": "Akursi n lḥekma n Tmella",
+        "justification": "الجمع البليغ لاهوتياً بين المظهر السيادي والقضائي للخلاص (Akursi n-tanbaḍt) والنعمة المجانية الحانية (Tăhanint)؛ مطابقة لـرسالة العبرانيين ٤: ١٦."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 108,
+      "category_en": "Salvation_TULIP",
+      "category_ar": "عقائد النعمة الكالفينية الخمس",
+      "english": "Total Depravity",
+      "arabic": "الفساد الكلي",
+      "kabyle": "Axsar amatu (Lefsad n ddunit)",
+      "dogmatic_guidance_kabyle": "تم تصحيح الخطأ الإملائي 'Axsar amatut' إلى 'Axsar amatu' (عام/كلي)، مع تقديم 'Lefsad n ddunit' الذي يشير إلى الطبيعة الساقطة الكلية.",
+      "tamasheq": {
+        "revised_latin": "Axsar amutay",
+        "tifinagh": "ⴰⵅⵙⴰⵔ ⴰⵎⵓⵜⴰⵢ",
+        "arabic_script": "أَخْسَارْ أَمُوتَايْ",
+        "old_latin": "Axsar amutay",
+        "justification": "الخراب التام والفساد الكلي البشري الذي أصاب جميع قدرات الإنسان الأخلاقية والروحية وجعله عاجزاً عن اختيار الإيمان ثانية."
+      },
+      "maa": {
+        "id_maa": 51,
+        "english_maa": "Total Depravity",
+        "maa_term": "Enkitonoto e ng'ok te pooki sirit e tung'ani",
+        "cultural_meaning": "السقوط والتمرد التام لكل سرية البشر",
+        "theological_meaning": "عجز الإنسانية الكامل بعد السقوط عن فعل أي بر روحي خلاصي، وفساد جميع قواها الذهنية والقلبية. (المرجع: يوحنا 3:3، رومية 8:15)"
+      }
+    },
+    {
+      "id_unified": 109,
+      "category_en": "Theology_Proper",
+      "category_ar": "الذات الإلهية وصفاتها",
+      "english": "Trinity",
+      "arabic": "الثالوث القدوس",
+      "kabyle": "Tlata deg yiwen",
+      "dogmatic_guidance_kabyle": "تم الاستغناء عن المقترض الفرنسي 'Trinité' وتثبيت المصطلح اللاهوتي القبائلي الصرف 'Tlata deg yiwen' (ثلاثة في واحد).",
+      "tamasheq": {
+        "revised_latin": "Kaṛaḍ dăɣ-iyyan",
+        "tifinagh": "ⴽⴰⵔⴰⴹ ⴷⴰⵖ-ⵉⵢⵢⴰⵏ",
+        "arabic_script": "كَارَاضْ دَاغْ-إِيَّانْ",
+        "old_latin": "Kaṛaḍ deg iyan",
+        "justification": "سر الثالوث القدوس؛ تمايز الأقانيم الثلاثة المساوية والجوهر الإلهي البسيط والواحد؛ تم استخدام حرف الجر 'dăɣ'."
+      },
+      "maa": {
+        "id_maa": 16,
+        "english_maa": "Trinity (Triune God)",
+        "maa_term": "Enkai unoto okuni",
+        "cultural_meaning": "الذات الإلهية الواحدة المتوحدة ثلاثياً",
+        "theological_meaning": "وحدانية الذات الإلهية مع التمايز الأقنومي لثلاثة أقانيم (الآب والابن والروح القدس) متساوين في الجوهر والقدر والمجد. (المرجع: متى 28:19، 2 كورنثوس 13:14)"
+      }
+    },
+    {
+      "id_unified": 110,
+      "category_en": "Salvation_TULIP",
+      "category_ar": "عقائد النعمة الكالفينية الخمس",
+      "english": "Unconditional Election",
+      "arabic": "الاختيار غير المشروط",
+      "kabyle": "Axtiri n zik war ccuṛuḍ",
+      "dogmatic_guidance_kabyle": "تم تعزيزها بـ 'n zik' (الأزلي/السابق للزمن) للدلالة على الاختيار الإلهي الأزلي المستقل عن الشروط البشرية.",
+      "tamasheq": {
+        "revised_latin": "Astay wăr ccuṛuḍ",
+        "tifinagh": "ⴰⵙⵜⴰⵢ ⵡⴰⵔ ⵛⵛⵓⵔⵓⴹ",
+        "arabic_script": "أَسْتَايْ وَرْ شُّورُوضْ",
+        "old_latin": "Astay war ccuṛuḍ",
+        "justification": "اصطفاء واختيار الله الأزلي الحرة والسيادي للمختارين دون أي شروط أو أعمال أو إيمان مسبق في الخاطئ."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 111,
+      "category_en": "Soteriology",
+      "category_ar": "لاهوت الخلاص وتطبيق الفداء",
+      "english": "Union with Christ",
+      "arabic": "الاتحاد بالمسيح / الاتحاد الفيدرالي العضوي بالفادي",
+      "kabyle": "Ddukel akk d Lmasiḥ",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Tassaɣt d-Ălmasex",
+        "tifinagh": "ⵜⴰⵙⵙⴰⵟⵜ ⴷ-ⴰⵍⵎⴰⵙⴻⵅ",
+        "arabic_script": "تَاسَّاغْتْ دْ-أَلْمَاسَخْ",
+        "old_latin": "Amun d Lmasiḥ",
+        "justification": "الاتحاد العضوي والروحي بالفادي؛ تم تطهيرها من 'Amun' (الجمع أو المرافقة) وتوظيف 'Tassaɣt' (الرابطة العضوية المتينة كحبل واحد) لبيان سريان النعمة والحياة."
+      },
+      "maa": {
+        "id_maa": 65,
+        "english_maa": "Unio Mystica (Union with Christ)",
+        "maa_term": "Enkitasotata te Kristo te nebo",
+        "cultural_meaning": "الترابط العضوي والاتحاد بالمسيح كالحبل السري",
+        "theological_meaning": "الاتحاد الروحي السري والوثيق بين المؤمن ورأسه الفادي (المسيح)، مصدر الحياة المشتركة والشركة الفعالة. (المرجع: يوحنا 3:3، رومية 8:15)"
+      }
+    },
+    {
+      "id_unified": 112,
+      "category_en": "Christology",
+      "category_ar": "الكريستولوجيا وشخص الفادي",
+      "english": "Virgin Birth",
+      "arabic": "الميلاد العذراوي",
+      "kabyle": "Talalit sɣur taɛzrit (deg ɛbbuḍ t ɛzrit Maryem)",
+      "dogmatic_guidance_kabyle": "دمج الصيغتين المعتمدتين لاهوتياً وقانونياً.",
+      "tamasheq": {
+        "revised_latin": "Talalit zɣ tăʿzrit",
+        "tifinagh": "ⵜⴰⵍⴰⵍⵉⵜ ⵣⵘ ⵜⴰⵄⵣⵔⵉⵜ",
+        "arabic_script": "تَلَالِيتْ زْغْ تَعْزْرِيتْ (أو دَاغْ تَعْزْرِيتْ)",
+        "old_latin": "Talalit zɣ taɛzrit",
+        "justification": "ميلاد المسيح الفدائي العذراوي الإعجازي من مريم دون تدنس بطبيعة الخطية الأصلية لآدم الفيدرالي."
+      },
+      "maa": {
+        "id_maa": null,
+        "english_maa": "",
+        "maa_term": "",
+        "cultural_meaning": "",
+        "theological_meaning": ""
+      }
+    },
+    {
+      "id_unified": 113,
+      "category_en": "Ecclesiology",
+      "category_ar": "اللاهوت الكنسي والأسرار",
+      "english": "Visible Church",
+      "arabic": "الكنيسة المنظورة",
+      "kabyle": "Tajmaɛt yettwalin (Taglizt yettwalin)",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Tanejmutt ta ittwalin",
+        "tifinagh": "ⵜⴰⵏⴻⵊⵎⵓⵜⵜ ⵜⴰ ⵉⵜⵜⵡⴰⵍⵉⵏ",
+        "arabic_script": "تَانَجْمُوتّْ تَا إِتُّوَالِينْ",
+        "old_latin": "Tanejmutt ittwalin",
+        "justification": "شعب الله المؤمن المنظور في تجمعاته وعلاقاته وممارسته للعبادة والأسرار المقدسة على الأرض."
+      },
+      "maa": {
+        "id_maa": 120,
+        "english_maa": "The Church Visible",
+        "maa_term": "eSírít e Enkai nadolayu to pooki sirit",
+        "cultural_meaning": "الفوج الكنسي المرئي والظاهر في الساحة الاجتماعية",
+        "theological_meaning": "الهيكل والمؤسسة التاريخية المرئية للكنيسة على الأرض والتي تضم المعترفين بالإيمان الحقيقي وأولادهم عهدياً. (المرجع: عبرانيين 11:1، يوحنا 6:37)"
+      }
+    },
+    {
+      "id_unified": 114,
+      "category_en": "Puritanism",
+      "category_ar": "اللاهوت التقوي والعملي",
+      "english": "Vivification",
+      "arabic": "إحياء الروح / إنبات حياة البر والقداسة الشكرية",
+      "kabyle": "Aseḥyu n Ṛṛuḥ",
+      "dogmatic_guidance_kabyle": "صحيح ومعياري.",
+      "tamasheq": {
+        "revised_latin": "Ăsĕḥyu n-unfas",
+        "tifinagh": "ⴰⵙⴻⵃⵢⵓ ⵏ-ⵓⵏⴼⴰⵙ",
+        "arabic_script": "أَسَتْحْيُو نْ-أُنْفَاسْ",
+        "old_latin": "Aseḥyu n Ṛṛuḥ",
+        "justification": "العمل الروحي لتنشيط وإحياء الطبيعة الجديدة وتدفق البر والقداسة الشكرية الفعالة في حياة المؤمن المبرر."
+      },
+      "maa": {
+        "id_maa": 63,
+        "english_maa": "Vivification of Spirit",
+        "maa_term": "Enkishui ng'ejuk e nkiyang'et",
+        "cultural_meaning": "إشعال وازدهار الحياة الروحية بالروح القدس",
+        "theological_meaning": "التنامي اليومي النشط في الفضائل والبر تحت توجيه وقوة النعمة الإلهية المجددة والمحفزة لمقاصد الإيمان. (المرجع: يوحنا 3:3، رومية 8:15)"
+      }
+    },
+    {
+      "id_unified": 115,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "God of Infinite Compassion",
+      "arabic": "إله الرحمة الفائقة / كلي الرحمة",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 2,
+        "english_maa": "God of Infinite Compassion",
+        "maa_term": "Enkai pusishoke",
+        "cultural_meaning": "الإله ذو البطن الأزرق (سحب المطر المحملة بالخير)",
+        "theological_meaning": "يرسخ التمايز الأنطولوجي الفائق؛ فالرحمة الإلهية فائقة ولا تضاهيها الرحمة البشرية (التي توصف بالبطن البيضاء). (المرجع: مزمور 103:8، رومية 9:15)"
+      }
+    },
+    {
+      "id_unified": 116,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Lord (Sovereign Master)",
+      "arabic": "الرب (السيد السيادي)",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 3,
+        "english_maa": "Lord (Sovereign Master)",
+        "maa_term": "Olaitoriani",
+        "cultural_meaning": "الحاكم، الآمر، ذو السلطة المطلقة",
+        "theological_meaning": "السيادة المطلقة والربوبية القضائية والفدائية التي تفرض الخضوع التام وتمنع أي نزعة استقلالية أخلاقية للخاطئ. (المرجع: رومية 10:9، 1 كورنثوس 12:3)"
+      }
+    },
+    {
+      "id_unified": 117,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Kept Agreement / Treaty",
+      "arabic": "ميثاق التزام (بشري)",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 7,
+        "english_maa": "Kept Agreement / Treaty",
+        "maa_term": "Olning'o",
+        "cultural_meaning": "الاتفاق المسموع والمستجاب له بين البشر",
+        "theological_meaning": "الالتزام الخارجي البشري بالوفاء بالوعود، ويتباين مع Osotua بكون الأخير ارتباطاً حيوياً داخلياً. (المرجع: مزمور 15:4، مزمور 50:16)"
+      }
+    },
+    {
+      "id_unified": 118,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "God of multifaceted wisdom (Many Colors)",
+      "arabic": "إله الحكمة المتنوعة (ذو الألوان الكثيرة)",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 8,
+        "english_maa": "God of multifaceted wisdom (Many Colors)",
+        "maa_term": "Parmúàìn",
+        "cultural_meaning": "الإله ذو الألوان الكثيرة (التحكم في الفصول والبركة والضيق)",
+        "theological_meaning": "الحكمة الإلهية متعددة الأوجه والقدر والسيادة المطلقة الموجهة لكل الظروف (الضراء والسراء) لخير المختارين. (المرجع: أفسس 3:10، رومية 8:28)"
+      }
+    },
+    {
+      "id_unified": 119,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Beginner of the Earth (Creator)",
+      "arabic": "خالق الأرض ومبتدئ الكون",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 9,
+        "english_maa": "Beginner of the Earth (Creator)",
+        "maa_term": "Naɨtɛ́rʉkɔ́p",
+        "cultural_meaning": "مبدئة الأرض / التي بدأت الأرض",
+        "theological_meaning": "الخلق بصفته المبدئ الفائق لكل الوجود المادي والروحي من العدم (Ex nihilo). (المرجع: تكوين 1:1، يوحنا 1:1)"
+      }
+    },
+    {
+      "id_unified": 120,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "The Maker / Artificer",
+      "arabic": "الخالق الصانع للكون",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 10,
+        "english_maa": "The Maker / Artificer",
+        "maa_term": "ɔlÁɨt́ɔ́bɨŕani",
+        "cultural_meaning": "الصانع، المصحح للكسر، المعمر",
+        "theological_meaning": "عمل الخالق في إعادة تكوين النفس وحفظ الطبيعة الإنسانية وعملية الإحياء المستمر. (المرجع: تكوين 2:7، مزمور 139:13)"
+      }
+    },
+    {
+      "id_unified": 121,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "The Shepherd (Sovereign)",
+      "arabic": "الراعي (السيادي القيم)",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 11,
+        "english_maa": "The Shepherd (Sovereign)",
+        "maa_term": "ɔlÁrámátani",
+        "cultural_meaning": "الشخص الذي يرعى الأنعام ويسوس شؤونها بكفاءة تامة",
+        "theological_meaning": "الرعاية الإلهية الفعالة والحفظ اللاهوتي للمختارين (Providential Care and Preservation) تحت سيادة المسيح. (المرجع: مزمور 23:1، يوحنا 10:11)"
+      }
+    },
+    {
+      "id_unified": 122,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "The Loving One",
+      "arabic": "المحب (ذو المحبة العهدية الأبدية)",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 12,
+        "english_maa": "The Loving One",
+        "maa_term": "ɔlAnyɔ́rrani",
+        "cultural_meaning": "المحب الذي يساند عملياً ولا يكتفي بالقول",
+        "theological_meaning": "المحبة الإلهية السيادية الفعالة المبشر بها في الفداء، محبة اختيارية أزلية للمفديين. (المرجع: 1 يوحنا 4:8، رومية 5:8)"
+      }
+    },
+    {
+      "id_unified": 123,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "The Benevolent (Black God)",
+      "arabic": "الرحيم المعطي (الله في رضاه وبركته)",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 13,
+        "english_maa": "The Benevolent (Black God)",
+        "maa_term": "Enkai Narok",
+        "cultural_meaning": "الإله الأسود (السماء الداكنة المحملة بالمطر)",
+        "theological_meaning": "الرضا الإلهي، والنعمة الفائقة الغامرة المنسكبة ببركة المطر الروحي والبركات العهدية. (المرجع: تثنية 11:14، يعقوب 1:17)"
+      }
+    },
+    {
+      "id_unified": 124,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "The Wrathful (Red God)",
+      "arabic": "الديان الغيور (الله في غضبه وقدسته)",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 14,
+        "english_maa": "The Wrathful (Red God)",
+        "maa_term": "Enkai Nanyokie",
+        "cultural_meaning": "الإله الأحمر (البرق، الجفاف، الموت والدم)",
+        "theological_meaning": "الغضب الإلهي المقدس والغيور العادل ضد الخطيئة والتمرّد، وإعلانات الدينونة والعدالة. (المرجع: رومية 1:18، عبرانيين 12:29)"
+      }
+    },
+    {
+      "id_unified": 125,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Jesus the Messiah (The Anointed One)",
+      "arabic": "يسوع المسيح (مسيح الله الممسوح)",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 15,
+        "english_maa": "Jesus the Messiah (The Anointed One)",
+        "maa_term": "Yesu Oloyelieki le Enkai",
+        "cultural_meaning": "يسوع الممسوح بالزيت لأجل التكريس والتبني",
+        "theological_meaning": "الخريستولوجيا العهدية؛ يسوع المفرز والمكرس بمسحة الروح القدس كنبي وكاهن وملك لإتمام مقاصد العهد. (المرجع: أعمال 10:38، عبرانيين 1:9)"
+      }
+    },
+    {
+      "id_unified": 126,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Holy Spirit",
+      "arabic": "الروح القدس",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 19,
+        "english_maa": "Holy Spirit",
+        "maa_term": "Enkiyang'et Sinyati",
+        "cultural_meaning": "النفحة المقدسة / النفخة الإلهية المطهرة",
+        "theological_meaning": "الأقنوم الثالث في الثالوث، الرب والمحيي، الفعال في تجديد قلوب الخطاة وتطبيق الفداء وتبكيت الضمائر. (المرجع: يوحنا 14:26، أفسس 1:13)"
+      }
+    },
+    {
+      "id_unified": 127,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Decree of God",
+      "arabic": "المرسوم الإلهي الأزلي",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 21,
+        "english_maa": "Decree of God",
+        "maa_term": "Enkitoria natisiraki apa Enkai te shumata",
+        "cultural_meaning": "أمر الله المكتوب مسبقاً في السماء",
+        "theological_meaning": "المقاصد الأزلية التي رتبها الخالق لإنفاذ كل حدث وفق مشيئته السيادية. (المرجع: مزمور 115:3، رومية 1:18)"
+      }
+    },
+    {
+      "id_unified": 128,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Sovereign Grace",
+      "arabic": "النعمة السيادية",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 23,
+        "english_maa": "Sovereign Grace",
+        "maa_term": "Emayianata nemeata esile",
+        "cultural_meaning": "البركة المجانية الخالية من الديون",
+        "theological_meaning": "مبادرة الله خلاصية المجانية والفعالة الموجهة للخطاة دون استحقاق أو قيد. (المرجع: مزمور 115:3، رومية 1:18)"
+      }
+    },
+    {
+      "id_unified": 129,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Common Grace",
+      "arabic": "النعمة المشتركة المانعة",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 24,
+        "english_maa": "Common Grace",
+        "maa_term": "Emayianata oo ltung'anak pooki",
+        "cultural_meaning": "البركة الممنوحة للجميع دون تمييز",
+        "theological_meaning": "اللطف الإلهي غير الخلاصي الذي يحد من الفساد البشري ويحفظ الحياة الاجتماعية ويمنح الخيرات العامة للجميع. (المرجع: أفسس 1:5، كولوسي 1:16)"
+      }
+    },
+    {
+      "id_unified": 130,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Prevenient Grace",
+      "arabic": "النعمة الممهدة المستبقة",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 25,
+        "english_maa": "Prevenient Grace",
+        "maa_term": "Enkiyang'et dukuya enkirukoto",
+        "cultural_meaning": "النفحة الروحية السابقة للإيمان",
+        "theological_meaning": "النعمة الإلهية غير المستحقة التي تسبق وتؤهل المختار للاستجابة لإعلان الكلمة بالإيمان. (المرجع: مزمور 115:3، رومية 1:18)"
+      }
+    },
+    {
+      "id_unified": 131,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Atonement",
+      "arabic": "الفداء والكفارة",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 26,
+        "english_maa": "Atonement",
+        "maa_term": "Esharunoto te ndukuya e Yesu",
+        "cultural_meaning": "الافتداد بدم يسوع الفادي",
+        "theological_meaning": "العمل النيابي البديل الكامل للمسيح على الصليب لإرضاء العدالة الإلهية وغفران خطايا المختارين. (المرجع: أفسس 1:5، كولوسي 1:16)"
+      }
+    },
+    {
+      "id_unified": 132,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Active Obedience of Christ",
+      "arabic": "الطاعة الإيجابية للمسيح",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 27,
+        "english_maa": "Active Obedience of Christ",
+        "maa_term": "Enias supati pooki e Yesu",
+        "cultural_meaning": "الأعمال الصالحة الكاملة ليسوع",
+        "theological_meaning": "التزام المسيح الكامل والنشط بالناموس الإلهي طوال حياته لتوفير بر يحسب قضائياً للمؤمنين. (المرجع: مزمور 115:3، رومية 1:18)"
+      }
+    },
+    {
+      "id_unified": 133,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Passive Obedience of Christ",
+      "arabic": "الطاعة السلبية للمسيح",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 28,
+        "english_maa": "Passive Obedience of Christ",
+        "maa_term": "Eninkoko e Yesu te ndukeya e keeya",
+        "cultural_meaning": "خضوع يسوع للموت طاعة للآب",
+        "theological_meaning": "تسليم المسيح نفسه للموت والآلام على الصليب نائباً عن شعبه ليحمل العقوبة القضائية المستحقة. (المرجع: أفسس 1:5، كولوسي 1:16)"
+      }
+    },
+    {
+      "id_unified": 134,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Ex Nihilo Creation",
+      "arabic": "الخلق من العدم",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 29,
+        "english_maa": "Ex Nihilo Creation",
+        "maa_term": "Enkitobirunoto e nkop nemetaa entoki apa",
+        "cultural_meaning": "بدء خلق الأرض من لا شيء",
+        "theological_meaning": "تأسيس الخالق للكون الفسيح من غير مادة سابقة بأمر كلمته الأسمى وقدرته المطلقة. (المرجع: مزمور 115:3، رومية 1:18)"
+      }
+    },
+    {
+      "id_unified": 135,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Holiness of God",
+      "arabic": "القداسة الإلهية الفائقة",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 30,
+        "english_maa": "Holiness of God",
+        "maa_term": "Esupatisho e Enkai naaitame ng'ok",
+        "cultural_meaning": "البر والكمال الإلهي الخالص والأصيل",
+        "theological_meaning": "التمايز الأنطولوجي والأخلاقي التام للخالق عن مخلوقاته وبعده الكامل عن أي ظل للفساد. (المرجع: أفسس 1:5، كولوسي 1:16)"
+      }
+    },
+    {
+      "id_unified": 136,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Immutability of God",
+      "arabic": "عدم التغير الإلهي",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 31,
+        "english_maa": "Immutability of God",
+        "maa_term": "Nemelekenya Enkai katukul",
+        "cultural_meaning": "الله الذي لا يتبدل أو يتغير إطلاقاً",
+        "theological_meaning": "الثبات الأنطولوجي المطلق للذات الإلهية في صفاتها ومقاصدها وعهودها أزلأ وأبداً. (المرجع: مزمور 115:3، رومية 1:18)"
+      }
+    },
+    {
+      "id_unified": 137,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Omnipresence",
+      "arabic": "الحضور الإلهي الكلي",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 32,
+        "english_maa": "Omnipresence",
+        "maa_term": "Enkai natii pooki wueji te nebo",
+        "cultural_meaning": "الإله الحاضر في كل الأماكن معاً",
+        "theological_meaning": "الحضور غير المحدود للذات الروحية الإلهية في كل سياق من الوجود المادي والروحي دون مجانسة. (المرجع: أفسس 1:5، كولوسي 1:16)"
+      }
+    },
+    {
+      "id_unified": 138,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Omniscience",
+      "arabic": "العلم الإلهي الكلي",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 33,
+        "english_maa": "Omniscience",
+        "maa_term": "Enkai nayiolo pooki ntokitin",
+        "cultural_meaning": "الإله العليم بكل الأمور سلفاً",
+        "theological_meaning": "إدراك الله الكامل والمطلق والشامل لجميع الحقائق والوقائع الماضية والحاضرة والمستقبلة والممكنة. (المرجع: مزمور 115:3، رومية 1:18)"
+      }
+    },
+    {
+      "id_unified": 139,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Omnipotence",
+      "arabic": "القدرة الإلهية الكلية",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 34,
+        "english_maa": "Omnipotence",
+        "maa_term": "Enkai naaidim pooki ntokitin",
+        "cultural_meaning": "الإله القدير على كل المقاصد",
+        "theological_meaning": "سلطان الله وقدرته المطلقة واللانهاية لتنفيذ كل ما يتوافق مع طبيعته المقدسة وقداسة إرادته. (المرجع: أفسس 1:5، كولوسي 1:16)"
+      }
+    },
+    {
+      "id_unified": 140,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "God's Justice",
+      "arabic": "العدل الإلهي المطلق",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 35,
+        "english_maa": "God's Justice",
+        "maa_term": "Esupatisho e Enkai naaitame ng'ok",
+        "cultural_meaning": "بر الله الذي يدين ويعاقب الشرور",
+        "theological_meaning": "المعيار القضائي الإلهي الذي يقتص للحق ويعاقب الخطيئة وفق معيار قداسته التامة. (المرجع: مزمور 115:3، رومية 1:18)"
+      }
+    },
+    {
+      "id_unified": 141,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Love of God",
+      "arabic": "المحبة الإلهية العهدية",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 36,
+        "english_maa": "Love of God",
+        "maa_term": "Enyorrata e Enkai",
+        "cultural_meaning": "المحبة الصادقة والفاعلة التي تمنح البركة",
+        "theological_meaning": "العاطفة الإلهية العهدية الموجهة للمؤمنين كعطية أبدية تشكل أساس الأمان والترابط العضوي. (المرجع: أفسس 1:5، كولوسي 1:16)"
+      }
+    },
+    {
+      "id_unified": 142,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Mercy of God",
+      "arabic": "الرحمة الإلهية الشاملة",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 37,
+        "english_maa": "Mercy of God",
+        "maa_term": "Olng'ur le Enkai",
+        "cultural_meaning": "تعاطف الخالق والخير المنسكب للمحتاجين",
+        "theological_meaning": "التعاطف الإلهي السيادي الذي يمنع العقوبة المستحقة ويرفع وطأة البؤس والمشقة عن التائبين. (المرجع: مزمور 115:3، رومية 1:18)"
+      }
+    },
+    {
+      "id_unified": 143,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Glory of God",
+      "arabic": "المجد الإلهي الفائق",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 38,
+        "english_maa": "Glory of God",
+        "maa_term": "Enkisisa Sapuk e Enkai",
+        "cultural_meaning": "التسبيح والرفعة والتاج والكرامة السامية لله",
+        "theological_meaning": "الإعلان البهي والساطع للذات الإلهية وكمال صفاتها الذي يستحق السجود والحمد من كل الخليقة. (المرجع: أفسس 1:5، كولوسي 1:16)"
+      }
+    },
+    {
+      "id_unified": 144,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Faith (Sola Fide)",
+      "arabic": "الإيمان المبرر (الثقة والاستسلام الميثاقي)",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 39,
+        "english_maa": "Faith (Sola Fide)",
+        "maa_term": "Enkirukoto",
+        "cultural_meaning": "القبول المطلق، الالتزام القلبي، الاتكال والموافقة المستجيبة",
+        "theological_meaning": "الإيمان المصلح الفعال (Pistis)؛ هبة إلهية سيادية تسلّم المؤمن بالكامل لوعد الكلمة وتتبرر به القضية الخلاصية. (المرجع: تكوين 15:6، روما 10:17)"
+      }
+    },
+    {
+      "id_unified": 145,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Salvation / Regeneration",
+      "arabic": "الولادة الجديدة / الخلاص والتجديد الباطني",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 40,
+        "english_maa": "Salvation / Regeneration",
+        "maa_term": "Enjeunoto / Enjeun",
+        "cultural_meaning": "العبور التام والنجاة الروحية والانتقال من الموت للعيش الروحي",
+        "theological_meaning": "التجديد الروحي الفعال (Regeneration) بفعل السيادة الإلهية، التحول من موت الخطيئة إلى حيوية النعمة والتبني. (المرجع: يوحنا 3:3، تيتوس 3:5)"
+      }
+    },
+    {
+      "id_unified": 146,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Redemption / Ransom",
+      "arabic": "الفداء النيابي البديل / الافتداء الموضوعي",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 41,
+        "english_maa": "Redemption / Ransom",
+        "maa_term": "Esharunoto",
+        "cultural_meaning": "الافتداء المادية أو الإنقاذ الجسدي من خطر وشيك مهدد للحياة",
+        "theological_meaning": "البُعد الموضوعي الخارجي للفداء النيابي البديل؛ حيث يقدم الفدية القضائية التامة لإطلاق سراح الخاطئ من دينونة الموت الأبدي. (المرجع: مارقس 10:45، أفسس 1:7)"
+      }
+    },
+    {
+      "id_unified": 147,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Forensic Wages / Penalty",
+      "arabic": "الأجرة القضائية المستحقة (أجرة الخطيئة)",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 42,
+        "english_maa": "Forensic Wages / Penalty",
+        "maa_term": "Olekoisiayio loo ng'ok",
+        "cultural_meaning": "التعويض أو المقابل المالي القضائي المستحق على العمل البشري",
+        "theological_meaning": "المنظور القضائي الكالفيني للخطيئة بصفتها جالبة لاستحقاق الموت الأبدي بموجب العدالة الإلهية الصارمة. (المرجع: رومية 6:23)"
+      }
+    },
+    {
+      "id_unified": 148,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "True Convert / Covenant Adoptee",
+      "arabic": "المهتدي الحقيقي (المتبنى الممسوح بالعهد)",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 43,
+        "english_maa": "True Convert / Covenant Adoptee",
+        "maa_term": "Oloyelieki e ilata",
+        "cultural_meaning": "الشخص الذي دهن فعلياً بالزيت إعلاناً لتبنيه العائلي العابر للثقافات",
+        "theological_meaning": "الاهتداء والتبني الروحي الذي يمنح المؤمن مركزاً شرعياً في عهد النعمة مع الاحتفاظ بهويته الثقافية والوطنية النقية دون تهجين. (المرجع: رومية 8:15، غلاطية 4:5)"
+      }
+    },
+    {
+      "id_unified": 149,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Proselyte / External Conformist",
+      "arabic": "الدخيل الطقسي / التابع التوفيقي المستعير للثقافة",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 44,
+        "english_maa": "Proselyte / External Conformist",
+        "maa_term": "Olmeeki / Ormeeki",
+        "cultural_meaning": "الأجنبي المحتقر أو الغريب عن الميثاق العهدي الداخلي للقبيلة",
+        "theological_meaning": "الامتثال الخارجي الشكلي المستند لأعمال الناموس وتبني الثقافات الأجنبية كشرط خلاصي ناموسي تجاري مرفوض عقائدياً. (المرجع: أعمال 15:1، غلاطية 2:14)"
+      }
+    },
+    {
+      "id_unified": 150,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Solemn Denunciation / May it never be!",
+      "arabic": "حاشا للنعمة أن تتهاون! / الرفض الأخلاقي القاطع",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 45,
+        "english_maa": "Solemn Denunciation / May it never be!",
+        "maa_term": "Taba meing'uang'a!",
+        "cultural_meaning": "ليُحرم هذا تماماً، ليس الآن، ولا في أي وقت، ولا إلى الأبد!",
+        "theological_meaning": "الرفض الأخلاقي القاطع والحاسم (Me genoito) لردع التأويل الرخيص للنعمة، وتأسيس عقيدة التقديس العملي الصارم. (المرجع: رومية 6:2، رومية 6:15)"
+      }
+    },
+    {
+      "id_unified": 151,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Unconditional Election",
+      "arabic": "الاختيار الأزلي غير المشروط",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 52,
+        "english_maa": "Unconditional Election",
+        "maa_term": "Enkipoyiota Enkai nemeata esile",
+        "cultural_meaning": "اختيار وفرز الله الخالي من شروط الديون والناموس",
+        "theological_meaning": "انتخاب الله السيادي للمختارين للحصول على الخلاص قبل تأسيس العالم بناءً على مشيئته الصالحة دون أي استحقاق متوقع. (المرجع: أفسس 2:8، رومية 3:24)"
+      }
+    },
+    {
+      "id_unified": 152,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Irresistible Grace",
+      "arabic": "النعمة الفعالة التي لا تقاوم",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 54,
+        "english_maa": "Irresistible Grace",
+        "maa_term": "Enkiyang'et sapuk nemedidimayu aitoki",
+        "cultural_meaning": "النفحة الإلهية القوية التي لا يمكن ردها",
+        "theological_meaning": "العمل الفوق طبيعي للروح القدس الذي يجدد المشيئة الميتة ويجذب المؤمن بقوة وحنو ليستجيب طوعاً للنداء الخلاصي. (المرجع: أفسس 2:8، رومية 3:24)"
+      }
+    },
+    {
+      "id_unified": 153,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Perseverance of the Saints",
+      "arabic": "arts of the Saints / مثابرة القديسين وثباتهم",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 55,
+        "english_maa": "Perseverance of the Saints",
+        "maa_term": "Enteleku tiatua enyorata e Enkai",
+        "cultural_meaning": "البقاء والثبات في محبة وعهد الله الدائم",
+        "theological_meaning": "حفظ الله للمختارين بقوة نعمته الحافظة بحيث يستمرون في الإيمان والقداسة والتقديس إلى النهاية السعيدة في المجد. (المرجع: يوحنا 3:3، رومية 8:15)"
+      }
+    },
+    {
+      "id_unified": 154,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "The Mediator",
+      "arabic": "الوسيط لعهد النعمة",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 66,
+        "english_maa": "The Mediator",
+        "maa_term": "Olautaroni le osotua ng'ejuk",
+        "cultural_meaning": "المرشد الحافظ لعهد النعمة الجديد",
+        "theological_meaning": "المسيح يسوع في صفته وسيطاً شرعياً ووحيداً للتصالح التام وإقرار عهد النعمة بين الآب والخطاة المختارين. (المرجع: أفسس 2:8، رومية 3:24)"
+      }
+    },
+    {
+      "id_unified": 155,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Propitiation",
+      "arabic": "استرضاء الغضب الإلهي العادل",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 67,
+        "english_maa": "Propitiation",
+        "maa_term": "Esharunoto naitobir Enkai Nanyokie",
+        "cultural_meaning": "الفداء والذبيحة التي ترضي وتصالح الغضب الأحمر",
+        "theological_meaning": "الذبيحة الفدائية الكاملة للمسيح التي امتصت وصالحت الغضب المقدس للآب (الله الأحمر) وصنعت الرضا التام الكفاري. (المرجع: يوحنا 3:3، رومية 8:15)"
+      }
+    },
+    {
+      "id_unified": 156,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Definite Redemption",
+      "arabic": "الفداء الحاسم والمتحقق يقيناً",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 68,
+        "english_maa": "Definite Redemption",
+        "maa_term": "Esharunoto naitajeu lelo pooki",
+        "cultural_meaning": "الفداء التام الذي ينقذ الموعودين يقيناً",
+        "theological_meaning": "فعالية الموت التكفاري للمسيح في إتمام وتحقيق وشفاء كرامة وسلامة وخلاص المفديين المضمونين قضائياً سلفاً. (المرجع: أفسس 2:8، رومية 3:24)"
+      }
+    },
+    {
+      "id_unified": 157,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "The Church (Cohort of Christ)",
+      "arabic": "الكنيسة (سرية المسيح الروحية)",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 77,
+        "english_maa": "The Church (Cohort of Christ)",
+        "maa_term": "eSírít / eSírít e Kristo",
+        "cultural_meaning": "الفوج، الكتيبة، أو السرية المتضامنة للشباب والمحاربين",
+        "theological_meaning": "المنظور الإيكليسيولوجي الكالفيني؛ الكنيسة بوصفها كتيبة المسيح الروحية التي تتقاسم الحياة والميراث بروح الإنجيل والمشاركة والالتزام التام. (المرجع: أفسس 3:21، كولوسي 1:18)"
+      }
+    },
+    {
+      "id_unified": 158,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Christ the Head (Wisdom Counselor)",
+      "arabic": "رأس الكنيسة (المتحدث والمستشار الأسمى للسرية)",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 78,
+        "english_maa": "Christ the Head (Wisdom Counselor)",
+        "maa_term": "olAigúɛ́nani le Sirit",
+        "cultural_meaning": "المستشار الحكيم، والمتحدث باسم الفوج أو السرية الذي يدير الاحتفالات والعدل",
+        "theological_meaning": "ربوبية وسيادة المسيح ورئاسته المطلقة لكنيسته؛ المرشد الروحي والناصح الأوحد العابر للأجيال لسرية المسيح الروحية. (المرجع: أفسس 1:22، أفسس 5:23)"
+      }
+    },
+    {
+      "id_unified": 159,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Mutual Submission (Ephesians 5:21)",
+      "arabic": "الخضوع المتبادل / المهابة الروحية المشتركة",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 79,
+        "english_maa": "Mutual Submission (Ephesians 5:21)",
+        "maa_term": "Enkanyit e sirit te nebo",
+        "cultural_meaning": "الاحترام والمهابة والوقار العائلي والقبلي المتبادل",
+        "theological_meaning": "الخضوع المتبادل في مخافة الرب (Ephesians 5:21)؛ مهابة روحية تعزز من الكرامة العهدية المشتركة وتنهي استغلال الخضوع أحادي الجانب. (المرجع: أفسس 5:21، رومية 12:10)"
+      }
+    },
+    {
+      "id_unified": 160,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Covenantal Table Fellowship",
+      "arabic": "العشاء الرباني ميثاقياً (مائدة العهد المشتركة)",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 80,
+        "english_maa": "Covenantal Table Fellowship",
+        "maa_term": "endaa emusho / enkoshoke naata osotua",
+        "cultural_meaning": "البطن أو المعدة هي التي تمتلك وتجمع الحبل السري والعهد",
+        "theological_meaning": "ممارسة كسر الخبز وتناول الكأس كشركة حيوية عهدية تربط المؤمنين برأس العهد (المسيح) والترابط التام ببعضهم البعض. (المرجع: 1 كورنثوس 11:24، لوقا 22:19)"
+      }
+    },
+    {
+      "id_unified": 161,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Ecclesiology",
+      "arabic": "لاهوت الكنيسة وأنظمتها",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 81,
+        "english_maa": "Ecclesiology",
+        "maa_term": "Enkiteng'enata e sirit e Enkai",
+        "cultural_meaning": "تعاليم ودراسة سرية وفوج الله",
+        "theological_meaning": "دراسة لاهوتية لطبيعة الكنيسة، ونظامها، وسلطتها، ورسالتها كأداة للملكوت. (المرجع: 1 كورنثوس 11:26، أفسس 5:22)"
+      }
+    },
+    {
+      "id_unified": 162,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Illumination of Holy Spirit",
+      "arabic": "الاستنارة الروحية لقراءة الكلمة",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 85,
+        "english_maa": "Illumination of Holy Spirit",
+        "maa_term": "Enkibulunoto oo ltau te Ororei",
+        "cultural_meaning": "فتح واستنارة القلب لفهم كلمة الله وجني ثمرها",
+        "theological_meaning": "العمل الباطني للروح القدس لتمكين المؤمن من فهم الكلمة المكتوبة وتطبيقها سياقياً وروحيّاً. (المرجع: 1 كورنثوس 11:26، أفسس 5:22)"
+      }
+    },
+    {
+      "id_unified": 163,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Cow/Herd Hermeneutics",
+      "arabic": "الهيرمنيوطيقا الرعوية العهدية",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 86,
+        "english_maa": "Cow/Herd Hermeneutics",
+        "maa_term": "Enkiteng Hermeneutics",
+        "cultural_meaning": "منهج فحص واجترار الكلمة على مثال البقرة الصالحة",
+        "theological_meaning": "المنهج التفسيري السياقي الرعوي الذي يوظف الاجترار ورموز ديمومة الحياة لتعميق فهم الكلمة وتجسيدها. (المرجع: مزمور 119:11، رومية 11:33)"
+      }
+    },
+    {
+      "id_unified": 164,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Oral Proclamation",
+      "arabic": "الإعلان والتناقل الشفهي للحق",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 87,
+        "english_maa": "Oral Proclamation",
+        "maa_term": "Elikioroto e Ororei le Nkai",
+        "cultural_meaning": "إسماع وقراءة ونشر الأخبار الصالحة لشبه الرحل",
+        "theological_meaning": "الوعظ والإعلان العقائدي المسموع المتوافق مع الطبيعة الشفهية للمجتمع لبناء الكنائس وتثبيتها. (المرجع: 1 كورنثوس 11:26، أفسس 5:22)"
+      }
+    },
+    {
+      "id_unified": 165,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Eucharistic Real Presence",
+      "arabic": "حضور المسيح الروحي الحقيقي",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 90,
+        "english_maa": "Eucharistic Real Presence",
+        "maa_term": "Enkiree e Yesu tiatua endaa emusho",
+        "cultural_meaning": "وجود وحضور يسوع الروحي الفعال في مائدة الشركة",
+        "theological_meaning": "حضور المسيح الحقيقي بلاهوته وفعاليته الروحية في قلوب متناولي الخبز والكأس بالإيمان. (المرجع: مزمور 119:11، رومية 11:33)"
+      }
+    },
+    {
+      "id_unified": 166,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Eldership (Presbyterian)",
+      "arabic": "نظام الشيوخ الرعوي المصلح",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 92,
+        "english_maa": "Eldership (Presbyterian)",
+        "maa_term": "Inkirorot oo lpayiani le sirit",
+        "cultural_meaning": "إدارة وتدبير شيوخ الفوج العمرائي لشؤون الكنيسة",
+        "theological_meaning": "نظام القيادة الجماعي التعددي شيوخياً (Presbytery) المنسجم مع مجلس الشيوخ التقليدي لإرشاد وتدريس وفحص الجماعة الكنسية. (المرجع: مزمور 119:11، رومية 11:33)"
+      }
+    },
+    {
+      "id_unified": 167,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Excommunication (Censure)",
+      "arabic": "الحظر والفرز الكنسي التأديبي",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 93,
+        "english_maa": "Excommunication (Censure)",
+        "maa_term": "Enkitame e sirit te nkaraki torrok",
+        "cultural_meaning": "إقصاء وطرد المتمرد من سرية وفوج المؤمنين",
+        "theological_meaning": "الإنقاذ والإبعاد القضائي لعضو فوج المؤمنين التائب حماية لنقاء وسرية الفوج والحد من تسرب الفساد اليها. (المرجع: 1 كورنثوس 11:26، أفسس 5:22)"
+      }
+    },
+    {
+      "id_unified": 168,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Christian Liberty",
+      "arabic": "الحرية الروحية للمؤمنين",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 95,
+        "english_maa": "Christian Liberty",
+        "maa_term": "Enkotunoto nasipa tiatua Kristo",
+        "cultural_meaning": "التحرر الكامل والحقيقي في المسيح من القيود العبودية",
+        "theological_meaning": "التحرير الخلاصي من عبودية الخطيئة والناموس الطقسي للتعبد لله طواعية ومحبة دون عبودية لتعاليم البشر. (المرجع: 1 كورنثوس 11:26، أفسس 5:22)"
+      }
+    },
+    {
+      "id_unified": 169,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "The World (Grace-Resisting)",
+      "arabic": "العالم (المقاوم والجاحد للنعمة)",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 96,
+        "english_maa": "The World (Grace-Resisting)",
+        "maa_term": "Enkop nemeyiol Enkai / Ilmeek",
+        "cultural_meaning": "الأرض والجموع البعيدة والجاحدة لميثاق عهد الله",
+        "theological_meaning": "الكيان الإنساني المقاوم لسيادة النعمة والرازح تحت سلطان التمرد والفساد الطبيعي. (المرجع: مزمور 119:11، رومية 11:33)"
+      }
+    },
+    {
+      "id_unified": 170,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Eschatological Sanctuary",
+      "arabic": "المأوى والأرض الخلاصية للأبد",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 97,
+        "english_maa": "Eschatological Sanctuary",
+        "maa_term": "Enkop e pasinai oo ltung'anak le Enkai",
+        "cultural_meaning": "أرض وجبل معاهدة الله الحافظة للأبرار للأبد",
+        "theological_meaning": "الراحة النهائية والمسكن الأبدي للمفديين في مأوى السيادة والملكوت الفائق. (المرجع: 1 كورنثوس 11:26، أفسس 5:22)"
+      }
+    },
+    {
+      "id_unified": 171,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Original Sin",
+      "arabic": "الخطيئة الجدية والفساد الموروث",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 99,
+        "english_maa": "Original Sin",
+        "maa_term": "Ng'ok apa natii te Adam",
+        "cultural_meaning": "التمرّد والسقوط المتوارث من جيل آدم الأول",
+        "theological_meaning": "الذنب القضائي والفساد الطبيعي الموروث من آدم المنسحب على كل نسله الطبيعي. (المرجع: رومية 5:12، أفسس 1:4)"
+      }
+    },
+    {
+      "id_unified": 172,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Providential Preservation",
+      "arabic": "الحفظ الإلهي للكون والنعم",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 101,
+        "english_maa": "Providential Preservation",
+        "maa_term": "Eramatare e Enkai te pooki ntokitin",
+        "cultural_meaning": "صيانة وتدبير الخالق الدائم لكل الموجودات",
+        "theological_meaning": "الرعاية الإلهية المستمرة التي تحفظ الطبيعة والخليقة من السقوط والانهيار التام. (المرجع: رومية 5:12، أفسس 1:4)"
+      }
+    },
+    {
+      "id_unified": 173,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Sovereign Call",
+      "arabic": "الدعوة الخلاصية الإلهية الفعالة",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 102,
+        "english_maa": "Sovereign Call",
+        "maa_term": "Enkipototo nasipa e Enkai",
+        "cultural_meaning": "نداء الله الأسمى المفرز لضمير الخاطئ",
+        "theological_meaning": "النداء الروحي الفعال الذي يوجهه الله للمختارين للإيمان عبر تبكيت الضمير بالكلمة. (المرجع: عبرانيين 11:1، يوحنا 6:37)"
+      }
+    },
+    {
+      "id_unified": 174,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Regenerative Enlightenment",
+      "arabic": "الاستنارة المجددة للقلب",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 103,
+        "english_maa": "Regenerative Enlightenment",
+        "maa_term": "Enkibulunoto oo ltau te nkiyang'et",
+        "cultural_meaning": "إنارة وشفاء البصيرة الروحية بالروح القدس",
+        "theological_meaning": "فتح البصيرة الروحية للخطاة ليروا ويدركوا ويسلكوا في حق النعمة وعظمة الإنجيل. (المرجع: رومية 5:12، أفسس 1:4)"
+      }
+    },
+    {
+      "id_unified": 175,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Faith Working by Love",
+      "arabic": "الإيمان العامل بالمحبة المسيحية",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 106,
+        "english_maa": "Faith Working by Love",
+        "maa_term": "Enkirukoto naisias te nyorrata",
+        "cultural_meaning": "الإيمان النابض بالحيوية والممتد برعوية المحبة",
+        "theological_meaning": "الطبيعة اللاهوتية للإيمان التبريري كقوة روحية تثمر قداسة وعلاقات محبة فاعلة مع الله والقريب. (المرجع: عبرانيين 11:1، يوحنا 6:37)"
+      }
+    },
+    {
+      "id_unified": 176,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Sola Gratia in Sanctification",
+      "arabic": "النعمة وحدها في التقديس والتأهيل",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 108,
+        "english_maa": "Sola Gratia in Sanctification",
+        "maa_term": "Emayianata e Enkai ake te supatisho",
+        "cultural_meaning": "عمل النعمة الإلهية المفردة في حفظ الكرامة والبر",
+        "theological_meaning": "كون النعمة الإلهية هي المصدر والدافع الفعال الوحيد لتقدم المؤمن اليومي في حياة القداسة والنمو. (المرجع: عبرانيين 11:1، يوحنا 6:37)"
+      }
+    },
+    {
+      "id_unified": 177,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Apostolic Succession (Doctrinal)",
+      "arabic": "التتابع اللاهوتي والعقائدي الرسولي",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 110,
+        "english_maa": "Apostolic Succession (Doctrinal)",
+        "maa_term": "Enoto oo lmon pooki too ltomoni apa",
+        "cultural_meaning": "توارد ونقل الكلمة الصادقة من جيل الرسل الأوائل",
+        "theological_meaning": "الحفظ التاريخي والعقائدي لأمانة التعليم الرسولي واللاهوت القويم جيلاً بعد جيل في الكنيسة. (المرجع: عبرانيين 11:1، يوحنا 6:37)"
+      }
+    },
+    {
+      "id_unified": 178,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Final Preservation in Holiness",
+      "arabic": "الحفظ النهائي في القداسة والمجد",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 113,
+        "english_maa": "Final Preservation in Holiness",
+        "maa_term": "Etorripoto nasipa e Enkai te pooki nkolong'i",
+        "cultural_meaning": "صيانة وحفظ الله التام للمختارين حتى النهاية الفائقة",
+        "theological_meaning": "العمل الإلهي النهائي المعزز لحفظ كمال وضمير وبر المؤمنين التام إلى يوم مجيئه المجيد. (المرجع: رومية 5:12، أفسس 1:4)"
+      }
+    },
+    {
+      "id_unified": 179,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Eternal Punishment",
+      "arabic": "العقاب والألم الأبدي للأشرار",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 114,
+        "english_maa": "Eternal Punishment",
+        "maa_term": "Keeya nemetonie katukul",
+        "cultural_meaning": "الموت الأبدي الذي لا ينقطع أو يزول",
+        "theological_meaning": "العقوبة القضائية العادلة للأشرار غير التائبين والجاحدين للعهد بتركهم للخراب والعذاب الأبدي. (المرجع: عبرانيين 11:1، يوحنا 6:37)"
+      }
+    },
+    {
+      "id_unified": 180,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Grace of Adoption",
+      "arabic": "نعمة التبني الأبوي العهدية",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 115,
+        "english_maa": "Grace of Adoption",
+        "maa_term": "Emayianata oo ltoiwuo dukuya e Enkai",
+        "cultural_meaning": "البركة والدهن والفرز الخالص كولد حقيقي للآب",
+        "theological_meaning": "الهبة الإلهية المجانية التي تنقل المؤمن المبرر إلى حظيرة البنين وتمنحه حقوق الميراث الكامل للملكوت. (المرجع: رومية 5:12، أفسس 1:4)"
+      }
+    },
+    {
+      "id_unified": 181,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Forensic Justification",
+      "arabic": "التبرير القضائي الغافر",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 118,
+        "english_maa": "Forensic Justification",
+        "maa_term": "Esupatisho te koti e Enkai",
+        "cultural_meaning": "الحكم الإلهي السامي بالبراءة والبر في مجلس القضاء",
+        "theological_meaning": "الإعلان القضائي الإلهي الغافر لخطايا المؤمن والمثبت لحسابه بر المسيح كأرضية وحيدة للبراءة والبر. (المرجع: عبرانيين 11:1، يوحنا 6:37)"
+      }
+    },
+    {
+      "id_unified": 182,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "The Church Invisible",
+      "arabic": "الكنيسة غير المنظورة للمختارين",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 119,
+        "english_maa": "The Church Invisible",
+        "maa_term": "eSírít e Enkai nemetadolo iltung'anak",
+        "cultural_meaning": "السرية الإلهية الفعالة وغير المرئية للبشر",
+        "theological_meaning": "الجامعة الكاملة والروحية لجميع المؤمنين المختارين عبر العصور الذين لا يعرفهم يقيناً سوى الخالق وحده. (المرجع: رومية 5:12، أفسس 1:4)"
+      }
+    },
+    {
+      "id_unified": 183,
+      "category_en": "Maasai Specific Contextualization",
+      "category_ar": "السياقات التفسيرية اللاهوتية المخصصة لشعب المأساي",
+      "english": "Saving Repentance",
+      "arabic": "التوبة الحقيقية المانحة للحياة",
+      "kabyle": "",
+      "dogmatic_guidance_kabyle": "",
+      "tamasheq": {
+        "revised_latin": "",
+        "tifinagh": "",
+        "arabic_script": "",
+        "old_latin": "",
+        "justification": ""
+      },
+      "maa": {
+        "id_maa": 121,
+        "english_maa": "Saving Repentance",
+        "maa_term": "Enkibelekenyata oo ltau nasipa",
+        "cultural_meaning": "التحول الصادق والداخلي التائب والمحزون للقلب",
+        "theological_meaning": "الحزن الروحي الحقيقي على عصيان مشيئة الخالق والترك الحاسم للخطايا مع التوجه المخلص للمسيح طاعة. (المرجع: رومية 5:12، أفسس 1:4)"
+      }
+    }
+  ]
+}

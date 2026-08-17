@@ -68,13 +68,31 @@ function convertFootnotesToMarkdown(content: string) {
   return processed;
 }
 
-export async function getPosts(): Promise<BlogPost[]> {
+export async function getPosts(lang: string = 'ar'): Promise<BlogPost[]> {
   if (!fs.existsSync(postsDirectory)) return [];
   const fileNames = fs.readdirSync(postsDirectory);
   
   const posts = await Promise.all(fileNames.map(async (fileName) => {
-    if (!fileName.endsWith('.md')) return null;
-    const slug = fileName.replace(/\.md$/, '').replace(/\s+/g, '-');
+    // Determine language by extension
+    const isAm = fileName.endsWith('.am.md');
+    const isSw = fileName.endsWith('.sw.md');
+    const isShi = fileName.endsWith('.shi.md');
+    const isKab = fileName.endsWith('.kab.md');
+    const isTmh = fileName.endsWith('.tmh.md');
+    const isMas = fileName.endsWith('.mas.md');
+    let fileLang = 'ar';
+    if (isAm) fileLang = 'am';
+    else if (isSw) fileLang = 'sw';
+    else if (isShi) fileLang = 'shi';
+    else if (isKab) fileLang = 'kab';
+    else if (isTmh) fileLang = 'tmh';
+    else if (isMas) fileLang = 'mas';
+    else if (fileName.endsWith('.md')) fileLang = 'ar';
+    else return null;
+
+    if (fileLang !== lang) return null;
+
+    let slug = fileName.replace(/\.md$/, '').replace(/\.(am|sw|shi|kab|tmh|mas)$/, '').replace(/\s+/g, '-');
     const fullPath = path.join(postsDirectory, fileName);
     const fileContents = fs.readFileSync(fullPath, 'utf8');
 
@@ -110,18 +128,35 @@ export async function getPosts(): Promise<BlogPost[]> {
   return validPosts.sort((a, b) => (a.published < b.published ? 1 : -1));
 }
 
-export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
-  const posts = await getPosts();
+export async function getPostBySlug(slug: string, lang: string = 'ar'): Promise<BlogPost | null> {
+  const posts = await getPosts(lang);
   return posts.find(post => post.slug === slug) || null;
 }
 
-export async function getPages(): Promise<BlogPage[]> {
+export async function getPages(lang: string = 'ar'): Promise<BlogPage[]> {
   if (!fs.existsSync(pagesDirectory)) return [];
   const fileNames = fs.readdirSync(pagesDirectory);
   
   const pages = await Promise.all(fileNames.map(async (fileName) => {
-    if (!fileName.endsWith('.md')) return null;
-    const slug = fileName.replace(/\.md$/, '').replace(/\s+/g, '-');
+    const isAm = fileName.endsWith('.am.md');
+    const isSw = fileName.endsWith('.sw.md');
+    const isShi = fileName.endsWith('.shi.md');
+    const isKab = fileName.endsWith('.kab.md');
+    const isTmh = fileName.endsWith('.tmh.md');
+    const isMas = fileName.endsWith('.mas.md');
+    let fileLang = 'ar';
+    if (isAm) fileLang = 'am';
+    else if (isSw) fileLang = 'sw';
+    else if (isShi) fileLang = 'shi';
+    else if (isKab) fileLang = 'kab';
+    else if (isTmh) fileLang = 'tmh';
+    else if (isMas) fileLang = 'mas';
+    else if (fileName.endsWith('.md')) fileLang = 'ar';
+    else return null;
+
+    if (fileLang !== lang) return null;
+
+    let slug = fileName.replace(/\.md$/, '').replace(/\.(am|sw|shi|kab|tmh|mas)$/, '').replace(/\s+/g, '-');
     const fullPath = path.join(pagesDirectory, fileName);
     const fileContents = fs.readFileSync(fullPath, 'utf8');
 
@@ -150,7 +185,7 @@ export async function getPages(): Promise<BlogPage[]> {
   return pages.filter(Boolean) as BlogPage[];
 }
 
-export async function getPageBySlug(slug: string): Promise<BlogPage | null> {
-  const pages = await getPages();
+export async function getPageBySlug(slug: string, lang: string = 'ar'): Promise<BlogPage | null> {
+  const pages = await getPages(lang);
   return pages.find(page => page.slug === slug) || null;
 }

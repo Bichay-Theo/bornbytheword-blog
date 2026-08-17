@@ -1,0 +1,117 @@
+{
+  "Amharic_Reformed_Glossary": {
+    "Covenants_and_Law": [
+      {"english": "Covenant Theology", "arabic": "لاهوت العهود", "amharic": "የኪዳን ነገረ መለኮት"},
+      {"english": "Covenant of Works", "arabic": "عهد الأعمال", "amharic": "የሥራ ኪዳን"},
+      {"english": "Covenant of Grace", "arabic": "عهد النعمة", "amharic": "የጸጋ ኪዳን"},
+      {"english": "Covenant of Redemption", "arabic": "عهد الفداء", "amharic": "የቤዛነት ኪዳን"},
+      {"english": "Mosaic Covenant", "arabic": "العهد الموسوي", "amharic": "የሙሴ ኪዳን"},
+      {"english": "New Covenant", "arabic": "العهد الجديد", "amharic": "አዲስ ኪዳን"},
+      {"english": "Federal Headship", "arabic": "الرئاسة الفيدرالية", "amharic": "የኪዳን ራስነት (ወይም የውክልና ራስነት)"},
+      {"english": "Covenant Children", "arabic": "أطفال العهد", "amharic": "የኪዳን ልጆች"},
+      {"english": "Third Use of the Law", "arabic": "الاستخدام الثالث للناموس", "amharic": "ሦስተኛው የሕግ አጠቃቀም"},
+      {"english": "Antinomianism", "arabic": "اللاناموسية", "amharic": "ፀረ-ሕግነት"},
+      {"english": "Legalism", "arabic": "الشرعوية", "amharic": "ሕጋዊነት"}
+    ],
+    "Theology_Proper": [
+      {"english": "God", "arabic": "الله", "amharic": "እግዚአብሔር"},
+      {"english": "Trinity", "arabic": "الثالوث", "amharic": "ሥላሴ"},
+      {"english": "Father", "arabic": "الآب", "amharic": "አብ"},
+      {"english": "Son", "arabic": "الابن", "amharic": "ወልድ"},
+      {"english": "Holy Spirit", "arabic": "الروح القدس", "amharic": "መንፈስ ቅዱስ"},
+      {"english": "Only Begotten", "arabic": "الابن الوحيد", "amharic": "አንድያ ልጅ"},
+      {"english": "Eternity", "arabic": "الأزلية", "amharic": "ዘላለማዊነት"},
+      {"english": "Providence", "arabic": "العناية الإلهية", "amharic": "መለኮታዊ ጥበቃ"},
+      {"english": "Sovereignty", "arabic": "السيادة الإلهية", "amharic": "ሉዓላዊነት"},
+      {"english": "Omnipotence", "arabic": "القدرة المطلقة", "amharic": "ሁሉን ቻይነት"},
+      {"english": "Omniscience", "arabic": "العلم المطلق", "amharic": "ሁሉን አዋቂነት"},
+      {"english": "Omnipresence", "arabic": "الحضور المطلق", "amharic": "በሁሉ ስፍራ መገኘት"},
+      {"english": "Image of God", "arabic": "صورة الله", "amharic": "የእግዚአብሔር መልክ"},
+      {"english": "Decree of God", "arabic": "مراسيم الله", "amharic": "የእግዚአብሔር ድንጋጌ (ወይም ውሳኔ)"},
+      {"english": "Decretal Theology", "arabic": "لاهوت المراسيم", "amharic": "የድንጋጌ ነገረ መለኮት"},
+      {"english": "Soli Deo Gloria", "arabic": "لمجد الله وحده", "amharic": "ክብር ለእግዚአብሔር ብቻ ይሁን"}
+    ],
+    "Christology": [
+      {"english": "Incarnation", "arabic": "التجسد", "amharic": "ሥጋዌ (ሥጋ መሆን)"},
+      {"english": "Hypostatic Union", "arabic": "الاتحاد الأقنومي", "amharic": "አካላዊ ተዋሕዶ"},
+      {"english": "Virgin Birth", "arabic": "الميلاد العذراوي", "amharic": "ከድንግል መወለድ"},
+      {"english": "Emmanuel", "arabic": "عمانوئيل", "amharic": "አማኑኤል"},
+      {"english": "Solus Christus", "arabic": "المسيح وحده", "amharic": "ክርስቶስ ብቻ"},
+      {"english": "Active Obedience of Christ", "arabic": "الطاعة الفعّالة للمسيح", "amharic": "የክርስቶስ ንቁ መታዘዝ"},
+      {"english": "Passive Obedience of Christ", "arabic": "الطاعة السلبية للمسيح", "amharic": "የክርስቶስ ተገዢ መታዘዝ (መከራን መቀበል)"},
+      {"english": "Substitutionary Atonement", "arabic": "الكفارة البدلية", "amharic": "የውክልና ስርየት"},
+      {"english": "Penal Substitution", "arabic": "الفداء الجزائي", "amharic": "የውክልና ቅጣት ስርየት"},
+      {"english": "Second Coming", "arabic": "المجيء الثاني", "amharic": "ዳግም ምጽዓት"},
+      {"english": "Resurrection", "arabic": "القيامة", "amharic": "ትንሣኤ"}
+    ],
+    "Salvation_TULIP": [
+      {"english": "Total Depravity", "arabic": "الفساد الكلي", "amharic": "ፍጹም ብልሹነት"},
+      {"english": "Unconditional Election", "arabic": "الاختيار غير المشروط", "amharic": "ቅድመ-ሁኔታ የሌለው ምርጫ"},
+      {"english": "Limited Atonement", "arabic": "الكفارة المحدودة", "amharic": "የተወሰነ ስርየት"},
+      {"english": "Irresistible Grace", "arabic": "النعمة الفعّالة", "amharic": "የማይቋቋሙት ጸጋ (ወይም ውጤታማ ጸጋ)"},
+      {"english": "Perseverance of the Saints", "arabic": "ثبات القديسين", "amharic": "የቅዱሳን ጽናት"}
+    ],
+    "Soteriology": [
+      {"english": "Predestination", "arabic": "الاختيار المسبق", "amharic": "ቅድመ ውሳኔ"},
+      {"english": "Foreordination", "arabic": "التقدير المسبق", "amharic": "ቅድመ ድንጋጌ"},
+      {"english": "Double Predestination", "arabic": "الاختيار المزدوج", "amharic": "ድርብ ቅድመ ውሳኔ"},
+      {"english": "Reprobation", "arabic": "الرفض", "amharic": "መጣል (ውድቅ ማድረግ)"},
+      {"english": "Effectual Calling", "arabic": "الدعوة الفعّالة", "amharic": "ውጤታማ ጥሪ"},
+      {"english": "Regeneration", "arabic": "التجديد", "amharic": "ዳግም ልደት (አዲስ ልደት)"},
+      {"english": "Conversion", "arabic": "الاهتداء", "amharic": "መመለስ (ንስሐና እምነት)"},
+      {"english": "Justification", "arabic": "التبرير", "amharic": "መጽደቅ"},
+      {"english": "Imputed Righteousness", "arabic": "احتساب البر", "amharic": "ጽድቅን መቁጠር"},
+      {"english": "Imputed Sin", "arabic": "احتساب الخطية", "amharic": "ኃጢአትን መቁጠር"},
+      {"english": "Original Sin", "arabic": "الخطية الأصلية", "amharic": "የውርስ ኃጢአት (የመጀመሪያ ኃጢአት)"},
+      {"english": "Bondage of the Will", "arabic": "عبودية الإرادة", "amharic": "የፈቃድ ባርነት"},
+      {"english": "Sola Fide", "arabic": "الإيمان وحده", "amharic": "በእምነት ብቻ"},
+      {"english": "Sola Gratia", "arabic": "النعمة وحدها", "amharic": "በጸጋ ብቻ"},
+      {"english": "Adoption", "arabic": "التبني", "amharic": "የልጅነት መንፈስ (ጉዲፈቻ)"},
+      {"english": "Sanctification", "arabic": "التقديس", "amharic": "መቀደስ"},
+      {"english": "Glorification", "arabic": "التمجيد", "amharic": "መክበር"},
+      {"english": "Ordo Salutis", "arabic": "ترتيب الخلاص", "amharic": "የድነት ቅደም ተከተል"},
+      {"english": "Union with Christ", "arabic": "الاتحاد بالمسيح", "amharic": "ከክርስቶስ ጋር መተባበር"},
+      {"english": "Assurance of Salvation", "arabic": "ثقة الخلاص", "amharic": "የድነት ማረጋገጫ"},
+      {"english": "Eternal Justification", "arabic": "التبرير الأزلي", "amharic": "ዘላለማዊ መጽደቅ"},
+      {"english": "Supralapsarianism", "arabic": "الفوق-سقوطية", "amharic": "ከውድቀት በፊት (ሱፕራላፕሳሪያኒዝም)"},
+      {"english": "Infralapsarianism", "arabic": "التحت-سقوطية", "amharic": "ከውድቀት በኋላ (ኢንፍራላፕሳሪያኒዝም)"},
+      {"english": "Lordship Salvation", "arabic": "خلاص الربوبية", "amharic": "የጌትነት ድነት"},
+      {"english": "Free Offer of the Gospel", "arabic": "العرض الحر للإنجيل", "amharic": "ነፃ የወንጌል ጥሪ"},
+      {"english": "Common Grace", "arabic": "النعمة المشتركة", "amharic": "የጋራ ጸጋ"}
+    ],
+    "Ecclesiology": [
+      {"english": "Visible Church", "arabic": "الكنيسة المنظورة", "amharic": "የምትታየው ቤተክርስቲያን"},
+      {"english": "Invisible Church", "arabic": "الكنيسة غير المنظورة", "amharic": "የማትታየው ቤተክርስቲያን"},
+      {"english": "Regulative Principle", "arabic": "مبدأ تنظيم العبادة", "amharic": "የአምልኮ መመሪያ መርህ"},
+      {"english": "Sacraments", "arabic": "الأسرار", "amharic": "ሥርዓተ ቤተክርስቲያን (ምሥጢራት)"},
+      {"english": "Baptism", "arabic": "المعمودية", "amharic": "ጥምቀት"},
+      {"english": "Paedobaptism", "arabic": "معمودية الأطفال", "amharic": "የሕፃናት ጥምቀት"},
+      {"english": "Credobaptism", "arabic": "معمودية المؤمنين", "amharic": "የአማኞች ጥምቀት"},
+      {"english": "Lord's Supper", "arabic": "عشاء الرب", "amharic": "የጌታ እራት"},
+      {"english": "Means of Grace", "arabic": "وسائط النعمة", "amharic": "የጸጋ መንገዶች"}
+    ],
+    "Scripture": [
+      {"english": "Sola Scriptura", "arabic": "الكتاب المقدس وحده", "amharic": "ቅዱስ ቃሉ ብቻ (መጽሐፍ ቅዱስ ብቻ)"},
+      {"english": "Inspiration", "arabic": "الإلهام", "amharic": "እስትንፋሰ እግዚአብሔር (መንፈስ አነሳሽነት)"},
+      {"english": "Inerrancy", "arabic": "العصمة", "amharic": "ስህተት አልባነት"},
+      {"english": "Sufficiency of Scripture", "arabic": "كفاية الكتاب المقدس", "amharic": "የመጽሐፍ ቅዱስ በቂነት"}
+    ],
+    "Puritanism": [
+      {"english": "Experimental Religion", "arabic": "الدين التجريبي", "amharic": "የሕይወት ልምምድ ሃይማኖት"},
+      {"english": "Heart Religion", "arabic": "دين القلب", "amharic": "የልብ ሃይማኖት"},
+      {"english": "Spiritual Desertion", "arabic": "الانفصال الروحي", "amharic": "መንፈሳዊ መተው (መንፈሳዊ መራቅ)"},
+      {"english": "Dark Night of the Soul", "arabic": "ليلة الروح المظلمة", "amharic": "የነፍስ ጨለማ ሌሊት"},
+      {"english": "Soul Trouble", "arabic": "اضطراب النفس", "amharic": "የነፍስ ጭንቀት"},
+      {"english": "Closing with Christ", "arabic": "الانغلاق بالمسيح", "amharic": "ከክርስቶስ ጋር መጣበቅ"},
+      {"english": "Sweetness of Christ", "arabic": "حلاوة المسيح", "amharic": "የክርስቶስ ጣዕም (የክርስቶስ ውበት)"},
+      {"english": "Mortification of Sin", "arabic": "إماتة الخطية", "amharic": "ኃጢአትን መግደል (የሥጋን ሥራ መግደል)"},
+      {"english": "Vivification", "arabic": "إحياء الروح", "amharic": "መንፈሳዊ ሕይወትን ማነቃቃት"},
+      {"english": "Holy Violence", "arabic": "العنف المقدس", "amharic": "ቅዱስ ዓመፅ (መንፈሳዊ ትጋት)"},
+      {"english": "Duty of Self-Denial", "arabic": "واجب إنكار الذات", "amharic": "ራስን የመካድ ግዴታ"}
+    ],
+    "Eschatology": [
+      {"english": "Final Judgment", "arabic": "الدينونة الأخيرة", "amharic": "የመጨረሻው ፍርድ"},
+      {"english": "New Creation", "arabic": "الخليقة الجديدة", "amharic": "አዲስ ፍጥረት"}
+    ]
+  }
+}

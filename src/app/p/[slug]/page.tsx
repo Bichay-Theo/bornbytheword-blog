@@ -2,6 +2,7 @@ import { getPageBySlug, getPages } from '@/lib/blogger';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import MarkdownLayout from '@/components/MarkdownLayout';
+import Sidebar from '@/components/Sidebar';
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
@@ -41,11 +42,18 @@ export default async function StaticPage({ params }: { params: Promise<{ slug: s
   }
 
   return (
-    <MarkdownLayout 
-      content={page.content} 
-      tocTitle="محتويات الكتاب"
-      showToc={false}
-    />
+    <div className="layout-container">
+      <aside className="layout-sidebar">
+        <Sidebar lang="ar" />
+      </aside>
+      <main className="layout-main">
+        <MarkdownLayout 
+          content={page.content} 
+          tocTitle="محتويات الكتاب"
+          showToc={false}
+        />
+      </main>
+    </div>
   );
 }
 

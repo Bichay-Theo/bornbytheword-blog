@@ -2,6 +2,7 @@ import { getPostBySlug, getPosts } from '@/lib/blogger';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import MarkdownLayout from '@/components/MarkdownLayout';
+import Sidebar from '@/components/Sidebar';
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
@@ -67,13 +68,21 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   });
 
   return (
-    <MarkdownLayout 
-      title={post.title} 
-      date={dateStr} 
-      content={post.content} 
-      tocTitle="محتويات المقال" 
-      relatedPosts={relatedPosts}
-    />
+    <div className="layout-container">
+      <aside className="layout-sidebar">
+        <Sidebar lang="ar" />
+      </aside>
+      <main className="layout-main">
+        <MarkdownLayout 
+          title={post.title} 
+          date={dateStr} 
+          content={post.content} 
+          tocTitle="محتويات المقال" 
+          relatedPosts={relatedPosts}
+          slug={post.slug}
+        />
+      </main>
+    </div>
   );
 }
 

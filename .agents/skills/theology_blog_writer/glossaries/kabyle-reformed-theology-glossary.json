@@ -1,0 +1,580 @@
+{
+  "Kabyle_Reformed_Glossary": {
+    "Covenants_and_Law": [
+      {
+        "english": "Covenant Theology",
+        "arabic": "لاهوت العهود",
+        "kabyle": "Tasnillawit n Lɛahd",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Covenant of Works",
+        "arabic": "عهد الأعمال",
+        "kabyle": "Lɛahd n Lecɣal",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Covenant of Grace",
+        "arabic": "عهد النعمة",
+        "kabyle": "Lɛahd n Tmella",
+        "notes": "تم تصحيحها من 'Lɛahd n Ṛṛeḥma'. لفظة 'Tmella' الأمازيغية تعبر عن النعمة السيادية المجانية والكاملة، متجنبة الحمولة الناموسية لـ 'Ṛṛeḥma' المعربة."
+      },
+      {
+        "english": "Covenant of Redemption",
+        "arabic": "عهد الفداء",
+        "kabyle": "Lɛahd n Ufdu",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Mosaic Covenant",
+        "arabic": "العهد الموسوي",
+        "kabyle": "Lɛahd n Musa",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "New Covenant",
+        "arabic": "العهد الجديد",
+        "kabyle": "Lɛahd Ajdid",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Federal Headship",
+        "arabic": "الرئاسة الفيدرالية",
+        "kabyle": "Uqerru n Lɛahd",
+        "notes": "صحيح ويعني حرفياً 'رأس العهد'."
+      },
+      {
+        "english": "Covenant Children",
+        "arabic": "أطفال العهد",
+        "kabyle": "Arrac n Lɛahd",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Third Use of the Law",
+        "arabic": "الاستخدام الثالث للناموس",
+        "kabyle": "Aseqdec wis tlata n Lqanun",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Antinomianism",
+        "arabic": "اللاناموسية",
+        "kabyle": "Aɛdaw n Lqanun",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Legalism",
+        "arabic": "الشرعوية",
+        "kabyle": "Atebeɛ n Lqanun s lḥerf",
+        "notes": "صحيح ويعبر عن الاتباع الحرفي للناموس."
+      }
+    ],
+    "Theology_Proper": [
+      {
+        "english": "God",
+        "arabic": "الله",
+        "kabyle": "Sidi Ṛebbi / Illu",
+        "notes": "تم تفعيل 'Sidi Ṛebbi / Illu' بدلاً من 'Ṛebbi' المجردة لبناء هوية إيمانية مسيحية متمايزة عن المحيط الناموسي، كما أن 'Illu' لفظة أمازيغية قديمة تفيد الإله."
+      },
+      {
+        "english": "Trinity",
+        "arabic": "الثالوث",
+        "kabyle": "Tlata deg yiwen",
+        "notes": "تم الاستغناء عن المقترض الفرنسي 'Trinité' وتثبيت المصطلح اللاهوتي القبائلي الصرف 'Tlata deg yiwen' (ثلاثة في واحد)."
+      },
+      {
+        "english": "Father",
+        "arabic": "الآب",
+        "kabyle": "Ababat",
+        "notes": "تم تصحيحها من 'Baba Ṛebbi'. لفظة 'Ababat' صيغة فيلولوجية مكثفة تعبر عن الأبوة الإلهية الحانية والسيادية، متجاوزة الاستخدام العائلي لكلمة 'Baba'."
+      },
+      {
+        "english": "Son",
+        "arabic": "الابن",
+        "kabyle": "Mmi-s",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Holy Spirit",
+        "arabic": "الروح القدس",
+        "kabyle": "Ṛṛuḥ Iqedsen",
+        "notes": "صحيح ومعياري ويحافظ على الطابع الأقنومي للروح القدس."
+      },
+      {
+        "english": "Only Begotten",
+        "arabic": "الابن الوحيد",
+        "kabyle": "Mmi-s awḥid",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Eternity",
+        "arabic": "الأزلية",
+        "kabyle": "Lebda (Ldawam)",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Providence",
+        "arabic": "العناية الإلهية",
+        "kabyle": "Aḥader n Ṛebbi",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Sovereignty",
+        "arabic": "السيادة الإلهية",
+        "kabyle": "Lḥekma n Ṛebbi / Leḥkem n Sidi Ṛebbi",
+        "notes": "تم تعزيزها بإضافة 'Leḥkem n Sidi Ṛebbi' لتأكيد سلطانه وحكومته السيادية المطلقة على التاريخ والخليقة."
+      },
+      {
+        "english": "Omnipotence",
+        "arabic": "القدرة المطلقة",
+        "kabyle": "Tazmert ɣef kulci (Anezmer)",
+        "notes": "تم دمج 'Anezmer' (القدير) كصفة تطلق على الإله القدير صاحب السلطان والقدرة المطلقة."
+      },
+      {
+        "english": "Omniscience",
+        "arabic": "العلم المطلق",
+        "kabyle": "Tamusni n kulci",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Omnipresence",
+        "arabic": "الحضور المطلق",
+        "kabyle": "Tilin deg mkul amkan",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Image of God",
+        "arabic": "صورة الله",
+        "kabyle": "Lmeṣnaɛ n Ṛebbi",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Decree of God",
+        "arabic": "مراسيم الله",
+        "kabyle": "Lqesd n Ṛebbi",
+        "notes": "صحيح ويعبر لاهوتياً عن مشيئة الله ومقاصده الأزلية."
+      },
+      {
+        "english": "Decretal Theology",
+        "arabic": "لاهوت المراسيم",
+        "kabyle": "Tasnillawit n Lqesd",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Soli Deo Gloria",
+        "arabic": "لمجد الله وحده",
+        "kabyle": "Tamanegt i Sidi Ṛebbi kan",
+        "notes": "معياري دقيق."
+      }
+    ],
+    "Christology": [
+      {
+        "english": "Incarnation",
+        "arabic": "التجسد",
+        "kabyle": "Tuɣalin d amdan (Tuɣalin d aksum)",
+        "notes": "صحيح ويعني حرفياً الصيرورة إنساناً أو جسداً."
+      },
+      {
+        "english": "Hypostatic Union",
+        "arabic": "الاتحاد الأقنومي",
+        "kabyle": "Ddukel n sin igamiyen",
+        "notes": "صحيح ومعياري ويعني اتحاد الطبيعتين."
+      },
+      {
+        "english": "Virgin Birth",
+        "arabic": "الميلاد العذراوي",
+        "kabyle": "Talalit sɣur taɛzrit (deg ɛbbuḍ t ɛzrit Maryem)",
+        "notes": "دمج الصيغتين المعتمدتين لاهوتياً وقانونياً."
+      },
+      {
+        "english": "Emmanuel",
+        "arabic": "عمانوئيل",
+        "kabyle": "Amanuyl (Ṛebbi yid-neɣ)",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Solus Christus",
+        "arabic": "المسيح وحده",
+        "kabyle": "Lmasiḥ kan",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Active Obedience of Christ",
+        "arabic": "الطاعة الفعّالة للمسيح",
+        "kabyle": "Aṭuɛ n Lmasiḥ s lfeɛl",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Passive Obedience of Christ",
+        "arabic": "الطاعة السلبية للمسيح",
+        "kabyle": "Aṭuɛ n Lmasiḥ deg leɛtab",
+        "notes": "صحيح ويعني طاعته في احتماله الآلام."
+      },
+      {
+        "english": "Substitutionary Atonement",
+        "arabic": "الكفارة البدلية",
+        "kabyle": "Asebbel deg wemkan-nneɣ",
+        "notes": "تم تصحيحها من 'Asfel n Ufdu'. مصطلح 'Asebbel' هو الاصطلاح الفيلولوجي واللاهوتي الأصيل للبذل والتضحية الاستبدالية الكاملة بالذات لفداء الآخرين، بينما 'Asfel' ذو دلالة وثنية و 'Afdu' معرب."
+      },
+      {
+        "english": "Penal Substitution",
+        "arabic": "الفداء الجزائي",
+        "kabyle": "Asebbel n lɛiqab deg wemkan-nneɣ",
+        "notes": "تم تصحيحها اتساقاً مع مصطلح 'Asebbel' الكفاري، ليعني حمل العقوبة بالنيابة الكاملة."
+      },
+      {
+        "english": "Second Coming",
+        "arabic": "المجيء الثاني",
+        "kabyle": "Tuɣalin tis snat",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Resurrection",
+        "arabic": "القيامة",
+        "kabyle": "Ḥeggu n lmegtin",
+        "notes": "صحيح ومعياري ويعني إحياء الأموات."
+      }
+    ],
+    "Salvation_TULIP": [
+      {
+        "english": "Total Depravity",
+        "arabic": "الفساد الكلي",
+        "kabyle": "Axsar amatu (Lefsad n ddunit)",
+        "notes": "تم تصحيح الخطأ الإملائي 'Axsar amatut' إلى 'Axsar amatu' (عام/كلي)، مع تقديم 'Lefsad n ddunit' الذي يشير إلى الطبيعة الساقطة الكلية."
+      },
+      {
+        "english": "Unconditional Election",
+        "arabic": "الاختيار غير المشروط",
+        "kabyle": "Axtiri n zik war ccuṛuḍ",
+        "notes": "تم تعزيزها بـ 'n zik' (الأزلي/السابق للزمن) للدلالة على الاختيار الإلهي الأزلي المستقل عن الشروط البشرية."
+      },
+      {
+        "english": "Limited Atonement",
+        "arabic": "الكفارة المحدودة",
+        "kabyle": "Asebbel s wuzal n ddem-is iqedsen (i wid yettwaxtaṛen kan)",
+        "notes": "تم تصحيحها من 'Asfel yettwagedlen'. لاهوتياً، 'الكفارة المحدودة' أو 'الفداء الخاص' يُصاغ بالقبائلية بالارتكاز على القيمة المطلقة والفعالة للدم الثمين المسكوب للمختارين فقط (fully paid s wuzal n ddem-is iqedsen)."
+      },
+      {
+        "english": "Irresistible Grace",
+        "arabic": "النعمة الفعّالة",
+        "kabyle": "Tmella ur netteḥbas",
+        "notes": "تم تصحيحها من 'Ṛṛeḥma ur netteḥbas'. استخدام اللفظ الأمازيغي الأصيل 'Tmella' يمنع تداخل اللاهوت الناموسي لـ 'الرحمة' المعربة ويشير إلى نعمة الله السيادية الجاذبة والفعالة بالكامل."
+      },
+      {
+        "english": "Perseverance of the Saints",
+        "arabic": "ثبات القديسين",
+        "kabyle": "Lḥerz n imqedsen",
+        "notes": "صحيح ويعني الحفظ الإلهي الفعال للمقدسين ضد الارتداد النهائي."
+      }
+    ],
+    "Soteriology": [
+      {
+        "english": "Predestination",
+        "arabic": "الاختيار المسبق",
+        "kabyle": "Aheggi n zik (Sovereign Election: Win i gextaṛ seg tazwara)",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Foreordination",
+        "arabic": "التقدير المسبق",
+        "kabyle": "Aheggi uqbel",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Double Predestination",
+        "arabic": "الاختيار المزدوج",
+        "kabyle": "Aheggi n zik snat tikwal",
+        "notes": "صحيح ويشير إلى قضاء الله الثنائي للاختيار والرفض."
+      },
+      {
+        "english": "Reprobation",
+        "arabic": "الرفض",
+        "kabyle": "Agi n wid ur nettwaxtaṛ ara",
+        "notes": "صحيح ويعني عدم اختيار غير المختارين وتركهم لعدالة الله."
+      },
+      {
+        "english": "Effectual Calling",
+        "arabic": "الدعوة الفعّالة",
+        "kabyle": "Ssiwel yesɛan lfeɛl (Tiɣri yesɛan lfeɛl)",
+        "notes": "تم دمج 'Ssiwel' (النداء/الاستدعاء) كمعادل أدقيق للاستدعاء الباطني الفعال للروح القدس."
+      },
+      {
+        "english": "Regeneration",
+        "arabic": "التجديد",
+        "kabyle": "Talalit tajdit (Talalit si Ṛṛuḥ)",
+        "notes": "تم تعزيزها بـ 'الولادة من الروح' لبيان البعد السيادي الأحادي للتجديد."
+      },
+      {
+        "english": "Conversion",
+        "arabic": "الاهتداء",
+        "kabyle": "Tanebdalt n wul (Tuɣalin ɣer Ṛebbi)",
+        "notes": "صحيح ويعبر عن تغيير القلب الكلي والرجوع الفعلي للرب."
+      },
+      {
+        "english": "Justification",
+        "arabic": "التبرير",
+        "kabyle": "Uzki / Zeki (Aḥsab d aḥeqqi)",
+        "notes": "تم تعديلها بتقديم 'Uzki / Zeki' (التزكية القضائية وإعلان البراءة الشرعية) على 'Aḥsab d aḥeqqi' للتأكيد على الطابع الشرعي الخارجي للتبرير (Forensic Justification)."
+      },
+      {
+        "english": "Imputed Righteousness",
+        "arabic": "احتساب البر",
+        "kabyle": "Aḥsab n lḥeqq n Lmasiḥ i wemdan",
+        "notes": "صحيح ودقيق جداً لاهوتياً (نسب بر المسيح)."
+      },
+      {
+        "english": "Imputed Sin",
+        "arabic": "احتساب الخطية",
+        "kabyle": "Aḥsab n lxeṭya i Lmasiḥ",
+        "notes": "صحيح ودقيق (نسب خطايانا للمسيح على الصليب)."
+      },
+      {
+        "english": "Original Sin",
+        "arabic": "الخطية الأصلية",
+        "kabyle": "Ddnub amezwaru",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Bondage of the Will",
+        "arabic": "عبودية الإرادة",
+        "kabyle": "Takmamt n lebɣi (Akraf n lebɣi)",
+        "notes": "صحيح ويعني حرفياً كمام أو كبح الإرادة عن فعل أي خير روحي."
+      },
+      {
+        "english": "Sola Fide",
+        "arabic": "الإيمان وحده",
+        "kabyle": "Lettkal n tideț kan",
+        "notes": "تم تصحيحها من 'Liman kan'. 'Liman' المعرب يرتبط ناموسياً بالاستحقاق البشري، بينما 'Lettkal n tideț' (الاتكال الصادق والارتكاز الكلي) يعبر بدقة عن طبيعة الإيمان المخلص الخالي من الاستحقاق الذاتي."
+      },
+      {
+        "english": "Sola Gratia",
+        "arabic": "النعمة وحدها",
+        "kabyle": "Tmella kan",
+        "notes": "تم تصحيحها من 'Ṛṛeḥma kan' لنفس السبب اللغوي واللاهوتي المتعلق بنقاء الدلالة."
+      },
+      {
+        "english": "Adoption",
+        "arabic": "التبني",
+        "kabyle": "Tuɣalin d arrac n Sidi Ṛebbi",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Sanctification",
+        "arabic": "التقديس",
+        "kabyle": "Taqedsit",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Glorification",
+        "arabic": "التمجيد",
+        "kabyle": "Tamanegt",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Ordo Salutis",
+        "arabic": "ترتيب الخلاص",
+        "kabyle": "Amezdi n leslak",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Union with Christ",
+        "arabic": "الاتحاد بالمسيح",
+        "kabyle": "Ddukel akk d Lmasiḥ",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Assurance of Salvation",
+        "arabic": "ثقة الخلاص",
+        "kabyle": "Ḍḍman n leslak (Lettkal n tudert)",
+        "notes": "دمج التعبيرين لضمان اليقين والارتكاز القلبي."
+      },
+      {
+        "english": "Eternal Justification",
+        "arabic": "التبرير الأزلي",
+        "kabyle": "Uzki n lebda (Aḥsab d aḥeqqi i lebda)",
+        "notes": "تم تصحيحها تماشياً مع مصطلح 'Uzki'."
+      },
+      {
+        "english": "Lordship Salvation",
+        "arabic": "خلاص الربوبية",
+        "kabyle": "Leslak s Lḥekma n Sidi Lmasiḥ",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Free Offer of the Gospel",
+        "arabic": "العرض الحر للإنجيل",
+        "kabyle": "Abeccer n Lexbar n Lxiṛ baṭel i medden akk",
+        "notes": "تمت صياغتها بعبارة تعبر بدقة عن البشارة المجانية بالخلاص لجميع الأمم دون تمييز."
+      },
+      {
+        "english": "Common Grace",
+        "arabic": "النعمة المشتركة",
+        "kabyle": "Tmella tamatut",
+        "notes": "تم تصحيحها من 'Ṛṛeḥma tamatut' باستخدام اللفظ الأمازيغي الأصيل للنعمة."
+      }
+    ],
+    "Ecclesiology": [
+      {
+        "english": "Visible Church",
+        "arabic": "الكنيسة المنظورة",
+        "kabyle": "Tajmaɛt yettwalin (Taglizt yettwalin)",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Invisible Church",
+        "arabic": "الكنيسة غير المنظورة",
+        "kabyle": "Taglizt ur nettwali ara",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Regulative Principle",
+        "arabic": "مبدأ تنظيم العبادة",
+        "kabyle": "Lqanun n leɛbada",
+        "notes": "صحيح ومعياري ويقصد به قانون العبادة المصلح."
+      },
+      {
+        "english": "Sacraments",
+        "arabic": "الأسرار",
+        "kabyle": "Iserruyen iqedsen (Leɛwayed iqedsen)",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Baptism",
+        "arabic": "المعمودية",
+        "kabyle": "Aɣḍas",
+        "notes": "صحيح ومعياري ويعني التغطيس/الصبغ."
+      },
+      {
+        "english": "Paedobaptism",
+        "arabic": "معمودية الأطفال",
+        "kabyle": "Aɣḍas n warrac imecṭaḥ",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Credobaptism",
+        "arabic": "معمودية المؤمنين",
+        "kabyle": "Aɣḍas n wid yumnen",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Lord's Supper",
+        "arabic": "عشاء الرب",
+        "kabyle": "Imensi n Sidi (Imensi n Ṛebbi)",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Means of Grace",
+        "arabic": "وسائط النعمة",
+        "kabyle": "Iberdan n Tmella",
+        "notes": "تم تصحيحها من 'Iberdan n Ṛṛeḥma' باستخدام لفظ 'Tmella' الأمازيغي للنعمة السيادية."
+      }
+    ],
+    "Scripture": [
+      {
+        "english": "Sola Scriptura",
+        "arabic": "الكتاب المقدس وحده",
+        "kabyle": "Tira Iqedsen kan",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Inspiration",
+        "arabic": "الإلهام",
+        "kabyle": "Aweḥḥi n Ṛṛuḥ Iqedsen",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Inerrancy",
+        "arabic": "العصمة",
+        "kabyle": "Ur nesɛi ara lɣelṭat",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Sufficiency of Scripture",
+        "arabic": "كفاية الكتاب المقدس",
+        "kabyle": "Tira Iqedsen teččuṛ (tqadd)",
+        "notes": "صحيح ومعياري."
+      }
+    ],
+    "Puritanism": [
+      {
+        "english": "Experimental Religion",
+        "arabic": "الدين التجريبي",
+        "kabyle": "Ddin n tejṛiba",
+        "notes": "صحيح ويعني دين التقوى الاختبارية."
+      },
+      {
+        "english": "Heart Religion",
+        "arabic": "دين القلب",
+        "kabyle": "Ddin n wul",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Spiritual Desertion",
+        "arabic": "الانفصال الروحي",
+        "kabyle": "Abeɛɛed n Ṛṛuḥ",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Dark Night of the Soul",
+        "arabic": "ليلة الروح المظلمة",
+        "kabyle": "Iḍ aberkan n ṛṛuḥ",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Soul Trouble",
+        "arabic": "اضطراب النفس",
+        "kabyle": "Aḥeyyer n ṛṛuḥ",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Closing with Christ",
+        "arabic": "الانغلاق بالمسيح",
+        "kabyle": "Aṭṭef deg Lmasiḥ (Amezdi s Lmasiḥ)",
+        "notes": "تم تعزيزها بـ 'Aṭṭef' (التمسك والالتصاق القلبي بالمسيح)."
+      },
+      {
+        "english": "Sweetness of Christ",
+        "arabic": "حلاوة المسيح",
+        "kabyle": "Tizḍt n Lmasiḥ (Ẓid n Lmasiḥ)",
+        "notes": "تم تصحيح الخطأ المطبعي واللغوي الفادح 'Zzḍid' إلى 'Tizḍt' (أو 'Ẓid') التي تعني العذوبة والحلاوة الفعلية."
+      },
+      {
+        "english": "Mortification of Sin",
+        "arabic": "إماتة الخطية",
+        "kabyle": "Asmettan n lxeṭya (Amettan n ddnub)",
+        "notes": "تم تصحيح الخطأ اللاهوتي واللغوي الكارثي 'Timɣiwt n lxeṭya'. فكلمة 'Timɣiwt' تعني النمو والإنبات (من الفعل mɣi) وهو نقيض الإماتة والصلب الكالفيني للخطية! تم استبدالها بـ 'Asmettan' (الإماتة والصلب الفعلي للخطية)."
+      },
+      {
+        "english": "Vivification",
+        "arabic": "إحياء الروح",
+        "kabyle": "Aseḥyu n Ṛṛuḥ",
+        "notes": "صحيح ومعياري."
+      },
+      {
+        "english": "Holy Violence",
+        "arabic": "العنف المقدس",
+        "kabyle": "Lmejhud iqedsen (Aḥareb iqedsen)",
+        "notes": "تم تفضيل 'Lmejhud' (الجهاد/السعي الحثيث الروحي) لعدم تداخل اللفظ مع العنف المادي اليومي."
+      },
+      {
+        "english": "Duty of Self-Denial",
+        "arabic": "واجب إنكار الذات",
+        "kabyle": "Aweṣṣi n unkaṛ n yiman",
+        "notes": "صحيح ومعياري."
+      }
+    ],
+    "Eschatology": [
+      {
+        "english": "Final Judgment",
+        "arabic": "الدينونة الأخيرة",
+        "kabyle": "Lḥisab aneggaru",
+        "notes": "تم تصحيح الخطأ الإملائي 'anewgar' إلى 'aneggaru' (الأخير)."
+      },
+      {
+        "english": "New Creation",
+        "arabic": "الخليقة الجديدة",
+        "kabyle": "Lxelq ajdid (Akhalaq ajdid)",
+        "notes": "تمت صياغتها بـ 'Lxelq ajdid' بدلاً من اللفظة العربية المشوشة 'Axlaq' (والتي تعني مكارم الأخلاق Morals بالجمع العربي، وليس الخلق والخليقة)."
+      }
+    ]
+  }
+}

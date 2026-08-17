@@ -1,0 +1,85 @@
+import { Locale } from './config';
+
+export const dictionaries = {
+  ar: {
+    siteName: 'شاء فولدنا بكلمة الحق',
+    siteDescription: 'منصة لاهوتية تعتني بنشر كلمة الحق من خلال دراسات كتابية، وتأملات روحية، وترجمات لكتب لاهوتية',
+    home: 'الرئيسية',
+    posts: 'المقالات',
+    readMore: 'اقرأ المزيد',
+    publishedOn: 'نُشر في',
+    toc: 'محتويات المقال',
+    pageNotFound: 'الصفحة غير موجودة',
+    loading: 'جارٍ التحميل...',
+  },
+  am: {
+    siteName: 'በእውነት ቃል አስቦ ወለደን።', // Translated from James 1:18
+    siteDescription: 'በመጽሐፍ ቅዱስ ጥናቶች እና መንፈሳዊ ትምህርቶች የእውነትን ቃል የሚያሰራጭ የሥነ መለኮት መድረክ',
+    home: 'ዋና ገጽ',
+    posts: 'ጽሑፎች',
+    readMore: 'ተጨማሪ ያንብቡ',
+    publishedOn: 'የታተመው በ',
+    toc: 'የጽሑፉ ማውጫ',
+    pageNotFound: 'ገጹ አልተገኘም',
+    loading: 'በመጫን ላይ...',
+  },
+  sw: {
+    siteName: 'Kwa kupenda kwake mwenyewe alituzaa sisi kwa neno la kweli.',
+    siteDescription: 'Jukwaa la kitheolojia linalojali kueneza neno la kweli kupitia mafunzo ya Biblia na tafakari za kiroho.',
+    home: 'Mwanzo',
+    posts: 'Makala',
+    readMore: 'Soma zaidi',
+    publishedOn: 'Imechapishwa',
+    toc: 'Yaliyomo',
+    pageNotFound: 'Ukurasa haupatikani',
+    loading: 'Inapakia...',
+  },
+  shi: {
+    siteName: 'S lqesd n lebɣi-ns, iskr aɣ-d talalit tamaynut s wawal n tideț.',
+    siteDescription: 'Ansa atiyuluji lli ismussun s wawal n tidett',
+    home: 'Tigmi',
+    posts: 'Imgradn',
+    readMore: 'Ɣr uggar',
+    publishedOn: 'Iffuɣ ɣ',
+    toc: 'Umuɣ n umgrad',
+    pageNotFound: 'Tasna ur tlli',
+    loading: 'Ar itzgg...',
+  },
+  kab: {
+    siteName: 'S lqesd n lebɣi-s, i ɣ-d-yefka talalit tajdit s wawal n tideț.',
+    siteDescription: 'Asmel atiyuluji i iqeddcen ɣef usebded n wawal n tidet',
+    home: 'Axxam',
+    posts: 'Imagraden',
+    readMore: 'Ɣer ugar',
+    publishedOn: 'Yeffeɣ-d deg',
+    toc: 'Agbur',
+    pageNotFound: 'Asebter ur yettwaf ara',
+    loading: 'Yetteddu...',
+  },
+  tmh: {
+    siteName: 'S-lqesd n-lebɣi n-Măssinăɣ, ikf-anaɣ-d talalit taynayt s-awal n-tideṭ.',
+    siteDescription: 'Ansa atiyuluji lli ismussun s wawal n tidett',
+    home: 'Tigmi',
+    posts: 'Imgradn',
+    readMore: 'Ɣr uggar',
+    publishedOn: 'Iffuɣ ɣ',
+    toc: 'Umuɣ n umgrad',
+    pageNotFound: 'Tasna ur tlli',
+    loading: 'Ar itzgg...',
+  },
+  mas: {
+    siteName: 'Te nkaraki eyieunoto enye, etoiwuo Ninye iyiook to rorei loo sipat',
+    siteDescription: '[Maa Blog Description]',
+    home: 'Home',
+    posts: 'Articles',
+    readMore: 'Read More',
+    publishedOn: 'Published on',
+    toc: 'Table of Contents',
+    pageNotFound: 'Page not found',
+    loading: 'Loading...',
+  }
+};
+
+export function getDictionary(locale: Locale) {
+  return dictionaries[locale] || dictionaries.ar;
+}

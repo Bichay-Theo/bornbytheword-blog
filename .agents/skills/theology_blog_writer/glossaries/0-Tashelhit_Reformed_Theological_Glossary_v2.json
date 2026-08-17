@@ -1,0 +1,1028 @@
+[
+    {
+        "id": 1,
+        "category": "لاهوت المسيح (Christology)",
+        "english_term": "Active Obedience of Christ",
+        "arabic_term": "الطاعة الفعّالة للمسيح",
+        "current_tashelhit": "Aḍfaṛ n Lmasiḥ s lfeɛl",
+        "audited_tashelhit": "Aḍfaṛ n Lmasiḥ s lfeɛl",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 2,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Adoption",
+        "arabic_term": "التبني",
+        "current_tashelhit": "Aḥsab zun d tarwa n Yillu",
+        "audited_tashelhit": "Aḥsab zun d tarwa n Yakuc (أو n Ṛebbi)",
+        "analysis": "التبني الإلهي الشرعي الذي يمنح فيه الله للمبررين كل امتيازات البنوة الروحية في بيته وحمايته."
+    },
+    {
+        "id": 3,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Ages of Ages (Eternity Future)",
+        "arabic_term": "الدهور والخلود",
+        "current_tashelhit": "Lebda n lebda",
+        "audited_tashelhit": "Ibadn n ibadn (أو Labad n labad)",
+        "analysis": "صيغة لاهوتية تعبر عن الدهور والخلود اللانهائي لملك المسيح العهدي وسلطانه الفائق. مستوحاة من رنين العهد الجديد في تشلحيت في **العبرانيين ١: ٨**."
+    },
+    {
+        "id": 4,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Anathema (Accursed)",
+        "arabic_term": "أناثما / مفرز / ملعون",
+        "current_tashelhit": "Ad yili d amxlay",
+        "audited_tashelhit": "Amrgum (أو Ad yili d amxlay)",
+        "analysis": "القطع والفرز واللعنة القضائية والشرعية المطبقة على من يحرف إنجيل النعمة والبر المجاني. مستوحى من رنين **غلاطية ١: ٨**."
+    },
+    {
+        "id": 5,
+        "category": "لاهوت العهود والناموس (Covenants & Law)",
+        "english_term": "Antinomianism",
+        "arabic_term": "اللاناموسية",
+        "current_tashelhit": "Aga n Lqanun",
+        "audited_tashelhit": "Aga n Warratn imñlayn",
+        "analysis": "اللاناموسية أو رفض الناموس الأخلاقي كقاعدة لإرشاد حياة المؤمن العملية بعد تبريره بالنعمة."
+    },
+    {
+        "id": 6,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Assurance of Salvation",
+        "arabic_term": "ثقة الخلاص",
+        "current_tashelhit": "Aman (Ḍḍman) n leslak",
+        "audited_tashelhit": "Ḍḍman n leslak",
+        "analysis": "ثقة وضمان اليقين بالخلاص المبني على مواعيد الإنجيل الأكيدة وشهادة الروح الروحية بالتبني."
+    },
+    {
+        "id": 7,
+        "category": "لاهوت الكنيسة والأسرار (Ecclesiology)",
+        "english_term": "Baptism",
+        "arabic_term": "المعمودية",
+        "current_tashelhit": "Aɣḍas",
+        "audited_tashelhit": "Asird n Arkawal (أو Aɣḍas)",
+        "analysis": "استبدال 'Tamasdamt' (التغطيس) بـ 'Asird n Arkawal' (الغسل العهدي) للتوافق مع معمودية الأطفال العائلية المصلحة."
+    },
+    {
+        "id": 8,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Bondage of the Will",
+        "arabic_term": "عبودية الإرادة",
+        "current_tashelhit": "Tilit n lebɣi ɣ lḥebs",
+        "audited_tashelhit": "Tilit n lebɣi ɣ lḥebs",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 9,
+        "category": "التقوى التجريبية واللاهوت الروحي (Puritanism)",
+        "english_term": "Closing with Christ",
+        "arabic_term": "الانغلاق بالمسيح",
+        "current_tashelhit": "Aṭṭef ɣ Lmasiḥ",
+        "audited_tashelhit": "Aṭṭef ɣ Lmasiḥ",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 10,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Common Grace",
+        "arabic_term": "النعمة المشتركة",
+        "current_tashelhit": "Lfeḍl amutay",
+        "audited_tashelhit": "Lfeḍl amutay",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 11,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Conversion",
+        "arabic_term": "الاهتداء",
+        "current_tashelhit": "Tanebdalt n wul",
+        "audited_tashelhit": "Tanebdalt n wul",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 12,
+        "category": "لاهوت العهود والناموس (Covenants & Law)",
+        "english_term": "Covenant Children",
+        "arabic_term": "أطفال العهد",
+        "current_tashelhit": "Tarwa n Umtawa",
+        "audited_tashelhit": "Tarwa n Urkawal (أو Tarwa n Ukawal)",
+        "analysis": "أبناء العهد المفرزون كنسيًا الموعودون بوعود ميثاق النعمة مع عائلاتهم."
+    },
+    {
+        "id": 13,
+        "category": "لاهوت العهود والناموس (Covenants & Law)",
+        "english_term": "Covenant of Grace",
+        "arabic_term": "عهد النعمة",
+        "current_tashelhit": "Amtawa n Lfeḍl (Amtawa n Taḥninit)",
+        "audited_tashelhit": "Arkawal n Lfeḍl (أو Arkawal n Taḥninit)",
+        "analysis": "ميثاق النعمة الإلهي السيادي الخالص، المرتكز بالكامل على أمانة الله المطلقة وعمل المسيح النيابي."
+    },
+    {
+        "id": 14,
+        "category": "لاهوت العهود والناموس (Covenants & Law)",
+        "english_term": "Covenant of Redemption",
+        "arabic_term": "عهد الفداء",
+        "current_tashelhit": "Amtawa n Ufdu",
+        "audited_tashelhit": "Arkawal n Ufdu (أو Akawal n Ufdu)",
+        "analysis": "ميثاق الفداء الأزلي المبرم في الأزل بين أقانيم الثالوث القدوس لافتداء وخلاص المختارين."
+    },
+    {
+        "id": 15,
+        "category": "لاهوت العهود والناموس (Covenants & Law)",
+        "english_term": "Covenant of Works",
+        "arabic_term": "عهد الأعمال",
+        "current_tashelhit": "Amtawa n Twuriwin",
+        "audited_tashelhit": "Arkawal n Twuriwin (أو Akawal n Twuriwin)",
+        "analysis": "تأصيل العهد كميثاق سيادي غليظ أقامه الله مع آدم كممثل عهدي وفيدرالي للبشرية قبل السقوط."
+    },
+    {
+        "id": 16,
+        "category": "لاهوت العهود والناموس (Covenants & Law)",
+        "english_term": "Covenant Theology",
+        "arabic_term": "لاهوت العهود",
+        "current_tashelhit": "Tasnillawit n Umtawa",
+        "audited_tashelhit": "Tasnillawit n Urkawal (أو Tasnillawit n Ukawal)",
+        "analysis": "استبدال 'Umtawa' (التراضي ثنائي الأطراف) بـ 'Arkawal/Akawal' (القسم الغليظ والميثاق المصيري الملزم عرفيًا) يتوافق مع السيادة الإلهية والعهد الخلاصي الأحادي."
+    },
+    {
+        "id": 17,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Covenantal Discipline",
+        "arabic_term": "التأديب (الأبوي العهدي)",
+        "current_tashelhit": "Ttarbya n Sidi Ṛebbi / Asguri",
+        "audited_tashelhit": "Ttarbya n Urkawal n Rbbi (أو Asguri)",
+        "analysis": "التأديب الأبوي العهدي الموجه لحماية أبناء العهد تحت النعمة وتجنب إسقاطات العقاب الجنائي الانتقامي. مستوحى من رنين **العبرانيين ١٢: ٥**."
+    },
+    {
+        "id": 18,
+        "category": "لاهوت الكنيسة والأسرار (Ecclesiology)",
+        "english_term": "Credobaptism",
+        "arabic_term": "معمودية المؤمنين",
+        "current_tashelhit": "Aɣḍas n wid ifelsen",
+        "audited_tashelhit": "Asird n wid ifelsen n Arkawal",
+        "analysis": "معمودية البالغين المعترفين طوعاً بإيمانهم الفعلي بالعهد الجديد."
+    },
+    {
+        "id": 19,
+        "category": "التقوى التجريبية واللاهوت الروحي (Puritanism)",
+        "english_term": "Dark Night of the Soul",
+        "arabic_term": "ليلة الروح المظلمة",
+        "current_tashelhit": "Iḍ asggan n ṛṛuḥ",
+        "audited_tashelhit": "Iḍ asggan n ṛṛuḥ",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 20,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "Decree of God",
+        "arabic_term": "مراسيم الله",
+        "current_tashelhit": "Lqesd n Yillu",
+        "audited_tashelhit": "Lqesd n Yakuc (أو Lqesd n Ṛebbi)",
+        "analysis": "مراسيم الله وقصده الأزلي الذي رتب به كل ما يحدث في الكون لمجده وخطته الخلاصية الفائقة."
+    },
+    {
+        "id": 21,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "Decretal Theology",
+        "arabic_term": "لاهوت المراسيم",
+        "current_tashelhit": "Tasnillawit n Lqesd",
+        "audited_tashelhit": "Tasnillawit n Lqesd",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 22,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Double Predestination",
+        "arabic_term": "الاختيار المزدوج",
+        "current_tashelhit": "Aheggi n zik snat twal",
+        "audited_tashelhit": "Aheggi n zik snat twal",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 23,
+        "category": "التقوى التجريبية واللاهوت الروحي (Puritanism)",
+        "english_term": "Duty of Self-Denial",
+        "arabic_term": "واجب إنكار الذات",
+        "current_tashelhit": "Aweṣṣi n unkaṛ n yiman",
+        "audited_tashelhit": "Aweṣṣi n unkaṛ n yiman",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 24,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Effectual Calling",
+        "arabic_term": "الدعوة الفعّالة",
+        "current_tashelhit": "Tiɣri ismden",
+        "audited_tashelhit": "Tiɣri ismden",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 25,
+        "category": "لاهوت المسيح (Christology)",
+        "english_term": "Emmanuel",
+        "arabic_term": "عمانوئيل",
+        "current_tashelhit": "Amanuyl (Yillu d neɣ)",
+        "audited_tashelhit": "Amanuyl (Yakuc d neɣ) [أو (Ṛebbi d neɣ)]",
+        "analysis": "عمانوئيل (الله معنا) مع موائمة اللفظ الأمازيغي الأصيل للذات الإلهية الخالقة المتسامية."
+    },
+    {
+        "id": 26,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Eternal Justification",
+        "arabic_term": "التبرير الأزلي",
+        "current_tashelhit": "Aḥsab d uzref i bda",
+        "audited_tashelhit": "Asisg n Uġaras n Lḥqq i bda",
+        "analysis": "التبرير الأزلي النابع من قصد الله ومراسيمه الأزلية السيادية لتبرئة مختاريه قبل تأسيس الكون."
+    },
+    {
+        "id": 27,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Eternal Times (Eternity Past)",
+        "arabic_term": "الأزمنة الأزلية (الأزل)",
+        "current_tashelhit": "Si zik n zik",
+        "audited_tashelhit": "Zg zik n zik (أو Si zik n zik)",
+        "analysis": "صياغة جليلة تعبر عما قبل الدهور والزمان لتأكيد عقيدة الانتخاب الأزلي والتدبير الإلهي المسبق في الأزل. مستوحى من رنين **رومية ١٦: ٢٥**."
+    },
+    {
+        "id": 28,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "Eternity",
+        "arabic_term": "الأزلية",
+        "current_tashelhit": "Bda (Labadan)",
+        "audited_tashelhit": "Bda (Labadan)",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 29,
+        "category": "التقوى التجريبية واللاهوت الروحي (Puritanism)",
+        "english_term": "Experimental Religion",
+        "arabic_term": "الدين التجريبي",
+        "current_tashelhit": "Asgd n tirmit",
+        "audited_tashelhit": "Asgd n tirmit",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 30,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "Father",
+        "arabic_term": "الآب",
+        "current_tashelhit": "Babaneɣ",
+        "audited_tashelhit": "Babaneɣ",
+        "analysis": "الآب السماوي (حرفياً: أبونا). مصطلح عقائدي قويم ومستقر ومفهوم بعمق في لاهوت الأبوة الروحية."
+    },
+    {
+        "id": 31,
+        "category": "لاهوت العهود والناموس (Covenants & Law)",
+        "english_term": "Federal Headship",
+        "arabic_term": "الرئاسة الفيدرالية",
+        "current_tashelhit": "Uqerru n Umtawa",
+        "audited_tashelhit": "Uqerru n Urkawal (أو Uqerru n Ukawal)",
+        "analysis": "التمثيل العهدي الفيدرالي لآدم (في عهد الأعمال) والمسيح (في عهد النعمة) كرأسي تمثيل للبشرية."
+    },
+    {
+        "id": 32,
+        "category": "اللاهوت الأخروي (Eschatology)",
+        "english_term": "Final Judgment",
+        "arabic_term": "الدينونة الأخيرة",
+        "current_tashelhit": "Lḥisab ameggaru",
+        "audited_tashelhit": "Lḥisab ameggaru n Yakuc (أو n Ṛebbi)",
+        "analysis": "الدينونة الأخيرة العادلة التي ينفذها المسيح على جميع الكائنات لبيان عدل الله ومجده وحفظ كنيسته."
+    },
+    {
+        "id": 33,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Flesh (Ethical/Sinful Nature)",
+        "arabic_term": "الجسد / الطبيعة الساقطة",
+        "current_tashelhit": "Aksum (الجسد العضوي)",
+        "audited_tashelhit": "Amanun",
+        "analysis": "تجنب اللفظ المادي العضوي للبدن (Aksum) واستخدام اللفظ الأصيل للجسد كطبيعة ساقطة ومتمردة أخلاقياً في صراعها مع الروح القدس. مستوحى من رنين **رومية ٨: ٤**."
+    },
+    {
+        "id": 34,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Foreordination",
+        "arabic_term": "التقدير المسبق",
+        "current_tashelhit": "Aheggi qbel",
+        "audited_tashelhit": "Aheggi qbel",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 35,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Four Living Creatures",
+        "arabic_term": "المخلوقات الأربعة",
+        "current_tashelhit": "Kkuẓ n lxeleq imddrn",
+        "audited_tashelhit": "Kkuẓ lxeleq n tudert",
+        "analysis": "المخلوقات الأربعة الحية المحيطة بالعرش السماوي في سفر الرؤيا. يتجنب التعبير الدوني 'الحيوانات' ليرسخ صفتهم اللاهوتية كخلق سماوي حي وممجد. مستوحى من رنين **الرؤيا ٤: ٦**."
+    },
+    {
+        "id": 36,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Free Offer of the Gospel",
+        "arabic_term": "العرض الحر للإنجيل",
+        "current_tashelhit": "Tigri n Linjil i kuyan",
+        "audited_tashelhit": "Tigri n Linjil i kuyan",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 37,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Glorification",
+        "arabic_term": "التمجيد",
+        "current_tashelhit": "Tamanegt",
+        "audited_tashelhit": "Tamanegt",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 38,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Glorious Appearing",
+        "arabic_term": "الظهور (في المجد)",
+        "current_tashelhit": "Asbeggen n tmanegt",
+        "audited_tashelhit": "Asbeggen n tmanegt n Lmasiḥ",
+        "analysis": "الظهور العلني والتجلي الملكي لسيادة ومجد يسوع المسيح بمجيئه الثاني العظيم. مستوحى من رنين **تيطس ٢: ١٣**."
+    },
+    {
+        "id": 39,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "God",
+        "arabic_term": "الله",
+        "current_tashelhit": "Yillu (Ṛebbi)",
+        "audited_tashelhit": "Akuc (أو Ṛebbi)",
+        "analysis": "إدراج 'Akuc' (الاسم الأمازيغي المتسامي للذات الخالقة والمستقر عقائدياً في مأثور سوس) لتعزيز عقيدة التسامي والسيادة المطلقة لله."
+    },
+    {
+        "id": 40,
+        "category": "التقوى التجريبية واللاهوت الروحي (Puritanism)",
+        "english_term": "Heart Religion",
+        "arabic_term": "دين القلب",
+        "current_tashelhit": "Asgd n wul",
+        "audited_tashelhit": "Asgd n wul",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 41,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Heavenly Places",
+        "arabic_term": "السماويات",
+        "current_tashelhit": "Imkanen ignwanen",
+        "audited_tashelhit": "Imkanen ijenwanen (أو Ɣ ignwan)",
+        "analysis": "المنطقة الروحية الفائقة للطبيعة والسماويات التي يحظى فيها المؤمن ببركاته وميثاقه العهدي متصلًا بالمسيح. مستوحى من رنين **أفسس ١: ٣**."
+    },
+    {
+        "id": 42,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "Holy Spirit",
+        "arabic_term": "الروح القدس",
+        "current_tashelhit": "Ṛṛuḥ Iqedsen",
+        "audited_tashelhit": "Ṛṛuḥ Iqedsen n Rbbi (أو Ṛṛuḥ Iqedsen)",
+        "analysis": "الروح القدس المساوي للآب والابن في الجوهر، والمنفذ السيادي لتطبيق خلاص المسيح."
+    },
+    {
+        "id": 43,
+        "category": "التقوى التجريبية واللاهوت الروحي (Puritanism)",
+        "english_term": "Holy Violence",
+        "arabic_term": "العنف المقدس",
+        "current_tashelhit": "Lmejhud iqedsen",
+        "audited_tashelhit": "Lmejhud iqedsen",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 44,
+        "category": "لاهوت المسيح (Christology)",
+        "english_term": "Hypostatic Union",
+        "arabic_term": "الاتحاد الأقنومي",
+        "current_tashelhit": "Amun n snat tgamiwin",
+        "audited_tashelhit": "Amun n snat tgamiwin",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 45,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "Image of God",
+        "arabic_term": "صورة الله",
+        "current_tashelhit": "Tawlaft n Yillu",
+        "audited_tashelhit": "Tawlaft n Yakuc (أو Tawlaft n Ṛebbi)",
+        "analysis": "صورة الله ومثاله في الإنسان المتمثلة أصلاً في المعرفة الحقيقية والبر والقداسة الفعالة."
+    },
+    {
+        "id": 46,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Imputed Righteousness",
+        "arabic_term": "احتساب البر",
+        "current_tashelhit": "Aḥsab n uzref n Lmasiḥ i wemdan",
+        "audited_tashelhit": "Aḥsab n Lḥqq n Lmasiḥ i wemdan",
+        "analysis": "احتساب حق وبر المسيح القضائي الخارجي الكامل للخاطئ التائب كحكم براءة مجاني من المحكمة الإلهية."
+    },
+    {
+        "id": 47,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Imputed Righteousness (Biblical)",
+        "arabic_term": "يُحسب له برّاً",
+        "current_tashelhit": "Ityawḥasb d ufulki",
+        "audited_tashelhit": "Ittyuḥasb d lḥqq (أو Ityawḥasb-as d lḥqq)",
+        "analysis": "يرسخ المفهوم الكالفيني للبر القضائي الخارجي المنسوب والمحتسب كعملية ائتمانية كاملة في حساب المؤمن العاجز مجانًا بالإيمان. مستوحى من رنين **رومية ٤: ٣**."
+    },
+    {
+        "id": 48,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Imputed Sin",
+        "arabic_term": "احتساب الخطية",
+        "current_tashelhit": "Aḥsab n lxeṭya i Lmasiḥ",
+        "audited_tashelhit": "Aḥsab n ubkkaḍu i Lmasiḥ",
+        "analysis": "احتساب خطية الخاطئ للمسيح كبديل جزائي، مع استخدام لفظ 'Abkkaḍu' الأصيل تاريخياً وعقائدياً."
+    },
+    {
+        "id": 49,
+        "category": "لاهوت المسيح (Christology)",
+        "english_term": "Incarnation",
+        "arabic_term": "التجسد",
+        "current_tashelhit": "Iggʷa aksum",
+        "audited_tashelhit": "Iggʷa aksum",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 50,
+        "category": "الوحى والكتاب المقدس (Scripture)",
+        "english_term": "Inerrancy",
+        "arabic_term": "العصمة",
+        "current_tashelhit": "Ur gis lɣelṭat",
+        "audited_tashelhit": "Ur gis lɣelṭat",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 51,
+        "category": "الوحى والكتاب المقدس (Scripture)",
+        "english_term": "Inspiration",
+        "arabic_term": "الإلهام",
+        "current_tashelhit": "Aweḥḥi n Ṛṛuḥ Iqedsen",
+        "audited_tashelhit": "Aweḥḥi n Ṛṛuḥ Iqedsen",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 52,
+        "category": "لاهوت الكنيسة والأسرار (Ecclesiology)",
+        "english_term": "Invisible Church",
+        "arabic_term": "الكنيسة غير المنظورة",
+        "current_tashelhit": "Tajmaɛt ur ittwalin",
+        "audited_tashelhit": "Tajmaɛt ur ittwalin",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 53,
+        "category": "خلاص النعمة (TULIP)",
+        "english_term": "Irresistible Grace",
+        "arabic_term": "النعمة الفعّالة",
+        "current_tashelhit": "Lfeḍl ur a itteḥbas",
+        "audited_tashelhit": "Lfeḍl ur a itteḥbas",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 54,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Justification",
+        "arabic_term": "التبرير",
+        "current_tashelhit": "Aḥsab d uzref (Aḥsab d aḥeqqawi)",
+        "audited_tashelhit": "Asisg n Uġaras n Lḥqq (أو Asisg n Lḥqq n Rbbi)",
+        "analysis": "تغيير 'Aḥsab d uzref' (الاستقامة الذاتية) إلى 'Asisg' (البراءة القضائية والشرعية المعلنة من محكمة الله) و 'Lḥqq' (الحق والعدل والصدق القضائي)."
+    },
+    {
+        "id": 55,
+        "category": "لاهوت العهود والناموس (Covenants & Law)",
+        "english_term": "Legalism",
+        "arabic_term": "الشرعوية",
+        "current_tashelhit": "Aḍfaṛ n Lqanun s lḥerf",
+        "audited_tashelhit": "Aḍfaṛ n Warratn imñlayn s lḥerf",
+        "analysis": "الشرعوية أو السعي لنيل القبول الإلهي بالأعمال والحفظ الحرفي للناموس والوصايا."
+    },
+    {
+        "id": 56,
+        "category": "خلاص النعمة (TULIP)",
+        "english_term": "Limited Atonement",
+        "arabic_term": "الكفارة المحدودة",
+        "current_tashelhit": "Asfel ittustayen",
+        "audited_tashelhit": "Asfel n Ufdu ittustayen",
+        "analysis": "الكفارة المحدودة (الخاصة) التي قدمها المسيح بفاعلية أكيدة لافتداء المختارين الذين عينهم الآب أزلياً."
+    },
+    {
+        "id": 57,
+        "category": "لاهوت الكنيسة والأسرار (Ecclesiology)",
+        "english_term": "Lord's Supper",
+        "arabic_term": "عشاء الرب",
+        "current_tashelhit": "Imensi n Sidi",
+        "audited_tashelhit": "Imensi n Sidi",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 58,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Lordship Salvation",
+        "arabic_term": "خلاص الربوبية",
+        "current_tashelhit": "Leslak s Tenbaḍt n Sidi Lmasiḥ",
+        "audited_tashelhit": "Leslak s Tenbaḍt n Sidi Lmasiḥ",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 59,
+        "category": "لاهوت الكنيسة والأسرار (Ecclesiology)",
+        "english_term": "Means of Grace",
+        "arabic_term": "وسائط النعمة",
+        "current_tashelhit": "Iberdan n Lfeḍl",
+        "audited_tashelhit": "Iberdan n Lfeḍl",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 60,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Ministry of Reconciliation",
+        "arabic_term": "خدمة المصالحة (الوكالة الرسولية)",
+        "current_tashelhit": "Taqeddact n usemlil",
+        "audited_tashelhit": "Taqeddact n usemlil (أو Cceɣl n usemlil)",
+        "analysis": "خدمة المصالحة والوكالة الإنجيلية المقدسة الموكلة للكنيسة لإعلان السلام مع الله. تم استخدام 'Taqeddact' (الخدمة التعبدية المقدسة الموقرة) بدلاً من 'cceɣl' (الشغل المادي اليومي) حماية لجلال الإنجيل. مستوحى من رنين **٢ كورنثوس ٥: ١٨**."
+    },
+    {
+        "id": 61,
+        "category": "التقوى التجريبية واللاهوت الروحي (Puritanism)",
+        "english_term": "Mortification of Sin",
+        "arabic_term": "إماتة الخطية",
+        "current_tashelhit": "Amettan n bakkadu (Timɣiwt n lxeṭya)",
+        "audited_tashelhit": "Amettan n ubkkaḍu",
+        "analysis": "إماتة الخطية والجهاد الروحي المستمر لإفناء رغبات الجسد بقوة الروح القدس المجدد."
+    },
+    {
+        "id": 62,
+        "category": "لاهوت العهود والناموس (Covenants & Law)",
+        "english_term": "Mosaic Covenant",
+        "arabic_term": "العهد الموسوي",
+        "current_tashelhit": "Amtawa n Musa",
+        "audited_tashelhit": "Arkawal n Musa (أو Akawal n Musa)",
+        "analysis": "العهد الموسوي المبرم في سيناء كإدارة عهدية ملزمة وتدبيرية لعهد النعمة التاريخي."
+    },
+    {
+        "id": 63,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Mystery of Godliness",
+        "arabic_term": "سر التقوى / سر الإيمان",
+        "current_tashelhit": "Lbaḍn n tudert iqedsen",
+        "audited_tashelhit": "Lbaḍn n tudert iqedsen",
+        "analysis": "سر التقوى أو الإيمان المكتوم بالوحي الإلهي والذي يربط السلوك الروحي والأخلاقي الحقيقي بتجسد وفداء يسوع المسيح الظاهر بالجسد. مستوحى من رنين **١ تيموثاوس ٣: ١٦**."
+    },
+    {
+        "id": 64,
+        "category": "لاهوت العهود والناموس (Covenants & Law)",
+        "english_term": "New Covenant",
+        "arabic_term": "العهد الجديد",
+        "current_tashelhit": "Amtawa Amaynu",
+        "audited_tashelhit": "Arkawal Amaynu (أو Akawal Amaynu)",
+        "analysis": "العهد الجديد المكتوب بدم المسيح والمختوم بروحه القدوس، ويضمن خلاصًا أبديًا أكيدًا."
+    },
+    {
+        "id": 65,
+        "category": "اللاهوت الأخروي (Eschatology)",
+        "english_term": "New Creation",
+        "arabic_term": "الخليقة الجديدة",
+        "current_tashelhit": "Axlq amaynu",
+        "audited_tashelhit": "Axlq amaynu",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 66,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Obedience of Faith",
+        "arabic_term": "الطاعة / طاعة الإيمان",
+        "current_tashelhit": "Aṭuɛ n lettkal",
+        "audited_tashelhit": "Aṭuɛ n lettkal (أو Aṭuɛ n tumnit)",
+        "analysis": "طاعة الإيمان الخاضعة لوعود عهد النعمة كخضوع وارتكاز قلبي واثق بالكامل للرب تبرأ به الذات العاجزة، وليس كحفظ قانوني للناموس. مستوحى من رنين **رومية ١: ٥**."
+    },
+    {
+        "id": 67,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Old Man / Old Self",
+        "arabic_term": "الإنسان العتيق",
+        "current_tashelhit": "Amdan aqdim",
+        "audited_tashelhit": "Amdan-nnġ aqdim",
+        "analysis": "يربط القارئ الأمازيغي بمفهوم الطبيعة الساقطة القديمة قانونيًا وكيانيًا والتي صُلبت مع المسيح على خشبة الصليب. مستوحى من رنين **رومية ٦: ٦**."
+    },
+    {
+        "id": 68,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "Omnipotence",
+        "arabic_term": "القدرة المطلقة",
+        "current_tashelhit": "Tazmert f kra iga tt",
+        "audited_tashelhit": "Tazmert f kra iga tt",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 69,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "Omnipresence",
+        "arabic_term": "الحضور المطلق",
+        "current_tashelhit": "Illa ɣ kra iga tt amkan",
+        "audited_tashelhit": "Illa ɣ kra iga tt amkan",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 70,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "Omniscience",
+        "arabic_term": "العلم المطلق",
+        "current_tashelhit": "Tamusni n kra iga tt",
+        "audited_tashelhit": "Tamusni n kra iga tt",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 71,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "Only Begotten",
+        "arabic_term": "الابن الوحيد",
+        "current_tashelhit": "Yiwis Awaḥdi",
+        "audited_tashelhit": "Yiwis Awaḥdi",
+        "analysis": "الابن الوحيد الجنس المتميز بولادته الأزلية الإلهية الفائقة قبل الأزمان."
+    },
+    {
+        "id": 72,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Ordo Salutis",
+        "arabic_term": "ترتيب الخلاص",
+        "current_tashelhit": "Amezdi n leslak",
+        "audited_tashelhit": "Amezdi n leslak",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 73,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Original Sin",
+        "arabic_term": "الخطية الأصلية",
+        "current_tashelhit": "Bakkadu amezwaru",
+        "audited_tashelhit": "Abkkaḍu amezwaru (أو Abkkaḍu n laṣl)",
+        "analysis": "استخدام اللفظ المسيحي القديم الأصيل 'Abkkaḍu' (peccatum) بدلاً من الهجين المقترض حديثاً 'lxeṭya'."
+    },
+    {
+        "id": 74,
+        "category": "لاهوت الكنيسة والأسرار (Ecclesiology)",
+        "english_term": "Paedobaptism",
+        "arabic_term": "معمودية الأطفال",
+        "current_tashelhit": "Aɣḍas n wazzanen",
+        "audited_tashelhit": "Asird n wazzanen n Arkawal",
+        "analysis": "معمودية الأطفال كختم لعهد النعمة الموعود لنسل المؤمنين كما في العهد القديم."
+    },
+    {
+        "id": 75,
+        "category": "لاهوت المسيح (Christology)",
+        "english_term": "Passive Obedience of Christ",
+        "arabic_term": "الطاعة السلبية للمسيح",
+        "current_tashelhit": "Aḍfaṛ n Lmasiḥ ɣ leɛtab",
+        "audited_tashelhit": "Aḍfaṛ n Lmasiḥ ɣ leɛtab",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 76,
+        "category": "لاهوت المسيح (Christology)",
+        "english_term": "Penal Substitution",
+        "arabic_term": "الفداء الجزائي",
+        "current_tashelhit": "Afdu n lɛiqab ɣ wemkan-nneɣ",
+        "audited_tashelhit": "Afdu n lɛiqab ɣ wemkan-nneɣ",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 77,
+        "category": "خلاص النعمة (TULIP)",
+        "english_term": "Perseverance of the Saints",
+        "arabic_term": "ثبات القديسين",
+        "current_tashelhit": "Aḥraz n imqedsen",
+        "audited_tashelhit": "Aḥraz n imqedsen",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 78,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Predestination",
+        "arabic_term": "الاختيار المسبق",
+        "current_tashelhit": "Aheggi n zik",
+        "audited_tashelhit": "Aheggi n zik",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 79,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "Providence",
+        "arabic_term": "العناية الإلهية",
+        "current_tashelhit": "Aḥader n Yillu",
+        "audited_tashelhit": "Aḥader n Yakuc (أو Aḥader n Ṛebbi)",
+        "analysis": "العناية الإلهية الفعالة التي يحفظ بها الله سائر الكائنات ويوجه كل أحداث التاريخ لمجده الذاتي."
+    },
+    {
+        "id": 80,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Purpose of His Will",
+        "arabic_term": "حسب قصد مشيئته",
+        "current_tashelhit": "S lqesd n lebɣi-s",
+        "audited_tashelhit": "S lqesd n lebɣi-ns",
+        "analysis": "حسب قصد مشيئته السيادية المطلقة، وهو ما يثبت كالفينيًا أن كل تدابير الكون والخلاص تجري بموجب سلطانه وإرادته الذاتية وحدها دون تدخل بشري. مستوحى من رنين **أفسس ١: ١١**."
+    },
+    {
+        "id": 81,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Reconciliation",
+        "arabic_term": "المصالحة (الثمرة العلائقية)",
+        "current_tashelhit": "Asemlil",
+        "audited_tashelhit": "Asemlil",
+        "analysis": "المصالحة كثمرة علائقية قضائية تخرج المؤمن من عداوة السقوط إلى البنوة والشركة والتناغم التام مع الله. يشتق من الفعل الأمازيغي الأصيل 'semlil' (صالح وجمع شمل الأطراف المتفرقة في سلام كامل). مستوحى من رنين **رومية ٥: ١٠**."
+    },
+    {
+        "id": 82,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Regeneration",
+        "arabic_term": "التجديد",
+        "current_tashelhit": "Talalit tamaynut",
+        "audited_tashelhit": "Talalit tamaynut",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 83,
+        "category": "لاهوت الكنيسة والأسرار (Ecclesiology)",
+        "english_term": "Regulative Principle",
+        "arabic_term": "مبدأ تنظيم العبادة",
+        "current_tashelhit": "Lqanun n leɛbada",
+        "audited_tashelhit": "Arratn imẓlayn n leɛbada",
+        "analysis": "مبدأ تنظيم العبادة الحصري بما يأمر به الله في كلمته المكتوبة فقط (Arratn imẓlayn) مستبعداً الابتكارات والتقاليد البشرية."
+    },
+    {
+        "id": 84,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Repentance",
+        "arabic_term": "التوبة (الرجوع الصادق)",
+        "current_tashelhit": "Anndam (أو Ndama)",
+        "audited_tashelhit": "Tubbya n tideț",
+        "analysis": "التوبة كرجوع صادق وتحول جذري في الذهن والحياة بقيادة الروح القدس. استخدام الصيغة المشتقة من 'tub' يمنع خلطها مع 'Ndama' (الندم الشفهي العاطفي الخالي من تغيير القلب القضائي). مستوحى من رنين **أعمال ٢: ٣٨**."
+    },
+    {
+        "id": 85,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Reprobation",
+        "arabic_term": "الرفض",
+        "current_tashelhit": "Agi n wid ur ttwaxtaṛen",
+        "audited_tashelhit": "Agi n wid ur ttwaxtaṛen",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 86,
+        "category": "لاهوت المسيح (Christology)",
+        "english_term": "Resurrection",
+        "arabic_term": "القيامة",
+        "current_tashelhit": "Nnker zɣ lmegtin",
+        "audited_tashelhit": "Nnker zɣ lmegtin",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 87,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Revelation / Apocalypse",
+        "arabic_term": "الرؤيا / الإعلان الإلهي",
+        "current_tashelhit": "Aweḥḥi",
+        "audited_tashelhit": "Anurẓm (أو Aweḥḥi)",
+        "analysis": "الرؤيا أو الإعلان الإلهي السيادي الذي يرفع الغطاء عن مقاصد ومخططات الله لحكم التاريخ والكنيسة. وهو عنوان سفر الرؤيا المعتمد في ترجمة تشلحيت العهد الجديد (**Anurẓm**). مستوحى من رنين **الرؤيا ١: ١**."
+    },
+    {
+        "id": 88,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Righteousness of God",
+        "arabic_term": "بر الله (القضائي الائتماني)",
+        "current_tashelhit": "Afulki n Ṛebbi",
+        "audited_tashelhit": "Lḥqq n Sidi Ṛebbi",
+        "analysis": "بر الله القضائي الائتماني والعهدي المكتوب والمعلن في الإنجيل والذي يُنسب للخاطئ بالإيمان وحده لحمايته أمام العدالة الإلهية. يتجنب لفظ 'Afulki' (الصلاح والجمال الداخلي والسلوك الأخلاقي الذاتي) حماية لعقيدة التبرير. مستوحى من رنين **رومية ١: ١٧**."
+    },
+    {
+        "id": 89,
+        "category": "لاهوت الكنيسة والأسرار (Ecclesiology)",
+        "english_term": "Sacraments",
+        "arabic_term": "الأسرار",
+        "current_tashelhit": "Leɛwayed iqedsen",
+        "audited_tashelhit": "Leɛwayed iqedsen n Arkawal",
+        "analysis": "الأسرار أو الوسائط المعينة كأختام وعلامات حية لعهد النعمة وأمانة الله."
+    },
+    {
+        "id": 90,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Sanctification",
+        "arabic_term": "التقديس",
+        "current_tashelhit": "Asqeds",
+        "audited_tashelhit": "Asqeds",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 91,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Seal of the Covenant",
+        "arabic_term": "ختم العهد / الختم",
+        "current_tashelhit": "Ṭṭabeɛ n løhd",
+        "audited_tashelhit": "Ṭṭabeɛ n Urkawal (أو Ṭṭabeɛ n Ukawal)",
+        "analysis": "ختم العهد الإلهي. الأسرار الكنسية المقدسة كعلامات وأختام ملموسة ومرئية ومصادق عليها سياديًا لوعود عهد النعمة التي لا تتغير. مستوحى من رنين **رومية ٤: ١١**."
+    },
+    {
+        "id": 92,
+        "category": "لاهوت المسيح (Christology)",
+        "english_term": "Second Coming",
+        "arabic_term": "المجيء الثاني",
+        "current_tashelhit": "Acal amaynu (Tuɣalin tis snat)",
+        "audited_tashelhit": "Acal amaynu (Tuɣalin tis snat)",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 93,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Sola Fide",
+        "arabic_term": "الإيمان وحده",
+        "current_tashelhit": "Taflest ka",
+        "audited_tashelhit": "Taflest ka",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 94,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Sola Gratia",
+        "arabic_term": "النعمة وحدها",
+        "current_tashelhit": "Lfeḍl ka",
+        "audited_tashelhit": "Lfeḍl ka",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 95,
+        "category": "الوحى والكتاب المقدس (Scripture)",
+        "english_term": "Sola Scriptura",
+        "arabic_term": "الكتاب المقدس وحده",
+        "current_tashelhit": "Tira Iqedsen ka",
+        "audited_tashelhit": "Arratn imẓlayn n Rbbi ka",
+        "analysis": "الكتاب المقدس وحده كمرجعية تشريعية وأخلاقية معصومة وحصرية للكنيسة والمؤمنين."
+    },
+    {
+        "id": 96,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "Soli Deo Gloria",
+        "arabic_term": "لمجد الله وحده",
+        "current_tashelhit": "Tamanegt i Yillu ka",
+        "audited_tashelhit": "Tamanegt i Yakuc ka (أو Tamanegt i Ṛebbi ka)",
+        "analysis": "لمجد الله وحده، المبدأ الإصلاحي الذي يعيد كل الحمد والشرف للخالق والنعمة وحدها في الفداء والخلق."
+    },
+    {
+        "id": 97,
+        "category": "لاهوت المسيح (Christology)",
+        "english_term": "Solus Christus",
+        "arabic_term": "المسيح وحده",
+        "current_tashelhit": "Lmasiḥ ka",
+        "audited_tashelhit": "Lmasiḥ ka",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 98,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "Son",
+        "arabic_term": "الابن",
+        "current_tashelhit": "Yiwis",
+        "audited_tashelhit": "Yiwis",
+        "analysis": "الابن المتجسد المساوي للآب بالكامل في الجوهر والقدرة والسرمدية."
+    },
+    {
+        "id": 99,
+        "category": "التقوى التجريبية واللاهوت الروحي (Puritanism)",
+        "english_term": "Soul Trouble",
+        "arabic_term": "اضطراب النفس",
+        "current_tashelhit": "Aḥeyyer n ṛṛuḥ",
+        "audited_tashelhit": "Aḥeyyer n ṛṛuḥ",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 100,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "Sovereignty",
+        "arabic_term": "السيادة الإلهية",
+        "current_tashelhit": "Tanbaḍt n Yillu",
+        "audited_tashelhit": "Tanbaḍt n Yakuc (أو Tanbaḍt n Ṛebbi)",
+        "analysis": "السيادة والسلطان السيادي المطلق لله الخالق المتسامي على الكون والخلائق وتدبير الخلاص."
+    },
+    {
+        "id": 101,
+        "category": "التقوى التجريبية واللاهوت الروحي (Puritanism)",
+        "english_term": "Spiritual Desertion",
+        "arabic_term": "الانفصال الروحي",
+        "current_tashelhit": "Abeɛɛed n Ṛṛuḥ",
+        "audited_tashelhit": "Abeɛɛed n Ṛṛuḥ",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 102,
+        "category": "لاهوت المسيح (Christology)",
+        "english_term": "Substitutionary Atonement",
+        "arabic_term": "الكفارة البدلية",
+        "current_tashelhit": "Asfel n Ufdu ɣ wemkan-nneɣ",
+        "audited_tashelhit": "Asfel n Ufdu ɣ wemkan-nneɣ",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 103,
+        "category": "الوحى والكتاب المقدس (Scripture)",
+        "english_term": "Sufficiency of Scripture",
+        "arabic_term": "كفاية الكتاب المقدس",
+        "current_tashelhit": "Tira Iqedsen tqdd",
+        "audited_tashelhit": "Arratn imẓlayn n Rbbi tqdd",
+        "analysis": "كفاية الكلمة المكتوبة وإيفاؤها الكامل بكل سبل الخلاص والتعليم دون حاجة لتقاليد بشرية مضافة."
+    },
+    {
+        "id": 104,
+        "category": "التقوى التجريبية واللاهوت الروحي (Puritanism)",
+        "english_term": "Sweetness of Christ",
+        "arabic_term": "حلاوة المسيح",
+        "current_tashelhit": "Zzḍid n Lmasiḥ",
+        "audited_tashelhit": "Zzḍid n Lmasiḥ",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 105,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "The Elect / Chosen",
+        "arabic_term": "المختارون",
+        "current_tashelhit": "Wid yettwaxtaṛen",
+        "audited_tashelhit": "Willi d-istti Lmasiḥ (أو Rbbi)",
+        "analysis": "المختارون والمصطفون في المسيح قبل تأسيس العالم، وهو البعد الخلاصي الأكيد لعقيدة الاختيار غير المشروط وأمانة حفظ القديسين. مستوحى من رنين **رومية ٨: ٣٣**."
+    },
+    {
+        "id": 106,
+        "category": "لاهوت العهود والناموس (Covenants & Law)",
+        "english_term": "Third Use of the Law",
+        "arabic_term": "الاستخدام الثالث للناموس",
+        "current_tashelhit": "Aseqdec wis kṛaḍ n Lqanun",
+        "audited_tashelhit": "Aseqdec wis kṛaḍ n Warratn imñlayn",
+        "analysis": "تغيير 'Lqanun' (القانون الجنائي المدني) إلى 'Arratn imñlayn' (أسفار الإرشاد الإلهي) لبيان دور الناموس الأخلاقي كمرشد للمبررين في قداسة السلوك."
+    },
+    {
+        "id": 107,
+        "category": "شواهد الرنين الروحي والاقتباس الفيلولوجي (Biblical Resonance)",
+        "english_term": "Throne of Grace",
+        "arabic_term": "عرش النعمة",
+        "current_tashelhit": "عرش النعمة",
+        "audited_tashelhit": "Akursi n lḥekma n Lfeḍl (أو n Taḥninit)",
+        "analysis": "عرش النعمة الإلهي السيادي. يربط بلاغة تشلحيت بين السيادة والحكم الملكي المطلق (Akursi n lḥekma) والنعمة الإلهية المجانية (Lfeḍl / Taḥninit). مستوحى من رنين **العبرانيين ٤: ١٦**."
+    },
+    {
+        "id": 108,
+        "category": "خلاص النعمة (TULIP)",
+        "english_term": "Total Depravity",
+        "arabic_term": "الفساد الكلي",
+        "current_tashelhit": "Axsar amutay",
+        "audited_tashelhit": "Axsar amutay",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 109,
+        "category": "الأنطولوجيا والذات الإلهية (Theology Proper)",
+        "english_term": "Trinity",
+        "arabic_term": "الثالوث",
+        "current_tashelhit": "Trinité (Kṛaḍ ɣ yan)",
+        "audited_tashelhit": "Kṛaḍ ɣ yan",
+        "analysis": "إلغاء الكلمة الفرنسية 'Trinité' الدخيلة والاكتفاء بالصيغة اللاهوتية الأصلية 'ثلاثة في واحد' لمنع الهجانة اللغوية وصيانة أرثوذكسية العبادة."
+    },
+    {
+        "id": 110,
+        "category": "خلاص النعمة (TULIP)",
+        "english_term": "Unconditional Election",
+        "arabic_term": "الاختيار غير المشروط",
+        "current_tashelhit": "Axtiri war ccuṛuḍ",
+        "audited_tashelhit": "Astay war ccuṛuḍ",
+        "analysis": "استبدال 'Axtiri' بـ 'Astay' (الاصطفاء والفرز السيادي الحريص بإرادة الله الحرة دون أي شرط مسبق للمختار)."
+    },
+    {
+        "id": 111,
+        "category": "لاهوت الخلاص (Soteriology)",
+        "english_term": "Union with Christ",
+        "arabic_term": "الاتحاد بالمسيح",
+        "current_tashelhit": "Amun d Lmasiḥ",
+        "audited_tashelhit": "Amun d Lmasiḥ",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 112,
+        "category": "لاهوت المسيح (Christology)",
+        "english_term": "Virgin Birth",
+        "arabic_term": "الميلاد العذراوي",
+        "current_tashelhit": "Talalit zɣ taɛzrit",
+        "audited_tashelhit": "Talalit zɣ taɛzrit",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 113,
+        "category": "لاهوت الكنيسة والأسرار (Ecclesiology)",
+        "english_term": "Visible Church",
+        "arabic_term": "الكنيسة المنظورة",
+        "current_tashelhit": "Tajmaɛt ittwalin",
+        "audited_tashelhit": "Tajmaɛt ittwalin",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    },
+    {
+        "id": 114,
+        "category": "التقوى التجريبية واللاهوت الروحي (Puritanism)",
+        "english_term": "Vivification",
+        "arabic_term": "إحياء الروح",
+        "current_tashelhit": "Aseḥyu n Ṛṛuḥ",
+        "audited_tashelhit": "Aseḥyu n Ṛṛuḥ",
+        "analysis": "مصطلح سليم وصحيح عقائدياً ولغوياً ويتوافق تماماً مع لاهوت النعمة والكتاب المقدس."
+    }
+]

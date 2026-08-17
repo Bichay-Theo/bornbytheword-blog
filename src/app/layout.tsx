@@ -44,14 +44,7 @@ export default function RootLayout({
         </Script>
         <HashScroll />
         <Navbar />
-        <div className="layout-container">
-          <aside className="layout-sidebar">
-            <Sidebar />
-          </aside>
-          <main className="layout-main">
-            {children}
-          </main>
-        </div>
+        {children}
       </body>
     </html>
   );

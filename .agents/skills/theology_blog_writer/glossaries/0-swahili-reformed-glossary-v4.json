@@ -1,0 +1,732 @@
+{
+    "Swahili_Reformed_Glossary": {
+        "Covenants_and_Law": [
+            {
+                "english": "Covenant Theology",
+                "arabic": "لاهوت العهد / لاهوت العهود",
+                "swahili": "Theolojia ya Agano"
+            },
+            {
+                "english": "Covenant of Works",
+                "arabic": "عهد الأعمال",
+                "swahili": "Agano la Kazi / Agano la Matendo"
+            },
+            {
+                "english": "Covenant of Grace",
+                "arabic": "عهد النعمة",
+                "swahili": "Agano la Neema"
+            },
+            {
+                "english": "Covenant of Redemption",
+                "arabic": "عهد الفداء",
+                "swahili": "Agano la Ukombozi"
+            },
+            {
+                "english": "Mosaic Covenant",
+                "arabic": "العهد الموسوي",
+                "swahili": "Agano la Musa"
+            },
+            {
+                "english": "New Covenant",
+                "arabic": "العهد الجديد",
+                "swahili": "Agano Jipya"
+            },
+            {
+                "english": "Federal Headship",
+                "arabic": "الرئاسة الفيدرالية / التمثيل العهدي",
+                "swahili": "Ukichwa wa Kimaagano / Uwakilishi wa Kimaagano"
+            },
+            {
+                "english": "Covenant Children",
+                "arabic": "أطفال العهد",
+                "swahili": "Watoto wa Agano"
+            },
+            {
+                "english": "Third Use of the Law",
+                "arabic": "الاستخدام الثالث للناموس",
+                "swahili": "Matumizi ya Tatu ya Sheria"
+            },
+            {
+                "english": "Antinomianism",
+                "arabic": "اللاناموسية",
+                "swahili": "Ukanaji Sheria / Upingaji-Sheria"
+            },
+            {
+                "english": "Legalism",
+                "arabic": "الشرعوية",
+                "swahili": "Ushika-sheria"
+            },
+            {
+                "english": "External administration of the covenant",
+                "arabic": "الإدارة الخارجية للعهد",
+                "swahili": "Usimamizi wa nje wa agano"
+            }
+        ],
+        "Theology_Proper": [
+            {
+                "english": "God",
+                "arabic": "الله",
+                "swahili": "Mungu"
+            },
+            {
+                "english": "Trinity",
+                "arabic": "الثالوث",
+                "swahili": "Utatu Mtakatifu"
+            },
+            {
+                "english": "Father",
+                "arabic": "الآب",
+                "swahili": "Baba"
+            },
+            {
+                "english": "Son",
+                "arabic": "الابن",
+                "swahili": "Mwana"
+            },
+            {
+                "english": "Holy Spirit",
+                "arabic": "الروح القدس",
+                "swahili": "Roho Mtakatifu"
+            },
+            {
+                "english": "Only Begotten",
+                "arabic": "الابن الوحيد",
+                "swahili": "Mwana wa Pekee"
+            },
+            {
+                "english": "Eternity",
+                "arabic": "الأزلية",
+                "swahili": "Umilele"
+            },
+            {
+                "english": "Providence",
+                "arabic": "العناية الإلهية",
+                "swahili": "Maongozi ya Mungu"
+            },
+            {
+                "english": "Sovereignty",
+                "arabic": "السيادة الإلهية",
+                "swahili": "Enzi Kuu ya Mungu / Ukuu wa Mungu"
+            },
+            {
+                "english": "Omnipotence",
+                "arabic": "القدرة المطلقة",
+                "swahili": "Uweza wa Yote (Mwenyezi)"
+            },
+            {
+                "english": "Omniscience",
+                "arabic": "العلم المطلق",
+                "swahili": "Mjuzi wa Yote"
+            },
+            {
+                "english": "Omnipresence",
+                "arabic": "الحضور المطلق",
+                "swahili": "Aliye Kila Mahali"
+            },
+            {
+                "english": "Image of God",
+                "arabic": "صورة الله",
+                "swahili": "Mfano wa Mungu / Sura ya Mungu"
+            },
+            {
+                "english": "Decree of God",
+                "arabic": "مراسيم الله / القضاء الإلهي الأزهري",
+                "swahili": "Makusudi ya Mungu (Azimio)"
+            },
+            {
+                "english": "Decretal Theology",
+                "arabic": "لاهوت المراسيم",
+                "swahili": "Theolojia ya Maazimio"
+            },
+            {
+                "english": "Soli Deo Gloria",
+                "arabic": "لمجد الله وحده",
+                "swahili": "Utukufu kwa Mungu Peke Yake"
+            },
+            {
+                "english": "Elohim",
+                "arabic": "إلوهيم (الإله الخالق الأوحد)",
+                "swahili": "Mungu"
+            },
+            {
+                "english": "YHWH",
+                "arabic": "يهوه (الاسم الخاص والعهدي للرب)",
+                "swahili": "Yehova / Yehova"
+            },
+            {
+                "english": "Adonay",
+                "arabic": "أدوناي (الرب السيادي المطلق)",
+                "swahili": "Bwana"
+            },
+            {
+                "english": "Shaday",
+                "arabic": "شداي (القدير السيادي)",
+                "swahili": "Mwenyezi Mungu"
+            },
+            {
+                "english": "Commandment",
+                "arabic": "الوصية / الأمر الإلهي",
+                "swahili": "Amri"
+            },
+            {
+                "english": "Trial / Affliction",
+                "arabic": "الابتلاء / التجربة والامتحان الروحي",
+                "swahili": "Balaa"
+            },
+            {
+                "english": "Punishment / Retribution",
+                "arabic": "العقاب / القصاص اللاهوتي",
+                "swahili": "Adhabu"
+            },
+            {
+                "english": "Hereafter / Eternal World",
+                "arabic": "الآخرة / العالم الأبدي",
+                "swahili": "Ahera"
+            }
+        ],
+        "Christology": [
+            {
+                "english": "Incarnation",
+                "arabic": "التجسد",
+                "swahili": "Umwilisho"
+            },
+            {
+                "english": "Hypostatic Union",
+                "arabic": "الاتحاد الأقنومي",
+                "swahili": "Muungano wa Nafsi"
+            },
+            {
+                "english": "Virgin Birth",
+                "arabic": "الميلاد العذراوي",
+                "swahili": "Kuzaliwa na Bikira"
+            },
+            {
+                "english": "Emmanuel",
+                "arabic": "عمانوئيل",
+                "swahili": "Imanueli"
+            },
+            {
+                "english": "Solus Christus",
+                "arabic": "المسيح وحده",
+                "swahili": "Kristo Peke Yake"
+            },
+            {
+                "english": "Active Obedience of Christ",
+                "arabic": "الطاعة الفعّالة للمسيح",
+                "swahili": "Utii Kamili wa Kristo / Utii wa Kitendo wa Kristo"
+            },
+            {
+                "english": "Passive Obedience of Christ",
+                "arabic": "الطاعة السلبية للمسيح",
+                "swahili": "Utii wa Kuteswa wa Kristo / Utii wa Kupokea wa Kristo"
+            },
+            {
+                "english": "Substitutionary Atonement",
+                "arabic": "الكفارة البدلية",
+                "swahili": "Upatanisho wa Kiwakilishi / Kafara ya Kiwakilishi"
+            },
+            {
+                "english": "Penal Substitution",
+                "arabic": "الفداء الجزائي / الكفارة العقابية البدلية",
+                "swahili": "Upatanisho wa Adhabu wa Kiwakilishi / Adhabu ya Kiwakilishi"
+            },
+            {
+                "english": "Second Coming",
+                "arabic": "المجيء الثاني",
+                "swahili": "Ujio wa Pili / Kuja kwa Pili"
+            },
+            {
+                "english": "Resurrection",
+                "arabic": "القيامة",
+                "swahili": "Ufufuo"
+            }
+        ],
+        "Salvation_TULIP": [
+            {
+                "english": "Total Depravity",
+                "arabic": "الفساد الكلي / العجز الروحي الكامل",
+                "swahili": "Upotovu Kamili / Uharibifu Kamili"
+            },
+            {
+                "english": "Unconditional Election",
+                "arabic": "الاختيار غير المشروط",
+                "swahili": "Uchaguzi usiokuwa na masharti / Uteule Usio na Masharti"
+            },
+            {
+                "english": "Limited Atonement",
+                "arabic": "الكفارة المحدودة / الفداء الخاص",
+                "swahili": "Upatanisho wenye Mipaka / Ukombozi Maalum"
+            },
+            {
+                "english": "Irresistible Grace",
+                "arabic": "النعمة الفعّالة / النعمة التي لا تقاوم",
+                "swahili": "Neema Isiyoweza Kuzuiliwa / Neema Isiyopingika"
+            },
+            {
+                "english": "Perseverance of the Saints",
+                "arabic": "ثبات القديسين / حفظ الله للقديسين",
+                "swahili": "Uvumilivu wa Watakatifu / Kuhifadhiwa kwa Watakatifu"
+            }
+        ],
+        "Soteriology": [
+            {
+                "english": "Predestination",
+                "arabic": "الاختيار المسبق / القضاء المسبق",
+                "swahili": "Kuchaguliwa Mapema / Kupangiwa Tangu Asili"
+            },
+            {
+                "english": "Foreordination",
+                "arabic": "التقدير المسبق / التعيين السابق",
+                "swahili": "Kuteuliwa Tangu Asili / Kupangwa Tangu Asili"
+            },
+            {
+                "english": "Double Predestination",
+                "arabic": "الاختيار المزدوج / القضاء المزدوج",
+                "swahili": "Uteule wa Awali Maradufu / Kupangiwa tangu asili maradufu"
+            },
+            {
+                "english": "Reprobation",
+                "arabic": "الرفض / عدم الاختيار",
+                "swahili": "Kukataliwa"
+            },
+            {
+                "english": "Effectual Calling",
+                "arabic": "الدعوة الفعّالة",
+                "swahili": "Wito wenye ufanisi / Wito wa Mungu wenye ufanisi"
+            },
+            {
+                "english": "Regeneration",
+                "arabic": "التجديد / الولادة الثانية",
+                "swahili": "Kuzaliwa Upya / Kuzaliwa mara ya pili"
+            },
+            {
+                "english": "Conversion",
+                "arabic": "الاهتداء / الرجوع",
+                "swahili": "Kuongoka / Uongofu"
+            },
+            {
+                "english": "Justification",
+                "arabic": "التبرير",
+                "swahili": "Kuhesabiwa Haki"
+            },
+            {
+                "english": "Imputed Righteousness",
+                "arabic": "احتساب البر",
+                "swahili": "Haki Ihesabiwayo"
+            },
+            {
+                "english": "Imputed Sin",
+                "arabic": "احتساب الخطية",
+                "swahili": "Dhambi Ihesabiwayo"
+            },
+            {
+                "english": "Original Sin",
+                "arabic": "الخطية الأصلية",
+                "swahili": "Dhambi ya Asili"
+            },
+            {
+                "english": "Bondage of the Will",
+                "arabic": "عبودية الإرادة",
+                "swahili": "Utumwa wa Utashi / Utumwa wa Mapenzi"
+            },
+            {
+                "english": "Sola Fide",
+                "arabic": "الإيمان وحده",
+                "swahili": "Imani Peke Yake"
+            },
+            {
+                "english": "Sola Gratia",
+                "arabic": "النعمة وحدها",
+                "swahili": "Neema Peke Yake"
+            },
+            {
+                "english": "Adoption",
+                "arabic": "التبني",
+                "swahili": "Kufanywa Wana"
+            },
+            {
+                "english": "Sanctification",
+                "arabic": "التقديس",
+                "swahili": "Utakaso"
+            },
+            {
+                "english": "Glorification",
+                "arabic": "التمجيد",
+                "swahili": "Kutukuzwa"
+            },
+            {
+                "english": "Ordo Salutis",
+                "arabic": "ترتيب خلاص",
+                "swahili": "Utaratibu wa Wokovu"
+            },
+            {
+                "english": "Union with Christ",
+                "arabic": "الاتحاد بالمسيح",
+                "swahili": "Kuungana na Kristo"
+            },
+            {
+                "english": "Assurance of Salvation",
+                "arabic": "ثقة الخلاص",
+                "swahili": "Uhakika wa Wokovu / Uhakikisho wa Wokovu"
+            },
+            {
+                "english": "Eternal Justification",
+                "arabic": "التبرير الأزلي",
+                "swahili": "Kuhesabiwa Haki kwa Milele"
+            },
+            {
+                "english": "Supralapsarianism",
+                "arabic": "الفوق-سقوطية",
+                "swahili": "Supralapsarianism (Kabla ya Anguko)"
+            },
+            {
+                "english": "Infralapsarianism",
+                "arabic": "التحت-سقوطية",
+                "swahili": "Infralapsarianism (Baada ya Anguko)"
+            },
+            {
+                "english": "Lordship Salvation",
+                "arabic": "خلاص الربوبية",
+                "swahili": "Wokovu wa Ukuu wa Kristo / Wokovu wa Bwana"
+            },
+            {
+                "english": "Free Offer of the Gospel",
+                "arabic": "العرض الحر للإنجيل",
+                "swahili": "Mwaliko Huru wa Injili / Ofa Huru ya Injili"
+            },
+            {
+                "english": "Common Grace",
+                "arabic": "النعمة المشتركة",
+                "swahili": "Neema ya Kawaida / Neema ya Jumla"
+            },
+            {
+                "english": "Instrumental cause of justification",
+                "arabic": "السبب الآلي للتبرير",
+                "swahili": "Imani kama chombo pekee cha kuhesabiwa haki"
+            },
+            {
+                "english": "Meritorious cause of justification",
+                "arabic": "السبب الاستحقاقي للتبرير",
+                "swahili": "Haki ya Kristo pekee"
+            }
+        ],
+        "Ecclesiology": [
+            {
+                "english": "Visible Church",
+                "arabic": "الكنيسة المنظورة",
+                "swahili": "Kanisa Linaloonekana"
+            },
+            {
+                "english": "Invisible Church",
+                "arabic": "الكنيسة غير المنظورة",
+                "swahili": "Kanisa Lisiloonekana"
+            },
+            {
+                "english": "Regulative Principle",
+                "arabic": "مبدأ تنظيم العبادة / الضابطة التعبدية",
+                "swahili": "Kanuni Elekezi ya Ibada / Kanuni ya Udhibiti wa Ibada"
+            },
+            {
+                "english": "Sacraments",
+                "arabic": "الأسرار المقدسة",
+                "swahili": "Sakramenti"
+            },
+            {
+                "english": "Baptism",
+                "arabic": "المعمودية",
+                "swahili": "Ubatizo"
+            },
+            {
+                "english": "Paedobaptism",
+                "arabic": "معمودية الأطفال",
+                "swahili": "Ubatizo wa Watoto"
+            },
+            {
+                "english": "Credobaptism",
+                "arabic": "معمودية المؤمنين",
+                "swahili": "Ubatizo wa Waumini"
+            },
+            {
+                "english": "Lord's Supper",
+                "arabic": "عشاء الرب",
+                "swahili": "Meza ya Bwana / Chakula cha Bwana"
+            },
+            {
+                "english": "Means of Grace",
+                "arabic": "وسائط النعمة",
+                "swahili": "Njia za Neema / Wasila za Neema"
+            },
+            {
+                "english": "Word of God",
+                "arabic": "كرازة كلمة الله المكتوبة والمقروءة",
+                "swahili": "Neno la Mungu"
+            },
+            {
+                "english": "Prayer / Supplication",
+                "arabic": "الصلاة والتضرع كواسطة نعمة",
+                "swahili": "Sala / Maombi"
+            }
+        ],
+        "Scripture": [
+            {
+                "english": "Sola Scriptura",
+                "arabic": "الكتاب المقدس وحده",
+                "swahili": "Maandiko Peke Yake"
+            },
+            {
+                "english": "Inspiration",
+                "arabic": "الإلهام / الوحي الإلهي",
+                "swahili": "Uvuvio"
+            },
+            {
+                "english": "Inerrancy",
+                "arabic": "العصمة من الخطأ",
+                "swahili": "Kutokukosea / Kutokukosea kwa Maandiko"
+            },
+            {
+                "english": "Sufficiency of Scripture",
+                "arabic": "كفاية الكتاب المقدس",
+                "swahili": "Utoshelevu wa Maandiko"
+            }
+        ],
+        "Puritanism": [
+            {
+                "english": "Experimental Religion",
+                "arabic": "الديانة الاختبارية (التجريبية)",
+                "swahili": "Dini ya Kiuzoefu"
+            },
+            {
+                "english": "Heart Religion",
+                "arabic": "ديانة القلب",
+                "swahili": "Dini ya Moyoni"
+            },
+            {
+                "english": "Spiritual Desertion",
+                "arabic": "الهجر الروحي",
+                "swahili": "Kuachwa Kiroho"
+            },
+            {
+                "english": "Dark Night of the Soul",
+                "arabic": "ليلة النفس المظلمة",
+                "swahili": "Usiku wa Giza wa Nafsi / Usiku Mweusi wa Nafsi"
+            },
+            {
+                "english": "Soul Trouble",
+                "arabic": "اضطراب النفس / لوعة النفس",
+                "swahili": "Taabu ya Nafsi"
+            },
+            {
+                "english": "Closing with Christ",
+                "arabic": "الاتحاد والقبول الفعلي للمسيح",
+                "swahili": "Kuambatana na Kristo"
+            },
+            {
+                "english": "Sweetness of Christ",
+                "arabic": "عذوبة المسيح",
+                "swahili": "Utamu wa Kristo"
+            },
+            {
+                "english": "Mortification of Sin",
+                "arabic": "إماتة الخطية",
+                "swahili": "Kuifisha Dhambi"
+            },
+            {
+                "english": "Vivification",
+                "arabic": "إحياء الروح / الإحياء",
+                "swahili": "Kuhuisha Kiroho"
+            },
+            {
+                "english": "Holy Violence",
+                "arabic": "العنف المقدس / الغيرة المقدسة الحازمة",
+                "swahili": "Nguvu Takatifu"
+            },
+            {
+                "english": "Duty of Self-Denial",
+                "arabic": "واجب إنكار الذات",
+                "swahili": "Wajibu wa Kujikana / Wajibu wa Kujikana nafsi"
+            }
+        ],
+        "Eschatology": [
+            {
+                "english": "Final Judgment",
+                "arabic": "الدينونة الأخيرة",
+                "swahili": "Hukumu ya Mwisho"
+            },
+            {
+                "english": "New Creation",
+                "arabic": "الخليقة الجديدة",
+                "swahili": "Uumbaji Mpya / الخليقة الجديدة"
+            }
+        ],
+        "Theological_Disciplines": [
+            {
+                "english": "Systematic Theology",
+                "arabic": "اللاهوت النظامي / اللاهوت المرتب",
+                "swahili": "Teolojia Pangilifu"
+            },
+            {
+                "english": "Anthropology",
+                "arabic": "لاهوت الإنسان / علم الإنسان المسيحي",
+                "swahili": "Anthropolojia"
+            },
+            {
+                "english": "Pneumatology",
+                "arabic": "لاهوت الروح القدس",
+                "swahili": "Neumatologia / Pneumatolojia"
+            },
+            {
+                "english": "Soteriology",
+                "arabic": "علم الخلاص / لاهوت الخلاص",
+                "swahili": "Soteriolojia / Wokovu"
+            },
+            {
+                "english": "Ecclesiology",
+                "arabic": "علم لاهوت الكنيسة",
+                "swahili": "Ekklesiolojia"
+            }
+        ],
+        "Liturgy_and_Creeds": [
+            {
+                "english": "Apostles' Creed (I believe)",
+                "arabic": "قانون الإيمان الرسولي (أنا أؤمن)",
+                "swahili": "Ninasadiki"
+            },
+            {
+                "english": "The Lord's Prayer (Our Father)",
+                "arabic": "الصلاة الربانية (أبانا الذي في السماوات)",
+                "swahili": "Baba Yetu"
+            },
+            {
+                "english": "Forgive us our debts / sins",
+                "arabic": "اغفر لنا ذنوبنا / خطايانا",
+                "swahili": "Utusamehe Makosa Yetu"
+            },
+            {
+                "english": "For thine is the kingdom...",
+                "arabic": "لأن لك الملك والقوة والمجد إلى الأبد",
+                "swahili": "Kwa Kuwa Ufalme Ni Wako, Na Nguvu, Na Utukufu, Hata Milele"
+            }
+        ],
+        "Contemporary_Issues_and_Polemics": [
+            {
+                "english": "Prosperity Gospel",
+                "arabic": "إنجيل الرخاء / لاهوت الازدهار",
+                "swahili": "Injili ya Ufanisi"
+            },
+            {
+                "english": "Feel-good ministries",
+                "arabic": "الوزارات والممارسات العاطفية الاستهلاكية",
+                "swahili": "Mautumiki ya kumvetsa bwino"
+            }
+        ],
+        "Biblical_Resonance_v4": [
+            {
+                "english": "Ages of Ages (Eternity Future)",
+                "arabic": "الدهور والخلود",
+                "swahili": "Milele na Milele"
+            },
+            {
+                "english": "Anathema (Accursed)",
+                "arabic": "أناثما / مفرز / ملعون",
+                "swahili": "Anathema (Laana / Aliyelaaniwa)"
+            },
+            {
+                "english": "Covenantal Discipline",
+                "arabic": "التأديب (الأبوي العهدي)",
+                "swahili": "Nidhamu ya Agano / Kurudiwa kwa Kiasili"
+            },
+            {
+                "english": "Eternal Times (Eternity Past)",
+                "arabic": "الأزمنة الأزلية (الأزل)",
+                "swahili": "Zamani za Milele"
+            },
+            {
+                "english": "Flesh (Ethical/Sinful Nature)",
+                "arabic": "الجسد / الطبيعة الساقطة",
+                "swahili": "Mwili (Asili ya Dhambi)"
+            },
+            {
+                "english": "Four Living Creatures",
+                "arabic": "المخلوقات الأربعة",
+                "swahili": "Viumbe Vinne vyenye Uhai"
+            },
+            {
+                "english": "Glorious Appearing",
+                "arabic": "الظهور (في المجد)",
+                "swahili": "Kutokea kwa Utukufu"
+            },
+            {
+                "english": "Heavenly Places",
+                "arabic": "السماويات",
+                "swahili": "Katika Mbingu / Mahali pa Kimbingu"
+            },
+            {
+                "english": "Imputed Righteousness (Biblical)",
+                "arabic": "يُحسب له برّاً",
+                "swahili": "Kuhesabiwa kuwa Haki"
+            },
+            {
+                "english": "Mystery of Godliness",
+                "arabic": "سر التقوى / سر الإيمان",
+                "swahili": "Siri ya Utaua (Siri ya Utakatifu)"
+            },
+            {
+                "english": "Obedience of Faith",
+                "arabic": "الطاعة / طاعة الإيمان",
+                "swahili": "Utii wa Imani"
+            },
+            {
+                "english": "Old Man / Old Self",
+                "arabic": "الإنسان العتيق",
+                "swahili": "Mtu wa Kale"
+            },
+            {
+                "english": "Purpose of His Will",
+                "arabic": "حسب قصد مشيئته",
+                "swahili": "Kusudi la Mapenzi Yake"
+            },
+            {
+                "english": "Repentance",
+                "arabic": "التوبة (الرجوع الصادق)",
+                "swahili": "Toba ya Kweli / Toba iletayo Uzima"
+            },
+            {
+                "english": "Revelation / Apocalypse",
+                "arabic": "الرؤيا / الإعلان الإلهي",
+                "swahili": "Ufunuo"
+            },
+            {
+                "english": "Righteousness of God",
+                "arabic": "بر الله (القضائي الائتماني)",
+                "swahili": "Haki ya Mungu"
+            },
+            {
+                "english": "Seal of the Covenant",
+                "arabic": "ختم العهد / الختم",
+                "swahili": "Muhuri wa Agano"
+            },
+            {
+                "english": "The Elect / Chosen",
+                "arabic": "المختارون",
+                "swahili": "Wateule"
+            },
+            {
+                "english": "Throne of Grace",
+                "arabic": "عرش النعمة",
+                "swahili": "Kiti cha Enzi cha Neema"
+            }
+        ],
+        "Reconciliation_and_Adoption": [
+            {
+                "english": "Ministry of Reconciliation",
+                "arabic": "خدمة المصالحة (الوكالة الرسولية)",
+                "swahili": "Huduma ya Upatanisho"
+            },
+            {
+                "english": "Reconciliation",
+                "arabic": "المصالحة (الثمرة العلائقية)",
+                "swahili": "Upatanisho"
+            }
+        ]
+    }
+}

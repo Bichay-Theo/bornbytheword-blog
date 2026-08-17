@@ -2,7 +2,25 @@
 
 import React, { useState } from 'react';
 
-export default function NewsletterForm() {
+interface NewsletterFormProps {
+  title?: string;
+  desc?: string;
+  placeholder?: string;
+  submitBtn?: string;
+  loadingBtn?: string;
+  successMsg?: string;
+  errorMsg?: string;
+}
+
+export default function NewsletterForm({
+  title = "هل أعجبك ما تقرأ؟ 💌",
+  desc = "اشترك في القائمة البريدية لتصلك أحدث المقالات والدراسات اللاهوتية مباشرة إلى بريدك الإلكتروني.",
+  placeholder = "أدخل بريدك الإلكتروني هنا...",
+  submitBtn = "اشترك الآن",
+  loadingBtn = "جاري الاشتراك...",
+  successMsg = "شكراً لاشتراكك! تمت إضافتك بنجاح للقائمة البريدية.",
+  errorMsg = "حدث خطأ أثناء الاشتراك. تأكد من صحة البريد الإلكتروني أو حاول مجدداً لاحقاً."
+}: NewsletterFormProps) {
   const [email, setEmail] = useState('');
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
 
@@ -33,32 +51,32 @@ export default function NewsletterForm() {
   return (
     <div className="newsletter-container">
       <div className="newsletter-content">
-        <h3>هل أعجبك ما تقرأ؟ 💌</h3>
-        <p>اشترك في القائمة البريدية لتصلك أحدث المقالات والدراسات اللاهوتية مباشرة إلى بريدك الإلكتروني.</p>
+        <h3>{title}</h3>
+        <p>{desc}</p>
         
         {status === 'success' ? (
           <div className="newsletter-success">
-            شكراً لاشتراكك! تمت إضافتك بنجاح للقائمة البريدية.
+            {successMsg}
           </div>
         ) : (
           <form onSubmit={handleSubmit} className="newsletter-form">
             <input 
               type="email" 
-              placeholder="أدخل بريدك الإلكتروني هنا..." 
+              placeholder={placeholder}
               value={email}
               onChange={(e) => { setEmail(e.target.value); setStatus('idle'); }}
               required
               disabled={status === 'loading'}
             />
             <button type="submit" disabled={status === 'loading'}>
-              {status === 'loading' ? 'جاري الاشتراك...' : 'اشترك الآن'}
+              {status === 'loading' ? loadingBtn : submitBtn}
             </button>
           </form>
         )}
         
         {status === 'error' && (
           <p style={{ color: '#e53e3e', marginTop: '1rem', fontSize: '0.9rem' }}>
-            حدث خطأ أثناء الاشتراك. تأكد من صحة البريد الإلكتروني أو حاول مجدداً لاحقاً.
+            {errorMsg}
           </p>
         )}
       </div>

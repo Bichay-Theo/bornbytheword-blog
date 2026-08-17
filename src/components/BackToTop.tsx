@@ -1,8 +1,8 @@
-﻿"use client";
+"use client";
 
 import React from 'react';
 
-export default function BackToTop() {
+export default function BackToTop({ text = "الرجوع للأعلى ⬆️" }: { text?: string }) {
   return (
     <a 
       href="#" 
@@ -12,7 +12,7 @@ export default function BackToTop() {
       }} 
       style={{ color: 'var(--primary)', textDecoration: 'none', fontSize: '1.1rem', cursor: 'pointer' }}
     >
-      الرجوع للأعلى ⬆️
+      {text}
     </a>
   );
 }

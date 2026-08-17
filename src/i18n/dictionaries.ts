@@ -16,7 +16,15 @@ export const dictionaries = {
     sidebarTopics: 'المواضيع (التصنيفات)',
     sidebarAll: 'الكل',
     sidebarPenalSubstitution: 'الكفارة البدلية',
-    shareArticle: 'شارك هذا المقال:'
+    shareArticle: 'شارك هذا المقال:',
+    newsletterTitle: 'هل أعجبك ما تقرأ؟ 💌',
+    newsletterDesc: 'اشترك في القائمة البريدية لتصلك أحدث المقالات والدراسات اللاهوتية مباشرة إلى بريدك الإلكتروني.',
+    newsletterPlaceholder: 'أدخل بريدك الإلكتروني هنا...',
+    newsletterSubmit: 'اشترك الآن',
+    newsletterLoading: 'جاري الاشتراك...',
+    newsletterSuccess: 'شكراً لاشتراكك! تمت إضافتك بنجاح للقائمة البريدية.',
+    newsletterError: 'حدث خطأ أثناء الاشتراك. تأكد من صحة البريد الإلكتروني أو حاول مجدداً لاحقاً.',
+    backToTop: 'الرجوع للأعلى ⬆️'
   },
   am: {
     siteName: 'በእውነት ቃል አስቦ ወለደን።', // Translated from James 1:18
@@ -33,7 +41,15 @@ export const dictionaries = {
     sidebarTopics: 'ርዕሶች / ምድቦች',
     sidebarAll: 'ሁሉም',
     sidebarPenalSubstitution: 'የቅጣት ምትክነት ስርየት',
-    shareArticle: 'ይህን ጽሑፍ ያጋሩ:'
+    shareArticle: 'ይህን ጽሑፍ ያጋሩ:',
+    newsletterTitle: '[Newsletter Title] 💌',
+    newsletterDesc: '[Newsletter Description]',
+    newsletterPlaceholder: '[Enter your email here...]',
+    newsletterSubmit: '[Subscribe Now]',
+    newsletterLoading: '[Subscribing...]',
+    newsletterSuccess: '[Thank you for subscribing!]',
+    newsletterError: '[An error occurred during subscription.]',
+    backToTop: '[Back to top] ⬆️'
   },
   sw: {
     siteName: 'Kwa kupenda kwake mwenyewe alituzaa sisi kwa neno la kweli.',
@@ -50,7 +66,15 @@ export const dictionaries = {
     sidebarTopics: 'Mada / Kategoria',
     sidebarAll: 'Yote',
     sidebarPenalSubstitution: 'Kafara ya Kiwakilishi',
-    shareArticle: 'Shiriki makala haya:'
+    shareArticle: 'Shiriki makala haya:',
+    newsletterTitle: 'Je, ulifurahia ulichosoma? 💌',
+    newsletterDesc: 'Jiandikishe kwa orodha yetu ya barua pepe ili kupata makala na mafunzo ya hivi punde ya kitheolojia moja kwa moja kwenye kikasha chako.',
+    newsletterPlaceholder: 'Weka barua pepe yako hapa...',
+    newsletterSubmit: 'Jiandikishe Sasa',
+    newsletterLoading: 'Inasajili...',
+    newsletterSuccess: 'Asante kwa kujiandikisha! Umeongezwa kikamilifu kwenye orodha yetu ya barua pepe.',
+    newsletterError: 'Hitilafu imetokea wakati wa usajili. Tafadhali angalia barua pepe yako au jaribu tena baadaye.',
+    backToTop: 'Rudi juu ⬆️'
   },
   shi: {
     siteName: 'S lqesd n lebɣi-ns, iskr aɣ-d talalit tamaynut s wawal n tideț.',
@@ -67,7 +91,15 @@ export const dictionaries = {
     sidebarTopics: 'Isntal / Tiggayin',
     sidebarAll: 'Kullu',
     sidebarPenalSubstitution: 'Asfel n Ufdu ɣ wemkan-nneɣ',
-    shareArticle: 'Bḍu amgrad ad:'
+    shareArticle: 'Bḍu amgrad ad:',
+    newsletterTitle: '[Newsletter Title] 💌',
+    newsletterDesc: '[Newsletter Description]',
+    newsletterPlaceholder: '[Enter your email here...]',
+    newsletterSubmit: '[Subscribe Now]',
+    newsletterLoading: '[Subscribing...]',
+    newsletterSuccess: '[Thank you for subscribing!]',
+    newsletterError: '[An error occurred during subscription.]',
+    backToTop: '[Back to top] ⬆️'
   },
   kab: {
     siteName: 'S lqesd n lebɣi-s, i ɣ-d-yefka talalit tajdit s wawal n tideț.',
@@ -84,7 +116,15 @@ export const dictionaries = {
     sidebarTopics: 'Isental / Taggayin',
     sidebarAll: 'Irkulli',
     sidebarPenalSubstitution: 'Asebbel n lɛiqab deg wemkan-nneɣ',
-    shareArticle: 'Bḍu amagrad-a:'
+    shareArticle: 'Bḍu amagrad-a:',
+    newsletterTitle: '[Newsletter Title] 💌',
+    newsletterDesc: '[Newsletter Description]',
+    newsletterPlaceholder: '[Enter your email here...]',
+    newsletterSubmit: '[Subscribe Now]',
+    newsletterLoading: '[Subscribing...]',
+    newsletterSuccess: '[Thank you for subscribing!]',
+    newsletterError: '[An error occurred during subscription.]',
+    backToTop: '[Back to top] ⬆️'
   },
   tmh: {
     siteName: 'S-lqesd n-lebɣi n-Măssinăɣ, ikf-anaɣ-d talalit taynayt s-awal n-tideṭ.',
@@ -101,7 +141,15 @@ export const dictionaries = {
     sidebarTopics: 'Isălan / Tiggayin',
     sidebarAll: 'Iket-năsăn',
     sidebarPenalSubstitution: 'Afdu n-lĕʿiqab dăɣ edăgg-năɣ',
-    shareArticle: 'Zăwwăḍ amagrad wa:'
+    shareArticle: 'Zăwwăḍ amagrad wa:',
+    newsletterTitle: '[Newsletter Title] 💌',
+    newsletterDesc: '[Newsletter Description]',
+    newsletterPlaceholder: '[Enter your email here...]',
+    newsletterSubmit: '[Subscribe Now]',
+    newsletterLoading: '[Subscribing...]',
+    newsletterSuccess: '[Thank you for subscribing!]',
+    newsletterError: '[An error occurred during subscription.]',
+    backToTop: '[Back to top] ⬆️'
   },
   mas: {
     siteName: 'Te nkaraki eyieunoto enye, etoiwuo Ninye iyiook to rorei loo sipat',
@@ -118,7 +166,15 @@ export const dictionaries = {
     sidebarTopics: 'Imbaa',
     sidebarAll: 'Pooki',
     sidebarPenalSubstitution: 'Esharunoto naitobir Enkai Nanyokie',
-    shareArticle: 'Pala ena oros:'
+    shareArticle: 'Pala ena oros:',
+    newsletterTitle: '[Newsletter Title] 💌',
+    newsletterDesc: '[Newsletter Description]',
+    newsletterPlaceholder: '[Enter your email here...]',
+    newsletterSubmit: '[Subscribe Now]',
+    newsletterLoading: '[Subscribing...]',
+    newsletterSuccess: '[Thank you for subscribing!]',
+    newsletterError: '[An error occurred during subscription.]',
+    backToTop: '[Back to top] ⬆️'
   }
 };
 

@@ -152,7 +152,15 @@ export default function MarkdownLayout({ title, date, content, tocTitle, showToc
           </div>
 
           <div style={{ margin: '3rem 0' }}>
-            <NewsletterForm />
+            <NewsletterForm 
+              title={(dict as any).newsletterTitle}
+              desc={(dict as any).newsletterDesc}
+              placeholder={(dict as any).newsletterPlaceholder}
+              submitBtn={(dict as any).newsletterSubmit}
+              loadingBtn={(dict as any).newsletterLoading}
+              successMsg={(dict as any).newsletterSuccess}
+              errorMsg={(dict as any).newsletterError}
+            />
           </div>
 
           {relatedPosts && relatedPosts.length > 0 && (
@@ -165,7 +173,7 @@ export default function MarkdownLayout({ title, date, content, tocTitle, showToc
             <Link href={prefix === '' ? '/' : prefix} style={{ color: 'var(--primary)', textDecoration: 'none', fontSize: '1.1rem' }}>
               {dict.home} 🏠
             </Link>
-            <BackToTop />
+            <BackToTop text={(dict as any).backToTop} />
           </div>
         </article>
       </main>

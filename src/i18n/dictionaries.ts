@@ -43,11 +43,11 @@ export const dictionaries = {
     toc: 'Yaliyomo',
     pageNotFound: 'Ukurasa haupatikani',
     loading: 'Inapakia...',
-    sidebarLanguages: 'Languages',
-    sidebarBooks: 'Books',
-    sidebarTopics: 'Topics',
-    sidebarAll: 'All',
-    sidebarPenalSubstitution: 'Penal Substitution'
+    sidebarLanguages: 'Lugha',
+    sidebarBooks: 'Vitabu Kamili',
+    sidebarTopics: 'Mada / Kategoria',
+    sidebarAll: 'Yote',
+    sidebarPenalSubstitution: 'Kafara ya Kiwakilishi'
   },
   shi: {
     siteName: 'S lqesd n lebɣi-ns, iskr aɣ-d talalit tamaynut s wawal n tideț.',

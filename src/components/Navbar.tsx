@@ -110,9 +110,10 @@ export default function Navbar() {
   if (pathname.startsWith('/mas')) lang = 'mas';
   
   const dict = getDictionary(lang);
+  const dir = lang === 'ar' ? 'rtl' : 'ltr';
 
   return (
-    <nav className="navbar">
+    <nav className="navbar" dir={dir}>
       <div className="navbar-container">
         <Link href={lang === 'ar' ? '/' : `/${lang}`} className="navbar-logo">
           {dict.siteName}

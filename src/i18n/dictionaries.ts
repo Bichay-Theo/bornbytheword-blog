@@ -27,11 +27,11 @@ export const dictionaries = {
     toc: 'የጽሑፉ ማውጫ',
     pageNotFound: 'ገጹ አልተገኘም',
     loading: 'በመጫን ላይ...',
-    sidebarLanguages: 'Languages / ቋንቋዎች',
-    sidebarBooks: 'Books / መጽሐፍት',
-    sidebarTopics: 'Topics / ርዕሶች',
-    sidebarAll: 'All',
-    sidebarPenalSubstitution: 'Penal Substitution'
+    sidebarLanguages: 'ቋንቋዎች',
+    sidebarBooks: 'ሙሉ መጻሕፍት',
+    sidebarTopics: 'ርዕሶች / ምድቦች',
+    sidebarAll: 'ሁሉም',
+    sidebarPenalSubstitution: 'የቅጣት ምትክነት ስርየት'
   },
   sw: {
     siteName: 'Kwa kupenda kwake mwenyewe alituzaa sisi kwa neno la kweli.',

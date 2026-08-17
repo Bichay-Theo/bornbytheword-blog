@@ -19,7 +19,7 @@ export default async function Sidebar({ lang = 'ar' }: { lang?: string }) {
       {/* Languages Section */}
       <div style={{ marginBottom: '2.5rem' }}>
         <h3 className="sidebar-title">{lang === 'ar' ? 'اللغات (Languages)' : 'Languages / ቋንቋዎች'}</h3>
-        <ul className="sidebar-list" style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+        <ul className="sidebar-list">
           <li>
             <Link href="/" className="sidebar-link" style={{ fontWeight: lang === 'ar' ? 'bold' : 'normal' }}>📖 العربية</Link>
           </li>

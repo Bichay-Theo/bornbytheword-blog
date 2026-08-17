@@ -107,11 +107,11 @@ export const dictionaries = {
     toc: 'Table of Contents',
     pageNotFound: 'Page not found',
     loading: 'Loading...',
-    sidebarLanguages: 'Languages',
-    sidebarBooks: 'Books',
-    sidebarTopics: 'Topics',
-    sidebarAll: 'All',
-    sidebarPenalSubstitution: 'Penal Substitution'
+    sidebarLanguages: 'Inkutukie',
+    sidebarBooks: 'Imbukui pooki',
+    sidebarTopics: 'Imbaa',
+    sidebarAll: 'Pooki',
+    sidebarPenalSubstitution: 'Esharunoto naitobir Enkai Nanyokie'
   }
 };
 

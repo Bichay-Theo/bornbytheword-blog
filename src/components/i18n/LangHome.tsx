@@ -26,7 +26,7 @@ export default async function LangHome({ lang }: { lang: Locale }) {
           </header>
           
           <Suspense fallback={<div style={{ textAlign: 'center', color: 'var(--text-muted)' }}>{dict.loading}</div>}>
-            <PostList allPosts={allPosts} />
+            <PostList allPosts={allPosts} lang={lang} />
           </Suspense>
         </div>
       </main>

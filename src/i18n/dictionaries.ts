@@ -75,11 +75,11 @@ export const dictionaries = {
     toc: 'Agbur',
     pageNotFound: 'Asebter ur yettwaf ara',
     loading: 'Yetteddu...',
-    sidebarLanguages: 'Languages',
-    sidebarBooks: 'Books',
-    sidebarTopics: 'Topics',
-    sidebarAll: 'All',
-    sidebarPenalSubstitution: 'Penal Substitution'
+    sidebarLanguages: 'Tutlayin',
+    sidebarBooks: 'Tiktabin s lekmal-nsent',
+    sidebarTopics: 'Isental / Taggayin',
+    sidebarAll: 'Irkulli',
+    sidebarPenalSubstitution: 'Asebbel n lɛiqab deg wemkan-nneɣ'
   },
   tmh: {
     siteName: 'S-lqesd n-lebɣi n-Măssinăɣ, ikf-anaɣ-d talalit taynayt s-awal n-tideṭ.',

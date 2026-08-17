@@ -91,11 +91,11 @@ export const dictionaries = {
     toc: 'Umuɣ n umgrad',
     pageNotFound: 'Tasna ur tlli',
     loading: 'Ar itzgg...',
-    sidebarLanguages: 'Languages',
-    sidebarBooks: 'Books',
-    sidebarTopics: 'Topics',
-    sidebarAll: 'All',
-    sidebarPenalSubstitution: 'Penal Substitution'
+    sidebarLanguages: 'Ilsawăn',
+    sidebarBooks: 'Ălkəttabăn imdanen',
+    sidebarTopics: 'Isălan / Tiggayin',
+    sidebarAll: 'Iket-năsăn',
+    sidebarPenalSubstitution: 'Afdu n-lĕʿiqab dăɣ edăgg-năɣ'
   },
   mas: {
     siteName: 'Te nkaraki eyieunoto enye, etoiwuo Ninye iyiook to rorei loo sipat',

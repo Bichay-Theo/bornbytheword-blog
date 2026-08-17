@@ -1,5 +1,5 @@
 ---
-title: "**Kafara ya Kiwakilishi (1): Ukombozi katika Agano la Kale.. Nani ni Ndugu Mkombozi?**"
+title: "Kafara ya Kiwakilishi (1): Ukombozi katika Agano la Kale.. Nani ni Ndugu Mkombozi?"
 date: "2026-07-26T00:00:00Z"
 slug: "penal-substitution-1-ot-redemption"
 labels: ["الكفارة البدلية"]

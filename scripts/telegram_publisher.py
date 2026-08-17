@@ -117,30 +117,109 @@ def main():
         print(f"Error creating Telegraph page: {e}")
         return
 
+    # Localization for Telegram posts
+    LOCALIZATION = {
+        "ar": {
+            "new_article": "مقال جديد:",
+            "read_article": "لقراءة المقال:",
+            "poll_question": "كيف تقيم هذا المقال؟",
+            "poll_options": ["ممتاز", "مفيد جداً", "قرأته للنهاية"]
+        },
+        "sw": {
+            "new_article": "Makala Mpya:",
+            "read_article": "Kusoma makala haya:",
+            "poll_question": "Unawezaje kutathmini makala haya?",
+            "poll_options": ["Bora sana", "Yanafaa sana", "Nimeyasoma hadi mwisho"]
+        },
+        "am": {
+            "new_article": "አዲስ ጽሑፍ:",
+            "read_article": "ጽሑፉን ለማንበብ:",
+            "poll_question": "ይህን ጽሑፍ እንዴት ይገመግሙታል?",
+            "poll_options": ["በጣም ጥሩ", "በጣም ጠቃሚ", "እስከ መጨረሻው አነበብኩት"]
+        },
+        "kab": {
+            "new_article": "Amagrad amaynut:",
+            "read_article": "Iwakken ad teɣreḍ amagrad:",
+            "poll_question": "Amek ara tqeyymeḍ amagrad-a?",
+            "poll_options": ["Igerrez nezzeh", "Yenfɛa aṭas", "Ɣriɣ-t ar tagara"]
+        },
+        "shi": {
+            "new_article": "Amgrad amaynu:",
+            "read_article": "Afad ad taɣrt amgrad:",
+            "poll_question": "Manik s tqymt amgrad ad?",
+            "poll_options": ["Ifulki bahra", "Isfaw bahra", "Ɣriɣ-t ar tagari"]
+        },
+        "tmh": {
+            "new_article": "Amagrad amaynu:",
+            "read_article": "Făl ad taɣrăd amagrad:",
+            "poll_question": "Măk tăqăyyămăd amagrad wa?",
+            "poll_options": ["Igarraz", "Yănfa aṭṭas", "Ɣrăɣ-t ar tăgara"]
+        },
+        "mas": {
+            "new_article": "Oros ng'ejuk:",
+            "read_article": "Peisoma ena oros:",
+            "poll_question": "Kaji nipirta ena oros?",
+            "poll_options": ["Sidai naleng", "Enyor naleng", "Aisoma amu edukuya"]
+        },
+        "default": {
+            "new_article": "New Article:",
+            "read_article": "Read the article:",
+            "poll_question": "How do you rate this article?",
+            "poll_options": ["Excellent", "Very useful", "I read it to the end"]
+        }
+    }
+    
+    loc = LOCALIZATION.get(args.lang.lower(), LOCALIZATION["default"])
+
     # Prepare Hook
-    hook_text = f"مقال جديد:\n\n<b>{title}</b>\n\nلقراءة المقال:\n{telegraph_url}"
+    hook_text = f"{loc['new_article']}\n\n<b>{title}</b>\n\n{loc['read_article']}\n{telegraph_url}"
     if args.hook and os.path.exists(args.hook):
         with open(args.hook, 'r', encoding='utf-8') as f:
             hook_text = f.read().replace("{url}", telegraph_url)
 
+    # Extract first image
+    img_match = re.search(r'!\[.*?\]\((.*?)\)', body_md)
+    photo_path = None
+    if img_match:
+        img_url = img_match.group(1)
+        if img_url.startswith(base_url):
+            local_rel = img_url[len(base_url):]
+            if local_rel.startswith("/"):
+                local_rel = local_rel[1:]
+            potential_path = os.path.join(os.path.dirname(script_dir), "public", local_rel.replace('/', os.sep))
+            if os.path.exists(potential_path):
+                photo_path = potential_path
+
     # Send Message
     print("\nSending to Telegram channel...")
-    send_message_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
-    payload = {
-        "chat_id": chat_id,
-        "text": hook_text,
-        "parse_mode": "HTML"
-    }
-    r = requests.post(send_message_url, json=payload)
+    if photo_path:
+        print(f"Uploading image: {photo_path}")
+        send_url = f"https://api.telegram.org/bot{bot_token}/sendPhoto"
+        payload = {
+            "chat_id": chat_id,
+            "caption": hook_text,
+            "parse_mode": "HTML"
+        }
+        with open(photo_path, 'rb') as photo_file:
+            r = requests.post(send_url, data=payload, files={"photo": photo_file})
+    else:
+        send_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+        payload = {
+            "chat_id": chat_id,
+            "text": hook_text,
+            "parse_mode": "HTML"
+        }
+        r = requests.post(send_url, json=payload)
+
     if r.status_code == 200:
         print("Message sent successfully!")
     else:
         print(f"Error sending message: {r.text}")
-        
+
     # Prepare and Send Poll
     poll_data = {
-        "question": "كيف تقيم هذا المقال؟ (تجربة للأتمتة)",
-        "options": ["ممتاز", "مفيد جداً", "قرأته للنهاية"],
+        "question": loc["poll_question"],
+        "options": loc["poll_options"],
         "is_anonymous": True
     }
     if args.poll and os.path.exists(args.poll):

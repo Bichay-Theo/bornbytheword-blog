@@ -42,14 +42,14 @@ export const dictionaries = {
     sidebarAll: 'ሁሉም',
     sidebarPenalSubstitution: 'የቅጣት ምትክነት ስርየት',
     shareArticle: 'ይህን ጽሑፍ ያጋሩ:',
-    newsletterTitle: '[Newsletter Title] 💌',
-    newsletterDesc: '[Newsletter Description]',
-    newsletterPlaceholder: '[Enter your email here...]',
-    newsletterSubmit: '[Subscribe Now]',
-    newsletterLoading: '[Subscribing...]',
-    newsletterSuccess: '[Thank you for subscribing!]',
-    newsletterError: '[An error occurred during subscription.]',
-    backToTop: '[Back to top] ⬆️'
+    newsletterTitle: 'ያነበቡት ነገር አስደስቶዎታል? 💌',
+    newsletterDesc: 'አዳዲስ ሥነ-መለኮታዊ ጽሑፎችን በቀጥታ በኢሜል ሳጥንዎ ለማግኘት በኢሜል ዝርዝራችን ውስጥ ይመዝገቡ።',
+    newsletterPlaceholder: 'ኢሜልዎን እዚህ ያስገቡ...',
+    newsletterSubmit: 'አሁኑኑ ይመዝገቡ',
+    newsletterLoading: 'በመመዝገብ ላይ...',
+    newsletterSuccess: 'ስለተመዘገቡ እናመሰግናለን! በኢሜል ዝርዝራችን ውስጥ በተሳካ ሁኔታ ታክለዋል።',
+    newsletterError: 'በምዝገባው ሂደት ስህተት ተከስቷል። እባክዎ ኢሜልዎን ያረጋግጡ ወይም ቆየት ብለው እንደገና ይሞክሩ።',
+    backToTop: 'ወደ ላይ ተመለስ ⬆️'
   },
   sw: {
     siteName: 'Kwa kupenda kwake mwenyewe alituzaa sisi kwa neno la kweli.',

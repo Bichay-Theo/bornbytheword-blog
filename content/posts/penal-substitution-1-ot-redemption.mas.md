@@ -10,10 +10,10 @@ labels: ["الكفارة البدلية"]
 
 26 July 2026
 
-«Ayiolo nanu aajo keishu Olsharunoni lai, naa ore te nkiting'oto keitashe ninye te shumata enkop» (Ayubu 19:25).
-
-«Inchoo metaa isupat irorei le nkutuk ai o ndamunot e ltau lai te dukuya iyie, Olaitoriani, Oloikim lai o Olsharunoni lai» (Masmur 19:14).
-
+> «Ayiolo nanu aajo keishu Olsharunoni lai, naa ore te nkiting'oto keitashe ninye te shumata enkop» (Ayubu 19:25).
+>
+> «Inchoo metaa isupat irorei le nkutuk ai o ndamunot e ltau lai te dukuya iyie, Olaitoriani, Oloikim lai o Olsharunoni lai» (Masmur 19:14).
+>
 Keng'as ena sirata esirit e nkisomata tiatua irorei le Osotua Musana o Osotua Ng'ejuk ooirubare Esharunoto naitobir Enkai Nanyokie, pee kiyiolou enkipirta e Ororei le Nkai ake tialo esiaai e Yesu Kristo ake te nchumata olmusalaba.
 
 Imba naatii atua

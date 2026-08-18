@@ -10,10 +10,10 @@ labels: ["الكفارة البدلية"]
 
 26 Yulyu 2026
 
-« Ma d nekk ẓriɣ belli Bab n ufdu-inu yedder, yerna ɣer taggara ɣef lqaɛa ad ibedd » (Ayyub 19: 25).
-
-« Ad ilin imeslayen n yimi-w d wuxemmem n wul-iw d ayen yelhan zdat-ek a Sidi Ṛebbi, aẓru-inu d Bab n ufdu-inu » (Amezmur 19: 14).
-
+> « Ma d nekk ẓriɣ belli Bab n ufdu-inu yedder, yerna ɣer taggara ɣef lqaɛa ad ibedd » (Ayyub 19: 25).
+>
+> « Ad ilin imeslayen n yimi-w d wuxemmem n wul-iw d ayen yelhan zdat-ek a Sidi Ṛebbi, aẓru-inu d Bab n ufdu-inu » (Amezmur 19: 14).
+>
 Amagrad-agi d tazwara n yiwet n tezrawt deg yimeslayen n Lɛahd Aqdim d Lɛahd Ajdid icudden ɣer usebbel deg wemkan-nneɣ akk-d ufdu, s lqesd n lefhama n lmeɛna n Tira Iqedsen i cceɣl n Yasuɛ ɣef wumidag.
 
 ## Lɛahd Aqdim akk-d yimeslayen n usebbel deg wemkan-nneɣ akk-d ufdu

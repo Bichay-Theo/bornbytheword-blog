@@ -10,10 +10,10 @@ labels: ["الكفارة البدلية"]
 
 26 Julai 2026
 
-«Lakini mimi najua ya kuwa ndugu mkombozi wangu yu hai, Na ya kuwa hatimaye atasimama juu ya nchi» (Ayubu 19:25).
-
-«Maneno ya kinywa changu, na mawazo ya moyo wangu, yapate kibali mbele zako, Ee Bwana, Mwamba wangu, na ndugu mkombozi wangu» (Zaburi 19:14).
-
+> «Lakini mimi najua ya kuwa ndugu mkombozi wangu yu hai, Na ya kuwa hatimaye atasimama juu ya nchi» (Ayubu 19:25).
+>
+> «Maneno ya kinywa changu, na mawazo ya moyo wangu, yapate kibali mbele zako, Ee Bwana, Mwamba wangu, na ndugu mkombozi wangu» (Zaburi 19:14).
+>
 Makala haya ni mwanzo wa mfululizo wa mafunzo katika maneno ya Agano la Kale na Jipya yanayohusiana na kafara na ukombozi, kwa lengo la kuelewa maana ya Kimaandiko ya kazi ya Kristo msalabani.
 
 ## AGANO LA KALE NA MANENO YA KAFARA NA UKOMBOZI

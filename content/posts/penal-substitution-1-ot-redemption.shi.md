@@ -10,10 +10,10 @@ labels: ["الكفارة البدلية"]
 
 26 yulyu 2026
 
-«Macc nkki, ssnɣ is idder uwali-inu, d tigira ɣ iggi n wakal a ɣ ra ibidd» (Ayyub 19: 25).
-
-«Ad ilin iwaliwn n imi-nu d iswingimn n wul-inu f ma k-irḍan ɣ lgddam-nnk a Sidi Ṛebbi, aẓru-nu d uwali-inu» (Mazmur 19: 14).
-
+> «Macc nkki, ssnɣ is idder uwali-inu, d tigira ɣ iggi n wakal a ɣ ra ibidd» (Ayyub 19: 25).
+>
+> «Ad ilin iwaliwn n imi-nu d iswingimn n wul-inu f ma k-irḍan ɣ lgddam-nnk a Sidi Ṛebbi, aẓru-nu d uwali-inu» (Mazmur 19: 14).
+>
 Amagrad-ad iga tazwirt n yat silsila n tɣuri ɣ iwaliwn n Urkawal Aqdim d Urkawal Amaynu lli iqnn s usfel n ufdu ɣ wemkan-nneɣ, baš a nefhem lmeɛna n Tira Iqedsen i twuri n Lmasiḥ f uggjdi.
 
 ## Arkawal Aqdim d iwaliwn n usfel d ufdu 

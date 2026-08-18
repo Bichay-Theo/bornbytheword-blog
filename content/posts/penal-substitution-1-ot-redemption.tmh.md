@@ -10,10 +10,10 @@ labels: ["الكفارة البدلية"]
 
 26 Yulyu 2026
 
-«Măšan năkk, əssanăɣ a-s Ămaɣlas-in (Go'el) iddar, ad-ibdăd dăɣ-amăgaru făll-ăkall.» (Ayyub 19: 25).
-
-«Ad-umasăn iməjridăn n-emm-in d-inəzjam n-ulh-in a ijrăẓăn data-k ya Emăli, Tăhunt-in d-Ămaɣlas-in.» (Ăẓẓăbur 19: 14).
-
+> «Măšan năkk, əssanăɣ a-s Ămaɣlas-in (Go'el) iddar, ad-ibdăd dăɣ-amăgaru făll-ăkall.» (Ayyub 19: 25).
+>
+> «Ad-umasăn iməjridăn n-emm-in d-inəzjam n-ulh-in a ijrăẓăn data-k ya Emăli, Tăhunt-in d-Ămaɣlas-in.» (Ăẓẓăbur 19: 14).
+>
 Ămaqal-wa-dăɣ, ămoos sănto n-əsəlmad dăɣ-iməjridăn n-Ărkăwăl wa n-Zik d-Ărkăwăl wa ăynayăn wi ăqqannen d-Asebbel dăɣ edăgg-năɣ d-Ufdu, s-lqesd n-ujreh n-ălmăɣna wa n-Tira Šăddijănin n-imaḥalan n-Ălmasex făll-tajəttewt.
 
 ## Ărkăwăl wa n-Zik d-iməjridăn n-Asebbel dăɣ edăgg-năɣ d-Ufdu 

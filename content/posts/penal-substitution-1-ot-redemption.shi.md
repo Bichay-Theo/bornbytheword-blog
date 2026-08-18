@@ -16,25 +16,13 @@ labels: ["الكفارة البدلية"]
 
 Amagrad-ad iga tazwirt n yat silsila n tɣuri ɣ iwaliwn n Urkawal Aqdim d Urkawal Amaynu lli iqnn s usfel n ufdu ɣ wemkan-nneɣ, baš a nefhem lmeɛna n Tira Iqedsen i twuri n Lmasiḥ f uggjdi.
 
-Ma illan ɣ umagrad
-
-Arkawal Aqdim d iwaliwn n usfel d ufdu
-
-"Awali" (Go'el) d ccṛeɛ n ufsi
-
-"Tafidit" (Padhah) d nnuqrt n usfel.. I mit a ittuɣma atig?
-
-Ljdud n tejmaɛt: Lmasiḥ iga Awali n tideț
-
-Ur illi leslak bla a ittuɣma watig
-
-Arkawal Aqdim d iwaliwn n usfel d ufdu ↩
+## Arkawal Aqdim d iwaliwn n usfel d ufdu 
 
 Ɣakud nna naqra Arkawal Amaynu nẓr is sawln irqqasn f uggjdi s iwaliwn zun d "afdu", "asfel", "asisg n Lḥqq n Ṛebbi", ur aɣ-d-iqqan a nettu yat tideț imqqurn: irqqasn-ad kkan-tt-in gan ayt-yudaya. Hatti swun iswingimn-nsn s tiɣawsiwin n Urkawal Aqdim d ccṛeɛ-ns, d ɣmkad a iqṣad Yakuc; ašku Ṛebbi, s Urkawal Aqdim d iwaliwn-ns d twlafin-ns d ccraɛ-ns, iskr aheggi i lfehmt n bnadm baš a iqbel Amfdu lli ra d-yašk. F-mayan, iɣ nera a nefhem s tideț mad qṣadn Bulus d Buṭrus lliɣ sawln f "ufdu", ur nẓḍar a nttkel ɣir f imawaln n tutlayt tayunanit, macc iqqan-aɣ-d a nwrri s iẓuṛan n iwaliwn-ad ɣ Urkawal Aqdim.
 
 Ɣ warrat-ns "Tigri tarqqast s uggjdi" (The Apostolic Preaching of the Cross), lli igan zɣ warratn bahra ihiyyann ɣ uṣfaw n lqesd n ufdu, issenqwa umassan n tesnillawit "Lyun Muris" (Leon Morris) is iwaliwn n leslak ur gin ɣir iwaliwn n tskla, macc gan iwaliwn n ccṛeɛ d tesnillawit iḥeṛcen lli ismunt f iɣf-nsn aheggi n "watig ittuɣman" s ufus n "ubdil n ccṛeɛ".
 
-"Awali" (Go'el) d ccṛeɛ n ufsi ↩
+## "Awali" (Go'el) d ccṛeɛ n ufsi
 
 Tga tguri n (Go'el) taɛibrit yat zɣ tguriwin imqqurn n Urkawal Aqdim, ar ittyawtrjam ɣ dɣi s "Awali" nɣ "Amfdu". Tqen tguri-yad bahra s "ccṛeɛ n ufsi". Ɣ ccṛeɛ n Urkawal Aqdim (Ilawiyen 25: 25) naqra: «Iɣ iẓleṭ gʷmak isenz zɣ wayda-ns, yašk-id uwali-ns aqṛib srs ifsi maylli isenz gʷmas». Iɣ iẓleṭ yan gu-israyil iḥtajj ad isenz akal-ns nɣ ad isenz iɣf-ns zun d ismg baš ad iɣrm aṭṭal-ns, hatti ijla tilelli-ns kullutt ur iẓḍar ad ifsi iɣf-ns, ɣid a ɣ d-iban dduṛ n uwali a iskr "afsi".
 
@@ -42,13 +30,13 @@ Awali iga-t uqṛib s idammn, tawuri-ns tamzwarut tga-tt a ikcem ad ijjnjm aqṛ
 
 Amedya ittyawssann bahra i ɣayad iga-t "Buɛaz" ɣ warrat n Raɛut, lli ur iẓḍarn ad ifdu lwrt n Alimalik itahl Raɛut ɣir s wawal n lḥub-ns fllas, macc illa fllas ccṛeɛ a ifk atig ɣ lgddam n mddn isɣ lḥqq n ufsi s ccṛeɛ: «Isawl uwali yini: Ur ẓḍarɣ ad fsiɣ i yiɣf-inu a-ur-imil hlkɣ lwrt-inu. Fsi kiyi i yiɣf-nnk afsi-nu ašku ur ẓḍarɣ ad fsiɣ» (Raɛut 4: 6).
 
-"Tafidit" (Padhah) d nnuqrt n usfel.. I mit a ittuɣma atig? ↩
+## "Tafidit" (Padhah) d nnuqrt n usfel.. I mit a ittuɣma atig?
 
 Awal aɛibri yaḍni iga-t (Padhah), ar iseqdec i ufsi aṣrfi n ismgan ula atig n warraw imzwura ɣmklli yuṣṣa Yakuc ɣ (Uffuɣ 13: 13-15): «D kraygatt arraw amzwaru n tarwa-nnk tfdu-t... Lliɣ inɣa Ṛebbi kraygatt amzwaru ɣ tmazirt n miṣr, zɣ umzwaru n mddn ar amzwaru n lbhaym. F-mayan a f a ɣresɣ i Ṛebbi... ula a fduɣ kraygatt amzwaru zɣ tarwa-nu». Awal-ad issers llsas idusn: Afdu ɣ Arratn imẓlayn n Rbbi ur igi ɣir "afsi", macc iga afsi s atig ittuɣman.
 
 Macc, i mit a ittuɣma watig-ad? Ljawab ifaw ɣ ccṛeɛ n "nnuqrt n usfel" (Uffuɣ 30: 11-16). Ɣakud lliɣ ittyawmrn tarwa n israyil a fkn tafidit f iman-nsn baš ad anfn i lmut ɣakud lliɣ ḥasbn mddn, inna ccṛeɛ: «Ad fkn kraygatt yan tafidit n yiman-ns i Ṛebbi... ad tfkm tawafka n Ṛebbi baš a tg asfel f iman-nnun». Lmeɛna-yad tga tamqqurt ɣ tesnillawit; tafidit ur a tettuɣma i ubu-ṭṭɣyan ula tettuɣma i šiṭan (ɣmklli ɣaln kra n imassanen tigira), macc ar tettuɣma i Yakuc iɣf-ns, a terḍu lḥqq-ns immden a tg asfel f yiman ad njmn zɣ lḥukm n Ṛebbi. Ur a n-nttafa ɣ Urkawal Aqdim kullut kra n lḥalt n ufdu n tideț lli ijran bla a ittuɣma watig nɣ a ittyawfka ubdil (wahxa iga watig nnuqrt, nɣ d tudert n tɣrsi lli iffin d abdil a irḍu lḥqq n Yakuc).
 
-Ljdud n tejmaɛt: Lmasiḥ iga Awali n tideț ↩
+## Ljdud n tejmaɛt: Lmasiḥ iga Awali n tideț
 
 Lmeɛna-yad n Tira: lḥtm n tillit n uwali ula uqṛib s aksum a ifk atig n waṭṭal, ur tgi abeddel iɣribn ula lfikr amaynu lli ur tessin tejmaɛt n ljdud, macc tkka-tt-in tga llsas lli f bnan ljdud imzwura ɣ ccerq afehmu-nsn i wiggʷa aksum d uggjdi.
 
@@ -60,7 +48,7 @@ Inna Atnasyus:
 
 Atnasyus ɣid ar ittakd s lɛibart tacrqiyt taṣliyt is Yakuc Awal "yasi i yiɣf-ns aksum ur ixtelefn f uksum-nnɣ" (iwrri iga awali ula aqṛib) "baš a ig anayb f kullu mddn" ula a iskr ccɣel anayb n ubdil "s maylli ifka aksum-ns i ufdu... iɣrm aṭṭal lli-fllanɣ-illan s lmut-ns".
 
-Ur illi leslak bla a ittuɣma watig ↩
+## Ur illi leslak bla a ittuɣma watig
 
 Ar-aɣ-ifal Urkawal Aqdim ɣ lgddam n yat tideț n tesnillawit ur itqbaln amḥiwec: Nkkʷni nga ismgan mu iḍfer lḥqq n Ṛebbi iqedsn bahra lli ur iẓḍarn a inker tagami-ns n lḥqq. Tilelli ur tẓḍar a tili ɣir s "umun aṣufi" nɣ "aṣfaw n ṛṛuḥ" ɣmklli ar ttirmin kra n mddn ɣassad a ssimẓin asfel n Lmasiḥ. Tilelli tiḥtajja "awali" iẓḍarn d iran ad ibidd ɣ wemkan-nnɣ, a yasi taẓayt n waṭṭal-nnɣ, ula a ifk atig kullut i lḥqq n Yakuc. Xtad a igan Taḥninit n Yakuc d Lfeḍl-ns iggutn «... ula nkki lli-igan yus n-bnadm, ur-d-uškiɣ ad-flla-teḥdamn mddn. Uškiɣ-d ad teḥdemɣ, fkɣ tudert-inu ad fukkuɣ ma-iggutn» (Marqus 10: 45).
 

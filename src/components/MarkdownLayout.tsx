@@ -14,7 +14,8 @@ function processHtmlAndExtractTOC(html: string, dict: any) {
     if (text) {
       toc.push({ id, text, level: tag.toLowerCase() === 'h2' ? 2 : 3 });
     }
-    return `<${tag} id="${id}"${attrs}>${content} <a href="#toc" class="back-to-toc" title="↩">↩</a></${tag}>`;
+    const cleanContent = content.replace(/↩/g, '').trim();
+    return `<${tag} id="${id}"${attrs}>${cleanContent} <a href="#toc" class="back-to-toc" title="↩">↩</a></${tag}>`;
   });
 
   // Fix image paths for GitHub Pages subpath

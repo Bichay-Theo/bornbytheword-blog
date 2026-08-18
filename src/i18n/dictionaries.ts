@@ -92,14 +92,14 @@ export const dictionaries = {
     sidebarAll: 'Kullu',
     sidebarPenalSubstitution: 'Asfel n Ufdu ɣ wemkan-nneɣ',
     shareArticle: 'Bḍu amgrad ad:',
-    newsletterTitle: '[Newsletter Title] 💌',
-    newsletterDesc: '[Newsletter Description]',
-    newsletterPlaceholder: '[Enter your email here...]',
-    newsletterSubmit: '[Subscribe Now]',
-    newsletterLoading: '[Subscribing...]',
-    newsletterSuccess: '[Thank you for subscribing!]',
-    newsletterError: '[An error occurred during subscription.]',
-    backToTop: '[Back to top] ⬆️'
+    newsletterTitle: 'Is ak-iɛjb mayd tɣrit? 💌',
+    newsletterDesc: 'Zmmem ism-nnk ɣ tglamt-nnɣ n tbratin baš a k-id-lkmn imgradn ineggarun n tasnillawit dduɣri s usanduq-nnk n l'imil.',
+    newsletterPlaceholder: 'Sskcm l'imil-nnk ɣid...',
+    newsletterSubmit: 'Zmmem ɣilad',
+    newsletterLoading: 'Ar ittyazzmmam...',
+    newsletterSuccess: 'Tanmmirt f uzmmem-nnk! Ttzaydt ɣ tglamt n tbratin-nnɣ s lnnajaḥ.',
+    newsletterError: 'Ijra kra n lɣalaṭ ɣ uzmmem. Mqqaṛ sqqel l'imil-nnk nɣ taɛudt tarmt tizi yaḍn.',
+    backToTop: 'Wrri s uflla ⬆️'
   },
   kab: {
     siteName: 'S lqesd n lebɣi-s, i ɣ-d-yefka talalit tajdit s wawal n tideț.',

@@ -167,14 +167,14 @@ export const dictionaries = {
     sidebarAll: 'Pooki',
     sidebarPenalSubstitution: 'Esharunoto naitobir Enkai Nanyokie',
     shareArticle: 'Pala ena oros:',
-    newsletterTitle: '[Newsletter Title] 💌',
-    newsletterDesc: '[Newsletter Description]',
-    newsletterPlaceholder: '[Enter your email here...]',
-    newsletterSubmit: '[Subscribe Now]',
-    newsletterLoading: '[Subscribing...]',
-    newsletterSuccess: '[Thank you for subscribing!]',
-    newsletterError: '[An error occurred during subscription.]',
-    backToTop: '[Back to top] ⬆️'
+    newsletterTitle: 'Ishipa iyie nena inisoma? 💌',
+    newsletterDesc: 'Itisila enkarna ino te nkalata ang e nkilikuai peyie itum isirarat ng\'ejuko le Nkai te sanduku ino e nkilikuai.',
+    newsletterPlaceholder: 'Siraka emeli ino tene...',
+    newsletterSubmit: 'Itisila Taata',
+    newsletterLoading: 'Egira aitisilari...',
+    newsletterSuccess: 'Ashe peyie itisila enkarna ino! Eitaaraki iyie te nkalata ang e nkilikuai.',
+    newsletterError: 'Eeta entoki neme itobir tiatua enkitisilat. Inging\'ora emeli ino aashu itema ake kenya.',
+    backToTop: 'Shuku shumata ⬆️'
   }
 };
 

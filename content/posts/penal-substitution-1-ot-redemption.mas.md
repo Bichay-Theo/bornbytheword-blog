@@ -75,4 +75,4 @@ Ndamunoto: eikudukud nkisomata oo rorei tiatua ena sirit pee eisho endamunoto te
 
 Tosoma sii tiatua esirit e Esharunoto naitobir Enkai Nanyokie:
 
-Erubata e Are: Esharunoto tiatua Osotua Ng'ejuk.. o isokoni loo isinkan
+[Erubata e Are: Esharunoto tiatua Osotua Ng'ejuk.. o isokoni loo isinkan](/penal-substitution-2-nt-lutron)

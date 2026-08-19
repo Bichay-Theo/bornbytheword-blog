@@ -92,14 +92,14 @@ export const dictionaries = {
     sidebarAll: 'Kullu',
     sidebarPenalSubstitution: 'Asfel n Ufdu ɣ wemkan-nneɣ',
     shareArticle: 'Bḍu amgrad ad:',
-    newsletterTitle: 'Is ak-iɛjb mayd tɣrit? 💌',
-    newsletterDesc: 'Zmmem ism-nnk ɣ tglamt-nnɣ n tbratin baš a k-id-lkmn imgradn ineggarun n tasnillawit dduɣri s usanduq-nnk n l'imil.',
-    newsletterPlaceholder: 'Sskcm l'imil-nnk ɣid...',
-    newsletterSubmit: 'Zmmem ɣilad',
-    newsletterLoading: 'Ar ittyazzmmam...',
-    newsletterSuccess: 'Tanmmirt f uzmmem-nnk! Ttzaydt ɣ tglamt n tbratin-nnɣ s lnnajaḥ.',
-    newsletterError: 'Ijra kra n lɣalaṭ ɣ uzmmem. Mqqaṛ sqqel l'imil-nnk nɣ taɛudt tarmt tizi yaḍn.',
-    backToTop: 'Wrri s uflla ⬆️'
+    newsletterTitle: "Is ak-iɛjb mayd tɣrit? 💌",
+    newsletterDesc: "Zmmem ism-nnk ɣ tglamt-nnɣ n tbratin baš a k-id-lkmn imgradn ineggarun n tasnillawit dduɣri s usanduq-nnk n l'imil.",
+    newsletterPlaceholder: "Sskcm l'imil-nnk ɣid...",
+    newsletterSubmit: "Zmmem ɣilad",
+    newsletterLoading: "Ar ittyazzmmam...",
+    newsletterSuccess: "Tanmmirt f uzmmem-nnk! Ttzaydt ɣ tglamt n tbratin-nnɣ s lnnajaḥ.",
+    newsletterError: "Ijra kra n lɣalaṭ ɣ uzmmem. Mqqaṛ sqqel l'imil-nnk nɣ taɛudt tarmt tizi yaḍn.",
+    backToTop: "Wrri s uflla ⬆️"
   },
   kab: {
     siteName: 'S lqesd n lebɣi-s, i ɣ-d-yefka talalit tajdit s wawal n tideț.',

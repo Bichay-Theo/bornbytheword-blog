@@ -91,10 +91,10 @@ function LanguageSwitcher({ currentLang }: { currentLang: string }) {
       <option value="ar">🌐 العربية</option>
       <option value="am">🌐 አማርኛ</option>
       <option value="sw">🌐 Kiswahili</option>
-      <option value="shi">🌐 Tashelhit (Atlas / ⵜⴰⵛⵍⵃⵉⵜ)</option>
-      <option value="kab">🌐 Taqbaylit (North / ⵜⴰⵇⴱⴰⵢⵍⵉⵜ)</option>
-      <option value="tmh">🌐 Tamasheq (Sahara / ⵜⴰⵎⴰⵌⴰⵆ)</option>
-      <option value="mas">🌐 Maa (Maasai)</option>
+      <option value="shi">🌐 Tashelhit</option>
+      <option value="kab">🌐 Taqbaylit</option>
+      <option value="tmh">🌐 Tamasheq</option>
+      <option value="mas">🌐 Maa</option>
     </select>
   );
 }

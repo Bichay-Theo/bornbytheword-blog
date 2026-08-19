@@ -18,30 +18,34 @@ export default async function Sidebar({ lang = 'ar' }: { lang?: string }) {
     <div className="sidebar">
       {/* Languages Section */}
       <div style={{ marginBottom: '2.5rem' }}>
-        <h3 className="sidebar-title">{dict.sidebarLanguages}</h3>
-        <ul className="sidebar-list">
-          <li>
-            <Link href="/" className="sidebar-link" style={{ fontWeight: lang === 'ar' ? 'bold' : 'normal' }}>📖 العربية</Link>
-          </li>
-          <li>
-            <Link href="/am" className="sidebar-link" style={{ fontWeight: lang === 'am' ? 'bold' : 'normal' }}>📖 አማርኛ (Amharic)</Link>
-          </li>
-          <li>
-            <Link href="/sw" className="sidebar-link" style={{ fontWeight: lang === 'sw' ? 'bold' : 'normal' }}>📖 Kiswahili</Link>
-          </li>
-          <li>
-            <Link href="/mas" className="sidebar-link" style={{ fontWeight: lang === 'mas' ? 'bold' : 'normal' }}>📖 Maa (Maasai)</Link>
-          </li>
-          <li>
-            <Link href="/tmh" className="sidebar-link" style={{ fontWeight: lang === 'tmh' ? 'bold' : 'normal' }}>📖 Tamasheq</Link>
-          </li>
-          <li>
-            <Link href="/kab" className="sidebar-link" style={{ fontWeight: lang === 'kab' ? 'bold' : 'normal' }}>📖 Taqbaylit (Kabyle)</Link>
-          </li>
-          <li>
-            <Link href="/shi" className="sidebar-link" style={{ fontWeight: lang === 'shi' ? 'bold' : 'normal' }}>📖 Tashelhit (Chleuh)</Link>
-          </li>
-        </ul>
+        <details>
+          <summary className="sidebar-title" style={{ cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+            <span>🌐</span> {dict.sidebarLanguages}
+          </summary>
+          <ul className="sidebar-list" style={{ marginTop: '1rem' }}>
+            <li>
+              <Link href="/" className="sidebar-link" style={{ fontWeight: lang === 'ar' ? 'bold' : 'normal' }}>📖 العربية</Link>
+            </li>
+            <li>
+              <Link href="/am" className="sidebar-link" style={{ fontWeight: lang === 'am' ? 'bold' : 'normal' }}>📖 አማርኛ</Link>
+            </li>
+            <li>
+              <Link href="/sw" className="sidebar-link" style={{ fontWeight: lang === 'sw' ? 'bold' : 'normal' }}>📖 Kiswahili</Link>
+            </li>
+            <li>
+              <Link href="/mas" className="sidebar-link" style={{ fontWeight: lang === 'mas' ? 'bold' : 'normal' }}>📖 Maa</Link>
+            </li>
+            <li>
+              <Link href="/tmh" className="sidebar-link" style={{ fontWeight: lang === 'tmh' ? 'bold' : 'normal' }}>📖 Tamasheq</Link>
+            </li>
+            <li>
+              <Link href="/kab" className="sidebar-link" style={{ fontWeight: lang === 'kab' ? 'bold' : 'normal' }}>📖 Taqbaylit</Link>
+            </li>
+            <li>
+              <Link href="/shi" className="sidebar-link" style={{ fontWeight: lang === 'shi' ? 'bold' : 'normal' }}>📖 Tashelhit</Link>
+            </li>
+          </ul>
+        </details>
       </div>
 
       {/* Books Section */}

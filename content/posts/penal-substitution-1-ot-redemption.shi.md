@@ -9,9 +9,9 @@ labels: ["الكفارة البدلية"]
 
 26 yulyu 2026
 
-> «Macc nkki, ssnɣ is idder uwali-inu, d tigira ɣ iggi n wakal a ɣ ra ibidd» (Ayyub 19: 25).
+> «Macc nkki, ssnɣ is idder uwali-inu, d tigira ɣ iggi n wakal a ɣ ra ibidd» (Ayyub 19: 25)
 
-> «Ad ilin iwaliwn n imi-nu d iswingimn n wul-inu f ma k-irḍan ɣ lgddam-nnk a Massinaɣ, aẓru-nu d uwali-inu» (Mazmur 19: 14).
+> «Ad ilin iwaliwn n imi-nu d iswingimn n wul-inu f ma k-irḍan ɣ lgddam-nnk a Massinaɣ, aẓru-nu d uwali-inu» (Mazmur 19: 14)
 
 Amagrad-ad iga tazwirt n yat silsila n tɣuri ɣ iwaliwn n Urkawal Aqdim d Urkawal Amaynu lli iqnn s usfel n ufdu ɣ wemkan-nneɣ, baš a nefhem lmeɛna n Warratn imẓlayn n-Massinaɣ i twuri n Lmasiḥ f uggjdi.
 
@@ -25,7 +25,7 @@ Amagrad-ad iga tazwirt n yat silsila n tɣuri ɣ iwaliwn n Urkawal Aqdim d Urkaw
 
 Tga tguri n (Go'el) taɛibrit yat zɣ tguriwin imqqurn n Urkawal Aqdim, ar ittyawtrjam ɣ dɣi s "Awali" nɣ "Amfdu". Tqen tguri-yad bahra s "ccṛeɛ n ufsi". Ɣ ccṛeɛ n Urkawal Aqdim (Ilawiyen 25: 25) naqra:
 
-> «Iɣ iẓleṭ gʷmak isenz zɣ wayda-ns, yašk-id uwali-ns aqṛib srs ifsi maylli isenz gʷmas».
+> «Iɣ iẓleṭ gʷmak isenz zɣ wayda-ns, yašk-id uwali-ns aqṛib srs ifsi maylli isenz gʷmas» (Ilawiyen 25: 25)
 
 Iɣ iẓleṭ yan gu-israyil iḥtajj ad isenz akal-ns nɣ ad isenz iɣf-ns zun d ismg baš ad iɣrm aṭṭal-ns, hatti ijla tilelli-ns kullutt ur iẓḍar ad ifsi iɣf-ns, ɣid a ɣ d-iban dduṛ n uwali a iskr "afsi".
 
@@ -33,31 +33,31 @@ Awali iga-t uqṛib s idammn, tawuri-ns tamzwarut tga-tt a ikcem ad ijjnjm aqṛ
 
 Amedya ittyawssann bahra i ɣayad iga-t "Buɛaz" ɣ warrat n Raɛut, lli ur iẓḍarn ad ifdu lwrt n Alimalik itahl Raɛut ɣir s wawal n lḥub-ns fllas, macc illa fllas ccṛeɛ a ifk atig ɣ lgddam n mddn isɣ lḥqq n ufsi s ccṛeɛ:
 
-> «Isawl uwali yini: Ur ẓḍarɣ ad fsiɣ i yiɣf-inu a-ur-imil hlkɣ lwrt-inu. Fsi kiyi i yiɣf-nnk afsi-nu ašku ur ẓḍarɣ ad fsiɣ» (Raɛut 4: 6).
+> «Isawl uwali yini: Ur ẓḍarɣ ad fsiɣ i yiɣf-inu a-ur-imil hlkɣ lwrt-inu. Fsi kiyi i yiɣf-nnk afsi-nu ašku ur ẓḍarɣ ad fsiɣ» (Raɛut 4: 6)
 
 ## "Tafidit" (Padhah) d nnuqrt n usfel.. I mit a ittuɣma atig?
 
-Awal aɛibri yaḍni iga-t (Padhah), ar iseqdec i ufsi aṣrfi n ismgan ula atig n warraw imzwura ɣmklli yuṣṣa Massinaɣ ɣ (Uffuɣ 13: 13-15):
+Awal aɛibri yaḍni iga-t (Padhah), ar iseqdec i ufsi aṣrfi n ismgan ula atig n warraw imzwura ɣmklli yuṣṣا Massinaɣ ɣ (Uffuɣ 13: 13-15):
 
-> «D kraygatt arraw amzwaru n tarwa-nnk tfdu-t... Lliɣ inɣa Massinaɣ kraygatt amzwaru ɣ tmazirt n miṣr, zɣ umzwaru n mddn ar amzwaru n lbhaym. F-mayan a f a ɣresɣ i Massinaɣ... ula a fduɣ kraygatt amzwaru zɣ tarwa-nu».
+> «D kraygatt arraw amzwaru n tarwa-nnk tfdu-t... Lliɣ inɣa Massinaɣ kraygatt amzwaru ɣ tmazirt n miṣr, zɣ umzwaru n mddn ar amzwaru n lbhaym. F-mayan a f a ɣresɣ i Massinaɣ... ula a fduɣ kraygatt amzwaru zɣ tarwa-nu» (Uffuɣ 13: 13-15)
 
 Awal-ad issers llsas idusn: Afdu ɣ Warratn imẓlayn n-Massinaɣ ur igi ɣir "afsi", macc iga afsi s atig ittuɣman.
 
 Macc, i mit a ittuɣma watig-ad? Ljawab ifaw ɣ ccṛeɛ n "nnuqrt n usfel" (Uffuɣ 30: 11-16). Ɣakud lliɣ ittyawmrn tarwa n israyil a fkn tafidit f iman-nsn baš ad anfn i lmut ɣakud lliɣ ḥasbn mddn, inna ccṛeɛ:
 
-> «Ad fkn kraygatt yan tafidit n yiman-ns i Massinaɣ... ad tfkm tawafka n-Massinaɣ baš a tg asfel f iman-nnun».
+> «Ad fkn kraygatt yan tafidit n yiman-ns i Massinaɣ... ad tfkm tawafka n-Massinaɣ baš a tg asfel f iman-nnun» (Uffuɣ 30: 12-15)
 
 Lmeɛna-yad tga tamqqurt ɣ tesnillawit; tafidit ur a tettuɣma i ubu-ṭṭɣyan ula tettuɣma i šiṭan (ɣmklli ɣaln kra n imassanen tigira), macc ar tettuɣma i Massinaɣ iɣf-ns, a terḍu lḥqq-ns immden a tg asfel f yiman ad njmn zɣ lḥukm n-Massinaɣ. Ur a n-nttafa ɣ Urkawal Aqdim kullut kra n lḥalt n ufdu n tideț lli ijran bla a ittuɣma watig nɣ a ittyawfka ubdil (wahxa iga watig nnuqrt, nɣ d tudert n tɣrsi lli iffin d abdil a irḍu lḥqq n-Massinaɣ).
 
 ## Ljdud n tejmaɛt: Lmasiḥ iga Awali n tideț
 
-Lmeɛna-yad n Warratn imẓlayn n-Massinaɣ: lḥtm n tillit n uwali ula uqṛib s aksum a ifk atig n waṭṭal, ur tgi abeddel iɣribn ula lfikr amaynu lli ur tessin tejmaɛt n ljdud, macc tkka-tt-in tga llsas lli f bnan ljdud imzwura ɣ ccerq afehmu-nsn i wiggʷa aksum d uggjdi.
+Lmeɛna-yad n Warratn imẓlayn n-Massinaɣ: lḥtm n tillit n uwali ula uqṛib s aksum a ifk atig n waṭṭaln, ur tgi abeddel iɣribn ula lfikr amaynu lli ur tessin tejmaɛt n ljdud, macc tkka-tt-in tga llsas lli f bnan ljdud imzwura ɣ ccerq afehmu-nsn i wiggʷa aksum d uggjdi.
 
-Lqddis Atnasyus arqqas, ɣ warrat-ns amxlad "Iggʷa awal aksum", ifhem mzyan is Massinaɣ ur iẓḍar a ifl tagami-ns n lḥqq ula a ikkis lḥukm n lmut ɣir s Tmella, ɣmklli ula bnadm ur iẓḍar ad iɣrm atig n waṭṭaln-ns. Ašku Tmella tga a iɣrm nttat lḥaṛjat n tgami-ns n lḥqq. Ma iskr ilmma "Lwġus" (Awal) lli illan dar Massinaɣ d lli igan Massinaɣ? Iwrri iga "awali" nnɣ, iwrri iga aqṛib-nnɣ s idammn ula aksum baš a yiṭṭef "lḥqq n ufsi", baš a ig abdil s ccṛeɛ lli iẓḍarn a ifk atig.
+Lqddis Atnasyus arqqas, ɣ warrat-ns amxlad "Iggʷa awal aksum", ifhem mzyan is Massinaɣ ur iẓḍar a ifl tagami-ns n lḥqq ula a ikkis lḥukm n lmut ɣir s Tmella, ɣmklli ula bnadm ur iẓḍar ad iɣrm atig n waṭṭaln-ns. Ašku Tmella tga a iɣrm nttat lḥaṛjat n tgami-ns n lḥqq. Ma iskr ilmma "Lwġus" (Awal) lli illan dar Massinaɣ d lli igan Massinaɣ? Iwrri iga "awali" nnɣ, iwrri iga aqṛib-nnɣ s idammn ula aksum baš a yiṭṭef "lḥqq n ufsi", baš a ig abdil s ccṛε lli iẓḍarn a ifk atig.
 
 Inna Atnasyus:
 
-> "Ašku lliɣ iẓra "Lwġus" (Awal) is axsar n bnadm ur iẓḍar a ikemmel abla s lmut, d lliɣ ur iẓḍar Awal a immt ašku ur a ittemtat... yasi i yiɣf-ns aksum ur ixtelefn f uksum-nnɣ... baš a ig anayb f kullu mddn ɣ lmut, a t-ifk i Baba... s maylli ifka aksum-ns i ufdu f uksum n kullu mddn, iɣrm aṭṭal lli-fllanɣ-illan s lmut-ns" ("Iggʷa awal aksum" - Ixef 8 d 9).
+> "Ašku lliɣ iẓra "Lwġus" (Awal) is axsar n bnadm ur iẓḍar a ikemmel abla s lmut, d lliɣ ur iẓḍar Awal a immt ašku ur a ittemtat... yasi i yiɣf-ns aksum ur ixtelefn f uksum-nnɣ... baš a ig anayb f kullu mddn ɣ lmut, a t-ifk i Baba... s maylli ifka aksum-ns i ufdu f uksum n kullu mddn, iɣrm aṭṭal lli-fllanɣ-illan s lmut-ns" ("Iggʷa awal aksum" - Ixef 8 d 9)
 
 Atnasyus ɣid ar ittakd s lɛibart tacrqiyt taṣliyt is Massinaɣ Awal "yasi i yiɣf-ns aksum ur ixtelefn f uksum-nnɣ" (iwrri iga awali ula aqṛib) "baš a ig anayb f kullu mddn" ula a iskr ccɣel anayb n ubdil "s maylli ifka aksum-ns i ufdu... iɣrm aṭṭal lli-fllanɣ-illan s lmut-ns".
 
@@ -65,7 +65,7 @@ Atnasyus ɣid ar ittakd s lɛibart tacrqiyt taṣliyt is Massinaɣ Awal "yasi i 
 
 Ar-aɣ-ifal Urkawal Aqdim ɣ lgddam n yat tideț n tesnillawit ur itqbaln amḥiwec: Nkkʷni nga ismgan mu iḍfer lḥqq n-Massinaɣ iqedsn bahra lli ur iẓḍarn a inker tagami-ns n lḥqq. Tilelli ur tẓḍar a tili ɣir s "umun aṣufi" nɣ "aṣfaw n Unfas Iqedsn" ɣmklli ar ttirmin kra n mddn ɣassad a ssimẓin asfel n Lmasiḥ. Tilelli tiḥtajja "awali" iẓḍarn d iran ad ibidd ɣ wemkan-nnɣ, a yasi taẓayt n waṭṭal-nnɣ, ula a ifk atig kullut i lḥqq n-Massinaɣ. Xtad a igan Taḥninit n-Massinaɣ d Tmella-ns iggutn:
 
-> «... ula nkki lli-igan yus n-bnadm, ur-d-uškiɣ ad-flla-teḥdamn mddn. Uškiɣ-d ad teḥdemɣ, fkɣ tudert-inu ad fukkuɣ ma-iggutn» (Marqus 10: 45).
+> «... ula nkki lli-igan yus n-bnadm, ur-d-uškiɣ ad-flla-teḥdamn mddn. Uškiɣ-d ad teḥdemɣ, fkɣ tudert-inu ad fukkuɣ ma-iggutn» (Marqus 10: 45)
 
 Xtad a igan akal idusn lli f ra ibnu Urkawal Amaynu anurẓm-ns amqqran: Yuška-d uwali lli nterju, macc ma igan atig lli ra ifk? Ɣayad a ra nẓr ɣ umagrad lli ra d-yašk.
 
@@ -73,4 +73,4 @@ Tamawt: tiɣuri n iwaliwn ɣ silsila-yad tga ɣir tiwriqnt baš a nfk afkkar s u
 
 Aqqra ula ɣ silsila n Usfel n Ufdu ɣ wemkan-nneɣ:
 
-[Amur wis sin: Afdu ɣ Urkawal Amaynu.. d ssuq n ismgan](/penal-substitution-2-nt-lutron)
+## [Amur wis sin: Afdu ɣ Urkawal Amaynu.. d ssuq n ismgan](/penal-substitution-2-nt-lutron)

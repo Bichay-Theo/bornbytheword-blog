@@ -1,19 +1,24 @@
 'use client';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 
 export default function TTSReader({ title }: { title?: string }) {
   const [isPlaying, setIsPlaying] = useState(false);
   const [isPaused, setIsPaused] = useState(false);
   const [supported, setSupported] = useState(true);
-  const [voicesLoaded, setVoicesLoaded] = useState(false);
+  
+  // Use a ref to keep track of the current chunk index
+  const chunkIndexRef = useRef(0);
+  const chunksRef = useRef<string[]>([]);
+  const synthRef = useRef<SpeechSynthesis | null>(null);
 
   useEffect(() => {
     if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
-      // Force voices to load on some browsers
+      synthRef.current = window.speechSynthesis;
+      // Pre-load voices
       window.speechSynthesis.getVoices();
       
       const handleVoicesChanged = () => {
-        setVoicesLoaded(true);
+        // Voices loaded
       };
       
       window.speechSynthesis.onvoiceschanged = handleVoicesChanged;
@@ -27,90 +32,130 @@ export default function TTSReader({ title }: { title?: string }) {
   }, []);
 
   const getArabicVoice = () => {
-    const voices = window.speechSynthesis.getVoices();
-    // Try to find a high quality Arabic voice
+    if (!synthRef.current) return null;
+    const voices = synthRef.current.getVoices();
     return voices.find(v => v.lang.startsWith('ar') && (v.name.includes('Premium') || v.name.includes('Online')))
         || voices.find(v => v.lang.startsWith('ar'))
         || null;
   };
 
-  const getCleanText = () => {
-    // Get the title
-    let textToRead = title ? title + ". " : "";
+  const prepareChunks = () => {
+    const chunks: string[] = [];
+    if (title) {
+      // Remove english/numbers from title if needed, but usually title is fine
+      chunks.push(title.replace(/[a-zA-Z]/g, '').replace(/[^\u0600-\u06FF0-9\s.,?!]/g, ' '));
+    }
     
     const article = document.querySelector('.blog-post-content');
     if (article) {
       const paragraphs = article.querySelectorAll('.post-html p, .post-html h2, .post-html h3');
       paragraphs.forEach(p => {
-        // Clone node to safely modify it
         const clone = p.cloneNode(true) as HTMLElement;
-        
-        // Remove footnotes so it doesn't read numbers like "1 2"
         const sups = clone.querySelectorAll('sup');
         sups.forEach(sup => sup.remove());
 
         let text = clone.textContent || '';
-        
         // Remove English characters entirely
         text = text.replace(/[a-zA-Z]/g, '');
+        // Keep Arabic, numbers, punctuation
+        const cleanText = text.replace(/[^\u0600-\u06FF0-9\s.,?!]/g, ' ').trim();
         
-        // Keep all Arabic characters (including Tashkeel), standard numbers, and punctuation
-        const cleanText = text.replace(/[^\u0600-\u06FF0-9\s.,?!]/g, ' ');
-        textToRead += cleanText + ". ";
+        if (cleanText) {
+          // Split by periods to keep chunks small enough for Edge's natural voices
+          const sentences = cleanText.split(/([.?!؟]+)/);
+          let currentChunk = '';
+          sentences.forEach(s => {
+            if (currentChunk.length + s.length > 150) {
+              chunks.push(currentChunk.trim());
+              currentChunk = s;
+            } else {
+              currentChunk += s;
+            }
+          });
+          if (currentChunk.trim()) {
+            chunks.push(currentChunk.trim());
+          }
+        }
       });
     }
-    return textToRead;
+    return chunks.filter(c => c.length > 0);
+  };
+
+  const playNextChunk = () => {
+    if (!synthRef.current) return;
+    
+    if (chunkIndexRef.current >= chunksRef.current.length) {
+      // Finished all chunks
+      setIsPlaying(false);
+      setIsPaused(false);
+      return;
+    }
+
+    const text = chunksRef.current[chunkIndexRef.current];
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = 'ar-SA';
+    utterance.rate = 0.9; // Slightly slower for better Arabic pronunciation
+    
+    const arVoice = getArabicVoice();
+    if (arVoice) {
+      utterance.voice = arVoice;
+    }
+
+    utterance.onend = () => {
+      chunkIndexRef.current += 1;
+      // Small delay between chunks sounds more natural
+      setTimeout(() => {
+        if (isPlaying) { // Check if we haven't stopped
+          playNextChunk();
+        }
+      }, 100);
+    };
+
+    utterance.onerror = (e) => {
+      console.error('Speech synthesis error on chunk', chunkIndexRef.current, e);
+      // Try to skip to next chunk if one fails
+      chunkIndexRef.current += 1;
+      setTimeout(() => {
+        if (isPlaying) playNextChunk();
+      }, 100);
+    };
+
+    synthRef.current.speak(utterance);
   };
 
   const togglePlay = () => {
-    if (!supported) return;
-
-    const synth = window.speechSynthesis;
+    if (!supported || !synthRef.current) return;
 
     if (isPlaying) {
       if (isPaused) {
-        synth.resume();
+        synthRef.current.resume();
         setIsPaused(false);
       } else {
-        synth.pause();
+        synthRef.current.pause();
         setIsPaused(true);
       }
     } else {
-      const text = getCleanText();
-      if (!text.trim()) return;
+      chunksRef.current = prepareChunks();
+      if (chunksRef.current.length === 0) return;
 
-      const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = 'ar-SA';
-      utterance.rate = 0.9;
-      
-      const arVoice = getArabicVoice();
-      if (arVoice) {
-        utterance.voice = arVoice;
-      }
-
-      utterance.onend = () => {
-        setIsPlaying(false);
-        setIsPaused(false);
-      };
-      
-      utterance.onerror = (e) => {
-        console.error('Speech synthesis error:', e);
-        setIsPlaying(false);
-        setIsPaused(false);
-      };
-
-      synth.cancel(); // Clear any pending
-      synth.speak(utterance);
+      synthRef.current.cancel(); // Clear any pending
+      chunkIndexRef.current = 0;
       setIsPlaying(true);
       setIsPaused(false);
+      
+      // Use setTimeout to ensure cancel() finishes before speak()
+      setTimeout(() => {
+        playNextChunk();
+      }, 50);
     }
   };
 
   const stopPlay = () => {
-    if (!supported) return;
-    window.speechSynthesis.cancel();
+    if (!supported || !synthRef.current) return;
+    synthRef.current.cancel();
     setIsPlaying(false);
     setIsPaused(false);
+    chunkIndexRef.current = 0;
   };
 
   if (!supported) return null;

@@ -1,7 +1,7 @@
 ---
 title: "الكفارة البدلية (١٢): المصالحة (١).. من ساحة الدينونة إلى عرش النعمة والتبادل العظيم"
 date: "2026-08-12T00:00:00Z"
-slug: "penal-substitution-12-reconciliation-1"
+slug: "penal-substitution-12-reconciliation"
 labels: ["الكفارة البدلية"]
 draft: false
 ---

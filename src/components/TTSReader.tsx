@@ -38,13 +38,24 @@ export default function TTSReader({ title }: { title?: string }) {
     // Get the title
     let textToRead = title ? title + ". " : "";
     
-    // Get all paragraph texts in the article
     const article = document.querySelector('.blog-post-content');
     if (article) {
       const paragraphs = article.querySelectorAll('.post-html p, .post-html h2, .post-html h3');
       paragraphs.forEach(p => {
-        // Simple cleanup for Arabic reading
-        const cleanText = p.textContent?.replace(/[^\u0621-\u064A\u0660-\u06690-9a-zA-Z\s.,?!]/g, ' ') || '';
+        // Clone node to safely modify it
+        const clone = p.cloneNode(true) as HTMLElement;
+        
+        // Remove footnotes so it doesn't read numbers like "1 2"
+        const sups = clone.querySelectorAll('sup');
+        sups.forEach(sup => sup.remove());
+
+        let text = clone.textContent || '';
+        
+        // Remove English characters entirely
+        text = text.replace(/[a-zA-Z]/g, '');
+        
+        // Keep Arabic, Arabic numerals, standard numbers (in case of dates), and punctuation
+        const cleanText = text.replace(/[^\u0621-\u064A\u0660-\u06690-9\s.,?!]/g, ' ');
         textToRead += cleanText + ". ";
       });
     }

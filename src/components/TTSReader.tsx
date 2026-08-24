@@ -54,8 +54,8 @@ export default function TTSReader({ title }: { title?: string }) {
         // Remove English characters entirely
         text = text.replace(/[a-zA-Z]/g, '');
         
-        // Keep Arabic, Arabic numerals, standard numbers (in case of dates), and punctuation
-        const cleanText = text.replace(/[^\u0621-\u064A\u0660-\u06690-9\s.,?!]/g, ' ');
+        // Keep all Arabic characters (including Tashkeel), standard numbers, and punctuation
+        const cleanText = text.replace(/[^\u0600-\u06FF0-9\s.,?!]/g, ' ');
         textToRead += cleanText + ". ";
       });
     }

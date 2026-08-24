@@ -1,4 +1,32 @@
----
+import os
+import re
+
+skill_file = r"C:\Users\Boaz\.gemini\antigravity\scratch\bornbytheword-blog\.agents\skills\theology_blog_writer\SKILL.md"
+
+with open(skill_file, 'r', encoding='utf-8') as f:
+    skill_content = f.read()
+
+target_skill = """6. **Theological Passive (المبني للمجهول اللاهوتي)**: عند صياغة أو ترجمة نصوص التبرير، الاختيار، والاحتساب، التزم بصرامة بأسلوب "المبني للمجهول اللاهوتي" (Passivum Divinum) لإبراز العمل الإلهي الأحادي (Monergism) وتأكيد أن الإنسان متلقٍ للنعمة.
+7. **Translation-Ready Arabic (لغة إرسالية قابلة للترجمة)**: صُغ الجمل بطريقة مباشرة وخالية من المحسنات البديعية المعقدة والمجازات الثقافية لتسهيل نقلها بدقة لاحقاً للغات الإفريقية. التركيز هنا على وضوح الفكرة اللاهوتية لتكون جاهزة للترجمة، مع ترك التشكيل وتنسيق الأرقام لعملية المراجعة النهائية.
+8. **No AI Filler**: Avoid a preachy tone. Focus on academic exegesis. Do not use AI-style filler phrases like "الإجابة القاطعة هي" أو "المفاجأة الخطيرة"."""
+
+replacement_skill = """6. **No Theological Passive in Main Text (استبعاد المبني للمجهول في المتن)**: استبعد استخدام المبني للمجهول الإلهي (Passivum Divinum) في المتن تماماً. يُسمح به فقط عند اقتباس الآيات الكتابية. لا تستخدم صيغاً مثل "فأُحضرنا بلا لوم" بل استخدم صيغاً مبنية للمعلوم للفاعلية الإلهية (مثل "أحضرنا الله").
+7. **No Personification of Concepts (لا تشخصن المفاهيم اللاهوتية)**: عندما يتعلق الأمر بعمل المسيح الكفاري، لا تجعل المفهوم اللاهوتي هو الفاعل. لا تستخدم صيغاً مثل "المصالحة دفعت بنا" أو "هذه هي عظمة المصالحة". انسب الفعل دائماً لله أو للمسيح كأشخاص لاهوتيين فاعلين.
+8. **Translation-Ready Arabic (لغة إرسالية قابلة للترجمة)**: صُغ الجمل بطريقة مباشرة وخالية من المحسنات البديعية المعقدة والمجازات الثقافية لتسهيل نقلها بدقة لاحقاً للغات الإفريقية. التركيز هنا على وضوح الفكرة اللاهوتية لتكون جاهزة للترجمة، مع ترك التشكيل وتنسيق الأرقام لعملية المراجعة النهائية.
+9. **No AI Filler**: Avoid a preachy tone. Focus on academic exegesis. Do not use AI-style filler phrases like "الإجابة القاطعة هي" أو "المفاجأة الخطيرة"."""
+
+if target_skill in skill_content:
+    skill_content = skill_content.replace(target_skill, replacement_skill)
+    with open(skill_file, 'w', encoding='utf-8') as f:
+        f.write(skill_content)
+    print("SKILL.md updated successfully.")
+else:
+    print("Error updating SKILL.md")
+
+
+article_file = r"C:\Users\Boaz\Desktop\WB_Blog_Drafts\penal-substitution\wb_penal-substitution-13-reconciliation-2.md"
+
+new_article_content = """---
 title: "الكفارة البدلية (١٣): المصالحة (٢).. الاتحاد بالمسيح، السلام الموضوعي، والخليقة الجديدة"
 date: "2026-08-13T00:00:00Z"
 slug: "penal-substitution-13-reconciliation-2"
@@ -50,3 +78,8 @@ draft: false
 [^1]: يحذر اللاهوتي چيمس جاريت في كتاب *(Systematic Theology: Biblical, Historical, and Evangelical)*، من الانحرافات التاريخية لفهم الاتحاد بالمسيح؛ مثل الاستيعاب الصوفي (Absorptive Mysticism) الذي يمحو الفارق بين الخالق والمخلوق ويميل للحلولية، أو الاتحاد السرائري (Sacramental Union) الذي يربط الاتحاد حصرياً بتناول الإفخارستيا بمعزل عن الإيمان الحقيقي.
 [^2]: چوزيف تسون (Josef Tson) هو قس وكاتب روماني، واجه اضطهاداً شديداً وعانى طويلاً تحت الحكم الشيوعي في رومانيا بسبب إيمانه ودفاعه عن الحرية الدينية.
 [^3]: يتوسع اللاهوتي چي. كيه. بيل (G.K. Beale) في دراساته حول لاهوت "الخليقة الجديدة" والهيكل، موضحاً أن المصالحة المسيحية هي في جوهرها استرداد للغرض الأصلي في عدن؛ أن يسكن الله وسط شعبه الأبرار للأبد وذلك في كتابه *"الهيكل وإرسالية الكنيسة: لاهوت كتابي لمكان سكنى الله" (The Temple and the Church's Mission: A Biblical Theology of the Dwelling Place of God)*.
+"""
+
+with open(article_file, 'w', encoding='utf-8') as f:
+    f.write(new_article_content)
+print("Article 13 cleaned and updated successfully.")

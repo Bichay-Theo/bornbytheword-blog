@@ -1,5 +1,5 @@
 :root {
-  --background: #fdfcfb; /* Soft cream */
+  --background: #ffffff; /* White */
   --foreground: #2d3748; /* Charcoal text */
   --primary: #800000; /* Maroon */
   --primary-hover: #5c0000;
@@ -8,16 +8,14 @@
   --text-muted: #718096;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #1a202c; /* Dark mode background */
-    --foreground: #f7fafc; /* Light text */
-    --primary: #e53e3e; /* Lighter maroon for dark mode */
-    --primary-hover: #fc8181;
-    --secondary: #2d3748;
-    --card-bg: #2d3748;
-    --text-muted: #a0aec0;
-  }
+[data-theme='dark'] {
+  --background: #1a202c; /* Dark mode background */
+  --foreground: #f7fafc; /* Light text */
+  --primary: #e53e3e; /* Lighter maroon for dark mode */
+  --primary-hover: #fc8181;
+  --secondary: #2d3748;
+  --card-bg: #2d3748;
+  --text-muted: #a0aec0;
 }
 
 html {
@@ -64,10 +62,8 @@ a:hover {
   color: var(--primary-hover);
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
+[data-theme='dark'] {
+  color-scheme: dark;
 }
 
 /* Base elements */
@@ -414,9 +410,7 @@ p {
 .wa-btn { background: #25d366; }
 .tg-btn { background: #0088cc; }
 
-@media (prefers-color-scheme: dark) {
-  .x-btn { background: #333333; }
-}
+[data-theme='dark'] .x-btn { background: #333333; }
 
 /* Related Posts */
 .related-posts-container {

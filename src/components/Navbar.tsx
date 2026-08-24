@@ -4,6 +4,7 @@ import { useRouter, useSearchParams, usePathname } from 'next/navigation';
 import { useState, useEffect, Suspense } from 'react';
 import { getDictionary } from '@/i18n/dictionaries';
 import { Locale } from '@/i18n/config';
+import ThemeToggle from './ThemeToggle';
 
 function SearchInput({ dict }: { dict: any }) {
   const router = useRouter();
@@ -119,6 +120,7 @@ export default function Navbar() {
           {dict.siteName}
         </Link>
         <div className="navbar-search" style={{ display: 'flex', alignItems: 'center' }}>
+          <ThemeToggle />
           <LanguageSwitcher currentLang={lang} />
           <Suspense fallback={<input type="text" placeholder="..." className="search-input" disabled />}>
             <SearchInput dict={dict} />

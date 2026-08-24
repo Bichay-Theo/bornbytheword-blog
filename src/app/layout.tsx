@@ -32,6 +32,21 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ar" dir="rtl" className={`${cairo.variable} ${tajawal.variable}`}>
+      <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              (function() {
+                try {
+                  var localTheme = localStorage.getItem('theme');
+                  var theme = localTheme || 'light';
+                  document.documentElement.setAttribute('data-theme', theme);
+                } catch (e) {}
+              })();
+            `,
+          }}
+        />
+      </head>
       <body>
         <Script src="https://www.googletagmanager.com/gtag/js?id=G-M5W2WHH2VY" strategy="afterInteractive" />
         <Script id="google-analytics" strategy="afterInteractive">

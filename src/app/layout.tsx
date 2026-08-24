@@ -31,7 +31,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="ar" dir="rtl" className={`${cairo.variable} ${tajawal.variable}`}>
+    <html lang="ar" dir="rtl" className={`${cairo.variable} ${tajawal.variable}`} suppressHydrationWarning>
       <head>
         <script
           dangerouslySetInnerHTML={{

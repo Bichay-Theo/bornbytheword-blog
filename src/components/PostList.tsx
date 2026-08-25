@@ -24,6 +24,12 @@ export default function PostList({ allPosts, lang = 'ar' }: { allPosts: BlogPost
     return match;
   });
 
+  // Reorder topics from oldest to newest for completed series.
+  // Currently, all series are completed except "الكفارة البدلية".
+  if (topic && topic !== 'الكفارة البدلية') {
+    posts.reverse();
+  }
+
   if (posts.length === 0) {
     return (
       <div style={{ textAlign: 'center', padding: '3rem', color: 'var(--text-muted)' }}>

@@ -2,12 +2,14 @@
 import { useState, useEffect, useRef } from 'react';
 
 export default function TTSReader({ title }: { title?: string }) {
-  const [isPlaying, setIsPlaying] = useState(false);
-  const [isPaused, setIsPaused] = useState(false);
+  const [isPlayingState, setIsPlayingState] = useState(false);
+  const [isPausedState, setIsPausedState] = useState(false);
   const [supported, setSupported] = useState(true);
   
-  // Use a ref to keep track of the current chunk index
+  // Use a ref to keep track of the current chunk index and state for closures
   const chunkIndexRef = useRef(0);
+  const isPlayingRef = useRef(false);
+  const isPausedRef = useRef(false);
   const chunksRef = useRef<string[]>([]);
   const synthRef = useRef<SpeechSynthesis | null>(null);
   const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
@@ -106,8 +108,10 @@ export default function TTSReader({ title }: { title?: string }) {
     
     if (chunkIndexRef.current >= chunksRef.current.length) {
       // Finished all chunks
-      setIsPlaying(false);
-      setIsPaused(false);
+      setIsPlayingState(false);
+      isPlayingRef.current = false;
+      setIsPausedState(false);
+      isPausedRef.current = false;
       return;
     }
 
@@ -126,7 +130,7 @@ export default function TTSReader({ title }: { title?: string }) {
     utterance.onend = () => {
       chunkIndexRef.current += 1;
       setTimeout(() => {
-        if (isPlaying) { 
+        if (isPlayingRef.current) { 
           playNextChunk();
         }
       }, 100);
@@ -136,7 +140,7 @@ export default function TTSReader({ title }: { title?: string }) {
       console.error('Speech synthesis error on chunk', chunkIndexRef.current, e);
       chunkIndexRef.current += 1;
       setTimeout(() => {
-        if (isPlaying) playNextChunk();
+        if (isPlayingRef.current) playNextChunk();
       }, 100);
     };
 
@@ -146,13 +150,15 @@ export default function TTSReader({ title }: { title?: string }) {
   const togglePlay = () => {
     if (!supported || !synthRef.current) return;
 
-    if (isPlaying) {
-      if (isPaused) {
+    if (isPlayingRef.current) {
+      if (isPausedRef.current) {
         synthRef.current.resume();
-        setIsPaused(false);
+        setIsPausedState(false);
+        isPausedRef.current = false;
       } else {
         synthRef.current.pause();
-        setIsPaused(true);
+        setIsPausedState(true);
+        isPausedRef.current = true;
       }
     } else {
       chunksRef.current = prepareChunks();
@@ -160,8 +166,10 @@ export default function TTSReader({ title }: { title?: string }) {
 
       synthRef.current.cancel(); // Clear any pending
       chunkIndexRef.current = 0;
-      setIsPlaying(true);
-      setIsPaused(false);
+      setIsPlayingState(true);
+      isPlayingRef.current = true;
+      setIsPausedState(false);
+      isPausedRef.current = false;
       
       // Use setTimeout to ensure cancel() finishes before speak()
       setTimeout(() => {
@@ -173,8 +181,10 @@ export default function TTSReader({ title }: { title?: string }) {
   const stopPlay = () => {
     if (!supported || !synthRef.current) return;
     synthRef.current.cancel();
-    setIsPlaying(false);
-    setIsPaused(false);
+    setIsPlayingState(false);
+    isPlayingRef.current = false;
+    setIsPausedState(false);
+    isPausedRef.current = false;
     chunkIndexRef.current = 0;
   };
 
@@ -198,12 +208,12 @@ export default function TTSReader({ title }: { title?: string }) {
           fontSize: '1.2rem',
           transition: 'transform 0.1s'
         }}
-        title={isPlaying && !isPaused ? "إيقاف مؤقت" : "استماع للمقال"}
+        title={isPlayingState && !isPausedState ? "إيقاف مؤقت" : "استماع للمقال"}
       >
-        {isPlaying && !isPaused ? '⏸' : '▶'}
+        {isPlayingState && !isPausedState ? '⏸' : '▶'}
       </button>
       
-      {isPlaying && (
+      {isPlayingState && (
         <button 
           onClick={stopPlay}
           style={{
@@ -226,7 +236,7 @@ export default function TTSReader({ title }: { title?: string }) {
       )}
       
       <span style={{ fontSize: '0.9rem', color: 'var(--text-muted)' }}>
-        {isPlaying && !isPaused ? "جاري القراءة..." : "استمع للمقال"}
+        {isPlayingState && !isPausedState ? "جاري القراءة..." : "استمع للمقال"}
       </span>
     </div>
   );

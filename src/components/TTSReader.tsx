@@ -10,6 +10,7 @@ export default function TTSReader({ title }: { title?: string }) {
   const chunkIndexRef = useRef(0);
   const chunksRef = useRef<string[]>([]);
   const synthRef = useRef<SpeechSynthesis | null>(null);
+  const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
 
   useEffect(() => {
     if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
@@ -48,9 +49,28 @@ export default function TTSReader({ title }: { title?: string }) {
     
     const article = document.querySelector('.blog-post-content');
     if (article) {
-      const paragraphs = article.querySelectorAll('.post-html p, .post-html h2, .post-html h3');
-      paragraphs.forEach(p => {
-        const clone = p.cloneNode(true) as HTMLElement;
+      // Select paragraphs, headings, list items, and blockquotes
+      const elements = article.querySelectorAll('.post-html p, .post-html h2, .post-html h3, .post-html li, .post-html blockquote');
+      
+      let inTOC = false;
+
+      elements.forEach(el => {
+        const textContent = el.textContent || '';
+        
+        // Skip manual TOC headings
+        if (el.tagName.toLowerCase() === 'h2' || el.tagName.toLowerCase() === 'h3') {
+          if (textContent.includes('الفهرس') || textContent.includes('محتويات') || textContent.includes('المحتويات')) {
+            inTOC = true;
+            return;
+          } else {
+            inTOC = false; // We passed the TOC
+          }
+        }
+
+        // If we are in a TOC and this is a list item, skip it
+        if (inTOC && el.tagName.toLowerCase() === 'li') return;
+
+        const clone = el.cloneNode(true) as HTMLElement;
         const sups = clone.querySelectorAll('sup');
         sups.forEach(sup => sup.remove());
 
@@ -93,6 +113,8 @@ export default function TTSReader({ title }: { title?: string }) {
 
     const text = chunksRef.current[chunkIndexRef.current];
     const utterance = new SpeechSynthesisUtterance(text);
+    utteranceRef.current = utterance; // Prevent garbage collection bug!
+    
     utterance.lang = 'ar-SA';
     utterance.rate = 0.9; // Slightly slower for better Arabic pronunciation
     
@@ -103,9 +125,8 @@ export default function TTSReader({ title }: { title?: string }) {
 
     utterance.onend = () => {
       chunkIndexRef.current += 1;
-      // Small delay between chunks sounds more natural
       setTimeout(() => {
-        if (isPlaying) { // Check if we haven't stopped
+        if (isPlaying) { 
           playNextChunk();
         }
       }, 100);
@@ -113,7 +134,6 @@ export default function TTSReader({ title }: { title?: string }) {
 
     utterance.onerror = (e) => {
       console.error('Speech synthesis error on chunk', chunkIndexRef.current, e);
-      // Try to skip to next chunk if one fails
       chunkIndexRef.current += 1;
       setTimeout(() => {
         if (isPlaying) playNextChunk();

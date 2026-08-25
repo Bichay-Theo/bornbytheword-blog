@@ -51,7 +51,6 @@ import BackToTop from './BackToTop';
 import SocialShare from './SocialShare';
 import RelatedPosts from './RelatedPosts';
 import NewsletterForm from './NewsletterForm';
-import TTSReader from './TTSReader';
 
 interface RelatedPost {
   slug: string;
@@ -103,8 +102,6 @@ export default function MarkdownLayout({ title, date, content, tocTitle, showToc
               </div>
             </header>
           )}
-
-          {lang === 'ar' && <TTSReader title={title} />}
 
           {htmlBeforeFirstH2 && (
             <div 

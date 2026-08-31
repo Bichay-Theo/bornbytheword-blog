@@ -5,6 +5,7 @@ import { useState, useEffect, Suspense } from 'react';
 import { getDictionary } from '@/i18n/dictionaries';
 import { Locale } from '@/i18n/config';
 import ThemeToggle from './ThemeToggle';
+import FontSizeToggler from './FontSizeToggler';
 
 function SearchInput({ dict }: { dict: any }) {
   const router = useRouter();
@@ -121,6 +122,7 @@ export default function Navbar() {
         </Link>
         <div className="navbar-search" style={{ display: 'flex', alignItems: 'center' }}>
           <ThemeToggle />
+          <FontSizeToggler />
           <LanguageSwitcher currentLang={lang} />
           <Suspense fallback={<input type="text" placeholder="..." className="search-input" disabled />}>
             <SearchInput dict={dict} />

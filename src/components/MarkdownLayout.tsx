@@ -87,17 +87,21 @@ export default function MarkdownLayout({ title, date, content, tocTitle, showToc
                     {date}
                   </time>
                 )}
-                {slug && (
+                {slug && (slug === 'penal-substitution-1-ot-redemption' || lang !== 'ar') && (
                   <div style={{ display: 'flex', gap: '0.75rem', fontSize: '0.9rem', flexWrap: 'wrap' }}>
                     <span style={{ color: 'var(--text-muted)' }}>Read in:</span>
                     {lang !== 'ar' && <Link href={`/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>العربية</Link>}
-                    {lang !== 'am' && <Link href={`/am/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>አማርኛ</Link>}
-                    {lang !== 'sw' && <Link href={`/sw/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Kiswahili</Link>}
-                    {lang !== 'mas' && <Link href={`/mas/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Maa</Link>}
-                    {lang !== 'tmh' && <Link href={`/tmh/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Tamasheq</Link>}
-                    {lang !== 'kab' && <Link href={`/kab/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Taqbaylit</Link>}
-                    {lang !== 'shi' && <Link href={`/shi/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Tashelhit</Link>}
-                    {lang !== 'yo' && <Link href={`/yo/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Èdè Yorùbá</Link>}
+                    {slug === 'penal-substitution-1-ot-redemption' && (
+                      <>
+                        {lang !== 'am' && <Link href={`/am/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>አማርኛ</Link>}
+                        {lang !== 'sw' && <Link href={`/sw/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Kiswahili</Link>}
+                        {lang !== 'mas' && <Link href={`/mas/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Maa</Link>}
+                        {lang !== 'tmh' && <Link href={`/tmh/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Tamasheq</Link>}
+                        {lang !== 'kab' && <Link href={`/kab/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Taqbaylit</Link>}
+                        {lang !== 'shi' && <Link href={`/shi/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Tashelhit</Link>}
+                        {lang !== 'yo' && <Link href={`/yo/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Èdè Yorùbá</Link>}
+                      </>
+                    )}
                   </div>
                 )}
               </div>

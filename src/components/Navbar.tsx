@@ -67,6 +67,12 @@ function LanguageSwitcher({ currentLang }: { currentLang: string }) {
     
     if (newPath === '') newPath = '/';
 
+    // If switching to a non-Arabic language from an article that isn't translated,
+    // take the user to that language's home page instead of a 404
+    if (newLang !== 'ar' && newPath !== '/' && !newPath.includes('penal-substitution-1-ot-redemption')) {
+      newPath = '/';
+    }
+
     // Add new lang prefix if not ar
     if (newLang !== 'ar') {
       newPath = `/${newLang}${newPath === '/' ? '' : newPath}`;

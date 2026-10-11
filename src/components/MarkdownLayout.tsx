@@ -3,6 +3,22 @@ import Link from 'next/link';
 import { getDictionary } from '@/i18n/dictionaries';
 import { Locale } from '@/i18n/config';
 
+const TRANSLATED_ARTICLES: Record<string, string[]> = {
+  'penal-substitution-1-ot-redemption': ['ar', 'am', 'sw', 'mas', 'tmh', 'kab', 'shi', 'yo'],
+  'penal-substitution-2-nt-lutron': ['ar', 'yo'],
+};
+
+const LANG_LABELS: Record<string, string> = {
+  ar: 'العربية',
+  am: 'አማርኛ',
+  sw: 'Kiswahili',
+  mas: 'Maa',
+  tmh: 'Tamasheq',
+  kab: 'Taqbaylit',
+  shi: 'Tashelhit',
+  yo: 'Èdè Yorùbá',
+};
+
 function processHtmlAndExtractTOC(html: string, dict: any) {
   const toc: { id: string, text: string, level: number }[] = [];
   
@@ -87,21 +103,18 @@ export default function MarkdownLayout({ title, date, content, tocTitle, showToc
                     {date}
                   </time>
                 )}
-                {slug && (slug === 'penal-substitution-1-ot-redemption' || lang !== 'ar') && (
+                {slug && TRANSLATED_ARTICLES[slug] && (
                   <div style={{ display: 'flex', gap: '0.75rem', fontSize: '0.9rem', flexWrap: 'wrap' }}>
                     <span style={{ color: 'var(--text-muted)' }}>Read in:</span>
-                    {lang !== 'ar' && <Link href={`/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>العربية</Link>}
-                    {slug === 'penal-substitution-1-ot-redemption' && (
-                      <>
-                        {lang !== 'am' && <Link href={`/am/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>አማርኛ</Link>}
-                        {lang !== 'sw' && <Link href={`/sw/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Kiswahili</Link>}
-                        {lang !== 'mas' && <Link href={`/mas/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Maa</Link>}
-                        {lang !== 'tmh' && <Link href={`/tmh/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Tamasheq</Link>}
-                        {lang !== 'kab' && <Link href={`/kab/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Taqbaylit</Link>}
-                        {lang !== 'shi' && <Link href={`/shi/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Tashelhit</Link>}
-                        {lang !== 'yo' && <Link href={`/yo/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Èdè Yorùbá</Link>}
-                      </>
-                    )}
+                    {TRANSLATED_ARTICLES[slug].filter(l => l !== lang).map(l => (
+                      <Link 
+                        key={l} 
+                        href={l === 'ar' ? `/${slug}` : `/${l}/${slug}`} 
+                        style={{ color: 'var(--primary)', textDecoration: 'none' }}
+                      >
+                        {LANG_LABELS[l] || l}
+                      </Link>
+                    ))}
                   </div>
                 )}
               </div>

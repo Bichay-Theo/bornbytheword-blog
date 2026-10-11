@@ -49,6 +49,11 @@ function SearchInput({ dict }: { dict: any }) {
   );
 }
 
+const TRANSLATED_ARTICLES: Record<string, string[]> = {
+  'penal-substitution-1-ot-redemption': ['ar', 'am', 'sw', 'mas', 'tmh', 'kab', 'shi', 'yo'],
+  'penal-substitution-2-nt-lutron': ['ar', 'yo'],
+};
+
 function LanguageSwitcher({ currentLang }: { currentLang: string }) {
   const router = useRouter();
   const pathname = usePathname();
@@ -69,8 +74,12 @@ function LanguageSwitcher({ currentLang }: { currentLang: string }) {
 
     // If switching to a non-Arabic language from an article that isn't translated,
     // take the user to that language's home page instead of a 404
-    if (newLang !== 'ar' && newPath !== '/' && !newPath.includes('penal-substitution-1-ot-redemption')) {
-      newPath = '/';
+    if (newLang !== 'ar' && newPath !== '/') {
+      const slug = newPath.replace(/^\//, '').split('/')[0];
+      const supportedLangs = TRANSLATED_ARTICLES[slug];
+      if (!supportedLangs || !supportedLangs.includes(newLang)) {
+        newPath = '/';
+      }
     }
 
     // Add new lang prefix if not ar

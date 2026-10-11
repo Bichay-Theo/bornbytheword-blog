@@ -63,6 +63,7 @@ function LanguageSwitcher({ currentLang }: { currentLang: string }) {
     else if (pathname.startsWith('/kab')) newPath = pathname.replace(/^\/kab/, '');
     else if (pathname.startsWith('/tmh')) newPath = pathname.replace(/^\/tmh/, '');
     else if (pathname.startsWith('/mas')) newPath = pathname.replace(/^\/mas/, '');
+    else if (pathname.startsWith('/yo')) newPath = pathname.replace(/^\/yo/, '');
     
     if (newPath === '') newPath = '/';
 
@@ -97,6 +98,7 @@ function LanguageSwitcher({ currentLang }: { currentLang: string }) {
       <option value="kab">🌐 Taqbaylit</option>
       <option value="tmh">🌐 Tamasheq</option>
       <option value="mas">🌐 Maa</option>
+      <option value="yo">🌐 Èdè Yorùbá</option>
     </select>
   );
 }
@@ -110,6 +112,7 @@ export default function Navbar() {
   if (pathname.startsWith('/kab')) lang = 'kab';
   if (pathname.startsWith('/tmh')) lang = 'tmh';
   if (pathname.startsWith('/mas')) lang = 'mas';
+  if (pathname.startsWith('/yo')) lang = 'yo';
   
   const dict = getDictionary(lang);
   const dir = lang === 'ar' ? 'rtl' : 'ltr';

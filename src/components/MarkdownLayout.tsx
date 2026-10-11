@@ -89,7 +89,7 @@ export default function MarkdownLayout({ title, date, content, tocTitle, showToc
                 )}
                 {slug && (
                   <div style={{ display: 'flex', gap: '0.75rem', fontSize: '0.9rem', flexWrap: 'wrap' }}>
-                    <span style={{ color: 'var(--text-muted)' }}>{lang === 'ar' ? 'اقرأ بـ:' : 'Read in:'}</span>
+                    <span style={{ color: 'var(--text-muted)' }}>Read in:</span>
                     {lang !== 'ar' && <Link href={`/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>العربية</Link>}
                     {lang !== 'am' && <Link href={`/am/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>አማርኛ</Link>}
                     {lang !== 'sw' && <Link href={`/sw/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Kiswahili</Link>}
@@ -97,6 +97,7 @@ export default function MarkdownLayout({ title, date, content, tocTitle, showToc
                     {lang !== 'tmh' && <Link href={`/tmh/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Tamasheq</Link>}
                     {lang !== 'kab' && <Link href={`/kab/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Taqbaylit</Link>}
                     {lang !== 'shi' && <Link href={`/shi/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Tashelhit</Link>}
+                    {lang !== 'yo' && <Link href={`/yo/${slug}`} style={{ color: 'var(--primary)', textDecoration: 'none' }}>Èdè Yorùbá</Link>}
                   </div>
                 )}
               </div>

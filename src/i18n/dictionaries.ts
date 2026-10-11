@@ -175,6 +175,31 @@ export const dictionaries = {
     newsletterSuccess: 'Ashe peyie itisila enkarna ino! Eitaaraki iyie te nkalata ang e nkilikuai.',
     newsletterError: 'Eeta entoki neme itobir tiatua enkitisilat. Inging\'ora emeli ino aashu itema ake kenya.',
     backToTop: 'Shuku shumata ⬆️'
+  },
+  yo: {
+    siteName: 'Bí ó ti fẹ́, ó fi ọ̀rọ̀ òtítọ́ bí wa',
+    siteDescription: 'Ètò ẹ̀kọ́ Ọlọ́run tí ń pèsè àwọn ẹ̀kọ́ Ìwé Mímọ́ àti àṣàrò tẹ̀mí',
+    home: 'Ilé',
+    posts: 'Àwọn Àpilẹ̀kọ',
+    readMore: 'Ka síwájú sí i',
+    publishedOn: 'A tẹ̀ ẹ́ jáde ní',
+    toc: 'Àkóónú Àpilẹ̀kọ',
+    pageNotFound: 'A kò rí ojú-ewé yìí',
+    loading: 'Ń gbé e wọlé...',
+    sidebarLanguages: 'Choose your language',
+    sidebarBooks: 'Àwọn Ìwé Pípé',
+    sidebarTopics: 'Àwọn Orí-ọ̀rọ̀',
+    sidebarAll: 'Gbogbo rẹ̀',
+    sidebarPenalSubstitution: 'Ètùtù Ìdípò',
+    shareArticle: 'Pín àpilẹ̀kọ yìí:',
+    newsletterTitle: 'Ṣé o fẹ́ràn ohun tí o kà? 💌',
+    newsletterDesc: 'Forúkọ sílẹ̀ nínú àkójọ ìwé ìròyìn wa láti gba àwọn àpilẹ̀kọ àti ẹ̀kọ́ Ọlọ́run tuntun tààrà sí àpò-ìfìwéránṣẹ́ rẹ.',
+    newsletterPlaceholder: 'Tẹ ímeèlì rẹ síhìn-ín...',
+    newsletterSubmit: 'Forú́kọ sílẹ̀ báyìí',
+    newsletterLoading: 'Ń forú́kọ sílẹ̀...',
+    newsletterSuccess: 'A dúpẹ́ fún ìforúkọsílẹ̀ rẹ! A ti fi ọ́ kún àkójọ ìwé ìròyìn wa pẹ̀lú àṣeyọrí.',
+    newsletterError: 'Àṣìṣe kan wáyé nígbà ìforúkọsílẹ̀. Jọ̀wọ́ ṣàyẹ̀wò ímeèlì rẹ tàbí gbìyànjú lẹ́ẹ̀kan sí i nígbà mìíràn.',
+    backToTop: 'Padà sí òkè ⬆️'
   }
 };
 

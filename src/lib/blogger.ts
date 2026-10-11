@@ -80,6 +80,7 @@ export async function getPosts(lang: string = 'ar'): Promise<BlogPost[]> {
     const isKab = fileName.endsWith('.kab.md');
     const isTmh = fileName.endsWith('.tmh.md');
     const isMas = fileName.endsWith('.mas.md');
+    const isYo = fileName.endsWith('.yo.md');
     let fileLang = 'ar';
     if (isAm) fileLang = 'am';
     else if (isSw) fileLang = 'sw';
@@ -87,12 +88,13 @@ export async function getPosts(lang: string = 'ar'): Promise<BlogPost[]> {
     else if (isKab) fileLang = 'kab';
     else if (isTmh) fileLang = 'tmh';
     else if (isMas) fileLang = 'mas';
+    else if (isYo) fileLang = 'yo';
     else if (fileName.endsWith('.md')) fileLang = 'ar';
     else return null;
 
     if (fileLang !== lang) return null;
 
-    let slug = fileName.replace(/\.md$/, '').replace(/\.(am|sw|shi|kab|tmh|mas)$/, '').replace(/\s+/g, '-');
+    let slug = fileName.replace(/\.md$/, '').replace(/\.(am|sw|shi|kab|tmh|mas|yo)$/, '').replace(/\s+/g, '-');
     const fullPath = path.join(postsDirectory, fileName);
     const fileContents = fs.readFileSync(fullPath, 'utf8');
 
@@ -144,6 +146,7 @@ export async function getPages(lang: string = 'ar'): Promise<BlogPage[]> {
     const isKab = fileName.endsWith('.kab.md');
     const isTmh = fileName.endsWith('.tmh.md');
     const isMas = fileName.endsWith('.mas.md');
+    const isYo = fileName.endsWith('.yo.md');
     let fileLang = 'ar';
     if (isAm) fileLang = 'am';
     else if (isSw) fileLang = 'sw';
@@ -151,12 +154,13 @@ export async function getPages(lang: string = 'ar'): Promise<BlogPage[]> {
     else if (isKab) fileLang = 'kab';
     else if (isTmh) fileLang = 'tmh';
     else if (isMas) fileLang = 'mas';
+    else if (isYo) fileLang = 'yo';
     else if (fileName.endsWith('.md')) fileLang = 'ar';
     else return null;
 
     if (fileLang !== lang) return null;
 
-    let slug = fileName.replace(/\.md$/, '').replace(/\.(am|sw|shi|kab|tmh|mas)$/, '').replace(/\s+/g, '-');
+    let slug = fileName.replace(/\.md$/, '').replace(/\.(am|sw|shi|kab|tmh|mas|yo)$/, '').replace(/\s+/g, '-');
     const fullPath = path.join(pagesDirectory, fileName);
     const fileContents = fs.readFileSync(fullPath, 'utf8');
 

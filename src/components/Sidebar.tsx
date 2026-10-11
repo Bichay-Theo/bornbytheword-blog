@@ -44,6 +44,9 @@ export default async function Sidebar({ lang = 'ar' }: { lang?: string }) {
             <li>
               <Link href="/shi" className="sidebar-link" style={{ fontWeight: lang === 'shi' ? 'bold' : 'normal' }}>📖 Tashelhit</Link>
             </li>
+            <li>
+              <Link href="/yo" className="sidebar-link" style={{ fontWeight: lang === 'yo' ? 'bold' : 'normal' }}>📖 Èdè Yorùbá</Link>
+            </li>
           </ul>
         </details>
       </div>

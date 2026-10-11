@@ -1,4 +1,4 @@
-export const locales = ['ar', 'am', 'sw', 'shi', 'kab', 'tmh', 'mas'] as const;
+export const locales = ['ar', 'am', 'sw', 'shi', 'kab', 'tmh', 'mas', 'yo'] as const;
 export type Locale = (typeof locales)[number];
 
 export const defaultLocale: Locale = 'ar';
@@ -11,6 +11,7 @@ export const localeNames: Record<Locale, string> = {
   kab: 'Taqbaylit',
   tmh: 'Tamasheq',
   mas: 'Maa',
+  yo: 'Èdè Yorùbá',
 };
 
 export const localeDirections: Record<Locale, 'rtl' | 'ltr'> = {
@@ -21,4 +22,5 @@ export const localeDirections: Record<Locale, 'rtl' | 'ltr'> = {
   kab: 'ltr',
   tmh: 'ltr',
   mas: 'ltr',
+  yo: 'ltr',
 };

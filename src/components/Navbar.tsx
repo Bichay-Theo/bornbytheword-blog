@@ -135,9 +135,27 @@ export default function Navbar() {
   return (
     <nav className="navbar" dir={dir}>
       <div className="navbar-container">
-        <Link href={lang === 'ar' ? '/' : `/${lang}`} className="navbar-logo">
-          {dict.siteName}
-        </Link>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '1.25rem', flexWrap: 'wrap' }}>
+          <Link href={lang === 'ar' ? '/' : `/${lang}`} className="navbar-logo">
+            {dict.siteName}
+          </Link>
+          {lang === 'ar' && (
+            <a
+              href="/bornbytheword-blog/atlas/"
+              style={{
+                fontSize: '0.95rem',
+                fontWeight: 'bold',
+                padding: '0.3rem 0.75rem',
+                borderRadius: '9999px',
+                border: '1px solid var(--secondary)',
+                color: 'var(--primary)',
+                textDecoration: 'none',
+              }}
+            >
+              🗺️ أطلس العهد القديم
+            </a>
+          )}
+        </div>
         <div className="navbar-search" style={{ display: 'flex', alignItems: 'center' }}>
           <ThemeToggle />
           <FontSizeToggler />

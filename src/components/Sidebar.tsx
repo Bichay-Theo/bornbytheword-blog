@@ -51,6 +51,24 @@ export default async function Sidebar({ lang = 'ar' }: { lang?: string }) {
         </details>
       </div>
 
+      {/* Interactive Biblical Tools (Arabic Main Site) */}
+      {lang === 'ar' && (
+        <div style={{ marginBottom: '2.5rem' }}>
+          <h3 className="sidebar-title">أدوات تفاعلية</h3>
+          <ul className="sidebar-list">
+            <li>
+              <a
+                href="/bornbytheword-blog/atlas/"
+                className="sidebar-link"
+                style={{ fontWeight: 'bold', fontSize: '1.08rem', color: 'var(--primary)' }}
+              >
+                🗺️ أطلس سفر التكوين التفاعلي (الخريطة والأنسال)
+              </a>
+            </li>
+          </ul>
+        </div>
+      )}
+
       {/* Books Section */}
       {pages.length > 0 && (
         <div style={{ marginBottom: '2.5rem' }}>
